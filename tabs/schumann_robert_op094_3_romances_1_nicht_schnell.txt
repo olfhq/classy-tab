@@ -1,0 +1,72 @@
+Op 94, Three Romances for Oboe and Piano - 1. Nicht schnell - Robert Schumann
+
+Tab by Jeff Kollasch, Jan 2021 ('jeffkollasch', contact at his gmail address).
+
+Schumann's Op94 Romance for Piano & Oboe "Nicht Schnell", German for "not fast".
+Something like "Moderato" I suppose. It's a pretty melody and nice meandering
+piano acompanyment. I force a stopping point at the end of measure 26 for not
+having the pacience to do the whole thing, but the full 89 measures contain a
+lot of more-academic/less-romantic stuff I'm not after anyway.
+
+My rough/rubato demo: https://youtu.be/VNY5vtG_fF4
+
+I give a MIDI if you want to hear it in more strict time.
+
+As I understand this piece is supposed to be performed before and after a middle
+part called "Einfach, innig" for a 12 minute long piano/oboe performance. I am
+shortening "Nicht Schnell" to a 1.5 minute piece. I attempted to do something
+with "Einfach, innig" as well but came up empty.
+
+My bars match the MIDI at http://www.kunstderfuge.com/schumann.htm
+
+My arrangement has piano and oboe trading dominance since that's how I hear the
+piece. The oboe is at times suporting more complicated piano activity.
+
+I allow a natural pause before the natural and artificial harmonics. If you
+don't like pausing you may need to fret the notes somewhere instead.
+
+This could be repeated once and then resolved to A-minor perhaps. However it is
+also good just played once.
+
+[Bar 19 of Schumann's Op94 No2 has an F (1st fret high E). I think is written as
+F# but could go either way harmonically and I knowingly put it as F in my
+arrangement because I liked the sound.]
+
+3/4 ..."not fast"
+
+1
+|-----|----0--|---1--5---1-|-0-----0----|-3-5-3---0-1|-0-----------|-5---3---1-|
+|-----|----1--|-3----------|-1-1-0-1-1--|-0-----3----|-1-1-0-3-1-0-|-1---2---3-|
+|-----|-2--2--|-2----------|-----------2|-0----------|-------------|-2---------|
+|-----|--2----|------------|-2----------|------------|-3---2---0---|-----------|
+|-----|-0-----|------------|------------|-2----------|-------------|-0---------|
+|-----|-------|------------|------------|------------|-------------|-----------|
+
+8
+|-0-1-|5----------|-5--1--0-|5-1-0---0---|-5-1-0--0--|-1---0---1---|0---5--3---|
+|-1-3-|5-----3-1-0|-5--3--3-|----------1-|----------1|---3---3---1-|1-0-3----1-|
+|-2-2-|2-2-2------|-2--2--1-|------2-----|-------2---|-----1-------|----2------|
+|-2-0-|----0---2--|---------|------------|-----------|-2-----------|-----------|
+|-3-0-|0----------|-0--0--0-|0-----------|-----------|-0-----------|3----------|
+|-----|-----------|---------|------------|-0---------|-------------|-----------|
+
+15      VII ....
+|-12--8-7--12--8-5-|3====---10-12-13|<12>==1---0--|-5-1-0---0---|-0--<19>-0-1-0|
+|-10---------------|3====-6---------|----1-3-----0|-1-3-1-1-0---|--------------|
+|-------7------7---|----------------|-------------|-------------|--------------|
+|------------------|----------------|-------------|-----------2-|--------------|
+|------------------|-<12>-----------|-------------|-0-----------|--------------|
+|-0----------------|----------------|-------------|-------------|-0------------|
+            4  4 1    RH harm         LH harm
+               2
+20
+|-0-----------|-2---0-----2|---3-2-5-3-0|---3-2-0---2|-0--------|-0--------|-0-|
+|---1-0---0---|---0---0-1--|-0-------4--|-1-------4--|-----1--0-|---0-3--1-|-1-|
+|-----------4-|------------|------------|---------4--|-----2--2-|----------|-2-|
+|-2-----4-----|------------|------------|------------|----------|-----3--0-|-2-|
+|-----2-------|------------|------------|------------|----------|----------|-0-|
+|-------------|------------|------------|------------|-<12>-----|-0--------|---|
+                                                        RH harm 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

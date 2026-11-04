@@ -1,0 +1,68 @@
+WoO1, 21 Hungarian Dances - No 1 in G minor - Johannes Brahms (1833-1897)
+
+Tab by Jeff Kollasch, Jan 2021 ('jeffkollasch', contact at his gmail address).
+
+Brahms Hungarian Dance #1. Transposed to A minor for easy guitar. Only the first
+24 bar theme. I converted 2/4 of original to 4/4 just so bar breaks aren't all
+over. I compressed the tab so you have to have the melody in your head.
+If it's a 5 note chord hit bass with thumb first then roll out top 4 notes.
+Even though it's a dance I play it a bit rubato like a rebel.
+
+My rough demo: https://youtu.be/qQB8qQRcG38
+MIDI: http://www.classtab.org/brahms_wo01_hungarian_dances_no01.mid
+
+I resist the temptation to tab all 95 bars (when converted to 4/4) because the
+variants on this theme written are not designed for guitar. It's better to make
+your own guitaristic variants. For example do a second time with Brahms' harmony
+gutted and just play the melody harmonized in thirds against a droning bass.
+Play a third time with bigger fuller guitaristic chords. Play a fourth time very
+softly with a faint-sounding two-string trill at the end of each phrase, and
+play a fifth time as the first but with a sense of completion. This is more
+practical than tabing the non-guitaristic remainder of the piece. I leave this
+valuable exercise to the reader! I also conceed the whole thing could be fully
+tabbed for guitar I just find it not worth my while presently.
+
+1                                                    III...
+|-0----0-----|-1--0-------|------------|-0----0-----|-5---3--0---1-|-----------|
+|-1--3-1--3--|-0---0---1--|------------|-1--3-1---3-|-3------2-----|-3---------|
+|----4----4--|-1---1------|-2----------|----4-----4-|-4------0-----|-2---------|
+|------------|-0---0------|-2----------|------------|--------------|-3-0-0-0-0-|
+|--0-0--0-0--|--0-0--0-0--|-3-0-0-0-0--|--0-----0-0-|----------0-0-|-----------|
+|------------|------------|------------|------------|-3-3-3--------|-----------|
+
+7 ff.
+|-1---0-1---0|-0----------|------------|-1---0-1--0-|------------|-------------|
+|-0-----0----|-0--3-0---1-|-0----------|-0-----0----|-0--0-3---1-|-------------|
+|-1-----1----|-2----2-----|-1----------|-2-----2----|-1----1-----|-2-----------|
+|-2-2-2-2-2-2|--3-3-3-0-0-|--2-2---2-2-|---0-0--0-0-|--2-2-2-----|-2-----------|
+|------------|------------|------------|------------|------------|-3-0-0-0-0---|
+|-0----------|------------|-0----0-----|------------|-0------0-0-|-------------|
+
+Also the true ending to the piece might be handy to have. This segment works as
+a full variant on the 12 bar theme (in my 4/4 system) with 2 extra bars ending
+on a magnificent A-minor chord! Alternately just end above theme on Am chord.
+
+13
+|--0-0---0-0-|-1-0-------|-1-1---0-1-|---0---------|---8--5---1---|--0-0-0-0-0-|
+|------------|-3-2---3-3-|-3-3---0-3-|---1-0---1-1-|-(5)-(1)----3-|--0-0-1-0-1-|
+|------------|-2-2---2-2-|---2---1-2-|---1-1---2-2-|(5)--(2)------|--7-7-2-7-2-|
+|----------2-|-----0-3-3-|-----0-----|-2---0-------|-7---3--0-3-0-|------2---2-|
+|--2-2---2---|-0---------|-2---------|-------0-----|-----------2--|--7-7-0-7-0-|
+|0-----0-----|-----------|-----------|-0-----------|-5---1--------|-0------0---|
+
+19
+|-------------|---3---0-1-1-|-------------|--------0-0-0|---8--5---1--|
+|----0---1-2--|-3-----2-3-3-|-------------|----0-----1-1|------------3|
+|-2-----------|---0---0-----|-----------2-|1-------1-2-2|-------------|
+|-------------|-0-------0-0-|----0---3---0|------2-2-2-2|-7---3--0-3-0|
+|-0--2-0-3-4-0|-----0-------|-2----2------|--------0-0-0|-----------2-|
+|-------------|-------3(1-1)|-------------|--0----------|-5---1-------|
+
+24
+|--------------|-------1--0--|-0------||
+|---0----------|-------0--0--|-1------||
+|-------0------|-----2-2--1--|-2------||
+|-------2-2----|---3-----(2)-|-2------||
+|---2-----3-0-0|---0-----(2)-|-0------||
+|-3---0-------8|s1---0----0--|--------||
+

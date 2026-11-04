@@ -1,0 +1,101 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 4 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tabbed by weed@wussu.com - 1 December 2019
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no04.mid
+video: https://www.youtube.com/watch?v=LXoabPO2PsI - Norbert Neunzling
+
+standard tuning: E A D G B E      key: -      time signature: 3/4
+
+0   | .   | . | . | .   | . | . | .   | . | . | .   | . | .
+e|--3-5-|-5-----------|-------------|-------------|----------|
+B|------|---------3-5-|-5-----------|-------------|----------|
+G|*-4===|-5-----------|---------0-2-|-2-----------|---------*|
+D|*-----|---------4===|-5-----------|-----0---0---|-2-------*|
+A|------|-------------|---------2===|-3=======----|----------|
+E|------|-------------|-------------|---------2---|-0--------|
+    mf                          p
+
+                                                    C2______
+(4) | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|--0-0-|-0-------0-0-|-0---0---3-5-|-7---0---0---|-5-------5-3-|-0---3---2---|
+B|------|-----3---0===|-1---3-------|---------3---|-2-------0===|-1-------0---|
+G|*-2===|-0-----------|-------------|-0=======----|-------------|-----2-------|
+D|*-----|-----4---2===|-2---4-------|---------4---|-2-------0===|-0---0---0---|
+A|------|-------------|-------------|-------------|-------------|-------------|
+E|------|-------------|-------------|-------------|-------------|-------------|
+    f                                 > > > > > >           p
+
+10 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-0---3---2---|-0-----------|-0-----------|-------------|---------0===|
+B|-1-----------|-----0---2---|-------------|-0-----------|-0=======--3-|
+G|-----2=======|-1---0---2---|-0-------0-2-|-----0===0-2-|-------------|
+D|-0---0=======|-0-----------|-------------|-2=====0-----|-------------|
+A|-------------|-----0---2---|-3-----------|---------3===|-2-----------|
+E|-------------|-------------|-------------|-------------|-----0=======|
+
+15 | . | . | .   | . | . | .   | . | . | .   | . | .
+e|-0===--------|---------0===|-0-----------|----------||
+B|---3---------|-----------3-|-----3-------|-0--------||
+G|-----3-2-0-2-|-------------|-------0-2---|-4-------*||
+D|-------------|-2-----------|-------------|-2-------*||
+A|-------------|-3-----------|-------------|----------||
+E|-------------|-------------|-------------|----------||
+       rall.             Lento (slow)
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Peca em que o ritmo se assemelha ao do Minuetto, e na qual o balanco e o
+fraseado aparentam ser bastante intuitivos. A primeira parte, que funciona
+como introducao, tem para um principiante um interessante problema de
+digitacao: a corda solta que se tem como de execucao mais facil, ou um
+mecanismo simetricoem que se usam os mesmos dedos nas cordas imediatamenta
+acima, mas menos obvio. Outra particularidade e a mudanca de andamento no final
+da 2a parte (o andamento inicial nao e dado, mas deduz-se no minimo que deve
+contrastar com o segundo) para a quale pedido um Rallentando, o que obriga o
+interprete a calcular o quanto abranda em funcao de onde quer chegar."
+[an approximate English translation from the Portugese]
+"The rhythm resembles that of the Minuetto, in which the balance and phrasing
+appear to be quite intuitive. The first part, which works as an introduction,
+has to a beginner an interesting fingering problem: whether to play the open
+strings which is easier, or play a regular pattern using the same fingers
+higher up the strings which is less obvious. Another thing to note is the
+change of pace towards the end of the 2nd part (the initial tempo is not given,
+but presumably it should contrast with the later tempo) where there is a
+Rallentando which requires a choice of how much the piece should slow down."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as "Images" or "Figures" preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key signature. The piece is centered around Em.
+The tempo of the Norbert Neunzling vid and the MIDI is 88 bpm (quarter notes).
+
+===    - duration (note held)
+> > >  = crescendo - becoming gradually louder
+bpm    - beats per minute
+C2     - barre on the 2nd fret
+mf     - mezzoforte - moderately loud
+f      - forte - loud
+p      - piano - soft
+rall.  - Rallentando - slowing down and becoming softer
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

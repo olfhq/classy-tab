@@ -1,0 +1,182 @@
+Gyermekeknek (For Children) (Sz42, BB53) - No 7, Jatekdal - Bela Bartok
+***********************************************************************
+version 1 - tab by Weed, arr Laszlo Szendrey-Karper, in E, MIDI 1
+version 2 - tab by Weed, arr Ferenc Brodszky, easier, MIDI 2
+***********************************************************************
+
+Gyermekeknek (Sz42, BB53) - 7. Jatekdal (Spiellied) - Bela Bartok (1881-1945)
+edition: arranged by Laszlo Szendrey-Karper - Editio Musica Budapest Z7495
+see Notes & Legend below - tabbed by weed@wussu.com - 4 March 2020
+MIDI: http://www.classtab.org/bartok_bb053_gyermekeknek_7_play_song_1.mid
+
+tuning: EADGBE   key: E major   time: 2/4   tempo: 74 bpm (quarter notes)
+
+ Andante grazioso (at a walking pace, gracefully)
+
+   t                                   t
+1  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|-0---0-------0---|-----------------|-0---0-------0---|-----------------|
+B|---------9-------|-0===============|---------9-------|-0===============|
+G|-----------------|-----------------|-----------------|---------7-------|
+D|---------9-------|-7---------------|---------9-------|-7-------6-------|
+A|---------7-------|-9---------------|---------7-------|-9---------------|
+E|-----------------|-12------10------|-----------------|-12--------------|
+           4         1                                           2
+           3         2                                           1
+           1         4       4
+   p   < < < < < < < < < <             < < < < < < < < < < <
+
+   t                 t                 t
+5  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------9-------|---------7-------|---------5-------|-0===============|
+B|-10--10--10--10--|-9---9---9---9---|-7---7---7---7---|-----------------|
+G|-----------------|-8=======--------|-6=======--------|-6-------4-------|
+D|---------11======|-9=======9=======|-7=======7=======|-----------------|
+A|-----------------|-----------------|-----------------|-0---------------|
+E|---------0=======|=========0=======|=========0=======|---------4-------|
+   2       1         4       1         4       1
+           2         2       4         2       4         2       2
+           3         3       3         3       3                 1
+           > > > > > > > > > > >
+
+   t                                   t                 C4______________
+9  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|-0---0---4---0---|-----------------|-0---0---4---0---|-----------------|
+B|-----------------|-0---------------|-----------------|-----------------|
+G|---------3=======|-1---------------|---------3=======|-4---------------|
+D|---------2=======|-2---------------|---------2=======|-6---------------|
+A|---------4=======|-2---------------|---------4=======|-6---------------|
+E|-----------------|-----------------|-----------------|-4---------------|
+           4
+           2                                             4
+           1                                             3
+           3
+   p       cresc.                              < < < < < < < < < < < < <
+
+                             C7______          C7______
+13 |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------9-------|---------7-------|-----------------|-0---------------||
+B|-10--10------10--|-9---9-------9---|-7---7---10--7---|-----------------||
+G|---------8=======|---------7=======|-6=======8-------|-----------------||
+D|-----------------|-10======--------|-------------7---|-6---------------||
+A|---------9=======|-11======7=======|-0=======--------|-----------------||
+E|-----------------|-----------------|---------7-------|-0---------------||
+   4       3         1           4     2       4
+           1         2                 1       2         1
+           2         3
+   mf      dim.      poco rall.                          p
+
+Notes & Legend
+~~~~~~~~~~~~~~
+AllMusic description & list of original 85 pieces: https://tinyurl.com/sxxdu5a
+List of revised set of 79 pieces - https://en.wikipedia.org/wiki/For_Children
+It is based on the folk song 'Keresd meg a tut' (Look for the Needle).
+The piano music does not have a key signature. (Sounds like C major.)
+The sheet gives the length of the piece as 28 seconds.
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger (pinky)
+
+===    - note held, length of note, duration
+< < <  - (below the tab) crescendo - becoming gradually louder
+> > >  - (below the tab) decrescendo - becoming gradually softer
+bpm    - beats per minute
+C4     - barre on the 4th fret
+C7     - barre on the 7th fret
+dim.   - diminuendo - diminishing, gradually getting softer
+mf     - mezzoforte - moderately loud
+p      - (below the tab) piano - soft
+poco   - little (poco rall. - slowing down a little)
+rall.  - rallentando - slowing down (often becoming gradually softer)
+t      - (above the tab) tenuto - stressed, slightly accented - played firmly -
+         the note is held for at least its full length
+
+******************************************************************************
+******************************************************************************
+
+Gyermekeknek (Sz42, BB53) - 7. Jatekdal (Play Song) - Bela Bartok (1881-1945)
+edition: arranged by Ferenc Brodszky - Editio Musica Budapest Z5790 (1968)
+see Notes & Legend below - tabbed by weed@wussu.com - 4 March 2020
+MIDI: http://www.classtab.org/bartok_bb053_gyermekeknek_7_play_song_2.mid
+
+standard tuning: E A D G B E          time signature: 2/4
+
+ Andante grazioso (at a walking pace, gracefully)
+
+1  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------0-------|-----------------|---------0-------|-----------------|
+B|-1---1-------1---|-----------------|-1---1-------1---|-----------------|
+G|---------0-------|-0===============|---------0-------|-0-------3-------|
+D|-----------------|-0===============|-----------------|-0-------2-------|
+A|---------3-------|-3-------2-------|---------3-------|-3---------------|
+E|-----------------|-----------------|-----------------|-----------------|
+   p < < < < < < <                     < < < < < < < <
+
+           c1______
+5  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------5-------|-0---0---3---0---|---------1-------|-----------------|
+B|-6---6-------6---|-0=======--------|-3---3-------3---|-1===============|
+G|-----------------|-0=======--------|-2=======--------|-2-------0-------|
+D|---------3=======|---------2=======|-3=======0=======|-3-------2-------|
+A|---------3=======|-3=======3=======|-3=======3=======|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+   4       3   4             3         4       1         1
+                             1         1           4     3
+                     2       2         3                 4
+                                       2       3
+
+9  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------0-------|-----------------|-----------------|-----------------|
+B|-----------------|-----------------|---------0-------|-----------------|
+G|-5---5-------5---|-0---------------|-5---5-------5---|-0---------------|
+D|---------4=======|-2---------------|---------4-------|-2---------------|
+A|---------0=======|-----------------|---------0-------|-2---------------|
+E|-----------------|-3---------------|-----------------|-0---------------|
+   4       2         1
+   p cresc.          2                         < < < < < <
+
+13 |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------5-------|-0---0---3---0---|-----------------|-----------------||
+B|-6---6-------6---|-----------------|-3---3---6---3---|-1---------------||
+G|---------4=======|-1=======3=======|-2=======4-------|-----------------||
+D|---------0=======|-2=======--------|-3=======----3---|-2---------------||
+A|-----------------|---------3=======|-----------------|-3---------------||
+E|-----------------|-----------------|---------3=======|-----------------||
+   4       3                 4         3       4
+           1         2       3         1       2
+   mf dim.           1       2         2       1         p
+
+Notes & Legend
+~~~~~~~~~~~~~~
+AllMusic description & list of original 85 pieces: https://tinyurl.com/sxxdu5a
+List of revised set of 79 pieces - https://en.wikipedia.org/wiki/For_Children
+It is based on the folk song 'Keresd meg a tut' (Look for the Needle).
+The sheet is in in the same mode/key as the piano music (sounds like C major.)
+The MIDI tempo is 74 bpm (beats per minute - quarter notes).
+
+measures 5-7 - the two lower notes of the chord on the 2nd beat are both played
+               with the thumb
+measure 15 - the lower note of the last interval (F) is played with the thumb
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - note held, length of note, duration
+< < <  - (below the tab) crescendo - becoming gradually louder
+c1     - part barre on the 1st fret
+cresc. - crescendo - becoming gradually louder
+dim.   - diminuendo - diminishing, gradually getting softer
+mf     - mezzoforte - moderately loud
+p      - (below the tab) piano - soft
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest versions of these tabs can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

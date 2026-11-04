@@ -1,0 +1,137 @@
+A Prayer for Peace (guitar solo) - Maria Linnemann (1947-)
+see Notes and Legend below - tab by weed@wussu.com - 17 March 2022
+MIDI: http://www.classtab.org/linnemann_a_prayer_for_peace.mid
+video: https://www.youtube.com/watch?v=xorOCTm3ftM - Dominique Peuch
+video: https://www.youtube.com/watch?v=9-pqsFDzhfY - Fernando Hernandez Leon
+video: https://www.youtube.com/watch?v=CzzYqh6epjM - Gerhard Rosenberger
+audio: https://www.youtube.com/watch?v=hi4mYfD1dl4 - Maria Linnemann
+
+standard tuning: E A D G B E          key: E major          time: 4/4
+
+tempo: 66-72 bpm (quarter notes)     ' $ (on repeat play sul tasto)
+1  | . | . | . | .   | . | . | . | .     | . | . | . | .   | . | . | . | .
+e|-----------------|------------------|------------------|-0===------------|
+B|-----------------|-------------0----|--0=========----0-|-----4===2=====--|
+G|-----1===----2===|-----1===2===-----|*-----1-----1-2---|---1===1-----2-4-|
+D|-----------------|------------------|*-----------------|-----------2-----|
+A|---2---2---4---4-|---2---4---4=====-|----2---2---2===2-|-4===2===0=====--|
+E|-0=======0=======|-0===============-|--0=======0=======|-----------------|
+                                                             1 4         4
+   p                                     mf                4   2
+
+                                       Loco
+                                       C2_____________ 1__________________
+                         t               >   > >
+5  | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|-----------------|-0===4===--------|-----------------|-----2-----------|
+B|-0=========----0-|-------0-2=======|-2===========2---|-0===----------0-|
+G|-----1-----1-2---|---2---------2===|-----2-----2---2-|-------2-1=====--|
+D|-----------------|-----------2-----|---4-----2=======|-1-----------2-1-|
+A|---2---2---2===2-|-4===2===0=====--|-------4---------|---2=====--2-----|
+E|-0=======0=======|---------------4-|-2=======--------|---------0=====--|
+                       2 4                       2 3         4   1
+   p       mf        4   1                               1 2
+
+ _________________________________ '   2_________________          t       +
+9  | . | . | . | .   | . | . | . |  .    | . | . | . | .   | . | . | . | .
+e|-0===--0---------|-------------------|---2-5-4-4=====2-|-0===------------|
+B|-----4---2===--0-|-0---0-5-7------0--|-0---------0-----|-----4===2=====0-|
+G|---1---------2---|---------8--------*|-----------------|---1---1-----2---|
+D|-----------2-----|---4--------------*|-1===----2===1===|-----------2-----|
+A|-4===2===0=====--|-2=======----------|-----2===--------|-4===2===0=====--|
+E|-----------------|-------------------|-----------------|-----------------|
+     1 4   4           2   3 2             2 4         2     1 4
+   4   2             1       3           1   1   1   1     4   2
+                       > > > >      mf                               < < <
+
+                     tempo: 92- 100 bpm - piu mosso (a little livelier)
+                     (A Tempo on repeat) C4______________      >   >
+13 | . | . | . | .     | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|-----------------||------4===5===7===|-----4===5===7===|-0===============|
+B|-0===========----||----0---0---0---0-|-----------------|-----0---2=======|
+G|-------2-1===----||*-----------------|---4---4---4---4-|-----------------|
+D|-----2---2===----||*-----------------|-----------------|---2---2---2---2-|
+A|---2-------------||------------------|-4===============|-0===============|
+E|-0=======--------||--0===============|-----------------|-----------------|
+                           1   2   4         2   2   4
+                       mp                    < < < < < <     p
+
+                                       C4_____________
+                     t                 >               1__________________
+17 | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|-------------0---|-----------------|-----4===5===7===|-9=======0=======|
+B|-----0===2===----|-0-----------0===|-----------------|-----0-------0---|
+G|-------------2---|-1---1===2===----|---4---4---4---4-|---9---9---6---6-|
+D|---2---2---2=====|-----------------|-----------------|-----------------|
+A|-0===============|---2---2---2---2-|-4===============|-0===============|
+E|-----------------|-0===============|-----------------|-----------------|
+                       2                       2   4     4 3   3   3   3
+                                             < < < < <           > > > >
+
+ __________________ 2___________________________________  Coda
+       >   C2______                             C2______ '     t t t ' F.
+21 | . | . | . | .    | . | . | . | .   | . | . | . | .      | . | .   | . | .
+e|-----0===----2----|-9=======12======|-0=======----2-----||-------------------||
+B|-----2-------4----|-----0-------0---|-------2-----4-----||-0=======----------||
+G|---2---2---2-----*|---9---9---------|-2===2-----2-------||-1=====2=--1-------||
+D|-----------------*|-----------11--11|---2---------------||-----2-----2-------||
+A|---------2===-----|-0===============|---------2=========||---2---------------||
+E|-2=======---------|-----------------|-2=======----------||-0=======--0=======||
+               4      4 3   3 4 2   2   3 2 3 4     1    D.S
+                                        1           4  al Coda (Tempo 1)
+       poco rall.                           rall.            rall.
+           > > > >                              > > > > >    > > > > > >
+
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"I can find no words that could describe what is happening in the Ukraine to
+its cities and its courageous people. All our hearts are very, very heavy.
+The first part of the piece is as the voice of a parent, the second part as
+that of a child." - Maria Linnemann (February 2022)
+
+The order of play is 1-10, 3-7, 11-21, 14-19, 22-23, 3-10, 3-7, 11-12, 24.
+
+left hand fingering (LHF) below the tab -
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger
+4 - little finger (pinky)
+
+===    - note held, length of note, duration
+'      - slight pause, breath mark (luftpause)
+>      - (above the tab) accented, marked, stressed
+$      - segno - sign
++      - Coda symbol - jump to the Coda
+< < <  - (below the tab) crescendo - becoming gradually louder
+> > >  - (below the tab) becoming gradually softer
+C2     - barre on the 2nd fret
+C4     - barre on the 4th fret
+Coda   - the end section of a piece
+D.S.   - Dal Segno - return to the sign ($)
+F.     - Fermata - pause, note(s) held for longer than their value
+Loco   - play the notes as written (cancelling the sul tasto)
+mf     - mezzo-forte - moderately loud
+mosso  - movement (piu mosso - more movement, a little livelier)
+mp     - mezzo-piano - moderately soft
+p      - (below the tab) piano - soft, quiet
+poco   - little, a little (poco rall. - a little slower)
+rall.  - rallentando - slowing down (sometimes becoming gradually softer)
+t      - tenuto - played firmly, the note is held for at least its full length
+tasto  - fingerboard (sul tasto - play above the fingerboard for a mellow sound)
+Tempo  - speed (A Tempo - return to earlier tempo) (Tempo 1 - original tempo)
+
+epeat the section    1____  play the 1st time        2_______  play on repeat
+
+|----  ----|          |-----------------------|    ---|-----------------------|
+|----  ----|          |-----------------------|    ---|-----------------------|
+|*---  ---*|          |----------------------*|    --*|-----------------------|
+|*---  ---*|          |----------------------*|    --*|-----------------------|
+|----  ----|          |-----------------------|    ---|-----------------------|
+|----  ----|          |-----------------------|    ---|-----------------------|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

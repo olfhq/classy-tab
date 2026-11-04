@@ -1,0 +1,113 @@
+Leo Brouwer - Preludios Epigramaticos (1981) - No 6 - (a Paul Century)
+"Llego con tres heridas: la del amor, la de la muerte, la de la vita" (I arrived
+with three wounds: that of love, that of death, that of life) - Miguel Hernandez
+see Notes and Legend below - 2 May 2024
+video: https://youtu.be/ekSem27JWcU?t=550 - Kevin Gallagher (from 9min 10sec)
+audio: https://youtu.be/suvF_A-Evpo - Luis Eduardo Orias Diz
+
+tuning: E A D G B E      key: -     tempo: 48-50 bpm
+
+  Poetique (poetic)
+1 3/4                     >         >         F.
+e|--------------|----------------|------------------|
+B|--------------|----------------|------------------|
+G|--------------|----------------|------------------|
+D|--------------|-------g0-------|------------------|
+A|--------<7>---|---------5h7----|--4h7---3/4h7-----|
+E|--<12>--------|--<12>g---------|------------------|
+     4     2        4     1 4       1 4   1 1 4
+                    mp      f      mf
+
+4
+e|------------------------------|
+B|------------------------------|
+G|------------------------------|
+D|------------------------------|
+A|-------<7>------<7>------<7>--|
+E|--<12>-----<12>-----<12>------|
+     4    1
+  l.v.             rall. ______
+
+   velocissimo
+        i m      i m
+5   |--------.---3----.-----|  >     > > F.     |-3-|
+e|-------------------------------------------|-----------------|
+B|--------------------------0----------------|--2-2-2---2-2----|
+G|-----------------0------0----6h9---5/6h9---|--5--------------|
+D|--------0------0----6h8--------------------|--2--------------|
+A|------0----6h8-----------------------------|-----------------|
+E|--6h8--------------------------------------|--2--------------|
+ ff 1 3      1 3      1 3      1 4   1 1 4      4
+                                            sul pont. -> tasto
+
+  2/4             3/4 velocissimo      |---5---|
+7            > >     |--------.--3-----.-------|  >     >
+e|--0----0--------|----------------------------0---------------|
+B|--0-------------|--------------------------0----6h9---5/6h9--|
+G|--1-------------|-----------------0------0-------------------|
+D|--3-------------|--------0------0----6h8---------------------|
+A|--1--1-----1-1--|------0----6h8------------------------------|
+E|----------------|--6h8---------------------------------------|
+   142 1             1 3      1 3      1 3        1 4   1 1 4
+   tasto     ord.   ff
+
+                                     F.          arp.                  arp.
+9     hammer-ons and pull-offs ____  >    4/4     |-3-|  |-3-|
+e|----1-3-1-4-1-2-1-3-1-4-1-2-1-3-1--4-----|------4-4-4--4-4---|--0h1h4-------||
+B|-----------------------------------------|-------------------|-----------0--||
+G|-----------------------------------------|------3------------|--------3-----||
+D|-----------------------------------------|------0------------|--------------||
+A|-----------------------------------------|------3------------|--------2-----||
+E|-----------------------------------------|----2g-------------|--------0-----||
+      1 3 1 4 1 2 1 3 1 4 1 2 1 3 1  4          1 234               1 4 12
+ mp     piu lento e accell.                         rall.            mp    pp
+                                            sul pont.             ord.  tasto
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+left hand fingering (LHF)          right hand fingering (RHF)
+1 - index finger                   p - thumb
+2 - middle finger                  i - index finger (forefinger)
+3 - ring finger                    m - middle finger
+4 - little finger                  a - ring finger (annular)
+
+mezzo piano    mp  - medium soft
+forte          f   - loud
+mezzo forte    mf  - medium loud
+fortissimo     ff  - very loud
+piano          p   - soft
+pianissimo     pp  - very soft
+
+bpm         - beats per minute (quarter notes)
+F.          - Fermata - pause, notes held for longer than their value
+l.v.        - laissez vibrer (let vibrate) - let it ring
+rall.       - rallentando - slowing down
+velocissimo - as quickly as possible
+sul pont.   - sul ponticello - near the bridge
+->          - ... changing to  ...
+tasto       - over the fingerboard
+ord.        - ordinario - ordinary - return to the usual way of playing
+piu lento   - slower
+accel.      - accelerando - accelerating, gradually getting faster
+arp.        - arpeggiate - ripple up from the lowest note to the highest note
+
+h     - hammer-on
+p     - pull-off
+/     - slide up
+\     - slide down
+>     - accented, marked, stressed
+g     - grace note (ornament) - extra notes played just before the main notes
+
+|-3-|      - triplet - 3 notes played in the time of 2 notes
+|-.-3-.-|  - triplet - 3 groups of notes played in the time of 2 groups of notes
+|-5-|      - quintuplet - 5 notes played in the time of 4 notes
+
+<x>   - natural (open) harmonic pointed to on the x fret
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - revised by weed@wussu.com
+the latest version of this tab can be found at http://www.classtab.org
+

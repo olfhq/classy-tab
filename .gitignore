@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+
+songs_authors*/
+songs_html_chunks*/
+songs_json*/
+
+prompt.txt
+songs.htm
+songs_data_raw*.js

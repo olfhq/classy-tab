@@ -1,0 +1,77 @@
+Album de la Inocencia - pieces faciles pour guitare - Eduardo Martin (born 1956)
+2. Para el agua de tus manos (For the water of your hands)
+edition: Collection Delia Estrada, Henry Lemoine 28135 HL (2005)
+see Notes and Legend below - tabbed by weed@wussu.com - 6 December 2019
+MIDI: http://www.classtab.org/martin_album_de_la_inocencia_02_para_el_agua.mid
+vid: https://youtu.be/f2GMcwiNbTM?t=52 - Alan Juarez Balderas (from 52 secs)
+vid: https://youtu.be/9jJwvUraEVM?t=63 - Jaime Lenin Melo Chaco (from 1min 3sec)
+vid: https://www.youtube.com/watch?v=WYWUtvygJRw - Ernesto Ramirez Rodriguez
+vid: https://youtu.be/_2nToFC-Yhw?t=4 - Adrian Bassi
+
+tuning: EADGBE    key: D minor    time: -    tempo: 120 bpm (quarter notes)
+
+ Moderato (at a moderate pace)
+1   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+E|--------0-|-------0-|-------0-|-----0---|-------0-|-------0-|
+B|------3---|-----3---|-----3---|---3-----|-----3---|-----3---|
+G|*---2-----|---2-----|---2-----|-2-------|---2-----|---2-----|
+D|*-0=======|-0=======|---------|---------|---------|---------|
+A|----------|---------|-3=======|-3=======|-1=======|-1=======|
+E|----------|---------|---------|---------|---------|---------|
+      2 4               3 2 4               1 2 4
+
+7  | . | .   | . | .    | . | .   | . | .   | . | .   | . | .
+E|-------0-|-------0--|-------0-|-------0-|-------0-|-------0-|
+B|-----2---|-----2----|-----3---|-----3---|-----3---|-----3---|
+G|---2-----|---2-----*|---3-----|---3-----|---3-----|---3-----|
+D|---------|---------*|---------|---------|---------|---------|
+A|-0=======|-0=======-|---------|---------|-3=======|-3=======|
+E|---------|----------|-3=======|-3=======|---------|---------|
+     2 3                2 3 4               2 3 4
+
+13 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+E|-------0-|-------0-|-------0-|-------0-|-------0-|-------0-|
+B|-----1---|-----1---|-----1---|-----1---|-----3---|-----3---|
+G|---2-----|---2-----|---2-----|---2-----|---3-----|---3-----|
+D|-3=======|-3=======|-0=======|-0=======|---------|---------|
+A|---------|---------|---------|---------|---------|---------|
+E|---------|---------|---------|---------|-3=======|-3=======|
+   3 2 1
+
+19 | . | .   | . | .   | . | .   | . | .   | . | . | . | .
+E|-------0-|-------0-|-------0-|-------0=|-=-=-=-=-=-=-=-=-=||
+B|-----3---|-----2---|-----3---|-----3=-=|-=-=-=-=-=-=-=-=-=||
+G|---3-----|---2-----|---2-----|---2=-=-=|-=-=-=-=-=-=-=-=-=||
+D|---------|---------|-0=======|-0=======|-0================||
+A|-1=======|-0=======|---------|---------|------------------||
+E|---------|---------|---------|---------|------------------||
+   1 3 4                         poco rit.
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The sheet does not have a time signature, but the piece is written
+in 2/4 apart from the last measure which contains a whole note.
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger (pinky)
+
+===   - notes held, length of note, duration
+=-=   - let the notes ring, don't dampen the sound
+poco  - little (poco rit. - a little slower)
+rit.  - ritenuto - suddenly slower
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

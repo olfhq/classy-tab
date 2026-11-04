@@ -1,0 +1,40 @@
+Op 39, XXX Sehr Leichte Uebungs-stucke - Anton Diabelli (1781-1858)
+(30 Very Easy  Pieces) - No 25 in F major
+edition: SA Steiner 2207 (Vienna, published 1814?)
+see Notes and Legend below - tabbed by weed@wussu.com - 10 September 2019
+MIDI: http://www.classtab.org/diabelli_op039_no25_in_f.mid
+audio: https://www.youtube.com/watch?v=gOuzpO5yqC8 - Neal Fitzpatrick
+
+tuning: E A D G B E     key signature: F major     time signature: 2/2
+
+                                             F.
+1  | .   | .   | .   | .   | .   | .   | .   | .   | .   | .
+e|-1---|-1---|-1---|-1---|-1---|-1---|-0---|-1---|-1---|-2---|
+B|-1---|-1---|-3---|-0---|-1---|-1---|-1---|-1---|-3---|-1---|
+G|-2---|-2---|-3---|-0---|-2---|-0---|-3---|-2---|-2---|-2---|
+D|-3---|-1---|-0---|-----|-----|-----|-----|-----|-0---|-0---|
+A|-----|-----|-----|-4---|-3---|-3---|-3---|-----|-----|-----|
+E|-----|-----|-----|-----|-----|-----|-----|-1---|-----|-----|
+
+                                                         F.
+11 | .   | .   | .   | .   | .   | .   | .   | .   | .   | .
+e|-3---|-1---|-0---|-0---|-0---|-1---|-3---|-1---|-0---|-1---||
+B|-3---|-0---|-1---|-1---|-2---|-3---|-3---|-1---|-1---|-1---||
+G|-3---|-0---|-0---|-0---|-2---|-2---|-3---|-2---|-3---|-2---||
+D|-----|-----|-----|-----|-----|-0---|-----|-----|-----|-----||
+A|-----|-----|-3---|-1---|-0---|-----|-1---|-3---|-3---|-----||
+E|-3---|-3---|-----|-----|-----|-----|-----|-----|-----|-1---||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+
+The tempo of the Neal Fitzpatrick audio and the MIDI is 62 bpm (half notes).
+
+bpm  - beats per minute
+F.   - Fermata - pause, note(s) held
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

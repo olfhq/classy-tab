@@ -1,0 +1,74 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 10 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tabbed by weed@wussu.com - 11 March 2020
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no10.mid
+video: https://www.youtube.com/watch?v=VzRv1vcGC7E - Norbert Neunzling
+
+tuning: EADGBE      key: -      time: -      tempo: ~80 bpm (quarter notes)
+
+1   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|--0-------0-------|-0---2---2-------|-4---0---0---0---|-2===============-|
+B|----4===2---4-2---|-2=======0-------|-0=======--------|------------------|
+G|*-----------------|-2=======1-------|-2=======2=======|-1---------------*|
+D|*-2===4===========|-----------------|---------4=======|-2---------------*|
+A|------------------|-----------------|-----------------|------------------|
+E|------------------|-----------------|-----------------|---------0--------|
+
+5   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|--4-2-0-----------|-----2-0-2-------|-0---------------|---------2--------||
+B|--------4-2---0===|---0-------------|---4-2-0---------|---------0--------||
+G|*---------------2-|-1===============|---------2---1===|=========--------*||
+D|*-----------------|-----------------|-4===========----|-----------------*||
+A|--0===========----|-----------------|-------------2===|=========4--------||
+E|------------------|-----------------|-----------------|-0===============-||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Esta peca contrasta com a anterior a varios niveis, porem quase aparentando
+formar um conjunto de duas pecas complementares, que ate parece ser sugerido
+pela edicao. Tem um caracter fundamentalmente coral na primeira frase, enquanto
+na segunda a voz superior se impoe como mais relevante. Em termos
+interpretativos e exigente no que toca ao equilibrio das vozes, e ten o desafio
+de um final na dominante, que obriga o interprete a pensar na melhor maneira de
+fazer chegar ao ouvinte a informacao de que aquele e o final."
+[an approximate English translation from the Portugese]
+"This piece contrasts with the previous one at several levels, but almost seems
+to form a set of two complementary pieces, which even seems to be suggested by
+the edition. It has a basic choral character in the first part, while in the
+second the upper voice is more important. In interpretative terms, it is
+demanding when it comes to the balance of voices, and has the challenge of an
+ending in the dominant one, which forces the interpreter to think about
+the best way to get the listener to the information that this is the end."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The tempo of the Norbert Neunzling video is ~96 bpm (quarter notes).
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around E major and appears to be in 4/4 time.
+The order of play is 1-4, 1-4, 5-8, 5-8.
+
+===    - length of note, duration (note held)
+bpm    - beats per minute
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

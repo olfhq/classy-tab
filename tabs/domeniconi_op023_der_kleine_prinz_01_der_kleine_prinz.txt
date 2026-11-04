@@ -1,0 +1,98 @@
+Op 23, Musik fur den Kleinen Prinzen - Carlo Domeniconi (born 1947)
+Hommage a A de Saint-Exupery (Homage to Antoine de St Exupery)
+(Music For The Little Prince, Musique pour le petit prince)
+1. Der Kleine Prinz (The Little Prince, Le Petit Prince)
+edition: Guitarren-Studio GS-66, Eleonara & Michael Haas (Berlin, 1987)
+see Notes and Legend below the tab - tabbed by weed@wussu.com - 10 August 2018
+MIDI: http://www.classtab.org/domeniconi_op023_der_kleine_prinz_01_der_kleine_prinz.mid
+video: https://www.youtube.com/watch?v=mqPRPswjGb4 - Norbert Neunzling
+
+tuning: E A D G B E      key: -      time: 2/2      tempo: 58 bpm (half notes)
+
+                           F.                                  F.
+0  .     |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-----|-5-------5-------|-5=======--------|-5-------6-------|-5=======--------|
+B|---3-|-------4-------3-|---------------3-|-------4-------3-|---------------4-|
+G|-0---|-----0-------0---|-------------0---|-----0-------0---|-------------0---|
+D|-----|-----------------|-----------------|-----------------|-----------------|
+A|-----|-----------------|-----------------|-----------------|-----------------|
+E|-----|-----------------|-----------------|-----------------|-----------------|
+     1   4     2 4     1   4             1   4     2 4     1   4             2
+   p < < < < < <   > > >               < < < < < < <   > > >               mp
+
+                                                               Vibr.
+                     F.                                          F.
+5  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-6-------5-------|-0=======--------|-3-------1-------|-0=======--------|
+B|-------3-------3-|---------------3-|-------2-------3=|=====1-----------|
+G|-----0-------0---|-------------0---|-----0-------0---|---------3-------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+   4     1 4     1                 3   4     2 1     4
+   > > > > > > > >                     p > > > > > > > > > > > > > > > >
+
+   F.                                  F.
+9  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-----------------|-5-------4-------|-5=======--------|-5-------6-------|
+B|---------------3-|-------4-------3-|---------------3-|-------4-------3-|
+G|-------------0---|-----0-------0---|-------------0---|-----0-------0---|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+                 1   4     2 3     1   4             1   3     2 4     1
+               mp < < <  p < < < mp > > > > >      < < < < < <     > > > >
+
+   F.                                  F.
+13 |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-5=======--------|-6-------5-------|-1=======--------|-0-------1-------|
+B|---------------4-|-------3-------2-|---------------3-|-------2-------3=|
+G|-------------0---|-----0-------0---|-------------0---|-----0-------0---|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+   4             2   4     1 4     2   1             4         2 1     3
+ > > > > >     > > > > > > > > > > > > > > > >     > > > > > > > >   < < <
+
+           F.                       '                    F.
+17 |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-3===============|-----0-------1---|-0===============|-----------------||
+B|=====1-----------|---1-------2-----|-1===============|-----------------||
+G|---------3-------|-2-------3-------|-2-----------0---|-----------------||
+D|-----------------|-0===============|-----------------|<12>-------------||
+A|-----------------|-----------------|-0===============|-----------------||
+E|-----------------|-----------------|-----------------|-----------------||
+       1   3         3 2     3 2 1     2
+ < < < > > > > > >   pp < <  > > > > p 3                 pp
+
+Notes and Legend
+----------------
+"This series is meant as a whole. It is not supposed to be the musical
+background of the well-known book by A de Saint-Exupery but merely to reflect
+a personal mood. A meditative character is predominant with all movements.
+The pieces are technically easy, mevertheless the sound picture varies greatly.
+All effort should be aimed at the phrasing and the forming of tone colors."
+- Carlo Domenconi (May, 1987)
+
+The sheet suggests a total time for the piece of 1 min 10 sec.
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - note held, length of note
+< < <  - (below the tab) crescendo - growing louder
+> > >  - decrescendo - growing softer
+,      - (breathmark) slight pause
+F.     - Fermata - note(s) held, pause 
+mp     - mezzopiano - moderately soft
+p      - (below the tab) piano - soft
+Vibr.  - vibrato - enriching the sound of a note by vibrating the finger
+         laterally along the direction of the string
+
+-------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

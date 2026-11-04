@@ -1,0 +1,109 @@
+Francisco Tarrega - Preludio No.35 (Oremus) - 35 Preludes (Gagni Prelude No.28)
+original tab Rene Puchinger - rene.puchinger@seznam.cz - http://citadel.wz.cz
+last updated 19 December 2025 - see Notes & Legend below
+audio: https://www.youtube.com/watch?v=ucEO7I8LNYw - Giulio Tampalini
+video: https://www.youtube.com/watch?v=qR49D69woyY - Norbert Neunzling
+
+tuning: D A D G B E     key: D minor     time: 2/4
+
+ Lento religioso (at a slow tempo, evoking a sense of sacredness and devotion)
+
+    im p  im p                               C8
+1   |     .     |     .       |     .     |     .
+e|--------------------13====|-13====12====10====8=====|
+B|--10====9=====10====10----|-11----11----10----------|
+G|*-10----10----10----------|----0-----0--------8-----|
+D|*----0-----0-----0-----0--|-------------------------|
+A|--------------------------|----------------8-----8--|
+D|--------------------------|-------------------------|
+    23    12    23    14      24    24    34 1
+
+   C5         C3     C2      C3    C1          rit.
+3  |     .     |     .       |     .     |     .
+e|-6=====5=====3=====2=====|-3=====1=====1=====0=====|
+B|-------4-----------------|-------3-----3-----2-----|
+G|-7-----------3-----5-----|-3--------1-----2--------|
+D|----5-----------------0--|----5--------------------|
+A|----------3-----5--------|----------------------0--|
+D|-------------------------|-------------------------|
+   23    24 1     3  4          3  4     4  2  3
+
+   a tempo                   C3
+5  |     .     |     .       |     .     |     .
+e|-1=====0=====1=====6=====|-6=====------5=====------|
+B|-3-----2-----3-----6-----|-5-----5=====5-----5=====|
+G|-------------------------|-------------------------|
+D|----0-----0-----0-----0--|-------------------------|
+A|-------------------------|----3-----3-----3-----3--|
+D|-------------------------|-------------------------|
+   14    2     13    34      34          4     3
+
+   CI                      1. ________________________
+7  |     .     |     .       |     .     |     .
+e|-5=====------------3=====|-1=====1=====0=====-------||
+B|-3-----2=====3=====3-----|-3-----3-----2------------||
+G|-------------------------|----------2-----2--------*||
+D|-------------------------|-------------------------*||
+A|----1-----1-----1-----1--|----0--------------0==----||
+D|-------------------------|--------------------------||
+   24    2     3     34      13    13 2  3  2
+
+ 2. _______________________
+               C3
+9  |     .     |     .
+e|-1=====0=====------------||
+B|-3-----2-----3=====------||
+G|----------0--------------||
+D|-------------3-----------||
+A|----0-----------5--------||
+D|-------------------0==---||
+   13    2        3
+
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+
+original tab by Rene Puchinger (Nov 1998) - rene.puchinger@seznam.cz -
+This is a pretty exercise by Tarrega. It's my first tab, so if there are some
+errors, please contact me. All notes are sixteenth. Drop E string to D.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+updated by Vlad - revised by weed@wussu.com (Dec 2025) - fingering, barres,
+rhythm and links added - measure 3: last 3 notes played on higher frets,
+measure 9: 2nd to last note (D) played on the 5th string 5th fret
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Oremus (Latin for 'Let us pray') is a transcription of the second section of
+Robert Schumann's Op 124 - Albumblatter (Album Leaves) No 5, Phantasietanz
+(Fantasy dance). It is often preceded by Tarrega's Endecha. It was the last
+piece Tarrega wrote before his death in 1909. Schumann's original piano work
+gave the tempo as 'sehr schnell' ('very fast') while Tarrega's transcription
+was published with the tempo 'lento' ('very slow'). (info from Wikipedia)
+
+The order of play is 1-8, 1-8, 9.
+The MIDI tempo is much faster than it is usually played.
+
+left hand fingering (LHF)     right hand fingering (RHF)
+1 - index finger              p - thumb
+2 - middle finger             i - index finger (forefinger)
+3 - ring finger               m - middle finger
+4 - little finger             a - ring finger (annular)
+
+C1  barre on the 1st fret
+C2  barre on the 2nd fret [etc]
+
+===     - length of note, note held, duration
+rit.    - ritenuto - slowing down
+a tempo - at normal speed
+
+repeat section      1. ___ play the 1st time      2. ___ play on repeat
+|-----  -----|      |-----------------------      |-------------------
+|-----  -----|      |-----------------------      |-------------------
+|*----  ----*|      |-----------------------      |-------------------
+|*----  ----*|      |-----------------------      |-------------------
+|-----  -----|      |-----------------------      |-------------------
+|-----  -----|      |-----------------------      |-------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+

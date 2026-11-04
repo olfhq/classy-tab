@@ -1,0 +1,98 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 15 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tab by weed@wussu.com - 20 September 2020
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no15.mid
+video: https://www.youtube.com/watch?v=iIlOUJXgDec - Norbert Neunzling
+
+tuning: EADGBE    key: -    time: 3/4, 4/4    tempo: ~80 bpm (quarter notes)
+
+1   | . | . | .   | . | . | . | .   | . | . | .   | . | . | . | .
+e|------0-----0-|-----------------|-----0-----0-|-------------0-1-|
+B|--1-----3-1---|-3---1=======----|-1-----3-1---|-3===========----|
+G|*-2===========|-------------2---|---------0===|-2---0---2=======|
+D|*-------------|-4---2=======----|-3=======----|-----------------|
+A|--0===========|---------0=======|-------------|-----------------|
+E|--------------|-----------------|-------------|-----------------|
+
+5  | . | . | .   | . | . | . | .   | . | . | . + | . | . | . | .
+e|-3---0-------|-5---3-------0===|===--------0-|---------0=======|
+B|-0---1-------|-3---5-----------|---3-1-0-----|-0---------------|
+G|-------------|-------------2-0-|---------2===|-0-------0=======|
+D|-------------|-----------------|-3=======----|---------2-----0-|
+A|-------------|-----------------|-------------|-----------------|
+E|-------------|-----------------|-------------|-----------------|
+
+9  | . | . | .   | . | . | . | .
+e|-------------|-----0------------||
+B|-------------|------------------||
+G|-2===========|-2-------0-------*||
+D|-------------|-----------------*||
+A|-3-----2-0===|=========---------||
+E|-------------|---------0--------||
+
+Coda
+11 | . | . | . | .   | . | . | .   | . | . | . | .   | . | . | . | .
+e|---------------0-|-------------|-----0-----------|-----------------||
+B|-0===========----|-0===========|---------0-------|-----------------||
+G|-0-----------2---|-------------|-2---------------|-2---------------||
+D|-------3-2-0-----|-2-----0-----|---------2=======|=================||
+A|-------------3===|---------3-2-|-0=======--------|-----------------||
+E|-----------------|-------------|-----------------|-----------------||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Este Klangbilder e uma peca com alguma complexidade, quer ao nivel da
+interpretacao como tecnico. Tal como varios dos Klangbilser, aparenta uma
+simplicidade que a apenas derivada a simplicidade da escrita: melodia e
+acompanhamento e figuras ritmicas regulares. Contudo, revela-se dificil a
+nivel ritmico, uma vez que existe a alternancia constante entre 3/4 e 4/4.
+Esta instabilidade ritmica cria uma anacrusa nos compassos quaternarios e que,
+caso nao seja bem interpretada, pode comprometer a conducao das frases. E uma
+peca que requer um bom dominio do legato, uma vez que, por diversas vezes,
+existem notas longas no acompanhamento em que e necessario deixar o(s) dedo(s)
+da mao esquerado, sem prejudicar, no entanto, a fluencia da melodia."
+
+[an approximate, fairly literal translation from the Portugese into English]
+"This Klangbilder is a piece with some complexity, both in interpretation and
+technically. Like many of the Klangbilser, it appears to be a simplicity that
+is only derived from the simplicity of the writing: melody and accompaniment
+and regular rhythmic figures. However, it proves difficult at a rhythmic level,
+ince there is a constant alternation between 3/4 and 4/4. This rhythmic
+instability creates an anacruse [an unstressed note at the star of the measure]
+which, if not well interpreted, can interfere with the playing of the phrases.
+It is a piece that requires a good mastery of the legato, since, several times,
+there are long notes in the accompaniment in which it is necessary to leave the
+finger(s) of the left hand, but without affecting the fluency of the melody."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key but the piece is centered around A minor.
+The order of play is 1-10, 1-7, 11-14.
+
+===   - length of note, duration (note held)
++     - jump to the Coda on repeat
+bpm   - beats per minute
+Coda  - the end section of a piece
+
+|----  ----|  repeat the section
+|----  ----|
+|*---  ---*|
+|*---  ---*|
+|----  ----|
+|----  ----|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

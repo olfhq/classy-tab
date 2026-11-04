@@ -1,0 +1,79 @@
+Mauro Giuliani - Op 21, 12 Waltzes (Boije 230) - No 11 in A
+see Notes below - tab by - weed@wussu.com - last updated 25 November 2024
+MIDI: http://www.classtab.org/giuliani_op021_twelve_waltzes_11_in_a.mid
+video: http://www.youtube.com/watch?v=Tv3463YVD0k - Norbert Neunzling
+audio: http://www.youtube.com/watch?v=Y1WWxZkK7cw - Ronald Fuchs
+
+tuning: EADGBE          key sig: A          time sig: 3/8 (see notes)
+
+0   |     |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+e|--0---|-5---5---5---|-9=======7---|-5---4---2---|-0-2-0-------|-----5---5---|
+B|------|-------------|-------------|-7---5---3---|-2===2-3-2---|-------------|
+G|*-----|-6---6---6---|-9=======7---|-------------|-------4-2---|-----6---6---|
+D|*-----|-------------|-------------|-------------|-------------|-------------|
+A|------|-0---0---0---|-0---0---0---|-0---0---0---|-0=======----|-0===========|
+E|------|-------------|-------------|-------------|-------------|-------------|
+    forte (loud)
+
+6  |   |   |      |   |   |     |   |
+e|-----7---7---|5g4-2-0---0-4-|-5--------|
+B|-------------|--------3-----|----------|
+G|-----7---7---|--------------|---------*|
+D|-0===========|--------------|---------*|
+A|-------------|--------------|-----0----|
+E|-------------|--0===========|----------|
+   pianoforte (soft then suddenly loud)
+
+(8) |     |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+e|--0---|-------------|-------------|-------------|-------------|-------------|
+B|------|-----3s7-0---|-----2---3---|-----2s5-----|-----0---2---|-------------|
+G|*-----|-------------|-------------|---------2---|-------------|-----4s7-----|
+D|*-----|-------------|-------------|-------------|-------------|-0=======----|
+A|------|-2=====------|-------------|-0=======----|-------------|---------7---|
+E|------|-------------|-4=======----|-------------|-2=======----|-------------|
+    dolce (sweetly)
+
+                 C2 _______________
+13 |   |   |     |   |   |     |   |
+e|-------------|-------------|----------||
+B|---------0---|-------------|----------||
+G|-----2-------|-2===2===2===|-2=======*||
+D|-----1---0---|---2---2---2-|---------*||
+A|-------------|-4---4---5---|-4---0----||
+E|-0-----------|-------------|----------||
+                 forte (loud)
+
+
+Notes
+~~~~~
+thanks to Peter Henderson for the following correction - 25 November 2024
+measure 9 - 4th note changed to B (open 5th string) (from G, open 4th string)
+
+The time signature of the sheet music is 3/4 (to emphasise that it is a waltz),
+but the sheet music is written as though it were 3/8, which usually means that
+the piece is to be played at a fast rather than a slow tempo.
+The tempo of the Norbert Neunzling video is 160 bpm (eighth notes).
+The tempo of the Ronald Fuchs video and the MIDI is 120 bpm (eighth notes).
+
+measure 7  - in the sheet the 5th note is F# (not G#) - the tab follows the
+             Ronald Fuchs audio, which sounds more natural
+measure 9  - in the sheet the 1st note is a quarter note (held for 2 beats!)
+measure 13 - Ronald Fuchs plays B-G# (on 5th & 3rd strings) (not D-A)
+
+=   - note held
+g   - grace note (ornament) - the following note is an immediate hammer-on
+s   - slide up
+C2  - barre on the 2nd fret with the 1st finger
+
+|-----  -----|
+|-----  -----|
+|*----  ----*|  repeat the section
+|*----  ----*|
+|-----  -----|
+|-----  -----|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - thanks!
+

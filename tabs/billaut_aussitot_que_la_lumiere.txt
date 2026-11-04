@@ -1,0 +1,86 @@
+Aussitot que La Lumiere (As soon as the Light) - Adam Billaut (1602-1662)
+Chanson de Maitre Adam Billaut - arranged by Napoleon Coste (1805-1883)
+edition: Stefan Apke (Vlotho an der Weser, February 2021)
+see Notes and Legend below - tab by weed@wussu.com - 21 November 2022
+MIDI: http://www.classtab.org/billaut_aussitot_que_la_lumiere.mid
+video: https://www.youtube.com/watch?v=6rE5PDLvPK0 - Matthew McAllister
+
+standard tuning: E A D G B E              key: A minor              time: 4/4
+
+Andantino (at a moderate speed)
+
+0  | .   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|-----|-----------------|-----------------|-----------------|-----------------|
+B|---0-|-1=======1---3-1-|-0=======0---1-0-|-------------1---|-0=======------0-|
+G|-2---|-----------------|---------1---1===|-2---2---2---2---|-1=======----2---|
+D|-----|-----2-------2===|-2-------0-------|-----3---0---1---|-2---------------|
+A|-----|-0---3---0---3===|-----------------|-----------------|-------2---------|
+E|-----|-----------------|-4---0-------0===|-1---------------|---0-4---0-------|
+   2             1   4 1               2     2   2   2   2                 2
+             2       2     1       1   1         3       3     1
+   p         3       3     3                 1           1     3   4 2
+
+5  | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|-----------------|-----------------|-----------------|-----------------|
+B|-1=======1---3-1-|-0=======0---1-0-|-----0---0=====--|-------------1-3-|
+G|-----------------|-1=======1---1---|-2---2---1=====2-|-2=======--------|
+D|-----2-------2===|-2-------0---2===|-3---0---2-------|-----2-----------|
+A|-0---3---0---3===|-----------------|-----------------|-0-----3-0-------|
+E|-----------------|-----0-----------|-------------0===|-----------------|
+   1       1   4 1               2     2             3   3           1 4
+       2       2     1       1   1         2   1
+       3       3     2           3     3       2             2 4
+
+9  | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|-0=======0---1-0-|-----------------|-----------------|-----------------|
+B|-----------------|-3=======3---5-3-|-1---1---0-------|---------------0-|
+G|-0===0---0---2-0-|-----------------|-----2---2---2---|-1=======----2---|
+D|---2---2---------|-3===0---3---5-3-|-2---3---0---1---|-2-------2-0-----|
+A|-3-------3-------|---2---2---------|-0---------------|-------2-----3-2-|
+E|-----------------|-3-------3-------|-----------------|---0-4-----------|
+   mf          1     4       4  /4\4   1   1             1           2
+                     3       3  /3\3   2   2   2   2
+   3 2   2 3   2     2 1   1 2             3       1     3   4 2 3   3 2
+
+13 | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | .
+e|-----------------|-----------------|-----------------|-------------||
+B|-1=======1---3-1-|-0=======0---1-0-|-----0---0=====--|-------------||
+G|-----------------|---------1---1===|-2---2---1-----2-|-2=======----||
+D|-----2-------2===|-2-------0---2===|-3---0---2-------|-----2-------||
+A|-0---3---0---3===|-----------------|-----------------|-0-----3-0---||
+E|-----------------|-4---0-----------|-------------0===|-------------||
+   1       1   4 1               2    /2             3   3
+       2       2     1       1   1         2   1
+   p   3       3     3           3     3       2             2 4
+
+
+Notes & Legend
+~~~~~~~~~~~~~~
+Information about the song can be found at -
+https://www.chansonsaboire.com/index.php?param1=BR197.php
+http://mvmm.org/c/docs/prof/aussitot.html
+https://gallica.bnf.fr/ark:/12148/bpt6k1174609c.image (lyrics)
+
+The tempo of the MIDI is 80 bpm (beats per minute - quarter notes).
+The tempo of the Matthew McAllister video is 66 bpm.
+
+measures 4,12 - to avoid the stretches try releasing the held notes earlier
+measure 9 - the sheet has the G in 1st chord (open 3rd string) held for 2 beats
+
+Left Hand Fingering (LHF) below the tab -
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger (annular)
+4 - little finger (pinkie)
+
+===   - note held, length of note, duration
+/     - (below the tab) slide the finger up
+\     - (below the tab) slide the finger down
+mf    - mezzo-forte - moderately loud
+p     - piano - soft, quiet
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

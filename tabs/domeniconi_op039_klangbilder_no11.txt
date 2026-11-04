@@ -1,0 +1,111 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 11 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tab by weed@wussu.com - 30 April 2020
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no11.mid
+video: https://www.youtube.com/watch?v=OzgvA18v1zM - Norbert Neunzling
+
+standard tuning: E A D G B E          key: -          time: -
+
+1   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|--0-3-0-3-|-0-3-0-3-|-0-3-0-3-|-0-------|---------|---0-----|
+B|--0-3-0-3-|-0-3-0-3-|-0-3-0-3-|-0---3---|-0-3-0-3-|-0-0-3-0=|
+G|*---------|---------|---------|-----2---|-0-2-0-2-|-0---2-0=|
+D|*---------|---------|---------|-0=======|---------|-0=======|
+A|----------|---------|-0=======|---------|---------|---------|
+E|----------|-0=======|---------|---------|---------|---------|
+
+                                         1_________  2_________
+               s s s   s s s s   s s s s       s
+7  | . | . + | . | .   | . | .   | . | .   | . | .     | . | .
+e|---------|---------|---------|---------|----------||---------|
+B|-------0-|---------|---------|---------|----------||---------|
+G|===0-2-0-|-0=======|---------|---------|-0-------*||-0---0---|
+D|===0-3---|-0=======|---------|-----0-2-|-----2---*||---------|
+A|-3=======|---------|-0-2-0---|-0-2-----|----------||---------|
+E|---------|-0-0-0-3-|-------3-|---------|----------||---------|
+
+13  | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|--0-1-0-1-|-0-------|-0-3-0-3-|-5---3---|-0-1-0-1-|-0-------|
+B|----------|---3-3-1-|-0-3-0-3-|-5---3---|---------|---3-3-1-|
+G|*-0-3-0-3-|-0-2-2-0-|---------|---------|-0-3-0-3-|-0-2-2-0-|
+D|*---------|---------|---------|-----0===|---------|---------|
+A|--3=======|-3=======|---------|-0===----|-3=======|-3=======|
+E|----------|---------|-0=======|---------|---------|---------|
+
+                                 s s s
+19  | . | .   | . | .        + | . | .   | . | .
+e|--0-3-0-3-|-5---7---||----||---------|---------||
+B|--0-3-0-3-|-5---7---||----||---------|---------||
+G|*---------|---------||D.C.||-0=======|=========||
+D|*---------|----0----||al-+||-0=======|=========||
+A|----------|-0-------||----||---------|---------||
+E|--0=======|---------||----||-0-0-0-2-|-3-------||
+             poco rall.
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Esta Klangbild e particularmente interessante para alunos principiantes. E uma
+peca que se desenvolve a partir da escala pentatonica e que esta escrita em duas
+camadas: uma superior que apresenta a melodia em paralelismos e um baixo que
+deve ser sempre realizado com o polegar. A utilizacao simultanea dos dedos 3 e 4
+no mesmo trasto e um dos aspectos tecnicos abord ados neste Klangbild, bem como
+o equilibrio entre e voz superior e o baixo. Existe tambem uma pequena passagem
+da voz inferior em staccato, que e ourtra das dificuldades aqui presentes.
+Contudo, a maior dificuldadade encontra-se nos cc. 13/14 e 17/18: a necessidade
+de deixar o dedo 3 na nota do, que dura dois tempos, enquanto as notas sib e fa
+com os dedos 4 e 1. Outre aspecto relevante deste estudio e a utilizacao dos
+paralelismos (dedos que deslizam na mao esquerda), como e evidente nos compassos
+16 e 20."
+[an approximate, fairly literal translation from the Portugese into English]
+"This Klangbild is particularly interesting for beginner students. It is a piece
+that develops from the pentatonic scale and is written in two parts: an upper
+part that presents the melody in parallel with the bass, which must always be
+played with the thumb. The simultaneous use of fingers 3 and 4 on the same fret
+is one of the technical aspects addressed in this Klangbild, as well as the
+balance between upper and lower voices. There is also a small passage of the
+lower voice in staccato, which is another of the difficulties present here.
+However, the greatest difficulty is found in measures 13/14 and 17/18: the need
+to keep the 3rd finger held on the note [C on the 5th string] both times, while
+playing Bb and F with the 1st and 4th fingers. Another relevant aspect of this
+study is the use of parallel movements of the fingers (fingers that slide up or
+down together in the left hand), as is evident in bars 16 and 20."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The tempo of the MIDI and the Norbert Neunzling vid is 126 bpm (quarter notes).
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around E minor and appears to be in 2/4 time.
+The order of play is 1-11, 1-10, 12-20, 1-7, 21-22.
+
+===   - length of note, duration (note held)
++     - (go to the) coda symbol (al + - go back to the coda symbol)
+bpm   - beats per minute
+coda  - the end section of a piece
+D.C.  - Da Capo - return to the start of the piece
+poco  - a little (poco rall. - slowing down a little)
+rall. - rallentando - slowing down (sometimes becoming gradually softer)
+s     - staccato - detached, cut off, the note is not held for its full value
+
+repeat the section    1____  play the 1st time       2_______  play on repeat
+|---  ---|            |-----------------------|   ---|-----------------------|
+|---  ---|            |-----------------------|   ---|-----------------------|
+|*--  --*|            |----------------------*|   --*|-----------------------|
+|*--  --*|            |----------------------*|   --*|-----------------------|
+|---  ---|            |-----------------------|   ---|-----------------------|
+|---  ---|            |-----------------------|   ---|-----------------------|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

@@ -1,0 +1,143 @@
+Op 5, Variazioni sopra il tema Non Piu Mesta - Tema - Emilia Giuliani-Guglielmi
+Non Piu Mesta Accanto Al Foco (from 'La Cenerentola' - Gioachino Rossini)
+(On the theme 'No Longer Sad By The Fire' from the opera 'Cinderella')
+edition: Digital Guitar Archive DGA 303 (ed. Confalone, Coldwell, 2013)
+see Notes and Legend below - tab by weed@wussu.com - 8 February 2020
+MIDI: http://www.classtab.org/giuliani-guglielmi_op05_var_sopra_il_tema_non_piu_mesta_tema.mid
+
+standard tuning: E A D G B E         key: D major         time: 4/4
+
+0   |   .     |   .   |   .   |   .   |   .
+e|----------|-2---------------2---------------|
+B|------3---|---------3---------------3-------|
+G|*-2-------|---------2---------------2-------|
+D|*---------|-0-------4-------0-------4-------|
+A|----------|---------------------------------|
+E|----------|---------------------------------|
+
+   c5______________________
+2  |   .   |   .   |   .   |   .     |   .   |   .   |   .   |   .
+e|-7-------5---------------0---1---|-2-------------------------------|
+B|-5---------------5---------------|---------3-------2-------3-------|
+G|-6---------------6---------------|---------2-------2-------2-------|
+D|-----------------5---------------|-0-------4-------5-------4-------|
+A|---------------------------------|---------------------------------|
+E|-5---------------5---------------|---------------------------------|
+
+                   F.
+4  |   .   |   .   |   .   |   .     |   .   |   .   |   .   |   .
+e|-0-------5=======----------------|-2---------------2---------------|
+B|---------5=======------------3---|---------3---------------3-------|
+G|-2-------6=======--------2-------|---------2---------------2-------|
+D|---------7=======----------------|-0-------4-------0-------4-------|
+A|-4-------0=======----------------|---------------------------------|
+E|---------------------------------|---------------------------------|
+
+   C5________________________________________________________________
+6  |   .   |   .   |   .   |   .     |   .   |   .   |   .   |   .
+e|-7-------5-----------------------|-------5-7---5---------5-7---5---|
+B|-5---------------5-------5---6---|-7---9-----------5---9-----------|
+G|-6---------------6---------------|-7---------------6---------------|
+D|-----------------5---------------|-7---------------5---------------|
+A|---------------------------------|-5=======------------------------|
+E|-5---------------5---------------|-----------------5=======--------|
+
+           c2_______________
+8  |   .   |   .   |   .        |   .     |   .   |   .   |   .   |   .
+e|---------2----------------||----------|-0-------2-------3-------4-------|
+B|--3------3-------3--------||--2---3---|-2-------3-------5-------6-------|
+G|---------2-------2-------*||*---------|---------------------------------|
+D|--0------0-------4-------*||*---------|---------------------------------|
+A|-----------------5--------||----------|-----0-------0-------0-------0---|
+E|--------------------------||----------|---------------------------------|
+    2              2
+                   3
+                   4
+
+10 |   .   |--3--|  |   .   |   .     |   .   |   .   |   .   |   .
+e|-5-------7--9--10-5---------------|-0-------2-------3-------4-------|
+B|--------------------------2---3---|-2-------3-------5-------6-------|
+G|----------------------------------|---------------------------------|
+D|-0----------------0---------------|---------------------------------|
+A|----------------------------------|-----0-------0-------0-------0---|
+E|----------------------------------|---------------------------------|
+
+12 |   .   |    .     |   .   |   .     |   .     |   .   |   .   |   .
+e|-5---9p7-10p9-12p10-----------------|-2-----------------2-------------|
+B|--------------------10----------3---|-----------3---------------3-----|
+G|----------------------------2-------|-----------2---------------2-----|
+D|-0=======-----------0---------------|-0---------4-------0-------4-----|
+A|------------------------------------|---------------------------------|
+E|------------------------------------|---------------------------------|
+
+   C5________________________________________________________________
+14 |   .   |   .   |   .   |   .     |   .   |   .   |   .   |   .
+e|-7-------5-----------------------|---------7---5-----------7---5---|
+B|-5---------------5-------5---6---|-7---------------5---------------|
+G|-6---------------6---------------|-7---------------6---------------|
+D|-----------------5---------------|---------------------------------|
+A|---------------------------------|-5-------------------------------|
+E|-5---------------5---------------|-----------------5---------------|
+
+           c2_______________
+16 |   .   |   .   |   .
+e|---------2----------------||
+B|-3-------3-------3--------||
+G|---------2-------2-------*||
+D|-0-------0-------4-------*||
+A|-----------------5--------||
+E|--------------------------||
+   2               2
+                   3
+                   4
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"La Cenerentola, ossia La bonta in trionfo (Cinderella, or Goodness Triumphant)
+is an operatic dramma giocoso [literally 'drama with jokes] in two acts by
+Gioachino Rossini. The libretto was written by Jacopo Ferretti, based on the
+librettos written by Charles-Guillaume Etienne for the opera Cendrillon
+(Isouard), with music by Nicolas Isouard (first performed Paris, 1810) and by
+Francesco Fiorini for Agatina o La virtu premiata, with music by Stefano Pavesi
+(first performed Milan, 1814). All these operas are versions of the fairy tale
+Cendrillon by Charles Perrault. Rossini's opera was first performed in Rome's
+Teatro Valle on 25 January 1817." (Wikipedia)
+https://en.wikipedia.org/wiki/La_Cenerentola
+
+Emilia Giuliani-Guglielmi's Op 5 was first published by Gio. Ricordi in 1836.
+It was dedicated to her future husband Luigi Guglielmi.
+
+The DGA edition gives no information about the left hand fingering, so feel
+free to experiment. There are some jumps up and down the fretboard in the tab,
+but similar jumps are found in the sheet music of other compositions by Emilia
+Giuliani-Guglielmi, which as a virtuoso performer she probably enjoyed playing
+in her concerts. The tempo of the MIDI is 108 bpm (beats per minute - quarter
+notes) - perhaps it should be faster? or slower? [comments welcome]
+
+measure 7 - in the sheet the bottom note of the chord on 3rd beat is D (not A)
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - note held, length of note, duration
+|-3-|  - triplet - 3 notes played in the time of 2 notes
+c2     - part barre on the 2nd fret
+C5     - barre on the 5th fret
+F.     - Fermata - pause
+p      - (between the notes) pull-off
+
+|---  ---| repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

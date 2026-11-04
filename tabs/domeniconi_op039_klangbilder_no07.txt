@@ -1,0 +1,97 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 7 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tabbed by weed@wussu.com - 28 February 2020
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no07.mid
+video: https://www.youtube.com/watch?v=1So7TBsQ720 - Norbert Neunzling
+
+tuning: EADGBE      key: -      time: -      tempo: ~60 bpm (half notes)
+
+1   |  .  |  .    |  .  |  .    |  .  |  .    |  .  |  .    |  .  |  .
+e|--0-----------|-0-----------|-0-----0--3--|-0-----------|-------0------||
+B|-----1--3-----|----1--3-----|----1--------|----1--0=====|====1---------||
+G|*-2=====0-----|-2=====0-----|-2=====0=====|----------0--|-2===========*||
+D|*-------------|-------------|-------------|-3========---|-------------*||
+A|--------------|-------------|-------------|-------------|--------------||
+E|--------------|-------------|-------------|-------------|--------------||
+    2  1  4       2  1  4       2  1     4    3  1          2  1       Fine.
+
+6   |  .  |  .    |  .  |  .  ' |  .  |  .    |  .  |  .    |  .  |  .
+e|--------------|-------------|-------------|-------------|-0--------3==|
+B|--------------|-------0=====|-------------|-1-----3-----|----1--0-----|
+G|*-0--------0--|-2=====---0--|-0--------0--|-------------|-------------|
+D|*----0--2-----|----3--0-----|----0--2-----|-------------|-------0=====|
+A|--3=====3=====|-3-----------|-3=====3=====|-0-----2-----|-3=====------|
+E|--------------|-------------|-------------|-------------|-------------|
+          2       2                   2       1     4          1     4
+    3     3       3  4          3     3             2       3
+
+11 |  .  |  .    |  .  |  .    |  .  |  .
+e|==========0==|====------3--|--------------||-da-capo-al-Fine-||
+B|-------------|----1=====---|-3------------||-(return-to-the--||
+G|-------------|-0=====2=====|-4-----------*||-start-and-end---||
+D|-2-----3=====|-------------|-------------*||-at-Fine-after---||
+A|-------------|-------------|--------------||-measure-5)------||
+E|-------------|-------------|--------------||-----------------||
+                    1     4    1
+   2     3             2       2
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Este Klangbild apresenta semelhancas ao Klangbild 5, na medida em que se
+desenvolve tambem em duas camadas. Contudo, este apresenta sempre uma melodia
+acompanhada, desenvolvendo a capacidade de equilibrar e/ou dar destaque as duas
+ou a voz superior. A nivel tecnico e uma excelente peca para desenvolver a
+utilizacao do polegar, uma vaz que o acompanhamento deve ser sempre executado
+com este dedo. Os compassos finais da segunda seccao apresentam ainda
+dificuldades ao nivel do legato, uma vez que existe uma constante alternancia
+entre as duas vozes que exige que, por diversas vezes, o executante tenha que
+deixar os dedo da mao esquerda na corda para que o efeito seja ligado."
+[an approximate English translation from the Portugese]
+"This Klangbild has similarities to Klangbild 5, in that it also develops in
+two layers. However, it always presents an accompanying melody, developing the
+ability to balance and/or highlight the two or the upper voice. At a technical
+level, it is an excellent piece to develop the use of the thumb, an error that
+the monitoring must always be performed with this finger. The final measures of
+the second section still have difficulties at the legato level, since there is
+a constant alternation between the two voices that requires that, on several
+occasions, the performer has to leave the fingers of the left hand on the string
+for the effect to be switched on."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around Am/C and appears to be in 2/2 time.
+The order of play is 1-5, 1-5, 6-13, 6-13, 1-5.
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger (pinky)
+
+===   - length of note, duration (note held)
+'     - (end of measure 7) slight pause, breath mark (luftpause)
+bpm   - beats per minute
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

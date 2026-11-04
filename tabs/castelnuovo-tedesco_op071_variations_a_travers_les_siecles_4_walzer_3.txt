@@ -1,0 +1,108 @@
+Mario Castelnuovo-Tedesco - Variations a Travers les Siecles
+(Variations Through the Centuries) - (a Andres Segovia - 1932)
+Variation 4, Walzer 3 - fingering by Andres Segovia
+see Notes and Legend below
+audio: https://youtu.be/TIddHamiF6o?t=479 - Xavier Jara (from 7min 59sec)
+video: https://youtu.be/rH5A4-sxvhA?t=378 - Fabio Pietroboni (from 6min 18sec)
+
+tuning: D A D G B E      key: D major        time: 3/4
+
+  Tempo del Walzer 1 (played at the same speed as Variation 2, Walzer 1)
+
+1      CVII~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ CIX~~    CVII~~~~~~~
+e|----------10--|-----9--7--|------7--9--|----7---7----9--|----7----------|
+B|--0--10p7-----|-----7--7--|--11--7--7--|--7---7---11----|--7-----7------|
+G|--------------|-----7--7--|------9--9--|------7---9-----|------7-----7--|
+D|--4-------8---|--7--------|------------|----------------|----------9----|
+A|--0-----------|-----------|------------|----------------|---------------|
+D|--0-----------|--0--------|--0---------|--0-------------|--0------------|
+    3  4    24        3        4
+
+6   CIV~~~~~~~~        cVII                            CIII~~~ CV~
+e|---------------|---------7--|-----5--3--|--2--3--5--|----3---3---5--|
+B|---------------|-----7------|-----3--3--|--3--3--3--|--3---3---7----|
+G|----4-----4h7--|-------7----|-----5--4--|--2--4--5--|------4---5----|
+D|--4-----4------|------------|-----------|-----------|---------------|
+A|------5--------|------------|-----------|-----------|---------------|
+D|---------------|--0---------|--0--------|--0--------|--0------------|
+                                    4
+
+11  CIII~~~~~~~                     CVI~~~~     arp. CX~~~
+e|----3----------|---------------|---------6--|----------14--|------------|
+B|--3-----3------|------------0--|-----6------|-------10-----|------------|
+G|------4-----4--|----0-----0----|-------7----|-------11-----|---------3--|
+D|----------5----|--0-----0------|--8---------|--------------|-----3p0----|
+A|---------------|------2--------|------------|--<12>--------|--1---------|
+D|--0------------|---------------|------------|--<12>--------|------------|
+                        1 cresc.    f                         p    3   4
+
+                                                      (Coda)
+16  allontanandosi                                    Un poco mosso
+e|--------2--|-------2--|----------|--------7-------|-------------|--5--5--5--5-|
+B|-----------|----------|-------7--|--5/7-8---10p7--|--5-5--5--5--|-------------|
+G|-----2-----|----2-----|----------|----------------|--7-7--7--7--|--6--6--6--6-|
+D|-----4-----|----4-----|----4-----|----------------|--8-8--8--8--|--5--5--5--5-|
+A|--0--------|----------|----------|----------------|-------------|--0--0--0--0-|
+D|--0--------|----------|----------|----------------|-------------|-------------|
+    decresc.                 1  4     1 1 2 1 4  1    14            123
+                                pp                                   f
+
+22                                                        >
+e|-------------|-----------------|----------|----------|---------||
+B|-------------|-----------------|----------|----------|---------||
+G|-------------|-----------------|----------|----------|--8======||
+D|-------------|---------9-------|--0----7--|----------|---------||
+A|--6-6--6--6--|--7/9-10---12p9--|--7----4--|----------|---------||
+D|-------------|-----------------|--8----7--|---1------|---------||
+    2             1 1 2  1 4  1         134               2
+   mf                                                    fff
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"I treated the guitar first in the manner of the lute (as it had been in the
+time of Bach) with a Chaconne and a Prelude, then in the romantic way (as it
+had been in the time of Schubert) with three Waltzes, and finally in the modern
+way (jazz type), with a Fox-trot..." - Mario Castelnuovo-Tedesco
+
+left hand fingering (LHF)      right hand fingering (RHF)
+1 - index finger               p - thumb
+2 - middle finger              i - index finger (forefinger)
+3 - ring finger                m - middle finger
+4 - little finger              a - ring finger (annular)
+
+CIII    barre on the 3rd fret
+CIV     barre on the 4th fret
+CV      barre on the 5th fret
+CVI     barre on the 6th fret
+CVII    barre on the 7th fret
+CIX     barre on the 9th fret
+CX      barre on the 10th fret
+
+forte          f   - loud
+piano          p   - soft
+pianissimo     pp  - very soft
+mezzo forte    mf  - medium loud
+fotississimo   fff - very very loud
+
+arp.           - arpeggiate
+allontanandosi - receding, fade out
+Coda           - passage that brings the movement to an end
+cresc.         - crescendo - becoming louder
+decresc.       - decrescendo - becoming softer
+Un poco mosso  - a little slower, diminished motion
+
+h     - hammer-on
+p     - pull-off
+/     - slide up
+>     - accented, marked, stressed
+=     - let the note continue ringing into the first measure of Variation 5
+
+<12>  - natural (open) octave harmonic on the 12th fret
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (6 June 2025)
+the latest version of this tab can be found at http://www.classtab.org
+

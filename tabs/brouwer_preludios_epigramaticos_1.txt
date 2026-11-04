@@ -1,0 +1,146 @@
+Leo Brouwer - Preludios Epigramaticos (a mi esposa Cristina - 1981)
+No.1 "Desde que el alba quiso ser alba, toda eres madre"
+(Miguel Hernandez - "Poemas de Amor")
+see Notes and Legend below - 7 March 2023
+video: https://www.youtube.com/watch?v=xvHaMa4gkTQ - Doris Cosic
+audio: https://www.youtube.com/watch?v=3I9VOryRBwM - Adam Khan
+
+tuning: E A D G B E      key: -     tempo: 60 bpm (quarter notes)
+
+    Moderato (at a moderate tempo)
+(1st line of sheet)
+e|----------------------------------7g5----7g5----7g5---------
+B|--0-------0-------------------------0------0------0----0----
+G|----7---7---7---7----------------------7------7------7---7--
+D|------9-------9------<12>---<12>----------------------------
+A|------------------------------------------------------------
+E|------------------<7>----<7>--------------------------------
+      1 3                           4 1  3             3
+  p  eguale e legato                 mf                p sub.
+
+                      CVII
+(2)                   |---5---| >               CVII~~~~~~~~~~~~~~~~
+e|-------------------------------------------------------------------
+B|-----------------0----------------0--------------------------------
+G|----------------------------7---7---7-----------------7---------7--
+D|-----<12>---<12>----------7---9----------<12>-------7---------7----
+A|------------------------7-------------------------7---------7------
+E|--<7>----<7>--------7h8---------------<7>-----7h8-------7h8--------
+     2  4   1  4        2       3 l.v.
+                      sfz       decresc.        sf        sf
+
+(3)                                         CVII
+e|----------------------7g5----7g5---------10----8--0--------10----8--0---------
+B|------0-----------------0------0----0-------------------8-----------------10--
+G|----7---7------------------7------7---7-----7-----7-----7-----7-----7-----7---
+D|--9---------<12>--<12>-------------------9-----9-----9-----9-----9-----9------
+A|------------------------------------------------------------------------------
+E|----------<7>--<7>------------------------------------------------------------
+                         mf  decresc.      34 1  2        2
+                                           p dolce
+
+(4) CVII                                 CII            |---5---|
+e|-------------------------0------------------------------------2--
+B|--7---------7--8-----10-------------------------------------3----
+G|-----7---7-----7-----7------7-----------------------2-----2------
+D|--9----9----9-----9------9-------<12>-------2-----2---2h4--------
+A|------------------------------------------2---2h3----------------
+E|------------------------------<7>-----2h3------------------------
+    3            2     4   3  1  2  4     leggero         3   2
+                                 decresc.       cresc.
+
+(5)                           CVII
+e|--5--------------------------------------------------
+B|-----3---3-----------------7--8-----10--7--8-----10--
+G|--4----4----------------------7-----7------7-----7---
+D|--------------<12>---<12>--9-----9------9-----9------
+A|-----------------------------------------------------
+E|------------------<7>--------------------------------
+    34           p          mp sonoro ma legato sempre
+    f  decresc.
+
+                                   S.tasto
+(6)                               |---5---|    l.v.
+e|--0-------------------------------------------------------------
+B|------------------------------------------0--3---3---3---3------
+G|-----7----------------------------------0------4---4---4--------
+D|--9-------<12>----<12>---<12>---------2-------------------------
+A|------------------------------------3---------------------------
+E|-------<7>------------<7>-------0h3-----------------------------
+                                    2 3 1      2 4
+                                  mp sonoro    decresc.  rit.
+
+                               CVII~~~~~~~~~
+(7) son. ord.                   |---5---|  l.v.
+e|--7g5--------------------------------------------------------------
+B|----0----0-----------------------------------0---------------------
+G|-------7---7--------------------------7----7---7-------------------
+D|----------------<12>---<12>---------7----9--------<12>----<12>-----
+A|----------------------------------7--------------------------------
+E|--------------------<7>--------7h8---------------------<7>---------
+   p dolce                      mf       decesc. p   pp
+
+(8)         |-3-| |-3-| |--3--|                         F.
+e|--7g5-----------------5--5--5---7g5----------------------||
+B|----0---------------3-------------0----0-----------------||
+G|-------7----------2------------------7---7---------------||
+D|----------------4-------------------------------<12>-----||
+A|--------------2------------------------------------------||
+E|------------0--------------------------------<7>---------||
+                  l.v.  t  t  t   rall.        ppp
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+
+left hand fingering (LHF)       right hand fingering (RHF)
+1 - index finger                p - thumb
+2 - middle finger               i - index finger (forefinger)
+3 - ring finger                 m - middle finger
+4 - little finger               a - ring finger (annular)
+
+CII    barre on 2nd fret
+CVII   barre on 7th fret
+
+piano           p   - soft
+mezzo forte     mf  - medium loud
+mezzo piano     mp  - medium soft
+pianissimo      pp  - very soft
+pianississimo   ppp - extremely soft
+
+eguale    - equal, even
+legato    - notes tied together, they should be played in a smooth manner,
+            without leaving any space between them
+sub.      - subito - suddenly
+sfz       - sforzando - strong, sudden accent on a note or chord
+l.v.      - laissez vibrer (let vibrate) - let it ring
+decresc.  - becomming quieter
+dolce     - gently, sweetly
+leggero   - lightly, gracefully
+cresc.    - becoming louder
+sonoro    - sonorous, with a deep, resonant sound
+S.tasto   - sul tasto - pluck the strings over the fingerboard
+rit.      - ritenuto - slowing down, suddenly slower
+son. ord. - return to the usual way of performing
+rall.     - rallentando - slowing down
+F.        - Fermata - pause, notes held for longer than their value
+
+g    - grace note (ornament) - extra notes played immediately
+       before the main notes
+h    - hammer-on
+>    - accented, marked, stressed
+p    - pull-off
+t    - tenuto - played firmly
+
+<7>   - natural harmonic on the 7th fret
+<12>  - natural harmonic on the 12th fret
+
+|-3-| - triplet    - 3 notes (or a rest + 2 notes) played in the time of 2 notes
+|-5-| - quintuplet - 5 notes played in the time of 4 notes
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (18 September 2024)
+the latest version of this tab can be found at http://www.classtab.org
+

@@ -1,0 +1,166 @@
+Songs of Calm - 8. Estudio Romantico (Frederico) - Maria Linnemann (1947-)
+(for Vladislav) - edition: Sy.7009 G Ricordi (Berlin, 2021)
+see Notes and Legend below - tab by weed@wussu.com - 8 April 2021
+MIDI: http://www.classtab.org/linnemann_songs_of_calm_08_estudio_romantico.mid
+video: https://www.youtube.com/watch?v=tlTVabsZbq4 - Maria Linnemann
+
+standard tuning: E A D G B E      keys: E minor, E major      time: 3/4
+
+Cantabile (in a singing style)
+ E minor       >                           >   c5______
+0  | . | .     | . | . | .   | . | . | .   | . | . | .      | . . | . .
+e|---------||--------------|-------0-2h3/|-7=====5=====|--------------0-|
+B|-------0-||--1=====0=====|===0-4---0===|-----5===5===|0g1g0=====0h1---|
+G|-----0---||*-----0===0---|-----0===----|-----5===5===|--------2-------|
+D|---2-----||*-----2===2---|-------------|-------------|------2---------|
+A|-2-------||--------------|-------------|-0===========|----------------|
+E|---------||--0===========|-3===--------|-------------|----------------|
+                                     1 2   4
+
+   >                                         t             >
+5  | . . | . .   | . . | . .   | . | . | .   | . | . | .   | . . | . .
+e|-3=====2===--|-------------|-------------|-------------|-------------|
+B|-----1-----1-|-1=====0===--|-----------0=|=====--------|-1=====0=====|
+G|---2-----2---|-----2-----2-|-2=====0-----|-----------0-|-----0===0---|
+D|-------------|---1---------|-------------|---------2---|-----2===--2-|
+A|-------------|---------2---|-----2=======|-3p2-1h2-----|-------------|
+E|-------------|-------------|-0===========|-------------|-0===========|
+   4     3   2   2 1 3     3                     < < < <
+
+                       c5____                   C2________________________
+                                                >
+10 | . | . | .   | . | . | .      | . | . | .   | . . | . .   | . | . | .
+e|---------0h3-|-7-----5-----|--------------0-|-3=====2=====|===----------|
+B|=======0-----|---------5---|0g1g0===--0h1---|-----------2-|---5---4=====|
+G|-----0-------|-----------5-|--------2-------|-----3===3---|-----2-----2-|
+D|---2---------|-------------|------2---------|-----2===----|---------4---|
+A|-------------|-0===========|----------------|-------------|-2===========|
+E|-3-----------|-------------|----------------|-2===========|-------------|
+             4  /4                              3     1         4  /4
+
+                    1______________  2_____________ (after repeat from start)
+   >                     p p p i m                     F.   F.      Fine
+15 | . | .  |   .     |  . | . | .     | .  | . | .    | .  | . | .
+e|-0=====0----------|<12>-----------||<12>==========||<12>==========||
+B|-----0-------<12>-|------------0--||--------------||--------------||
+G|---0-----<12>-----|----------0---*||--------------||--------------||
+D|------------------|------1-2-----*||--------------||--------------||
+A|------------------|----2----------||-----<7>------||--------------||
+E|-0================|---------------||--------------||-----<12>-----||
+
+                                    c2______                C7__________
+ E major              t         >             m             >
+19  | . | . | .   | . | . | .   | . . | . .   | . . | . .   | . . | . .
+e|--------------|-------0-2h4-|-4=====2=====|-------------|-------------|
+B|--2=====0=====|===0-4---0===|-----2===2---|-------6h7---|-------------|
+G|*-----1===1---|-------------|-----2===--2-|-6-8h9-----9-|-9=====8=====|
+D|*-----2===2---|-----2===----|-------------|-------------|-----7===7---|
+A|--------------|-------------|-0===========|-------------|-------------|
+E|--0===========|-4=-=-=-=-=-=|-------------|-------------|-7===========|
+    3                 4     4   4             1 3 4 1 2 4   4     2
+                  3   1
+
+   C7__________  c4__________
+     >           >                           >                 t
+24 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . | . | .
+e|---9===7=====|-5=====4-----|-------------|-------------|-------0-2h4-|
+B|-----------7-|-----5===5---|-0-------0-1-|-2=====0=====|---0-4---0===|
+G|-----8-------|-----4===--6-|---1h2-3-----|-----1===1---|-------------|
+D|---------7---|-------------|-------------|-----2===--2-|-----2===----|
+A|-------------|-------------|-------------|-------------|-------------|
+E|-7===========|-0===========|-------------|-0===========|-4=-=-=-=-=-=|
+     4 2         3       2 3         3   1   3             3   4   1 4
+                                 < < < < <                     1
+
+       c5__                                    c2__________
+   >                             >     a i m   >
+29 | . . | . .   |   . | . | .   | . . | . .   | . . | . .
+e|-7=====5-4h5-|<12>-9-----0---|-----------0-|-4=====2=====|
+B|-----5-------|-------10----2-|-2=====0===--|-----2-----4-|
+G|-----6-------|---------11----|-----1---1---|---3-----2---|
+D|-------------|---------------|---2---------|-------------|
+A|-0===========|---------------|-2-----------|-------2=====|
+E|-------------|---------------|-------------|-2=====------|
+   4   2 1\1 2       1 2 3   4                 4         4
+
+                   1________________  2_______
+                                t
+33 | . | .  |   .    |  .   | . | .      |  .
+e|-0=====0---------|<12>=============||<12>---||-D.C.-senza------||
+B|-----0-------<12>|-----------------||-------||-rip.-al-Fine----||
+G|---1----1<13>----|----------------*||-------||-return-to-the---||
+D|-----------------|----------------*||-------||-start-and-play--||
+A|-----------------|-----------6g4-2-||-------||-without-repeat--||
+E|-0===============|---------7-------||-------||-and-end-at-Fine-||
+     1                       4 3 1\1
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"This guitar solo originally carried the sub-title: 'Frederico', as it emerged
+as a hommage to one of my favourite composers, Frederic Chopin. The dedication
+is for Professor Vladislav Blaha, the organiser of the great annual guitar
+festival in Brno in the Czech Republic." - Maria Linnemann
+
+The tempo of the MIDI is 112 bpm (beats per minute - quarter notes).
+The order of play is measures 0-16, 1-15, 17, 19-34, 19-33, 35, 0-15, 18.
+
+measure 13 - in the sheet the last note is C (not C#)
+measure 29 - in the sheet the interval is A-C# (but the sheet has a barre, and
+             Maria Linnemann plays C#-E with a barre in the reference video) -
+
+                >
+             29 | . . | . .
+              |-7=====5-4h5-|
+              |-------------|
+              |-----6-------|
+              |-----7-------|
+              |-0===========|
+              |-------------|
+
+left hand fingering (LHF) below tab      right hand fingering (RHF) above tab
+1 - index finger (forefinger)            p - thumb
+2 - middle finger                        i - index finger (forefinger)
+3 - ring finger                          m - middle finger
+4 - little finger (pinky)                a - ring finger
+
+===    - note held, length of note, duration
+=-=    - (measures 20,28) let the note ring, don't dampen the sound
+>      - (above the tab) accented, marked, stressed
+/      - (measure 3) (between the notes) slide the note up
+/      - (measure 11) (below the tab) slide the finger up to the next note
+\      - (measure 34) (below the tab) slide the finger down to th next note
+< < <  - crescendo - becoming gradually louder
+<7>    - open (natural) harmonic on the 7th fret
+<12>   - open (natural) (octave) harmonic on the 12th fret
+1<13>  - artificial harmonic, left hand 1st fret, right hand points to 13th fret
+D.C.   - Da Capo - return to the start of the piece
+F.     - Fermata - pause, note(s) held for longer than their value
+Fine   - the end of the piece (al Fine - continue until 'Fine.' then stop)
+g      - grace note - ornament - an extra note played on or just before the
+         main note and immediately released - the following note is usually
+         played as a hammer-on, a pull-off or sometimes a slide
+h      - hammer-on
+p      - (between the notes) pull-off
+senza  - without (senza rip. - without playing the repeat)
+t      - (above the tab) tenuto - stressed, slightly accented, played firmly,
+         the note is held for at least its full length
+
+c1     - part barre on the 1st fret
+C1     - barre on the 1st fret
+c2     - part barre on the 2nd fret
+C2     - barre on the 2nd fret
+etc
+
+repeat the section      1____  play the 1st time       2_______  play on repeat
+|----  ----|            |-----------------------|   ---|-----------------------|
+|----  ----|            |-----------------------|   ---|-----------------------|
+|*---  ---*|            |----------------------*|   --*|-----------------------|
+|*---  ---*|            |----------------------*|   --*|-----------------------|
+|----  ----|            |-----------------------|   ---|-----------------------|
+|----  ----|            |-----------------------|   ---|-----------------------|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

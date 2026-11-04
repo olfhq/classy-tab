@@ -1,0 +1,102 @@
+3 Estudios para guitarra: 2. Eco - by Gustavo Servin
+Tablature by Russell Cook (astropig7@gmail.com)
+video: https://www.youtube.com/watch?v=AerrolPv8oA - Gustavo Servin
+
+Key: (None specified)
+Tuning: Standard (EADGBe)
+
+The dynamics simulate an echo that comes and goes.
+
+ Preciso
+    |       |       |       |          |       |       |       |
+  (4/4)
+e|----------------------------------|--7---7---7---7---7---7---7---7---|
+B|--7---7---7---7---7---7---7---7---|----------------------------------|
+G|*-0---0---0---0---0---0---0---0--*|*-0---0---0---0---0---0---0---0--*|
+D|*-7---7---7---7---7---7---7---7--*|*-7---7---7---7---7---7---7---7--*|
+A|----------------------------------|----------------------------------|
+E|--7---7---7---7---7---7---7---7---|--7---7---7---7---7---7---7---7---|
+    < . . . . . .   . . . . . . . >    simile
+
+3   |       |       |       |          |       |       |       |
+e|--5---5---5---5---5---5---5---5---|----------------------------------|
+B|----------------------------------|--0---0---0---0---0---0---0---0---|
+G|*-0---0---0---0---0---0---0---0--*|*-0---0---0---0---0---0---0---0--*|
+D|*-7---7---7---7---7---7---7---7--*|*-7---7---7---7---7---7---7---7--*|
+A|----------------------------------|----------------------------------|
+E|--7---7---7---7---7---7---7---7---|--7---7---7---7---7---7---7---7---|
+
+5   |       |       |       |          |       |       |       |
+e|----------------------------------|----------------------------------|
+B|--7---7---7---7---7---7---7---7---|--0---0---0---0---0---0---0---0---|
+G|*-0---0---0---0---0---0---0---0--*|*-0---0---0---0---0---0---0---0--*|
+D|*-7---7---7---7---7---7---7---7--*|*-7---7---7---7---7---7---7---7--*|
+A|----------------------------------|----------------------------------|
+E|--7---7---7---7---7---7---7---7---|--7---7---7---7---7---7---7---7---|
+
+7   |       |       |       |          |       |       |       |
+e|--0---0---0---0---0---0---0---0---|----------------------------------|
+B|----------------------------------|--1---1---1---1---1---1---1---1---|
+G|*-0---0---0---0---0---0---0---0--*|*-0---0---0---0---0---0---0---0--*|
+D|*-7---7---7---7---7---7---7---7--*|*-3---3---3---3---3---3---3---3--*|
+A|----------------------------------|----------------------------------|
+E|--7---7---7---7---7---7---7---7---|--3---3---3---3---3---3---3---3---|
+
+9   |       |       |       |          |       |       |       |
+e|----------------------------------|----------------------------------|
+B|--3---3---3---3---3---3---3---3---|--3---3---3---3---3---3---3---3---|
+G|*-0---0---0---0---0---0---0---0--*|*-0---0---0---0---0---0---0---0--*|
+D|*-3---3---3---3---3---3---3---3--*|*-3---3---3---3---3---3---3---3--*|
+A|----------------------------------|----------------------------------|
+E|--3---3---3---3---3---3---3---3---|--1---1---1---1---1---1---1---1---|
+
+11  |       |       |       |          |  |  |  |     |  |  |  |
+                                      /.\            /.\
+e|----------------------------------|--2-----------|--3-----------||
+B|--1---1---1---1---1---1---1---1---|--------------|--------------||
+G|*-0---0---0---0---0---0---0---0--*|--0-----------|--0-----------||
+D|*-0---0---0---0---0---0---0---0--*|--0-----------|--0-----------||
+A|----------------------------------|--------------|--3-----------||
+E|--1---1---1---1---1---1---1---1---|--2-----------|--------------||
+
+The interpreter can decide to end the work with either of the two final
+chords, or they can use both in the order of their choice.
+
+Performance Notes
+* From the sheet music:
+  Focus on the chords, control of dynamics, and the right-hand attack, all with
+  a minimalist aesthetic. This piece was inspired by Villa-Lobos, the minimalist
+  studies of Pedro Julian Florez, as well as Steve Rich and his famous
+  "Electric Counterpoint".
+
+* The highest note of the chord in measure 12 is an F in the sheet music,
+  but I think this is an engraving error.
+
+===    held note
+p      pull-off
+h      hammer-on
+-      tenuto
+(      arpeggiate
+)
+/.\    fermata
+
+ff     fortissimo (very loud)
+f      forte (loud)
+mf     mezzo forte (medium loud)
+mp     mezzo piano (medium soft)
+p      piano (soft)
+pp     pianissimo (very soft)
+mfz    mezzo forzando (between mf and f)
+sub.   subito (suddenly)
+rall.  rallentando (slow down)
+riten. ritenuto (immediately slow down)
+
+ligero y expresivo          - light and expressive
+repetir hasta desaparecer   - repeat while reducing the volume to nothing
+
+<5>    natural harmonic - play open string, touch point on 5th fret
+<7>    natural harmonic - play open string, touch point on 7th fret
+<9>    natural harmonic - play open string, touch point on 9th fret
+<12>   natural harmonic - play open string, touch point on 12th fret
+[5]    artificial harmonic - play indicated fret, touch point on 17th fret
+

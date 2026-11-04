@@ -1,0 +1,143 @@
+BuxWV 236, Suite in Em - 3. Sarabande - Dieterich Buxtehude (c1637-1707)
+edition: Faber Music F0123 (transcribed by Julian Bream) (1967, London)
+see Notes & Legend below - tab by weed@wussu.com - 27 September 2021
+MIDI: http://www.classtab.org/buxtehude_buxwv236_suite_in_em_3_sarabande.mid
+video: https://youtu.be/hxor7q7kNo4?t=329 - Judith Bunk (from 5min 29sec)
+video: https://youtu.be/bZGXETdLU3I?t=316 - Tony Pena (from 5min 16sec)
+
+standard tuning: E A D G B E       key: E minor       time: 3/4
+
+    m  a  m  i  p          i  m  a  m  i       m  a  m  a  i
+                p       p           p                   p
+1   |  .  |  .  |  .    |  .  |  .  |  .    |  .  |  .  |  .
+e|--------------------|-------------------|-------0=====------|
+B|-----0===========0--|----------0========|----0========1=====|
+G|*-0=====0===========|-------2=====0=====|----------0=====---|
+D|*----------2--------|----4========---2--|----------------4--|
+A|--------------2=====|-6===========------|-------------0=====|
+E|--0===========0=====|-------------0=====|-3===========------|
+             2  1       4  2  1             3           1  4
+
+      m  a     a             a     m
+               m  i    p              i
+4  |  .  |  .  |  .    |  .  |  .  |  .    |  .  |  .  |  .
+e|-------------------|-------3=====2=====|-------0=====------|
+B|-------------------|----0=====0=====0--|-------------3=====|
+G|-------2=====0=====|-------------------|----4=====2=====0==|
+D|----4=====1--2=====|-2===========0=====|-------------------|
+A|-2===========---2--|-------------------|-3===========2=====|
+E|-------------0=====|-------------------|-------------------|
+      4  3  1                4     1          4     2  4
+   2                   2                   3           1
+
+                                             C7________________
+      m  a  i  a  m    i  a  m  i               a  m  a     m
+7  |  .  |  .  |  .    |  .  |  .  |  .      |  .  |  .  |  .
+e|-------------------|--------------------|-----7-----7=====---|
+B|-------1=====0=====|====0--------0------|--------7--------10-|
+G|====0=====------0--|-------2=====------*|*-8===========8=====|
+D|----------4--------|-2=====---2--1-----*|*-9===========------|
+A|-0===========------|-3===========2------|--------------------|
+E|-------------3=====|--------------------|--------------7=====|
+         1  4          2     3  2  2                        4
+                       4           4
+
+   a  m     m     i                           m  a  i  a
+   p     i                                             m
+10 |  .  |  .  |  .    |  .  |  .  |  .    |  .  |  .  |  .
+e|-0===========------|----0=====---------|-------5--8--7=====|
+B|----8=====8=====8--|-------10=======8--|----7========8=====|
+G|-------------------|----------9--7=====|-5===========---0--|
+D|-------9===========|-------------------|-------------------|
+A|-7===========------|-------------------|-0===========------|
+E|-------------0=====|-8===========7=====|-------------3=====|
+      2                      4  3  3  4       2     3  3
+         3                                             4
+   1                   1           2                   1
+
+                       C5__________C3____
+13 |  .  |  .  |  .    |  .  |  .  |  .    |  .  |  .  |  .
+e|----------7-----5--|----------------3--|-------7=====5=====|
+B|-------8=====5=====|----------7--------|----5=====5=====4--|
+G|----7========------|-------5=====4=====|-0===========------|
+D|-------------------|----7========------|-------------4=====|
+A|-------------3=====|-5===========------|-------------------|
+E|-7===========------|-------------3=====|-------------------|
+      2  4  3  3  4       3     4             2  4     3
+   1           1                                       1
+
+                                           C7__________
+   a           i  m    a  m  i  a  m       i  m  a
+   m  i  m     p  i    p                   p
+16 |  .  |  .  |  .    |  .  |  .  |  .    |  .  |  .  |  .
+e|-3===========2--3--|-0========3--2-p0--|-------7=====7=====|
+B|-5=====0========0==|====0--------------|----7-----------5--|
+G|----0--------------|-------2===========|-8========8--------|
+D|-2=====---2--0=====|-------------------|-------------------|
+A|-------------------|-3=================|-------------------|
+E|-------------------|-------------------|-7===========3=====|
+   2           2  4             4  1                   4  2
+   4                   3     2                         1
+   1
+
+                       C2__________
+   a     i  m  i  m       i  m  a  m
+   i  m  i     p
+19 |  .  |  .  |  .    |  .  |  .  |  .
+e|-8=====------------|--------------------||
+B|----4--5--8--7--5--|-5========4--5=====-||
+G|-------------0=====|-2-----2=====0=====*||
+D|-7===========------|-4--5--------2-----*||
+A|-0===========------|-2===========-------||
+E|-------------------|----------------0---||
+   4  1     4  3  4       3     3  4
+   3                               1
+
+
+Notes & Legend
+~~~~~~~~~~~~~~
+"The main source for this Suite by Dietrich Buxtehude (1637-1707) is a
+hand-written MS in German organ tablature, in the Thomas Ihre collection at
+the University of Uppsala. Whether it was originally intended for a keyboard
+instrument or for a lute is not known: while the part writing would certainly
+present considerable technical difficulties for the average lutenist, there
+does exist another version of the work for keyboard, which differs in some
+respects from the Uppsala MS. Nonetheless, the character and spirit of this
+Suite is ideally suited to the guitar - a fact which led me to make this
+transcription which collates details from both sources." (Julian Brean)
+
+The tempo of the MIDI is 72 bpm (beats per minute - quarter notes). The left
+hand fingering in the sheet for measures 19 and 20 is hard to follow and doesn't
+appear to be playable. The tab attempts to follow the sheet fingering, but it
+may be better to follow the reference videos.
+
+measure 4 - in the sheet the 2nd note is a dotted 1/4 note (not a 1/4 note)
+measure 16 - in the sheet the E in the 1st chord is a 1/2 note (not a 1/4 note)
+measure 19 - in the sheet the 3rd note (E) is a 1/4 note (not an 1/8th note)
+measure 20 - in the sheeet the F# in 1st chord is a 1/4 note (not an 1/8 note)
+
+left hand fingering (LHF) below tab      right hand fingering (RHF) above tab
+1 - index finger (forefinger)            p - thumb
+2 - middle finger                        i - index finger (forefinger)
+3 - ring finger                          m - middle finger
+4 - little finger (pinky)                a - ring finger
+
+===  - notes held, length of note, duration
+C1   - barre on the 1st fret
+C2   - barre on the 2nd fret
+C3   - barre on the 3rd fret
+C7   - barre on the 7th fret
+p    - (between the notes) pull-off
+
+|----  ----|  repeat the section
+|----  ----|
+|*---  ---*|
+|*---  ---*|
+|----  ----|
+|----  ----|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

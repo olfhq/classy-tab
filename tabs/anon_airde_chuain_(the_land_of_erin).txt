@@ -1,0 +1,140 @@
+Airde Chuain (The Land of Erin) (trad Celtic folk song) - arr Gerald Garcia
+see Notes and Legend below - 21 October 2023
+audio: https://www.youtube.com/watch?v=ToJn6k0RsdU - John Holmquist
+
+tuning: E A D G B E           key: B minor           time: 4/4, 2/4
+
+   Mesto e rubato (sad and pensive, with varying tempo)
+           CII~~~                                        CII~~~~~~~~~~
+  4/4        ^      ^                               ^     ^      ^
+1           arp.   arp.                            arp.  arp.   arp.
+e|-----0--|--2--2---0-------------|--------------|-----0--2---2--5--5--|
+B|--3-----|--3--3---0--3---3p0----|--0--------0--|--3-----3------2-----|
+G|-----6--|--4------0----4-----2--|--4--0--------|--4-----4------2-----|
+D|--------|--4------2-------------|--0--2--4-----|--4-----4------2-----|
+A|--------|--2------2-------------|--2-----5-----|--5-----2------4-----|
+E|--------|---------0-------------|--------------|---------------2-----|
+   p  l.v. sempre        cresc.         > > > mf
+
+                  CII            CII~~                    CIX
+                                  ^     ^                   v
+5                 arp.           arp.  arp.                arp.
+e|----7p5---0---|--2--------0--|--2--2--0-------------------9---|--------0--|
+B|--------7-----|--3-----3-----|--3-----0--3-0--------------10--|-----3-----|
+G|--------------|--4--------6--|--4-----0------<12>---------9---|--------6--|
+D|--------------|--4-----------|--4-----0---------<12>------11--|-----------|
+A|--------------|--2-----------|--2-----2------------<12>---9---|-----------|
+E|--------------|--------------|--------0-----------------------|-----------|
+      > > >       dim.   p                   cresc.       cresc.      p
+                                                      >     >
+
+   CII     CII ~~~~~~~~~         CVII ~~~~~~~~~~~~~~~~~~~~
+    ^   ^   ^       ^   v         ^   v
+9 arp. arp. arp.   arp. arp.     arp. arp.     2/4
+e|--2---0------|--------2------|--7-------------|-------7--||
+B|--3---0---3--|--------2------|--7---7---8--7--|----10----||
+G|--4---0---4--|----2---2------|--7---7---9--7--|----------||
+D|--4---0---4--|----2----------|--11--9---------|----------||
+A|--2---2---2--|----4----------|--9-------------|----------||
+E|------0---2--|----2----------|--7-------------|----------||
+                        cresc.   cresc.  dim. molto mf cresc.
+                         >            >
+
+13 CVII~~~~~~~  CIX  CVII~~                           CVII~~~~~~~~~
+e|--10--10------------------|--7------------10--|----------7---10--12--14--|
+B|------7---10--10---7--10--|--0--<12>----------|--10--10--10------12--14--|
+G|------7-------9-----------|--0--<12>--<7>-----|--0---7---7-------0-------|
+D|------0-------11---7------|--0--<12>--<7>-----|--0---11------------------|
+A|------9-------9----7------|--9--------<7>-----|--9---9---9---------------|
+E|--------------------------|-------------------|----------------------14--|
+ 4/4                                              23
+
+          CIX
+     ^     ^
+16  arp.  arp.                           F.   Nat.
+e|---17---<19>--5[17]-------<12>--|---------------0--|
+B|--<12>--------------7[19]-------|----7[19]---3-----|
+G|--<12>---9----------------------|---------------6--|
+D|--<12>---11---------------------|------------------|
+A|--<12>---9----------------------|------------------|
+E|--<12>--------------------------|------------------|
+     cresc.  sub. mp                           p
+
+   CII~~                     CIX                CII
+    ^     ^                   v                   ^    ^
+18 arp.  arp.                arp.                arp . arp.
+e|--2--2--0-------------------9---|---------0--|--2----0------|
+B|--3-----0--3-0--------------10--|------3-----|--3----0---3--|
+G|--4-----0------<12>---------9---|---------6--|--4----0---4--|
+D|--4-----0---------<12>------11--|------------|--4----0---4--|
+A|--2-----2------------<12>---9---|------------|--2----2---2--|
+E|--------0-----------------------|------------|-------0------|
+               cresc.       cresc.
+                        >     >
+
+   CII~~~~~~~    CVII~~~~~~~~~~~
+    ^    pp       ^
+21 arp.          arp.        F.
+e|-------5-----|--7----------------||
+B|--2----------|--7-------8--7-----||
+G|--2----------|--7-------9--7----*||
+D|--2----------|--11--9-----------*||
+A|--4----------|--9----------------||
+E|--2----------|--7----------------||
+       dim.      dim.    niente
+
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+
+left hand fingering (LHF)
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger (annular)
+4 - little finger (pinky)
+
+CII     barre on the 2nd fret
+CVII    barre on the 7th fret
+CIX     barre on the 9th fret
+
+piano         p   - soft
+mezzo forte   mf  - medium loud
+mezzo piano   mp  - medium soft
+pianissimo    pp  - very soft
+
+rubato  - expressive and rhythmic freedom (temporary disregard strict tempo)
+l.v.    - laissez vibrer (let vibrate) - let it ring
+sempre  - always, throughout the piece
+arp.    - arpeggiate
+cresc.  - crescendo - becoming gradually louder
+dim.    - diminuendo - diminishing, becoming gradually softer
+molto   - much, very
+sub.    - subito - suddenly
+F.      - Fermata - pause, notes held for longer than their value
+Nat.    - natural, discontinue a special effect
+niente  - fade the music away to little more than a bare whisper
+
+> > >  - (below the tab) decrescendo - becoming quieter, growing softer
+h      - (between the notes) hammer-on
+p      - (between the notes) pull-off
+>      - accented, marked, stressed
+^      - strumming from the lowest note to the highest note
+v      - strumming from the highest note to the lowest note
+
+<7>      - natural (open) harmonic on the 7th fret
+<12>     - natural (open) octave harmonic on the 12th fret
+5[17]    - artificial harmonic, play 5th fret, point to the 17th fret
+7[19]    - artificial harmonic, play 7th fret, point to the 19th fret
+
+|----  ----|  repeat the section
+|----  ----|
+|*---  ---*|
+|*---  ---*|
+|----  ----|
+|----  ----|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - revised by weed@wussu.com
+the latest version of this tab can be found at http://www.classtab.org
+

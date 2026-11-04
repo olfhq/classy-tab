@@ -1,0 +1,107 @@
+Harrison Birtwistle - Guitar and White Hand (for Silas) (2007)
+see Notes and Legend below - 14 October 2024
+audio: https://www.youtube.com/watch?v=6eMqT2pmFDQ - Gilson Antunes
+audio: https://www.youtube.com/watch?v=HvyfJvwYUmQ - Forbes Henderson
+video: https://www.youtube.com/watch?v=B2sEMuDMYsI - Ericsson Castro
+
+tuning: E A D G B E      key: -
+
+0  Con poco libero (60 bpm)         F.     p   p m i     m     i m i
+e|------|---------|--------------|--------------------|---------------|
+B|------|---------|----3p2--6h8--|--5-----------------|---------------|
+G|------|--3---1--|--------------|--------------------|----------7h9--|
+D|------|--1---0--|----5---------|--7------3-----5----|--9-----8------|
+A|--0---|---------|--------------|------2------4---3--|-----6---------|
+E|--0---|---------|--------------|------0-------------|-----0---------|
+    p     24   1      24 1  2 4    13      2   3 4 2    /4  1  3 2 4
+
+5     cVI                                         arp.
+e|---------0------|--------------|--------------|-------------|
+B|--8---6------4--|--------------|---------7-4--|-------------|
+G|----6-----------|-----------3--|--------------|-------------|
+D|---------9------|--2-----0-----|-----3-5------|--5---9---8--|
+A|----------------|------0-------|--2-----------|--3---7------|
+E|----------------|--1-----------|--0-----------|-------------|
+    3 1    4   4    12        3     1  2/2 4 1    13 /1/3  3
+
+                                                poco piu   rall.
+9                                                mosso     cVI ^
+e|-------8---------|---------------|---------|-----------------0----|
+B|-----0g---7------|---------------|---------|----------------------|
+G|--7--------------|---------------|---------|--1--------2----------|
+D|------------9----|---------------|--2---3--|-----1--0-----6-------|
+A|--------------7--|--8-11---4--2--|--0------|--4-----------6-------|
+E|-----------------|---------3--1--|---------|--------3-------------|
+    2    4  2 4  1   /1 4   34 12     3   3     4     3  2 [1
+
+13 a tempo c7                                                 i
+e|----11-------0----|-----------|-----------|--------|-----------|
+B|----9--------11---|--0--------|----6------|--------|-----------|
+G|---------7--------|-------0---|----5------|--------|----3------|
+D|---------7--------|-------11--|--------6--|--------|----1---0--|
+A|------------------|--8--------|-----------|----0---|-----------|
+E|------------------|-----------|--------9--|----0---|-----------|
+      24  [1   4       1    4       23  14
+
+   poco piu
+   mosso    rall.
+18  m p   p m       a tempo
+e|---------------|-------------|----------------|----------|
+B|---------------|-------------|----------------|----------|
+G|--3-------0----|-------------|----------------|----------|
+D|--------4------|--4----------|----------------|----------|
+A|----2-3--------|----4--3--2--|----------3-----|--1----0--|
+E|------------4--|-------------|----4--3-----2--|--0-------|
+    2 1/1 3   2     4 3  2  1       4  3  4  2     1
+
+22                         poco rall.           F.
+e|----------|------------|--9----13--|---------<7>----||
+B|--4-------|-<12>-------|--7--------|----------------||
+G|--1-------|---------0--|-----------|----<5>---------||
+D|-------0--|------------|-----------|----------------||
+A|----------|-<7>--------|-----------|----------------||
+E|----------|------------|-----------|-<7>------------||
+                            13    > > > > > >   pp
+
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+Note: "Guitar and White Hand" is a 1927 painting by Pablo Picasso,
+      (Guitare a la main blanche) - 
+       https://classtab.org/guitar_and_white_hand_picasso_1927.jpg
+
+left hand fingering (LHF)          right hand fingering (RHF)
+1 - index finger                   p - thumb
+2 - middle finger                  i - index finger (forefinger)
+3 - ring finger                    m - middle finger
+4 - little finger                  a - ring finger (annular)
+
+cVI  - part barre on the 6th fret
+cVII - part barre on the 7th fret
+
+p      - piano - soft
+pp     - pianissimo - very soft
+> > >  - decrescendo - becoming softer
+
+bpm             - beats per minute (quarter notes)
+poco            - a little
+libero          - in a free, unrestrained style
+F.              - Fermata - pause, notes held for longer than their value
+arp.            - arpeggiate
+poco piu mosso  - a little faster
+rall.           - rallentando - slowing down
+^               - short pause
+a tempo         - at normal speed
+
+h   - hammer-on
+p   - pull-off
+/   - move the same finger up to play the next note
+g   - grace note (ornament) - extra notes played just before the main note
+
+<x> - natural (open) harmonic on the x fret
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (15 October 2024)
+the latest version of this tab can be found at http://www.classtab.org
+

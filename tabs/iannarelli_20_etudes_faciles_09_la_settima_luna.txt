@@ -1,0 +1,108 @@
+20 Etudes faciles (2004) - 9. La Settima Luna - Simone Iannarelli (born 1970)
+(The Seventh Moon) (20 Easy studies) (a ma fille Sofia - to my daughter Sofia)
+edition: Les Productions d'OZ DZ793 (Quebec, Canada, 2005)
+see Notes and Legend below - tab by weed@wussu.com - 22 September 2021
+MID: http://www.classtab.org/iannarelli_20_etudes_faciles_09_la_settima_luna.mid
+vid: https://www.youtube.com/watch?v=4zyCewqgrqw - Norbert Neunzling
+
+standard tuning: E A D G B E           key: -           time: 7/8
+
+ Dondolando (swinging, gently rocking)
+   p i a m a m a
+         t   t           t   t           t   t           t   t
+1  | | . | . | .   | | . | . | .   | | . | . | .   | | . | . | .
+e|-----0---0---0-|-----0---0---0-|-----0---0---0-|-----0---0---0-|
+B|-------3===3===|-------0===0===|-------3===3===|-------0===0===|
+G|---2-----------|---2-----------|---2-----------|---2-----------|
+D|---------------|---------------|-0=====-=-=-=-=|---------------|
+A|-0=====-=-=-=-=|-3=====-=-=-=-=|---------------|---------------|
+E|---------------|---------------|---------------|-3=====-=-=-=-=|
+     1   3         2                     3
+
+         t   t           t   t           t   t           t   t
+5  | | . | . | .   | | . | . | .   | | . | . | .   | | . | . | .
+e|-----0---0---0-|-----0---0---0-|-----0---0---0-|-----0---0---0-|
+B|-------3===3===|-------0---0===|-------3===3===|-------0===0===|
+G|---2-----------|---2-----------|---2-----------|---2-----------|
+D|---------------|---------------|-0=====-=-=-=-=|---------------|
+A|-0=====-=-=-=-=|-3=====-=-=-=-=|---------------|---------------|
+E|---------------|---------------|---------------|-3=====-=-=-=-=|
+
+         t   t           t   t           t   t           t   t
+9  | | . | . | .   | | . | . | .   | | . | . | .   | | . | . | .
+e|-----0---0---0-|-----0---0---0-|-----0---0---0-|-----0---0---0-|
+B|-------3===3===|-------0===0===|-------3===3===|-------0===0===|
+G|---0-----------|---0-----------|---0-----------|---0-----------|
+D|---------------|---------------|---------------|-0=====-=-=-=-=|
+A|---------------|---------------|-3=====-=-=-=-=|---------------|
+E|-0=====-=-=-=-=|-2=====-=-=-=-=|---------------|---------------|
+         3         1               2     3
+
+         t   t           t   t           t   t           t   t
+13 | | . | . | .   | | . | . | .   | | . | . | .   | | . | . | .
+e|-----0---0---0-|-----0---0---0-|-----0---0---0-|-----0---0---0-|
+B|-------3===3===|-------0===0===|-------3===3===|-------0===0===|
+G|---0-----------|---0-----------|---0-----------|---0-----------|
+D|---------------|---------------|---------------|-0=====-=-=-=-=|
+A|---------------|---------------|-3=====-=-=-=-=|---------------|
+E|-0=====-=-=-=-=|-2=====-=-=-=-=|---------------|---------------|
+
+         t   t           t   t           t   t           t   t
+17 | | . | . | .   | | . | . | .   | | . | . | .   | | . | . | .
+e|---------------|---------------|---------------|---------------|
+B|-----0---0---0-|-----0---0---0-|-----0---0---0-|-----0---0---0-|
+G|-------2===2===|-------5===5===|-------2===2===|-------0===0===|
+D|---0-----------|---0-----------|---0-----------|---0-----------|
+A|---------------|---------------|---------------|---------------|
+E|-3=====-=-=-=-=|-3=====-=-=-=-=|-3=====-=-=-=-=|-3=====-=-=-=-=|
+   2     1               4
+
+ molto rall. (molto rallentando - greatly slowing down)
+         t   t           t   t           t   t           F.  F.
+21 | | . | . | .   | | . | . | .   | | . | . | .   | | . | . | .
+e|---------------|---------------|---------------|---------------||
+B|-----0---0---0-|-----0---0---0-|-----0---0---0-|-----0---------||
+G|-------2===2===|-------5===5===|-------2===2===|-------0---0---||
+D|---0-----------|---0-----------|---0-----------|---0-----------||
+A|---------------|---------------|---------------|---------------||
+E|-3=====-=-=-=-=|-3=====-=-=-=-=|-3=====-=-=-=-=|-3=====--------||
+
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"Ces petits etudes destinees aux enfants et aux debutants. Ils prendront plaisir
+a les interpreter a leur facon et a leur propre niveau. Chaque etude permet au
+musicien d'ameliorer un aspect technique bien precis de son jeu, en trouvant par
+example la position correcte des mains sur l'instrument ou la relaxation
+appropriee a chacun des rythmes." - Simone Iannarelli
+["These little studies are intended for children and beginners. They will enjoy
+interpreting them in their own way and at their own level. Each study allows the
+musician to improve a very specific technical aspect of their playing, by
+finding for example the correct position of the hands on the instrument or the
+relaxation appropriate to each of the rhythms."]
+
+The time signature is 7/8 with the rhythm 3+2+2 making up the 7 notes.
+There is no key signature, but the ending is in G major.
+The tempo of the MIDI is 216 bpm (beats per minute - eighth notes).
+
+measures 10,14 - the 1st note (F#) sounds like a discord too far for me (instead
+                 of G, for example, one fret higher), but that is what is in the
+                 sheet and in the Norbert Neunzling reference video
+
+left hand fingering (LHF) below tab      right hand fingering (RHF) above tab
+1 - index finger (forefinger)            p - thumb
+2 - middle finger                        i - index finger (forefinger)
+3 - ring finger                          m - middle finger
+4 - little finger (pinky)                a - ring finger
+
+===  - note held, length of note, duration
+=-=  - let the note ring, don't dampen the sound
+F.   - Fermata - note(s) held for longer than their value, pause
+t    - (above the tab) tenuto - stressed, slightly accented, played firmly,
+       the note is held for at least its full length
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

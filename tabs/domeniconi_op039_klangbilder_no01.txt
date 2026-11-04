@@ -1,0 +1,87 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 1 - Edition Margaux, Berlin (1989)
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no01.mid
+video: https://www.youtube.com/watch?v=tSz18k6Ovqg - Norbert Neunzling
+see Notes & Legend below tabbed by weed@wussu.com - 26 July 2019
+
+1   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+E|------------------|-----------------|-----------------|------------------|
+B|------0---0---0---|-----0---0---0---|-----0---0---0---|---------0--------|
+G|*---0-------------|---0-------------|---0-------------|---------0-------*|
+D|*-2===============|-0===============|-----------------|---------0-------*|
+A|------------------|-----------------|-3===========3---|------------------|
+E|------------------|-----------------|-----------------|-3================|
+
+5   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+E|------3---3---3---|-----3---3---3---|-----0-----------|-3===============|
+B|----0-------------|---0-------------|---------3---1---|-0-------1-------|
+G|*-----------------|-----------------|---2-------------|-----------------|
+D|*-2===============|-0===============|-----------------|-2===============|
+A|------------------|-----------------|-3---------------|-----------------|
+E|------------------|-----------------|-----------------|-----------------|
+
+9  | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+E|-----0-----------|-----0-----------|-----0-----------|------------------|
+B|---------3---1---|-0-------3-------|---------3---1---|-0----------------|
+G|---2-------------|-0===============|-2---------------|-0---------------*|
+D|-3---------------|-----------------|-3===============|-2---------------*|
+A|-----------------|-----------------|-----------------|------------------|
+E|-----------------|-----------------|-----------------|------------------|
+
+13 | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+E|-----------------|-----------------|-----------------|-----------------||
+B|---------1=======|-0===============|-1===============|-0---------------||
+G|---------0=======|-0===============|-0===============|-0---------------||
+D|-----------------|-0---------------|-2===============|-0---------------||
+A|---------0---2-3-|-----------------|-----------------|-----------------||
+E|-0---2-3---------|-------------0---|-3-----------0---|-3---------------||
+
+Notes and Legend
+----------------
+[literal translation from the Portugese]
+"klangbild 1 is an interesting interpretive piece. Of reduced technical
+difficulty, however, it develops the use of interpretative resources such as
+dynamics and articulation. Although the composer does not indicate any tempo,
+the melody character demands a slow / medium tempo, since it is a piece that
+brings us to a somewhat nostalgic 'image'.
+This Klangbild is divided into three sections. It is interesting to note that
+it is possible to consider that the melody is only present in the bass
+(E, D, C...) but can also be understood as the first two beats of each measure
+(E, G, B, D, G, B ...). Either way, it is important that the three notes
+themselves are not played by the same firm, suggesting that I unravel that leads
+us to the disappearance of the note (echo). The second section is a development
+of the first, albeit in a sharper register. In both sections, the legato is
+quite important and the balance of the notes to each other as well, since the
+writing presented has arpeggio characteristics. Also at the legato level, it is
+important to note that sometimes there is a need to have left fingers of the
+left hand on the string so that the notes in question remain in your ears so as
+not to create breaks.
+The last section is clearly cadential, with a gesture that appears low on,
+growing and then rests on the last chords of the piece."
+(from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi)
+
+[from the notes accompanying the sheet music]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as "Images" or "Figures" preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works." (Carlo Domeniconi, 1989)
+
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around the key of Em and is in 4/4 time.
+The tempo of the Norbert Neunzling vid and the MIDI is 120 bpm (quarter notes).
+
+===  - duration (note held)
+bpm  - beats per minute
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+--------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

@@ -1,0 +1,95 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 12 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tab by weed@wussu.com - 15 May 2020
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no12.mid
+video: https://www.youtube.com/watch?v=ReDq-MhX_a4 - Norbert Neunzling
+
+standard tuning: EADGBE     key: -     time: -     tempo: 80 bpm (half notes)
+
+ Search for an end
+
+1  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|-5-------0-------|-3-------0---1---|-0===========----|-----------------|
+B|-0---------------|-----------------|-------------3---|-1=======0-------|
+G|---------2-------|---------0=======|-----------------|-------------2---|
+D|-----------------|-2---------------|-2---3---2=======|=====0-----------|
+A|-----------------|-----------------|-----------------|---------3=======|
+E|-----------------|-----------------|-----------------|-----------------|
+
+5  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|-0===============|=========1=======|-0---------------|-----------------|
+B|-----------------|-----------------|-----3---1=======|-0-------1=======|
+G|-----------------|-----------------|-----------------|-----2-----------|
+D|---------2-------|-3-------2---0---|-----------------|-------------0---|
+A|-2---0-----------|-----------------|-3=======2---0---|-3===========----|
+E|-----------------|-----------------|-----------------|-----------------|
+
+9  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|---------0---1---|-3-------0=======|-3---1---0=======|-----------------|
+B|=====3-----------|-----------------|-----------------|-3---1---0=======|
+G|---------0=======|---------0-------|-----------------|-----------------|
+D|-2---3-----------|-2-----------3---|-2=======0-------|-----------------|
+A|-----------------|-----------------|-------------3---|-2=======0-------|
+E|-----------------|-----------------|-----------------|-------------3---|
+
+13 |   .   |   .     |   .   |   .     |   .   |   .
+e|-----------------|-----------------|-0---1=======3---|-da-capo-|
+B|-----------------|-0---1---3=======|-----------------|---------|
+G|-2---0---2=======|-----------------|-----0---2=======|-return--|
+D|-----------------|-0=======2---3===|=====------------|-to-the--|
+A|-0=======2---3---|-----------------|-----------------|-start---|
+E|-----------------|-----------------|-----------------|---------|
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Sendo a segunda peca desta obra que tem um subtitulo, este e possivelmento
+o Klangbild que mais exigente e em termos interpretativos, sem no entanto ter
+dificuldades tecnicas, como e apanagio destas pecas. E roralmente escrito em 
+contraponto a duas vozes, com muito poucos pontos de repouso tonal e contendo
+a proeza de as vozes segiurem um caminho paralelo, nem sempre concordante,
+mais no entranto sem chocarem na direccao do fraseado quase independente.
+O subtitulo e elucidativo: a procura do meu final. Se o Da Capo faz completo
+sentido, o mesmo nao se pode afirmar do final, que resulta completamente
+inconclusivo, obrigando o interprete, tal como no Klangbild 10, a criar
+recursos para resolver este problema."
+[an approximate, fairly literal translation from the Portugese into English]
+"Being the second part of this work that has a subtitle, this Klangbold is
+possible more demanding in terms of interpretation, without however having
+technical difficulties, [such as are found] in this collection of pieces.
+It is all written as counterpoint in two voices, with very few tonal resting
+points and it keeps the voices following a parallel path, not always in
+harmony, but at the same time not conflicting with the direction of the almost
+independent phrasing. The subtitle is elucidative: the search for an end.
+If Da Capo makes sense, the same cannot be said of the end, which is completely
+inconclusive, forcing the interpreter, as in Klangbild 10, to find creative
+ways of solving the problem."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+As is indicated by the sub-title ("Search for an end"), it is left to the
+performer to decide where to end the piece. The MIDI follows the Norbert
+Neunzling reference video, which after returning to the start, ends on the
+first beat of measure 13 (the interval A-A).
+
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around A minor and appears to be in 2/2 time.
+
+===   - length of note, duration (note held)
+bpm   - beats per minute
+D.C.  - Da Capo - return to the start of the piece
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

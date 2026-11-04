@@ -1,0 +1,99 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 19 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tab by weed@wussu.com - 24 February 2021
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no19.mid
+video: https://www.youtube.com/watch?v=aUeQ5PZod0Q - Norbert Neunzling
+
+standard tuning: E A D G B E     key: -     time: -
+
+1  | . | . | . | . | . | . | . | . |   |   |   |
+e|-------0-----------------------------------------
+B|-1---3---0-------------------------------0-------
+G|---2---------0---2=======----------------0-------
+D|-3=======2=======--------0-----------------------
+A|---------------------3---------------------------
+E|-----------------1---------------0===============
+
+2  | . | . | . | . | . | . | . | . | . | . | . | . | .
+e|-------0---------3=========2-----0-------------------
+B|-1---3---0-------------------3-------2===============
+G|---2---------0-----------2===========----------------
+D|-3=======2===============0===========2===============
+A|-------------------------------------0-------------2-
+E|-----------------------------------------------------
+
+3  | . | . | . | . | . | . | . | . | . | . | . | .
+e|-----0-2-3---0=======0---5=========3-----0-------
+B|---------0=======--------------------1-3-----1---
+G|---0---------------------5=======----------------
+D|---------2=======--------3=======----------------
+A|-3=======----------------------------------------
+E|-------------------------------------------------
+
+4  | . | . | . | . | . | . | . | . | . | . | . |  |  |  |    | . | . | . | .
+e|---------0-----------------------------------------------|-----------------|
+B|-3-------------1---0-1=======0---------------1===========|-------------0---|
+G|-----------------2-------------------3=======2===========|===0-2-3-2-0---0-|
+D|-4-------3===========2=======0-------0-------2===========|-----------------|
+A|-0-------0===============--------------------------------|-----------------|
+E|-------------------------3---2-------1-------0===========|-----------------|
+
+                                                                     ,
+5  | . | . | . | . | . | .   | . | . | . | . | . | . | . | . | . | .
+e|-------------------------|---------------------0---1-3=======1-3----
+B|-------------------------|-----------------3-------0=======---------
+G|-------------------------|-------------2-------------------3=======-
+D|-2---0===----------------|-------0-2---3===========2=======0=======-
+A|-------------0---2===----|-4=====-----------------------------------
+E|-------------------------|------------------------------------------
+
+6  | . | . | . | . | . | . | . | . | . | . | . | . | . | . | .
+e|-------0-----------------------------------------------------||
+B|-1---3---0---------------3===========------------------------||
+G|---2---------0---2=======--------------------0-------2-------||
+D|-3=======2=======--------------------------------------------||
+A|---------------------3===========3-----------2-------4-------||
+E|-----------------1===============1---0-----------------------||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Este e um Klangbild que, tecnicamente, e ja bastante complexo. Apresenta uma
+escrita que varia entre duas e tres vozes, mas exige do interprete um bom
+dominio do legato e, como tal, uma boa escolha da digitacao. E frequente a
+necessidade de deixar algumas notas a soar, quer nos acordes como no
+acompanhamento da melodia. E uma peca complexa a nivel ritmica, sem compasso
+definido, e com constantes altercoes do tamanho das frases que surgem tambem
+com inicios em anacruse."
+
+[an approximate, fairly literal translation from the Portugese into English]
+"This is a Klangbild which, technically, is already quite complex. It presents
+a writing that varies between two and three voices, but requires from the
+interpreter a good command of the legato and, as such, a good choice of
+fingering. There is often a need to let some notes continue to sound, either
+in the chords or in the accompaniment of the melody. It is a complex piece at
+the rhythmic level, with no defined measurse, and with constant changes in the
+length of the phrases that also appear with anacruse (introductory notes)."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key but the piece sounds like it is in A minor.
+The tempo of the MIDI is 100 bpm (beats per minute - quarter notes)
+
+===  - note held, length of note, duration
+'    - slight pause (before the next note), breath mark (luftpause)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

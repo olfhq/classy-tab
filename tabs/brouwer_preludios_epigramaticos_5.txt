@@ -1,0 +1,116 @@
+Leo Brouwer - Preludios Epigramaticos (1981) - No 5 - (a mi esposa Cristina)
+"You took my heart and today you precipitate its flight" (Miguel Hernandez)
+see Notes and Legend below - 2 May 2024
+video: https://youtu.be/ekSem27JWcU?t=437 - Kevin Gallagher (from 7min 17sec)
+audio: https://www.youtube.com/watch?v=prubUAe74cA - Luis Eduardo Orias Diz
+
+tuning: D A D G B E      key: -     tempo: 66 bpm
+
+  Pesante (heavy, ponderous)
+1  tamb.          tamb.                movendo       ritard.
+e|---------------|---------------|--------------|-----------|
+B|------------2--|------------2--|-----------6--|----6---8--|
+G|------2-----0--|------2-----0--|--2--7--------|--9---9----|
+D|--2---3--2-----|--2---3--2-----|-------10-----|-----------|
+A|--0------------|--0------------|--------------|-----------|
+D|--0------------|--0------------|--------------|-----------|
+4/4 1  23  1  2                     1  1 4   1     4 1 4 3
+   mf
+
+  a tempo   CV~~~~~~~~~~
+5     tranquillo                                 >
+e|--7-------5--|--7-------12--|--10--------9--|--11p8-----------|
+B|--5--6-5--8--|--5--6-5--8---|------------8--|--------------8--|
+G|-------------|--------------|--9---10-9-----|--9----10--9-----|
+D|-------------|--------------|---------------|-----------------|
+A|-------------|--------------|---------------|-----------------|
+D|-------------|--------------|---------------|-----------------|
+ p 14  2 1  4     3  2    14     24  3  2 13     24 1 3   3  2
+
+9   >                                       CV     movendo poco ___
+e|--10p7-----------|--9p6-----------|--7--------5--|--7-----------|
+B|--------------8--|--6----------8--|--5--6--5--8--|--5--6--5--8--|
+G|--9----10--9-----|------10--9-----|--------------|--------------|
+D|-----------------|----------------|--------------|--------------|
+A|-----------------|----------------|--------------|--------------|
+D|-----------------|----------------|--------------|--------------|
+    34 1 4   3  2    114  4   3  2    14  2  1  4     3  2     4
+
+13 _________________ riten.    a Tempo I    tamb.          tamb.
+e|--------------|-------------|-----------|--------------|--------------|
+B|--6-----------|-------------|-----------|-----------2--|-----------2--|
+G|-----5--7-----|--------0----|--------0--|-----2-----0--|-----2-----0--|
+D|-----------7--|--9-------0--|--2-3-2----|--2--3--2-----|--2--3--2-----|
+A|--------------|-----8-------|-----------|--0-----------|--0-----------|
+D|--------------|-------------|-----------|--0-----------|--0-----------|
+    2  1  1  2     4  3          1 2 1       1 23  1  2
+                                             >              >
+
+                                      CII   CIII     CII   CIII
+18  nat.                            >  >  >  >     >  >  >  >   '
+e|---------------|---------------|-----5-----3--|-----5-----3---|
+B|--4p1----------|--3p0----------|-----4-----3--|-----4-----3---|
+G|------------0--|------------0--|-----2-----5--|-----2-----5---|
+D|--2---3--2-----|--2---3--2-----|--2--3--2--5--|--2--3--2--5---|
+A|---------------|---------------|--0--0-----0--|--0--0-----0---|
+D|--0------------|--0------------|--0-----------|--0------------|
+   24 1 3  2       24   3  2        1 234    34
+
+                                 rasg.   rasg.
+22  tasto                         p^   >       F.
+e|---------------|--------------|------5-------3---||
+B|------------2--|-----------2--|------4-------3---||
+G|------2-----0--|-----2-----0--|------2-------5---||
+D|--2---3--2-----|--2--3--2-----|--2---3---2---5---||
+A|--0------------|--------------|--0-------0-------||
+D|--0------------|--------------|--0-------0-------||
+    1  23  1  2     1 23  1  2     1  234  1   34
+  p sub.                          ff          fff
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+left hand fingering (LHF)          right hand fingering (RHF)
+1 - index finger                   p - thumb
+2 - middle finger                  i - index finger (forefinger)
+3 - ring finger                    m - middle finger
+4 - little finger                  a - ring finger (annular)
+
+CII    barre on the 2nd fret
+CIII   barre on the 3rd fret
+CV     barre on the 5th fret
+
+mezzo forte     mf  - medium loud
+piano           p   - soft
+fortissimo      ff  - very loud
+fortississimo   fff - extremely loud
+
+bpm        - beats per minute (quarter notes)
+tamb.      - tambour / tambora - the strings are played all at once by hitting them
+             near the bridge with a flat part of the hand (usually with the side of
+             the outstretched thumb)
+morendo    - fade out
+ritard.    - ritardando - a gradual decrease in speed
+tranquillo - in a quiet calm manner, tranquil, peaceful
+movendo    - moving, getting faster
+tempo      - speed (a tempo - return to the previous tempo)
+poco       - a little
+riten.     - ritenuto - slowing down, suddenly slower
+Tempo I    - return to the original tempo
+nat.       - natural - discontinue a special effect
+tasto      - over the fingerboard
+sub.       - subito - suddenly
+rasg.      - rasgueado
+
+h     - hammer-on
+p     - pull-off
+>     - accented, marked, stressed
+'     - slight pause (breath mark, luftpause)
+^     - strumming downwards
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - revised by weed@wussu.com
+the latest version of this tab can be found at http://www.classtab.org
+

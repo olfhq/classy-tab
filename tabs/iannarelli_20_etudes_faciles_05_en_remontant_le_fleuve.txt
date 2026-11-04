@@ -1,0 +1,65 @@
+20 Etudes faciles - 5. En Remontant le Fleuve - Simone Iannarelli (born 1970)
+(20 Easy studies, 2004 - 5. Going up the River) - a ma fille Sofia
+edition: Les Productions d'OZ DZ793 (Quebec, Canada, 2005)
+see Notes and Legend below - tab by weed@wussu.com - 2 February 2021
+MIDI: http://www.classtab.org/iannarelli_20_etudes_faciles_05_en_remontant_le_fleuve.mid
+video: https://www.youtube.com/watch?v=Zrfv_VpSlDU - Norbert Neunzling
+
+standard tuning: E A D G B E            key: -            time: 3/4
+
+ Adagio (slow, leisurely)
+ arp. arp. arp. arp.  sim.
+1  |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |
+e|-7--5----|-3--5----|-7--5----|-0--2----|-12-10---|-3--5----|-7--5----|
+B|-8--7----|-5--7----|-8--7----|-1--3----|-13-12---|-5--7----|-8--7----|
+G|-0--0----|-0--0----|-0--0----|-0--0----|-0--0----|-0--0----|-0--0----|
+D|---------|---------|---------|---------|---------|---------|---------|
+A|-0-------|-0-------|-0-------|-0-------|-0-------|-0-------|-0-------|
+E|----0----|----0----|----0----|----0----|----0----|----0----|----0----|
+   2  1      1  1                   3      2  1
+   3  3      3  3                1  2      3  3
+
+                                                                  F.
+8  |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |
+e|-0--2----|-12-10---|-8--7----|-3--2----|-0--2----|-3--2----|-0-------||
+B|-1--3----|-13-12---|-10-8----|-5--3----|-1--3----|-5--3----|-1--3----||
+G|-0--0----|-0--0----|-0--0----|-0--0----|-0--0----|-0--0----|-0--0----||
+D|---------|---------|---------|---------|---------|---------|----4----||
+A|-0-------|-0-------|-0-------|-0-------|-0-------|-0-------|-0-------||
+E|----0----|----0----|----0----|----0----|----0----|----0----|----0----||
+                       1  2         2                             1
+                       3  3         3                rall.        2
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"Ces petits etudes destinees aux enfants et aux debutants. Ils prendront plaisir
+a les interpreter a leur facon et a leur propre niveau. Chaque etude permet au
+musicien d'ameliorer un aspect technique bien precis de son jeu, en trouvant par
+example la position correcte des mains sur l'instrument ou la relaxation
+appropriee a chacun des rythmes." - Simone Iannarelli
+["These little studies are intended for children and beginners. They will enjoy
+interpreting them in their own way and at their own level. Each study allows the
+musician to improve a very specific technical aspect of their playing, by
+finding for example the correct position of the hands on the instrument or the
+relaxation appropriate to each of the rhythms."]
+
+There is no key signature, but it sounds close to E minor.
+The tempo of the MIDI is 60 bpm (beats per minute - quarter notes).
+
+left hand fingering below the tab -
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger
+4 - little finger (pinky)
+
+===   - note held, length of note, duration
+arp.  - arpeggiate - ripple upwards from the lowest note to the highest note
+F.    - Fermata - note(s) held for longer than their value, pause
+rall. - rallentando - slowing down (sometimes becoming gradually softer)
+sim.  - similarly - continue arpeggiating the chords throughout the piece
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

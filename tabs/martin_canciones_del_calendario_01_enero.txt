@@ -1,0 +1,137 @@
+Canciones del Calendario - 1. Enero (January) - Eduardo Martin (Cuba, born 1956)
+(a Galy y Dario) - edition: Guitar Solo Publ. GSP-252 (San Francisco, 2007)
+see Notes and Legend below - tabbed by weed@wussu.com - 2 July 2021
+MIDI: http://www.classtab.org/martin_canciones_del_calendario_01_enero.mid
+video: https://www.youtube.com/watch?v=G9wPESUJV0c - Thomas Uriarte
+video: https://www.youtube.com/watch?v=kBw7o0SCl9M - Matthew McAllister
+
+standard tuning: E A D G B E       key: C major       time: 2/4
+
+ Andante (flowing, at a walking pace) - tempo: 88 bpm
+   poco rubato (with some variation of tempo)
+             C3____
+1  | . | .   | . | .   | . | .   | . | .   | . | .
+e|-0=====--|-3=====--|-0=====--|-0=======|-0=====--|
+B|-------3-|-------5-|-------3-|---------|-------3-|
+G|-----0---|-----5---|-----0---|-----2p0-|-----0---|
+D|---2-----|---3-----|---2-----|---3-----|---2-----|
+A|-3=======|-5=======|-3=======|---------|-3=======|
+E|---------|---------|---------|-3=======|---------|
+   2 2   4   2   3 4   2         2
+   mp
+
+   C3____    C5________________
+                            ten.                   + (go to Coda)
+6  | . | .   | . | .   | . | .   | . | .   | . | .
+e|-3=====--|-5=====--|-5=====--|-0=====--|-3=======|
+B|-------5-|-------8-|-------8-|-------3-|---------|
+G|-----5---|-----5---|-----5---|-----0---|-----2p0-|
+D|---3-----|---5-----|---7-----|---2-----|---3-----|
+A|-5=======|-7=======|-8=======|-3=======|---------|
+E|---------|---------|---------|---------|-3=======|
+   2   3 4   2         3     4   2 1   3   4 3 1
+     < < < < < <                 mp        2
+
+                            c4__  c3__c2__  c1_______
+11 | . | .   | . | .    | . | .   | . | .   | . | .
+e|---------|---3---0-|--5-5-5-5-|-5-5-5-3-|-1-1-1-1-|
+B|---------|-----3---|--5===4===|-3===2===|-3===2===|
+G|---------|-0-------|*-5===4===|-3===2===|-2===2===|
+D|---3p0-2-|---------|*---------|---------|-0===0===|
+A|-3=======|=========|--0===0===|-0===0===|---------|
+E|---------|---------|----------|---------|---------|
+   2           4 3      mf
+             poco rit.  a tempo
+
+ ______                c2__
+16 | . | .   | . | .   | . | .   | . | .   | . | .
+e|-1-1-1---|-0=======|=======--|-0=======|=======0--|
+B|-1===0-3-|---------|-------3-|---------|----------|
+G|-2===2===|---4-3-3-|-2-2-0---|---4-3-3-|-2-2-0---*|
+D|-0===0===|---2-2-2-|-2-2-2---|---2-2-2-|-2-2-2---*|
+A|---------|-3=======|=========|-3=======|=========-|
+E|---------|---------|---------|---------|----------|
+               4 3           3
+             2 1 1 > > > > 1           > > > >
+
+    c5__      C7         C8_______________
+21  | . | .   | .  | .   |  . | .   | . | .   | . | .
+e|--8p7-5-0-|----------|--------8-|-------0-|-0-0-0-0-|
+B|--5===----|-8======8-|-10p8-----|-8=====--|---------|
+G|*-5===----|-7--------|------10--|---------|-5===4===|
+D|*---------|-9-10-9---|----------|-----12--|-5===4===|
+A|--0=======|-7========|-8========|---10----|-0===0===|
+E|----------|----------|----------|-8=======|---------|
+                                              2
+                                              1
+    mf                            poco sost.  a tempo
+
+                     |_________ 2_________ D.C. al + e Coda
+26 | . | .   | . | .   | . | .    | . | .
+e|-0-0-0-5-|-0=====--|-------0--|---------|
+B|---------|-------3-|-1=====---|-1=====0-|
+G|-3===2===|-----2---|-----1---*|-----1---|
+D|-3===2===|---3-----|---0-----*|---0-----|
+A|-0===0===|---------|----------|---------|
+E|---------|-1=======|-0=======-|-0=======|
+         4   1     4   2
+
+ Coda
+30 | . | .   | . | .   | . | .
+e|---------|---3---0=|=========||
+B|---------|-----3---|---------||
+G|---------|-0-------|---------||
+D|---3p0-2-|---------|---------||
+A|-3=======|=========|=========||
+E|---------|---------|---------||
+   2 3         4
+             rit.
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The order of play is measures 1-12,13-20,13-20,21-28,21-27,29,1-10,30-31.
+
+measure 2 - in both videos the last note (E) is played on the open 1st string
+
+Left Hand Fingering (LHF) below the tab -
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger
+4 - little finger (pinkie)
+
+===    - length of note, note held, duration
+< < <  - crescendo - becoming gradually louder
+> > >  - decrescendo - becoming gradually softer
++      - (end of measure 10) Coda Symbol
+bpm    - beats per minute (quarter notes)
+Coda   - the end section of a piece
+D.C.   - Da Capo - return to the start (measure 1)
+         al + e Coda - jump to the Coda after the Coda symbol
+p      - (between the notes) pull-off
+mf     - mezzoforte - moderately loud
+mp     - mezzopiano - moderately soft
+poco   - little, a little
+rit.   - slowing down, suddenly slower (poco rit. - a little slower)
+sost.  - sostenuto - sustained (poco soste. - hold the notes a little longer)
+ten.   - (above the tab) tenuto - stressed, slightly accented, played firmly,
+         the note is held for at least its full length
+tempo  - speed (a tempo - return to the earlier tempo)
+
+c1     - part barre on the 1st fret
+C1     - barre on the 1st fret
+c2     - part barre on the 2nd fret
+C2     - barre on the 2nd fret [etc]
+
+repeat the section    1____  play the 1st time        2_______  play on repeat
+|----  ----|          |-----------------------|    ---|-----------------------|
+|----  ----|          |-----------------------|    ---|-----------------------|
+|*---  ---*|          |----------------------*|    --*|-----------------------|
+|*---  ---*|          |----------------------*|    --*|-----------------------|
+|----  ----|          |-----------------------|    ---|-----------------------|
+|----  ----|          |-----------------------|    ---|-----------------------|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

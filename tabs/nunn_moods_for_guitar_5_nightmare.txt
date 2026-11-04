@@ -1,0 +1,122 @@
+Moods for Guitar - 5. Nightmare - Ruth Nunn (born 1954)
+edition: Novello 20217, edited by John W Duarte (Sevenoaks, England, 1978)
+see Notes & Legend below - tab by weed@wussu.com - 18 September 2019
+MIDI: http://www.classtab.org/nunn_moods_for_guitar_5_nightmare.mid
+
+tuning: EADGBE   key: C   time: 6/8, 4/4   tempo: 66 bpm (dotted quarter notes)
+
+   p i m i m i p i m i m i   simile sempre (continue play the same way)
+1  |   .   .   |   .   .     |   .   .   |   .   .     |   .   .   |   .   .
+E|-----0---0-------0---0---|-----0---0-------0---0---|-----0---0-------0---0---|
+B|---5---5---5---5---5---5-|---5---5---5---5---5---5-|---7---7---7---7---7---7-|
+G|-5===========5===========|-------------------------|-7===========7==========\|
+D|-------------------------|-6===========7===========|-------------------------|
+A|-------------------------|-------------------------|-------------------------|
+E|-------------------------|-------------------------|-------------------------|
+   1 2   2   2 1 2   2   2   3 2   2   2 4 2   2   2   1 2   2   2 1 2   2   2
+   mf                        cresc.                                   gliss. f
+
+4  |   .   .   |   .   .     |   .   .   |   .   .     |   .   .   |   .   .
+E|-----0---0-------0---0---|-----0---0-------0---0---|-----0---0-------0---0---|
+B|---3---3---3---3---3---3-|---9---9---9---9---9---9-|---9---9---9---9---9---9-|
+G|\3===========------------|-9===========9===========|-------------------------|
+D|-------------4===========|-------------------------|-10==========11==========|
+A|-------------------------|-------------------------|-------------------------|
+E|-------------------------|-------------------------|-------------------------|
+   1 2   2   2 3 2   2   2   1 2   2   2 1 2   2   2   3 2   2   2 4 2   2   2
+   p subito          < < < < < < < < < < mf > > > > >  p < < < < < < < < < < <
+
+7  |   .   .   |   .   .     |   .   .   |   .   .     |   .   .   |   .   .
+E|-------0-----------0-----|-------0-----------0-----|-------0-----------0-----|
+B|-----4---4-------4---4---|-----6---6-------7---7---|-----8---8-------9---9---|
+G|---5-------5---5-------5-|---7-------7---8-------8-|---9-------9---10------10|
+D|-6===========6===========|-8==========/9==========\|\10=========/11==========|
+A|-------------------------|-------------------------|-------------------------|
+E|-------------------------|-------------------------|-------------------------|
+   3 2 1   1 2 3 2 1   1 2   3 2 1   1 2 3 2 1   1 2   3 2 1   1 2 3 2 1   1 2
+   mf cresc.                                           rall.
+
+               F.
+10 |   .   .   |   .   .
+E|-0===================0---|
+B|-9===================----|
+G|-10==================----|
+D|-11==================----|
+A|-0===================----|
+E|-------------------------|
+   1
+   2
+   3
+   ff                  pp
+
+4/4 very freely                                   c5____
+11  | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+E|--3=========0-----|-----------------|-----------------|-----------------|
+B|--------------1---|---------------5-|-8=========5-----|-----------------|
+G|----------------2-|-0=============--|-------------5---|-----------------|
+D|------------------|-----------------|---------------7-|-----------------|
+A|------------------|-----------------|-----------------|-8===========7---|
+E|------------------|-----------------|-----------------|-----------------|
+    3           1 2                 1   4             3   4           3
+    pp
+
+       i                 p
+   F. arp.           F.  F.
+15 | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+E|-----0-----------|-----0-----------|-----------------|-----------------||
+B|-----0-----------|-----0-----------|-----------------|-----------------||
+G|-----2-----------|-----2-----------|-----------------|-----------------||
+D|-----2-----------|-----2-----------|-----------------|-----------------||
+A|-0===============|-0===============|-0===============|=================||
+E|-----------------|-----------------|-----------------|-----------------||
+       metal.            sul tasto     ppp
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"These short pieces are for the enjoyment of students with modest technical
+accomplishment. They are intended to emphasise the musicality of the instrument
+and to illutrate its many moods. [5. Nightmare] A bad dream, and  the piece
+should be played as such.The glissandi should be accentuated to get  the
+'eerie' effect. The final chord in 6/8 time [measure 10] should be aggressively
+struck as this is the moment of awakening, after which peace returns."
+- Ruth Nunn (1978)
+
+The MIDI does not have the glissandos.
+
+measure 15 - play the chord with the back of the nail of the index finger
+
+left hand fingering below tab       right hand fingering above tab
+1 - index finger                    p - thumb
+2 - middle finger                   i - index finger
+3 - ring finger                     m - middle finger
+4 - little finger                   a - ring finger
+
+===     - notes held, length of note, duration
+/       - slide the note up  (glissando)
+\       - slide the note down (glissando)
+< < <   - crescendo - becoming gradually louder
+> > >   - decrescendo - becoming gradually softer
+accel.  - accelerando - accelerating, gradually getting faster, increasing speed
+arp.    - arpeggiate - rip-ple upwards from the lowest note to the highest note
+bpm     - beats per minute
+c5      - part barre on the 5th fret
+cresc.  - crescendo - becoming gradually louder
+f       - forte - loud
+ff      - fortissimo - very loud
+F.      - Fermata - pause, note(s) held
+gliss.  - glissando - a continuous slide from the 1st note to the 2nd note
+metal.  - metallico - play close to the bridge to get a metallic sound
+mf      - mezzoforte - moderately loud
+p       - (below the tab) piano - soft
+pp      - pianissimo - very soft
+ppp     - pianississimo - extremely soft
+rall.   - rallentando - slowing down (often becoming gradually softer)
+subito  - suddenly (p subito - suddenly soft)
+tasto   - fingerboard (sul tasto - play above or near the fingerboard to get a
+          mellower sound)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

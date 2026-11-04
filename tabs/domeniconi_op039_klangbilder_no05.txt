@@ -1,0 +1,79 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 5 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tabbed by weed@wussu.com - 2 December 2019
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no05.mid
+video: https://www.youtube.com/watch?v=jVh8NxV-AoI - Norbert Neunzling
+
+tuning: EADGBE     key: -     time: -     time: ~80 bpm  (half notes)
+
+                                                         F.
+1  | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-----0---|---------|-----0---|---------|---------|---------||
+B|-0-------|-0-------|-0-------|-0-------|-1===0===|-----0---||
+G|---------|-----2---|---------|---------|---------|-2===----||
+D|-2=======|-0=======|---------|---------|---------|---0-2---||
+A|---------|---------|-3=======|-2=======|===0-2-3=|===------||
+E|---------|---------|---------|---------|---------|---------||
+                                                     rall.   Fine (end)
+
+7  | . | .   | . | .   | . | .   | . | .
+e|-3=======|-0=======|-0---0-1-|-3=======|
+B|-----1===|=====0---|---3-----|-0=======|
+G|---------|---------|-2=======|---------|
+D|-----3===|=====2---|-0=======|-2---3---|
+A|---------|---------|---------|---------|
+E|---------|---------|---------|---------|
+
+11 | . | .   | . | .   | . | .   | . | .
+e|-3-2-0---|-1-0-----|-0=======|-2---1---||
+B|-1=====3-|-0===3===|---------|---------||
+G|-0=====--|---------|-2-0-----|-2=======||
+D|---------|-2=======|-----3-2-|-0=======||
+A|---------|---------|-3=======|---------||
+E|---------|---------|---------|---------||
+                                 rall.   da capo al Fine
+                                         (return to the start, end at Fine)
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"O Klangbild 5 inicia-se com a utilizacao de duas camadas que se desenvolvem em
+simultaneo. Desta forma, existe uma melodia na voz superior e outra na voz
+inferior e ambas devem ser tocadas de forma a que este efeito seja audivel.
+Assim sendo, apresenta dificuldades ao nivel do equilibrio entre as duas vozes.
+Na segunda seccao, em contraste com a primeira, temos a evidente utilizacao de
+uma melodia e acompanhamento, muito embora seja uma seccao com maiores
+dificuldades tecnicas, nomeadamente no que ao legato diz respeito."
+[an approximate English translation from the Portugese]
+"Klangbild 5 starts with the use of two layers that develop together. Thus,
+there is a melody in the upper voice and another in the lower voice and both
+must be played in such a way that this effect is audible. Therefore, there are
+difficulties in the balance between the two voices. In the second section, in
+contrast to the first, we have the evident use of a melody and accompaniment,
+although it is a section with larger technical difficulties, in particular as
+regards legato (smoothness)."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around Em and appears to be in 2/2 time.
+
+===   - duration (note held)
+bpm   - beats per minute
+F.    - Fermata - pause, notes held for longer than their value
+rall. - rallentando - slowing down (and often becoming softer)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

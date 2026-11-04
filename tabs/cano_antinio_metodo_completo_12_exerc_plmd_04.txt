@@ -1,0 +1,108 @@
+Metodo Completo, Doce Exercicios para la Mano Derecha - Antonio Cano (1811-1897)
+Complete Method - 12 Exercises for the Right Hand - Exercise No 4 in C major
+editions: Antonio Romero, AR847, 2nd edition (Madrid)
+          Edson Lopes, Guitar Music Basic, Vol 1 (Sao Paulo, Brazil, 1995/2004)
+see Notes and Legend below - tab by weed@wussu.com - 7 May 2021
+MIDI: http://www.classtab.org/cano_antinio_metodo_completo_12_exerc_plmd_04.mid
+video: https://youtu.be/tsvy4uZpx5A?t=529 - Edson Lopes (from 8min 49sec)
+
+standard tuning: E A D G B E          key: C major          time: 4/4
+
+              _ _     _   _     _ _     _   _     _ _     _   _     _       _
+    m         i a     i   a     i a     i   a     i a     i   a     a       i
+        p i m   p i m     p i m   p i m     p i m     p i m   p i m   p i m
+0   .   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|----|---------0=====0-|-0=====--1=====--|---------0=====0-|-3=====1-------1-|
+B|----|-------1---------|-------3-------0-|-1=====3---------|-----0-------0---|
+G|*-0-|-----0-------0---|-----0-------0---|-----0-------0---|---0-------0-----|
+D|*---|---2-------2-----|---3-------0-----|---2-------2-----|-3=======--------|
+A|----|-3=======3=======|-2=======--------|-3=======3=======|-----------------|
+E|----|-----------------|---------3=======|-----------------|---------3=======|
+    dolce     1                 4 1         1     4           4     1
+    p   3 2               2 3     3         3 2               3       3
+                                                                    poco rit.
+
+   _             _   _     _ _     _   _     _ _     _   _
+   a     a       i   a     i a     i   a     i a     i   m
+   p i m   p i m     p i m   p i m     p i m   p i m       p i m a
+5  | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . |
+e|-1=====0---------|-----------------|-----------------|----------------|
+B|---------------1-|-0=====1-3=====0-|-1=====0-1=====3-|----------------|
+G|-----0-------0---|-----0-------0---|-----2-------2---|-0=======0===--*|
+D|---2-------2-----|---0-------0-----|---0-------0-----|-------0-------*|
+A|-3=======3=======|---------2=======|-0=======--------|-----2----------|
+E|-----------------|-3=======--------|---------2=======|---3------------|
+   1             1         1 4         1       1     4
+   3 2               3       2             3   2           3 2
+   a tempo           cresc.                              f > > > > > >
+
+    _   _     _ _     _   _             _   _     _ _     _   _
+        a     i a     i   a             i   a     i a     i   m
+        p i m   p i m     p m i m p i m     p i m   p i m       p p i m i m i
+(8) .   | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . | .
+e|----|-----------------|-----------------|-----------------|-----------------|
+B|----|-0=====1-3=====0-|-1=======------1-|-0=====0---------|-----------------|
+G|*-0-|-----0-------0---|---0---0-----0---|-----0---2=====2-|-0=======0-------|
+D|*---|---3-------3-----|-----2-----2-----|---0---------0---|-------0---3-2-0-|
+A|----|---------2=======|-3=======3=======|-----------0-----|-----2-----------|
+E|----|-3=======--------|-----------------|-3=======2=======|---3-------------|
+              1 4         1                         2
+    p   3 4     2 3       3   2             3       1           3 2     3 2
+                                            < < < < < < < <           > > > >
+
+         _ _     _   _   c1
+         i a     i   a     a       a     m   m   m   m   a
+   p i m   p i m     p i m   p i m     p i p i p i p i     p i m a
+13 | . | . | . | .   | . | . | . | .   | . | . | . | .   | . | . | . |
+e|---------0=====0-|-3=====1-------5-|---3---0---1-----|----------------||
+B|-------1-----1---|-----1-------4---|---5---1---0---0-|-1=======1===---||
+G|-----0-----3-----|---2-------5-----|-0===0===------0-|-------0-------*||
+D|---2-------------|-3=======4=======|-----------------|-----2---------*||
+A|-3=======3=======|-----------------|-----------------|---3------------||
+E|-----------------|-----------------|---------3===3===|----------------||
+         1   4 1     4     1       4     1       1       1
+   3 2               3 2 1   1 3 2       3   1 3           3 2
+   p cresc.                  f rit.    a tempo dim.        > > > > >
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+Expression marks and left hand fingering are taken from the Edson Lopes edition.
+"As notas com _ devem ser tocadas com apoio" - Edson Lopes
+("Notes marked _ must be played with apoyando") - Watch the reference video
+to see how rest strokes are used with the melody.
+The Edson Lopes edition gives the tempo as 90 bpm. The MIDI tempo is 90 bpm.
+
+Left Hand Fingering (LHF) below the tab    Right Hand Fingering above the tab
+1 - index finger (forefinger)              p - thumb
+2 - middle finger                          i - index finger (forefinger)
+3 - ring finger                            m - middle finger
+4 - little finger (pinky)                  a - ring finger
+
+===      - note held, length of note, duration
+_        - rest the right hand finger on the next string after plucking the note
+< < <    - crescendo - becoming gradually louder
+> > >    - decrescendo - becoming gradually softer
+apoyando - rest strokes (after plucking the finger rests on the adjacent string)
+bpm      - beats per minute (quarter notes)
+c1       - part barre on the 1st fret
+cresc.   - crescendo - becoming gradually louder
+dim.     - diminuendo - diminishing, becoming gradually softer
+dolce    - sweetly
+f        - forte - loud, strong
+p        - (below the tab) piano - soft, quiet
+poco     - little, a little (poco rit. - a little slower)
+rit.     - ritenuto - slowing down, suddenly slower
+tempo    - speed (a tempo - return to the earlier tempo)
+
+|----  ----|   repeat the section
+|----  ----|
+|*---  ---*|
+|*---  ---*|
+|----  ----|
+|----  ----|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

@@ -1,0 +1,51 @@
+Francisco Tarrega - Preludio No.13 - 35 Preludes
+see Notes & Legend below
+video: https://www.youtube.com/watch?v=zBFGxHCS6DQ - Norbert Neunzling
+
+tuning: D A D G B E       key: D major       time: 3/4
+
+   c2  c3  c2~~~~~~~~
+1  | . | . | .   | . | . | .   | . | .   | .   | . | . | .
+e|-2---3---5---|-2-----------|-0-------------|-------------|
+B|-3---3---2---|-3-------3---|-0-0-2-3/8g8-7-|-7-----------|
+G|-2---4---2---|-2-------4---|-0-------------|-6-----------|
+D|-0---5-------|-0-------4---|---------------|-8-----------|
+A|---------0---|---------2---|---------------|-9-----------|
+D|-------------|-------------|-5===----------|-------------|
+   2  23   4     2             4   1 2 2   2
+
+   C2~~~               p______   c2
+5  | . |   . | .   | . | . | .   | . | . | .   | . | . | .
+e|-2-3-5/8g8-7-5-|-5---3=======|-2h5---0-0---|-------------||
+B|-4-------------|-0=====----0-|-3===--3-2---|-3-----------||
+G|-2-------------|-0=====2-4---|-2===2-0-0---|-2-----------||
+D|---------------|-2=====------|-------------|-4-----------||
+A|-2===----------|-------------|-------0-0---|-------------||
+D|---------------|-------------|-------------|-0-----------||
+   3 2 4 4   3 4   14  2 1 3     2 4   2 2    123
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+left hand fingering (LHF) below the tab
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+C2   - barre on the 2nd fret
+C3   - barre on the 3rd fret
+
+===  - note held
+h    - hammer-on
+p    - (above the tab) - use the thumb of the right hand to pluck the notes
+/    - slide up (so the last note is heard)
+g    - grace note (ornament) - extra note(s) played immediately
+       before the main note
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - revised by weed@wussu.com (1 August 2025)
+the latest version of this tab can be found at http://www.classtab.org
+

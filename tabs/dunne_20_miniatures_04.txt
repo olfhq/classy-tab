@@ -1,0 +1,129 @@
+20 Miniatures - No 4 - Matthew Dunne (born 1959)
+Guitar Solo Publications GSP-269 (San Francisco, 2010)
+see Notes & Legend below - tab by weed@wussu.com - 15 February 2021
+MIDI: http://www.classtab.org/dunne_20_miniatures_04.mid
+
+tuning: E A D G B E     keys: C minor, A minor, E major     time: 3/4
+
+ Freely  72 bpm (beats per minute - quarter notes)
+
+ C minor
+0  . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-------|-------------|---------3-1-|-------------|-------------|---------3---|
+B|---4-3-|---------4-3-|-------3-----|-------4-3-1-|-----------3-|-------4---6-|
+G|-3-----|-----0-3-----|-----0-------|-------------|-----3---0---|-----4-------|
+D|-------|---1---------|---0---------|-----3-------|---0---1-----|---3---------|
+A|-------|-3=======----|-1=======----|---5---------|-------------|-4=======----|
+E|-------|-------------|-------------|-4=======----|-3=======----|-------------|
+     4 3   2                           3 4 2 4 3 1   3     1       2 1 3 4 1 4
+
+   C3______                                        c8__      c5__
+6  | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-------------|---------6-5-|-------------|-------------|-------------|
+B|-------3-4-6-|-------4-----|---------4-3-|-------------|---------8-6-|
+G|-----3-------|-----5-------|-------4-----|-----0---8-7-|-------7-----|
+D|---5---------|---4---------|-----3-------|-------8-----|-----5-------|
+A|-3=======----|-5=======----|---5---------|---6---------|---5---------|
+E|-------------|-------------|-3=======----|-8=======----|-6=======----|
+   1   1 1               4\4                 3     4 4     2 1 1   4\4
+
+     c3______                                      c5__________________
+11 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|---------3---|---------8-6-|---------6-5-|---------5---|---------5---|
+B|-------4---6-|-------3-----|-------------|-------5---8-|-------5---8-|
+G|-----5-------|-----3-------|---0---7-----|-----6-------|-----5-------|
+D|---3---------|---3---------|-----8-------|---8---------|---7---------|
+A|-0=======----|-------------|-7=======----|-0=======----|-5=======----|
+E|-------------|-4=======----|-------------|-------------|-------------|
+     1     1     2       4 1   2       1\1     4     1     1   1 1 1
+
+       F.      A minor         C3__________
+16 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-------0-8-7-|-------0-7-5-|---------5-3-|-------0-----|-------------|
+B|-----6=======|-----0=======|-------3-----|-----0===3-1-|-----0=====3-|
+G|-----7=======|---0-5=======|-----4=======|-----0=======|-----0=======|
+D|---6---------|-------------|-----5=======|-------------|-----4===2---|
+A|-------------|-0=======----|---5---------|---3---------|---2---3-----|
+E|-0=======----|-------------|-3=======----|-1=======----|-0=======----|
+           4\4           4\4   1 5   1 4\4           4 1
+       f                                       dim.        > > > > > >
+
+                               C1______  C4______F.      E major
+21 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|---------3-2-|-----------0-|-------1-6-4-|---------0---|---------0---|
+B|-------0-----|-----0-2-3---|-----2-------|-------0---4-|-------0---4-|
+G|-----0-------|---2---------|---3---------|-----5=======|-----1-------|
+D|---2---------|-0=======----|-1=======----|-----7=======|---2---------|
+A|-4=======----|-------------|-------------|---6---------|-4=======----|
+E|-------------|-------------|-------------|-4=====------|-------------|
+           2\2     1           1     1 4 1   1         4   3 2 1     4
+
+         c3__
+26 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|---------4-2-|-------0-----|-------------|-------0-5-4-|-----------0-|
+B|-----0-4-----|-----0===4-2-|-----0-----0-|-----0=======|-------0-4---|
+G|-----3=======|-----2=======|---------3---|-----6=======|-----1-------|
+D|---1---------|---4---------|---2---1-----|---4---------|---2---------|
+A|-2=======----|-0=======----|-------------|-5=======----|-4=======----|
+E|-------------|-------------|-4=======----|-------------|-------------|
+         4 4 2     4 1   4 2   4             2             3
+
+                 C2__________                             arp.
+31 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|---------0---|-------------|---------2-0-|-------------|-0-----------||
+B|-------0---2-|-------2-----|-----0-3-----|-----0---4---|-0-----------||
+G|-----2-------|-----4---2---|-----0=======|-----2=======|-1-----------||
+D|---3---------|---2---------|---2---------|---4---------|-4-----------||
+A|-------------|-------------|-3=======----|-2=======----|-2-----------||
+E|-3=======----|-2=======----|-------------|-------------|-0-----------||
+   3 4 1     2   1 1   1 1
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+"While I have indicated many of the fingerings I use, I invite guitarists
+to explore other options. Similarly, I feel that interpretation, dynamics,
+tempi, and phrasing should be guided not only by the composer but also by
+the performer. I am often delighted when I hear a performance of my music
+that includes new expressive ideas. The indicated tempi are suggestions,
+not specific requirements." - Matthew Dunne
+
+The sheet doesn't make clear whether the half notes on the first beats are
+intended to last throughout the measure (they are not followed by rests!);
+nor whether the half notes on the 2nd beat should always be held to the end
+of the measure (which makes the fingering harder than might be expected).
+
+measure 9 -  the left hand fingering follows the sheet with the 1st note (C)
+             played on the 6th string, but it's not clear how the other notes
+             should be played - perhaps the best way of playing the 4th and 5th
+             notes is with a part barre using the 4th finger on the 8th fret?
+             similarly with the 4th & 5th notes (D# G#) in measure 26
+measure 18 - the sheet only gives the fingering for the last 2 notes
+measure 19 - in the sheet the notes on the 2nd beat (G-B) are both half notes;
+             similarly for measures 20, 26, 27, 33 and 34
+measure 29 - the sheet's fingering for the last 2 notes is 3 (A) and 4 (G#)
+
+left hand fingering (LHF) below the tab -
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger
+4 - little finger (pinkie)
+
+===    - note held, length of note
+\      - (below the tab) slide the finger down to the next note
+< < <  - crescendo - becoming gradually louder, growing louder
+arp.   - arpeggiate - ripple upwards from the lowest note to the highest note
+dim    - diminuendo - diminishing, becoming gradually softer
+f      - forte - loud, strong
+F.     - Fermata - pause, note(s) held
+
+c1     - part barre on the 1st fret
+C1     - barre on the 1st fret
+c2     - part barre on the 2nd fret
+C2     - barre on the 2nd fret
+etc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Classtab UI</title>
+<style>
+  :root {
+    /* Color theme */
+    --bg: #1e1e1e;
+    --title: #e0e0e0;
+    --text: #e0e0e0;
+    --accent: #7b9cbc;
+    --accent-hover: #4f6c89;
+    --table-bg: #242424;
+    --table-header-bg: #3a3a3a;
+    --table-header-text: #f1fcfc;
+    --table-td-text: #e0e0e0;
+    --border: #545353;
+    --checkmark: #bbc2ca;
+    --scrollbar: #87939e;
+    
+    /* Column widths */
+    --author-width: 120px;
+    --title-width: 200px;
+    --small-width: 20px;
+    --frame-font-size: 14px;   /* adjust as needed */
+  }
+
+  body {
+    font-family: sans-serif;
+    margin: 20px;
+    background: var(--bg);
+    color: var(--text);
+  }
+  h1 {
+    font-family: 'Georgia', serif;
+    font-weight: 600;   /* optional – make it a bit bolder */
+    margin-top: 0;      /* remove the default top margin */
+    margin-bottom: 8px; /* smaller gap below the title */
+    padding: 0;         /* no extra padding */
+    color: var(--title);
+  }
+  /* Apply the same color to all links on the page */
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  a:hover {  /* Hover effect – slightly darker */
+    color: var(--accent-hover);
+  }
+
+  /* Overall page layout */
+  .main-container {
+    display: flex;
+    gap: 10px;
+    height: calc(100vh - 40px);
+  }
+  .left-column, .right-column {  /* Page column styles */
+    flex: 1;          /* equal width by default */
+    display: flex;
+    flex-direction: column;
+    gap: 12px;        /* space between filters and table */
+  }
+  /* Give the right column a little more room */
+  .right-column {
+    flex: 1.3;          /* 1.3 × the width of the left column */
+  }
+
+  /* ---------- Filters ---------- */
+  .filters {
+    margin-bottom: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    font-size: 0.95rem;
+  }
+  /* Text input */
+  .filters input[type="text"] {
+    width: 180px;
+    padding: 6px 8px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 1rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    background: var(--table-header-bg);
+    color: var(--table-header-text);
+  }
+  .filters input[type="text"]:focus {
+    outline: none;
+    border-color: #4a90e2;
+    box-shadow: 0 0 4px rgba(74,144,226,0.4);
+    background: var(--table-header-bg);
+  }
+
+  /* Labels & checkboxes */
+  .filters label {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+  }
+  .filters input[type="checkbox"] {
+    appearance: none;          /* Chrome, Safari, Edge */
+    -webkit-appearance: none;  /* Safari */
+    width: 16px;
+    height: 16px;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    background: var(--table-header-bg);
+    cursor: pointer;
+    position: relative;
+  }
+  .filters input[type="checkbox"]:checked {
+    background: var(--table-header-bg);
+    border-color: var(--border);
+  }
+  .filters input[type="checkbox"]:checked::after {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 0px;
+    width: 5px;
+    height: 10px;
+    border: solid var(--checkmark);
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+
+  /* Clear button */
+  #clearBtn {
+    padding: 6px 12px;
+    background: #ff6251;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  #clearBtn:hover {
+    background: #d32f2f;
+  }
+
+  /* ---------- Song table container & scroll bar ---------- */
+  #songTableContainer {
+    flex: 1; 
+    overflow: auto; 
+    height: 100%;
+    scrollbar-color: var(--scrollbar) var(--table-bg); /* thumb, track */
+  }
+  #songTableContainer::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  #songTableContainer::-webkit-scrollbar-track {
+    background: var(--table-bg);
+  }
+  #songTableContainer::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar);
+    border-radius: 4px;
+    border: 2px solid var(--table-bg);
+  }
+
+  .content-frame {
+    flex: 1; 
+    border: 1px solid var(--border); 
+    padding: 10px; 
+    overflow: auto;
+    font-family: monospace; 
+    white-space: pre-wrap; 
+    font-size: var(--frame-font-size);
+    scrollbar-color: var(--scrollbar) var(--table-bg); /* thumb, track */
+  }
+  /* Title area above the content frame */
+  .content-frame-title {
+    font-family: 'Cambria', serif;
+    font-size: 1.0rem;
+    font-weight: 200;
+    color: var(--table-td-text);
+    margin-bottom: 4px;
+  }
+  .content-frame::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  .content-frame::-webkit-scrollbar-track {
+    background: var(--table-bg);
+  }
+  .content-frame::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar);
+    border-radius: 4px;
+    border: 2px solid var(--table-bg);
+  }
+  
+  /* Table */
+  .song-table {
+    background: var(--table-bg);
+    border: 1px solid var(--border);
+    width: 100%; 
+    border-collapse: collapse; 
+    table-layout: fixed;
+  }
+  .song-table th, .song-table td {
+    border: 1px solid var(--border);
+    padding: 8px; 
+    text-align: left; 
+    vertical-align: top;
+  }
+  .song-table th {
+    font-family: 'Cambria', serif;
+    background: var(--table-header-bg);
+    color: var(--table-header-text);
+    vertical-align: middle;
+  }
+  .song-table td {
+    font-family: 'Cambria', serif;
+    background: var(--table-bg);
+    color: var(--table-td-text);
+    vertical-align: middle;
+  }
+  
+  /* Author column */
+  .song-table th:nth-child(1), .song-table td:nth-child(1) {
+    width: var(--author-width); 
+    word-wrap: break-word; 
+    white-space: normal;
+    vertical-align: top;
+  }
+  /* Title column */
+  .song-table th:nth-child(2), .song-table td:nth-child(2) {
+    width: var(--title-width);
+  }
+  /* Small columns (Easy, LHF, MIDI, Video) – center content */
+  .song-table th:nth-child(3), .song-table td:nth-child(3),
+  .song-table th:nth-child(4), .song-table td:nth-child(4),
+  .song-table th:nth-child(5), .song-table td:nth-child(5),
+  .song-table th:nth-child(6), .song-table td:nth-child(6) {
+    width: var(--small-width);
+    text-align: center;
+    vertical-align: middle;
+  }
+  /* Make the checkmarks a bit larger and center them */
+  /* Override default td alignment for checkmark cells */
+  .song-table .easy-cell, .song-table .lhf-cell {
+    font-size: 1.2em;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .author-border {border-bottom: 2px solid var(--border) !important;}
+  /* Thicker bottom border for rows that contain an author cell */
+  /* Thicker bottom border for the author cell (spanning rows) */
+  .author-cell {border-bottom: 2px solid var(--border) !important;}
+  /* Thicker bottom border for the other cells in the last row of each author group */
+  .author-row td:not(.author-cell) {border-bottom: 2px solid var(--border) !important;}
+  
+  .title-cell {
+    display: flex;          /* horizontal layout */
+    align-items: center;    /* vertical centering */
+    gap: 4px;               /* space between button & link */
+  }
+  /* Larger bookmark icon, keep other text unchanged */
+  .title-cell .bookmark-btn {
+    font-size: 1.3em;      /* or whatever size you prefer */
+    line-height: 1;        /* keep vertical alignment */
+    padding: 0 4px;        /* optional spacing */
+    margin-right: 5px;
+    margin-left: 0;         /* button is already on the right */
+    flex-shrink: 0;         /* Keep the button from shrinking */
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: var(--checkmark);
+  }
+  .title-cell .bookmark-btn:hover {
+    color: var(--accent-hover);
+  }
+  /* The link takes the remaining width and can wrap */
+  .title-cell .tab-link {
+    flex: 1;                /* grow to fill space */
+    min-width: 0;           /* allow text to break */
+    word-wrap: break-word;  /* wrap long words */
+    white-space: normal;    /* normal wrapping */
+  }
+</style>
+</head>
+<body>
+<div class="main-container">
+  <!-- Left column -->
+  <div class="left-column">
+    <h1>Classtab UI</h1>
+    <div class="filters">
+      <label>Author: <input type="text" id="authorInput" list="authorList" placeholder="Type or click" autocomplete="off" /></label>
+      <datalist id="authorList"></datalist>
+      <label><input type="checkbox" id="easyCheckbox" /> Easy</label>
+      <label><input type="checkbox" id="videoCheckbox" /> Video</label>
+      <label><input type="checkbox" id="bookmarkCheckbox" /> Bookmarks</label>
+      <button id="clearBtn">Clear</button>
+    </div>
+
+    <div id="songTableContainer">
+      <table id="songTable" class="song-table"></table>
+    </div>
+  </div>
+
+  <!-- Right column -->
+  <div class="right-column">
+    <!-- Title of the currently loaded song -->
+    <div id="contentFrameTitle" class="content-frame-title">Select a song to view its tablature</div>
+    <div id="contentFrame" class="content-frame"></div>
+  </div>
+</div>
+
+<script type="module">
+  import { songsData } from './songs_data.js';
+  const authorInput = document.getElementById('authorInput');
+  const easyCheckbox = document.getElementById('easyCheckbox');
+  const videoCheckbox = document.getElementById('videoCheckbox');
+  const bookmarkCheckbox = document.getElementById('bookmarkCheckbox');
+  const clearBtn = document.getElementById('clearBtn');
+  const songTable = document.getElementById('songTable');
+  const authorList = document.getElementById('authorList');
+  const contentFrame = document.getElementById('contentFrame');
+  // Helper to identify a song uniquely
+  function getSongId(song) {
+    return `${song.author}-${song.title}`;
+  }
+
+  // Load bookmarks from localStorage
+  function getBookmarks() {
+    const stored = localStorage.getItem('classtab_bookmarks');
+    return stored ? new Set(JSON.parse(stored)) : new Set();
+  }
+
+  // Save bookmarks to localStorage
+  function saveBookmarks(bookmarks) {
+    localStorage.setItem('classtab_bookmarks', JSON.stringify(Array.from(bookmarks)));
+  }
+
+  // Toggle a song's bookmark status
+  function toggleBookmark(song) {
+    const bookmarks = getBookmarks();
+    const songId = getSongId(song);
+    if (bookmarks.has(songId)) {
+      bookmarks.delete(songId);
+    } else {
+      bookmarks.add(songId);
+    }
+    saveBookmarks(bookmarks);
+    filterSongs();
+  }
+
+  // Build unique author list for datalist
+  const authorsSet = new Set();
+  songsData.forEach(song => {
+    if (song.author) {
+      authorsSet.add(song.author);
+    }
+  });
+  authorsSet.forEach(a => {
+    const option = document.createElement('option');
+    option.value = a.replace(/<[^>]*>/g, '');
+    option.textContent = a;
+    authorList.appendChild(option);
+  });
+
+  function filterSongs() {
+    const text = authorInput.value.trim().toLowerCase().replace(/<[^>]*>/g, '');
+    const showEasy = easyCheckbox.checked;
+    const showVideo = videoCheckbox.checked;
+    const showBookmarks = bookmarkCheckbox.checked;
+    const bookmarks = getBookmarks();
+
+    const filtered = songsData.filter(song => {
+      if (!song.author) return false;
+      if (!song.author) return false;
+      const authorStr = song.author || '';
+      const plainAuthor = authorStr.replace(/<[^>]*>/g, '').toLowerCase();
+      const songId = getSongId(song);
+      const isBookmarked = bookmarks.has(songId);
+
+      let ok = true;
+      if (text) {
+        ok = plainAuthor.includes(text);
+      }
+      if (ok && showEasy) ok = song.easy;
+      if (ok && showVideo) ok = song.video && song.video.length > 0;
+      if (ok && showBookmarks) ok = isBookmarked;
+      return ok;
+    });
+    renderSongs(filtered);
+  }
+
+  function renderSongs(songs) {
+    songTable.innerHTML = '';
+    // Add table header – reordered columns
+    const header = document.createElement('tr');
+    ['Author', 'Title', 'Easy', 'LHF', 'MID', 'Vid'].forEach(text => {
+      const th = document.createElement('th');
+      th.textContent = text;
+      header.appendChild(th);
+    });
+    songTable.appendChild(header);
+
+    // Group by author
+    const groups = {};
+    songs.forEach(song => {
+      const key = song.author;
+      if (!groups[key]) groups[key] = [];
+      groups[key].push(song);
+    });
+
+    Object.keys(groups).sort().forEach(author => {
+      const list = groups[author];
+      const rowspan = list.length;
+      list.forEach((song, idx) => {
+        const tr = document.createElement('tr');
+        if (idx === 0) {
+          const tdAuthor = document.createElement('td');
+          tdAuthor.rowSpan = rowspan;
+          tdAuthor.innerHTML = author;
+          tdAuthor.classList.add('author-cell');
+          tr.appendChild(tdAuthor);
+        }
+        // Add border class to the last row of each author group
+        if (idx === list.length - 1) {
+          tr.classList.add('author-row');
+        }
+
+        // Title column with bookmark button
+        const tdTitle = document.createElement('td');
+        const tdTitleCellContent = document.createElement('div');
+        tdTitleCellContent.classList.add('title-cell');
+        const songId = getSongId(song);
+        const bookmarks = getBookmarks();
+
+        const bookmarkBtn = document.createElement('button');
+        bookmarkBtn.classList.add('bookmark-btn'); 
+        bookmarkBtn.textContent = bookmarks.has(songId) ? '★' : '☆';
+        bookmarkBtn.onclick = (e) => {
+          e.stopPropagation();
+          toggleBookmark(song);
+        };
+        tdTitleCellContent.appendChild(bookmarkBtn);
+
+        const link = document.createElement('a');
+        link.href = '#';
+        link.className = 'tab-link';
+        link.textContent = song.title;
+        link.onclick = (e) => {
+          e.preventDefault();
+          loadTabContent(song.title, song.tab);
+        };
+        tdTitleCellContent.appendChild(link);
+        tdTitle.appendChild(tdTitleCellContent);
+
+        tr.appendChild(tdTitle);
+
+        // Easy column
+        const tdEasy = document.createElement('td');
+        tdEasy.classList.add('easy-cell');
+        tdEasy.textContent = song.easy ? '✓' : '';
+        tr.appendChild(tdEasy);
+
+        // LHF column
+        const tdLhf = document.createElement('td');
+        tdLhf.classList.add('lhf-cell');
+        tdLhf.textContent = song.lhf ? '✓' : '';
+        tr.appendChild(tdLhf);
+
+        // MIDI column
+        const tdMidi = document.createElement('td');
+        if (song.midi) {
+          const midiLink = document.createElement('a');
+          midiLink.href = song.midi;
+          midiLink.target = '_blank';
+          midiLink.textContent = 'midi';
+          tdMidi.appendChild(midiLink);
+        }
+        tr.appendChild(tdMidi);
+
+        // Video column
+        const tdVideo = document.createElement('td');
+        if (song.video) {
+          const vidLink = document.createElement('a');
+          vidLink.href = song.video;
+          vidLink.target = '_blank';
+          vidLink.textContent = 'video';
+          vidLink.title = song.artist || '';
+          tdVideo.appendChild(vidLink);
+        }
+        tr.appendChild(tdVideo);
+
+        songTable.appendChild(tr);
+      });
+    });
+  }
+
+  // Initial render all
+  renderSongs(songsData);
+
+  authorInput.addEventListener('input', filterSongs);
+  authorInput.addEventListener('keyup', e => { if (e.key === 'Enter') filterSongs(); });
+  easyCheckbox.addEventListener('change', filterSongs);
+  videoCheckbox.addEventListener('change', filterSongs);
+  bookmarkCheckbox.addEventListener('change', filterSongs);
+  clearBtn.addEventListener('click', () => {
+    authorInput.value = '';
+    easyCheckbox.checked = false;
+    videoCheckbox.checked = false;
+    bookmarkCheckbox.checked = false;
+    renderSongs(songsData);
+  });
+  // Load tab content into the right‑hand frame
+  async function loadTabContent(title, tabFile) {
+    try {
+      const response = await fetch('tabs/' + tabFile);
+      if (!response.ok) throw new Error('File not found');
+      const text = await response.text();
+      // Update title
+      const titleDiv = document.getElementById('contentFrameTitle');
+      titleDiv.innerHTML = `<a href="tabs/${tabFile}" target="_blank">${title}</a>`;
+      // Show content
+      contentFrame.textContent = text;
+    } catch (e) {
+      contentFrame.textContent = 'Error loading tab: ' + e.message;
+    }
+  }
+</script>
+</body>
+</html>

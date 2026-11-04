@@ -1,0 +1,113 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 22 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tab by weed@wussu.com - 20 March 2021
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no22.mid
+video: https://www.youtube.com/watch?v=Xz0UDlizQqI - Norbert Neunzling
+
+standard tuning: E A D G B E       key: -       time: -
+
+1  | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-----2---|-----4---|-----2---|-----0---|-----2---|-----4---|-----0---|
+B|-0-------|-1-------|-0-------|---------|-0-------|-1-------|-0-------|
+G|---------|---------|---------|-3-------|---------|---------|---------|
+D|-2---2---|-2---2---|-2---2---|-2---2---|-2---2---|-0---0---|---------|
+A|---------|---------|---------|---------|---------|---------|-4---4---|
+E|---------|---------|---------|---------|---------|---------|---------|
+   f                   p                   f                   p
+
+8  | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-----3---|---------|---0-2---|---------|---------|---------|---------|
+B|---------|-------0-|---------|-------0-|---------|-----0---|-1=======|
+G|-3-------|-----1---|-3-------|-----1---|-0=======|---------|---------|
+D|---------|---------|---------|---------|---------|---------|-----2---|
+A|-3---3---|-----2===|-4=======|-----2===|=====1===|=====2---|-3-------|
+E|---------|-0-------|---------|-0-------|---------|-0=======|---------|
+             mf                  p                             < < < < <
+
+15 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|---------|---------|-0===2===|-0===3===|-0===5===|-0===7===|-0-------|
+B|=========|-0---1===|---------|---------|---------|---------|-------0-|
+G|-----2---|---------|---------|---------|---------|---------|---------|
+D|-4-------|---------|-2===2===|-2===2===|-0===0===|---------|-------0-|
+A|---------|---------|---------|---------|---------|-4===4===|-3-------|
+E|---------|-------0=|===0===0=|===0===0=|===0===0=|===0===0=|=========|
+ < < < < <             ff
+
+22 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-------0-|---------|---------|---------|-----2---|-----4---|-----2---|
+B|-1-0-0---|-0-------|---------|---------|-0-------|-1-------|-0-------|
+G|---0-----|---3-0---|-0---1=--|-----0-2-|---------|---------|---------|
+D|-2---4-3-|-2-1-0-1-|-0---3=--|---2-0-3-|-2---2---|-2---2---|-2---2---|
+A|---------|-------3-|---------|---3-----|---------|---------|---------|
+E|---------|---------|---------|---------|---------|---------|---------|
+                                           p
+
+                                               t     t         t
+29 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-----0---|-----2---|-----4---|-----0===|=========|---------|---------|
+B|---------|-0-------|-1-------|-0-------|---------|---------|---------|
+G|-3-------|---------|---------|---------|---------|---------|---------|
+D|-2---2---|-2---2---|-0--0----|---------|---------|---------|---------|
+A|---------|---------|---------|-4---4---|-3=======|-2=======|-1=======|
+E|---------|---------|---------|---------|-----0---|-----0---|-----2---|
+             f                                       > > > > > > > > > >
+
+   t
+36 | . | .   | . | .   | . | .
+e|---------|---------|-0-------||
+B|---------|---------|-0-------||
+G|---------|---------|---------||
+D|---------|---------|---------||
+A|-0=======|=========|-2-------||
+E|-----1===|=========|-0-------||
+ > > > > > > >
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Peca em forma A-B-A, com frases quarternarias na seccao A, que funciona como
+tema, com o baixo a como pedal e a melodia na voz superior. E desafiante
+sobretudo a nivel harmonico, e pelos contrastes pedidos pelo compositor.
+Funciona quase como um jogo de ecos, com um desenvilvimento e climax na seccao
+central. Tecnicamente e das mais exigentes da serie, requerendo independencia
+nas dinamicas, o que complica a tarefa da mao direita."
+
+[an approximate, fairly literal translation from the Portugese into English]
+"The piece is in the form A-B-A, with phrases of four beats in section A,
+which acts as the theme, with the bass acting as a pedal and the melody in the
+upper voice. It is challenging, especially at the harmonic level due to the
+contrasts requested by the composer. It works almost like a game of echoes,
+with a development and climax in the central section. Technically, it is one
+of the most demanding pieces in the series, requiring independence in dynamics,
+which complicates the task of the right hand."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a time signature but it appears to be in 2/2.
+The sheet music does not have a key but the piece sounds like it is in E minor.
+The tempo of the MIDI is 120 bpm (beats per minute - half notes).
+
+===    - note held, length of note, duration
+< < <  - crescendo - becoming gradually louder
+> > >  - decrescendo - becoming gradually softer
+f      - forte - loud
+ff     - fortissimo - very loud
+mf     - mezzoforte - moderately loud
+p      - (below the tab) piano - soft, quiet
+t      - (above the tab) tenuto - stressed, slightly accented, played firmly,
+         the note is held for at least its full length
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

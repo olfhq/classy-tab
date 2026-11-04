@@ -1,0 +1,72 @@
+Tarrega Preludes - weed@wussu.com - 21 November 2025
+
+numbering used on Classtab (key, time, opening notes) -
+
+1  - Dm,  2/4,  D-D C F-Bb A - Moderato - Gagni Prelude 27
+2  - Am,  3/4,  A-C C-E - Gagni Prelude 28
+3  - G,   3/8,  B/d G-B-D - Allegretto - Gagni Prelude 29
+4  - E,   3/8,  E-G# F#-A - Allegro - Gagni Prelude 30
+5  - E,   3/4,  E-B-G# - Andante sostenuto - Gagni Prelude 31
+6  - Bm,  2/4,  F# B A F# - Gagni Prelude 32
+7  - A,   2/4,  A-C# / C#-E - Gagni Prelude 33
+8  - A,   2/4,  A C# E G# D F# - Dos Preludios No 1 - Gagni Prelude 34
+9  - A,   2/4,  C# E C# A B D B G# - Dos Preludios No 2 - Gagni Prelude 35
+10 - F#m, 2/4,  F#-A-#C# A G# F# - Andantino
+11 - D,   2/4,  D-F#-A-D E F# - Delcamp Prelude 10 - Gagni Prelude 21
+12 - A,   3/4,  A G# F# E - Gagni Prelude 4
+13 - D,   3/4,  D-A-D-F# - Gagni Prelude 2
+14 - Bm,  2/4,  B-F#-B-D-F#-B - Allegro - (Mendelssohn Op 26)
+                - Gagni Prelude 39 - "Prelude 9"
+15 - E,   4/4,  E-G#-B-E - Andante sostenuto - Gagni Prelude 18
+16 - E,   2/4,  E-E B-E-G# - Medito
+17 - Bm,  6/8,  F# D A# B D F# - Gagni Prelude 13 (4/4)
+18 - D,   2/4,  D-F# F# A A-E G A - Andantino - Delcamp Prelude 11
+                - Gagni Prelude 22
+19 - A,   4/4,  E B G# E D A F# D
+20 - E,   3/4,  E-G# B F#-A B - Una Lagrima - Gagni Prelude 36 = LAGRIMA
+21 - Am,  4/4,  E-G# B D F - (Bach Fugue BWV 1001) - Delcamp Prelude 14
+                - Gagni Prelude 14
+22 - C,   4/4,  C-E-G E-G-C - Andante - Gagni Prelude 10
+23 - Am,  6/8,  A-C-E A D-F-A - Delcamp Prelude 12 - Gagni Prelude 19
+24 - A,   4/4,  A A C# F# E C# A - Gagni Prelude 26
+25 - Am,  2/4,  A-C-E-A E A C B D - Gagni Prelude 1
+26 - A,   3/4,  A-C#-E F# E D# - Preludio sobre Los Gruppetos - Gagni Prelude 8
+27 - D,   2/4,  D-F# A F# E - Gagni Prelude 24
+28 - G,   3/4,  G-G-B F# - Scherzo - Gagni Prelude 20
+29 - D,   4/4,  D-F#-A-D C-A-E - (inedito)
+30 - E,   2/4,  E G# F# E D B E B - Medito
+31 - A,   3/4,  E# F# G# F#
+32 - E,   2/4,  B A# B B#
+33 - Am,  2/4,  E G# B A - Gagni Prelude 12
+34 - Dm,  2/4,  A D A G F - Andante cantabile = ENDECHA - Gagni Prelude 37
+35 - Dm,  2/4,  F-A D F-G# D - Lento religioso = OREMUS
+                - (Schumann Prelude Op 124) - Gagni Prelude 38
+
+other Preludes -
+
+Prelude Pentatonica - E, 4/4, E G# B C# E
+
+Schuman Op 99 No 2 - Delcamp Prelude 13 - Am, 4/4, E A B A-C D# A
+
+Chopin Prelude Op 28 No 4 in Em - Em, 4/4 - E E E
+Chopin Prelude Op 28 No 6 in Bm - G#m, 3/4, G#-B-D#-G# - Assai lento
+Chopin Prelude Op 28 No 7 in A - D, 3/4, A d/F#-A - Andantino
+Chopin Prelude Op 28 No 11 in B - E, 6/8, B-B A# B C# - Gagni Prelude 16
+Chopin Prelude Op 28 No 15 in Db - A, 4/4, A-C# A C#-E
+Chopin Prelude Op 28 No 20 in Cm - C#m, 4/4, C#-C#-E-G# - Lento
+
+Gagni Prelude 3  - A,  3/4, A C# E C# F C# E C#
+Gagni Prelude 5  - Bm, 2/4, B c#B A
+Gagni Prelude 6  - E,  4/4, E G# B C#
+Gagni Prelude 7  - A,  2/4, A-C#-E-A C D C
+Gagni Prelude 9  - A,  2/4, A-C#-E E
+Gagni Prelude 11 - C,  2/4, G E E-G-C
+Gagni Prelude 15 - A,  4/4, E C# A E
+Gagni Prelude 17 - A,  2/4, C# D A-E
+Gagni Prelude 23 - A,  4/4, A-C# E E
+Gagni Prelude 25 - A,  2/4, C# E C# A F# D F# D
+
+Alier Prelude 12 (Fragmento) - Am, 2/4, A-C-E A-C-E - (Beethoven Symphony No 7)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

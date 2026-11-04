@@ -1,0 +1,68 @@
+Simple Waltz - No 1 in Am - Ryuji Kunimatsu (born 1977)
+edition: http://www.ryujikunimatsu.com/freescore_english.html (2017)
+see Notes and Legend below tab - tabbed by weed@wussu.com - 15 September 2018
+MIDI: http://www.classtab.org/kunimatsu_simple_waltz_01.mid
+video: https://www.youtube.com/watch?v=6dXRkQ38Meg - Norbert Neunzling
+audio: https://www.youtube.com/watch?v=n_djGuMKJok - feliciadad58
+
+tuning: EADGBE      key: Am      time: 3/4      tempo: 90 bpm (quarter notes)
+
+1  | . | . | .   | . | . | .    | . | . | .   | . | . | .   | . | . | .
+E|-----0===0===|-----0===0===|------0===0===|-----0===0===|-----0===0===|
+B|---3-1-0-1---|-0-----------|----3-1-0-1---|-0-----------|---3-1-0-1---|
+G|-----------2-|---0-2---0---|*-----------2-|---0-2---0---|-----------2-|
+D|-------------|-------3---2-|*-------------|-------3---2-|-0===========|
+A|-0===========|=============|--0===========|=============|-------------|
+E|-------------|-------------|--------------|-------------|-------------|
+     4 1   1 2       2 3   2      4 1   1 2       2 3   2     4 1   1 2
+   p                            p cresc.                      cresc.
+
+6  | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+E|-----0===0===|-----0===0===|-----0===0===|-----0===0===|-----0===0===-|
+B|-0-----------|---3-1-0-1---|-0-----------|---3-1-0-1---|-0------------|
+G|---0-2---0---|-----------2-|---0-2---0---|-----------2-|---0-2---0---*|
+D|=======3---2-|-------------|-------3---2-|-------------|-------3---2-*|
+A|-------------|-------------|-------------|-0===========|=============-|
+E|-------------|-0===========|=============|-------------|--------------|
+       2 3   2     4 1   1 2       2 3   2     4 1   1 2       2 3   2
+                 mp                                    dec.
+
+11 | . | . | .   | . | . | .   | . | . | .
+E|-----0===0===|-----0===0===|=============||
+B|-------------|-------------|-------------||
+G|-------------|-------------|-------------||
+D|---0---------|-------------|-------------||
+A|-0===3-2-3-0-|-2---0-------|-------------||
+E|-------------|---3---1-3-0=|=============||
+       3 2 3     2 3   1 3
+   p             rit.
+
+Notes and Legend
+----------------
+measure 6 - in the sheet the tied D (open 4th string) is a dotted half note
+measure 11 - in the sheet the A on the 1st beat is a dotted half note
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - note held, length of note, duration
+cresc. - crescendo - growing louder, becoming softer
+dec.   - decrescendo - growing softer, becoming softer
+mp     - mezzopiano - moderately soft, medium soft
+p      - (below the tab) piano - soft
+rit.   - ritenuto - slowing down
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+-------------------------------------------------------------------------------
+
+the latest version of this tab can be found at http://www.classtab.org ZZZ
+

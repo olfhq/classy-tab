@@ -1,0 +1,140 @@
+Marek Pasieczny - I. Lamento
+Homenaje a Manuel de Falla (a Tomasz Kandulski - 2003)
+see Notes and Legend below - 14 February 2024
+video: https://www.youtube.com/watch?v=b_anaxif2Rw - Marek Pasieczny
+
+tuning: D A D G B E      key: D minor      time: 4/4, 2/4, 6/4, 2/2
+
+   marcato, pesante, doloroso e fuoco (100 bpm)
+1                >              >              >          sub. molto metalico
+e|----------0-|------------0-|------------0-|----------|--------0---------0----|
+B|--------6---|----------6---|----------6---|----------|-----6---------6-------|
+G|------7-----|--------7-----|--------7-----|----------|--7---------7----------|
+D|------------|-<7>----------|--------------|----------|-------<7>-------------|
+A|------------|--------------|-<7>----------|-<9>------|-----------------<7>---|
+D|------------|--------------|--------------|----------|-----------------------|
+ 4/4    2 1      3     2 1      3              4          2  1  3         3
+        ff             f              ff                  pp
+
+                              vib.          vib.
+6               4/4 >         arp    p m i   >      6/4       >     >
+e|-----------0--|-----------|--------------|---------|---------------------|
+B|---------6----|-----------|--------------|---------|---------------------|
+G|-------7------|-----------|--0-------0---|---------|---0-----3---2-------|
+D|--------------|-----------|--3---------3-|---------|---3---0-------5---3-|
+A|--------------|--<9>------|--7-----7-----|-7-------|---7-----------------|
+D|--------------|-----------|--0-----------|---------|-0g------------------|
+ 2/4     2 1        4         14                               1   1 4   2
+        sub. ff              f sfz  marcato e pesante  sfz
+
+11           F.  '  2/2                  >    metalico
+e|---0-------0------|--6---5---------|---0----------|---0-----12-|
+B|---3------3-------|--------8-----6-|-----------6--|------------|
+G|---0-----0------7-|------------6---|---------6----|------------|
+D|--------3---------|----------------|--<5>---------|------------|
+A|-------0----------|----------------|--------------|--<5>-------|
+D|------0-----------|----------------|--------------|------------|
+     3    2 3     3    2   1 4   2 3     1                    1
+    lento al rosace   marcato pesante   sfz   sub. p   sfz    p
+
+15  molto vib            F.   '         non legato
+e|--15---13-12----|--3---0-----12/-|-17g15---13-12----|
+B|----------------|----------------|------------------|
+G|----------------|--2---0---------|------------------|
+D|----------------|--2---3---------|------------------|
+A|----------------|------1---------|------------------|
+D|----------------|--3-------------|------------------|
+    3    2  1           13     3     3  1    2  1
+                       p               ff
+
+18 arp      non legato  accel.        >   >    arp    arp arp arp
+e|--3---0----------------------5-6-|--7---6-----3---|--0-------0----|
+B|-----------------------4-5-6-----|------0---------|------4--------|
+G|--2---0----------3-5-6-----------|------------2---|--0---2---0----|
+D|--2---3----3-5-6-----------------|------8-----2---|--3---0---3----|
+A|------1--------------------------|----------------|--1---0---4----|
+D|--3------------------------------|------------3---|---------------|
+       13    1 3 4 1 3 4 1 2 3 1 2    3  13           13  14  23
+                                                      marcato e pesante
+
+       rasg.                                   vib.     piu accel.
+21 arp  F.    '                                >          |-3-| |---5---|
+e|--0---0------12--|--15-13-12-12--17g15-13-12-17--|----------------------|
+B|--0---0----------|-------------------------------|----------------------|
+G|--2---1----------|---------------------------15--|----------------------|
+D|--3---3----------|-------------------------------|----3-3p2-0-----------|
+A|--4---4----------|-------------------------------|------------3-2p0-----|
+D|--0--------------|-------------------------------|------------------5-3-|
+   123 123     1      4  2  1  1   4  2  2  1  24       2 2 1   2 1   4 2
+                      sub. p e cantabile           sub. f >  cresc.   > >
+
+                   arpeggio simile       molto metalico    v
+24 arp arp arp     arp arp arp arp    arp arp arp arp      F.           F.
+e|--3---3---0----|--3---3---3---3---|--3---3---3---3---|---0------|--------||
+B|---------------|------------------|------------------|---0------|--------||
+G|--2---2---0----|--2---2---2---2---|--2---2---2---2---|---2------|--------||
+D|--0---1---3----|--0---1---0---1---|--0---1---0---1---|---3------|--------||
+A|---------------|------------------|------------------|---4------|--------||
+D|--1---0---0----|--1---0---1---0---|--1---0---1---0---|---0------|--------||
+   124  1   3    sub. p                                    >
+   ff marcato e         cresc.                    fff     sfz
+      pesante
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+left hand fingering (LHF)       right hand fingering (RHF)
+1 - index finger                p - thumb
+2 - middle finger               i - index finger (forefinger)
+3 - ring finger                 m - middle finger
+4 - little finger               a - ring finger (annular)
+
+fortissimo     ff  - very loud
+forte          f   - loud
+pianissimo     pp  - very soft
+piano          p   - soft
+fortississimo  fff - extremely loud
+
+bpm             - beats per minute (quarter notes)
+marcato         - with emphasis
+pesante         - heavy, ponderous
+doloroso        - in a sorrowful, mournful, plaintive manner
+fuoco           - fierily, with fervid emotion
+sub.            - subito - suddenly
+molto           - much, very
+metalico        - near the bridge
+arp             - arpeggiate
+sfz             - sforzando - strong, sudden accent on a note or chord
+vib.            - vibrate
+F.              - Fermata - pause, notes held for longer than their value
+lento al rosace - moving the right hand slowly (while arpeggiating) from
+                  sul ponticello position (near the bridge) to the soundhole
+legato          - in a smooth flowing manner, without breaks between notes
+accel.          - accelerando - accelerating, gradually getting faster
+rasg.           - rasgueado - strings strummed with the back of the fingernails
+e cantabile     - and in a singing style
+piu             - more
+simile          - in a similar manner
+cresc.          - growing louder
+
+h     - hammer-on
+p     - pull-off
+/     - slide up
+\     - slide down
+>     - accented, marked, stressed
+'     - slight pause, breath mark, luftpause
+g     - grace note (ornament) - extra notes played immediately
+        before the main notes
+v     - strum from the highest note down to the lowest note
+
+|-3-| - triplet    - 3 notes played in the time of 2 notes
+|-5-| - quintuplet - 5 notes played in the time of 4 notes
+
+<x>   - natural (open) octave harmonic on the x fret
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - revised by weed@wussu.com
+the latest version of this tab can be found at http://www.classtab.org
+

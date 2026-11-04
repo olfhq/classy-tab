@@ -1,0 +1,23 @@
+The Legend of Zelda - 4. Correct Solution (Puzzled Solved) - Toru Minegishi
+from The Legend of Zelda Series (arr Satoshi Aikawa)(Alfred Music Publishing)
+tab by Juan de Dios (14 Jan 2020)
+
+Tuning: E A D G B E
+
+                               F.    
+1  |   .   |   .   |   .   |   .
+E|-3--p2---------------0---4---8---||
+B|---------4-----------------------||
+G|-------------2---1---------------||
+D|---------------------------------||
+A|---------------------------------||
+E|---------------------------------||
+
+Notes
+-----
+The time signature is 4/4.
+
+===  - note held
+F.   - Fermata - note held, pause
+p    - pull-off
+

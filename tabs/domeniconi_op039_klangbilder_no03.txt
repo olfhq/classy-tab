@@ -1,0 +1,117 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 3 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tabbed by weed@wussu.com - 9 October 2019
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no03.mid
+video: https://www.youtube.com/watch?v=q7cSJi6ZIXU - Norbert Neunzling
+
+standard tuning: E A D G B E     key: -     time signature: 2/2
+
+3. Fortissimo-Studie (a study in loudness/dynamics)
+
+ Presto (quick, rapidly)
+1  | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-3---0---|---------|---------|---------|---------|---------|---------|
+B|---------|-3---0---|---------|---------|---------|---------|---------|
+G|---------|---------|-2---0---|---------|---------|---------|---------|
+D|---------|---------|---------|-2---0---|---------|---------|---------|
+A|---------|---------|---------|---------|-2---0---|---------|---------|
+E|---------|---------|---------|---------|---------|-3---2---|-0=-=-=-=|
+
+8  | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-0-------|---------|---------|---------|-0-------|---------|-3---0---|
+B|---------|-0-------|---------|---------|---------|-3-------|---------|
+G|---------|---------|-2-------|---------|---------|---------|---------|
+D|---------|---------|---------|-2-------|---------|---------|---------|
+A|---------|---------|---------|---------|---------|---------|---------|
+E|---------|---------|---------|---------|---------|---------|---------|
+
+15 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|---------|---------|---------|---------|---------|---------|---------|
+B|-3---0---|---------|-3---1-0-|---------|-3---1-0-|---------|-----3---|
+G|---------|-2---0---|---------|-2---0---|---------|-2-0-----|---------|
+D|---------|---------|---------|---------|---------|-----4---|-2-------|
+A|---------|---------|---------|---------|---------|---------|---------|
+E|---------|---------|---------|---------|---------|---------|---------|
+
+22 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|---------|---------|---------|-3---0---|---------|---------|---------|
+B|---------|---------|---------|---------|-3---0---|---------|---------|
+G|-2-------|---------|---------|---------|---------|-2---0---|---------|
+D|---------|-----0---|---------|---------|---------|-0=======|-2---0---|
+A|---------|---------|-0-------|-2=======|-3=======|---------|---------|
+E|---------|-0-------|---------|---------|---------|---------|---------|
+             (echo)
+                                                         F.
+                                                         >
+29 | . | .   | . | .   | . | .   | . | .   | . | .   | . | .
+e|-3---0---|---------|---------|---------|---------|-----2---||
+B|---------|-3---0---|---------|---------|---------|-----0---||
+G|---------|---------|-2---0---|---------|---------|---------||
+D|---------|---------|---------|-2-------|-0-------|-2=======||
+A|-3=======|-2=======|-0=======|---------|---------|---------||
+E|---------|---------|---------|-3-------|-1-------|-0=======||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"Este Klangbild e o primiero ao qual o compositor deu um subtitulo que, neste
+caso concreto, nos indica o objectivo do mesmo: Estudo em Fortissimo. As
+principais dificuldades deste estudo prendem-se, contudo, nao apenas com a
+dinamica (que deve ser fortissima), mas tambem com a velocidade (o compositor
+indica Presto) e articulacao. Este peca e construida a partir do motivo da
+primeira frase (cc. 1 a 7), que tem como base a escala pentatonica. Desta
+forma, toda a peca e desenvolvida a partir destas duas escalas. A seccao final
+(cc. 25 a 34) reexpoe o tema inicial, acrescentando, no entanto, uma segunda
+camada sonora com a introducao dos baixos.
+A nivel tecnico, este Klangbild desenvolve o estudo da dinamica em fortissimo,
+como ja foireferido, e trabalha igualmente o equilibrio sonoro entre todas as
+notas, uma vez que nao ha oscilacoes dinamicas. E ainda de realcar a utilizacao
+do efeito de eco (cc. 32 e 33), conseguido atrraves da utilizacao da tecnica
+de sul ponticello."
+[literal English translation from the Portugese]
+"This Klangbild is the first to which the composer gave a subtitle that, in
+this specific case, tells us the purpose of the same: Study in Fortissimo. The
+main difficulties of this study, however, relate not only to the dynamics
+(which must be very strong), but also to the speed (the composer indicates
+Presto) and articulation. This piece is constructed from the motif of the first
+phrase (measures 1-7), which is based on the pentatonic scale. In this way, the
+entire piece is developed from these two scales. The final section (m 25-34)
+reintroduces the initial theme, but adds a second sound layer with the
+introduction of the bass.
+At the technical level, this Klangbild develops the study of dynamics in a very
+strong way, as already mentioned, and works equally the sound balance between
+all the notes, since there are no dynamic oscillations. Also noteworthy is the
+use of the echo effect (m 32, 33), achieved through the use of the technique
+of sul ponticello."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as "Images" or "Figures" preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key signature. The piece is centered around Em.
+The tempo of the Norbert Neunzling vid and the MIDI is 276 bpm (half notes).
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - duration (note held)
+=-=    - let the note ring, do not dampen the sound
+>      - accented, marked, stressed
+bpm    - beats per minute
+F.     - Fermata - note held, pause
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

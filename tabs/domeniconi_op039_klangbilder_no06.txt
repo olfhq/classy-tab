@@ -1,0 +1,113 @@
+Op 39, Klangbilder (Images sonoras - Sound images) - Carlo Domeniconi (1947-)
+24 leichte Stucke fur Gitarre - No 6 - Edition Margaux, Berlin (1989)
+see Notes & Legend below - tabbed by weed@wussu.com - 2 December 2019
+MIDI: http://www.classtab.org/domeniconi_op039_klangbilder_no06.mid
+video: https://www.youtube.com/watch?v=z2bn1en2TDE - Norbert Neunzling
+
+tuning: EADGBE          key: -          time: -
+
+    >             >
+1   | . | . | .   | . | . | .   | . | . | .     | . | . | .   | . | . | .
+e|------0-------|-----0-------|--------------||-------------|-------------|
+B|--------------|-------------|---------0----||-1-----0-1===|-------0-3-3-|
+G|*---------2---|---------2---|-------0---2-*||-----2-------|-----2-------|
+D|*-----------3-|-----------3-|-----0-------*||---------3-2-|-------------|
+A|--------------|-------------|---0----------||-0=======----|-0===========|
+E|--0-----------|-0-----------|-0------------||-------------|-------------|
+
+                                                         + (Coda sign - jump to
+6  | . | . | .   | . | . | .   | . | . | .   | . | . | .    the Coda on replay)
+e|-------------|-------------|-0-------0---|-3---1-0-----|
+B|-1-----0-1---|-------0-1-3-|-----1-3---1-|---------3-1-|
+G|-----2-------|-----2-------|-3=======2===|-0===========|
+D|---------3-2-|-------------|-------------|-------------|
+A|-0=======----|-0===========|-------------|-------------|
+E|-------------|-------------|-------------|-------------|
+
+   s   t       ' >             >
+10 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-----0-------|-----0-------|-----0-------|-----------0-|-1-----0-1-3-|
+B|-3-----------|---------0---|---------0---|-----0-1-3---|-----3---0===|
+G|-----0-------|-----------2-|-----------2-|---2---------|-3=======----|
+D|-3-----------|-3-----------|-3-----------|-3===========|-------------|
+A|-1---3-------|-------------|-------------|-------------|-------------|
+E|-------------|-------------|-------------|-------------|-------------|
+
+15 | . | . | .   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-0-----------|-0---0-0-0===|===0-0---0===|=====0-0-0===|===0-0---0---||
+B|-1---3-1-3---|-------------|-------------|-------------|-------------||
+G|---------3---|-2===========|-2===========|-2===========|-2===========||
+D|-------------|-------------|-------------|-------------|-------------||
+A|-------------|-------------|-------------|-------------|-------------||
+E|-------------|-------------|-------------|-------------|-------------||
+                                                     dim.               da capo
+                                                                        al coda
+                              return to the start and play to the Coda sign (+)
+ + (Coda)
+   s   t       '
+20 | . | . | .   | . | . | .
+e|-----0-------|-0===========||
+B|-3-----------|-2===========||
+G|-----0-------|-------------||
+D|-3-----------|-2===========||
+A|-1---3-------|-0===========||
+E|-------------|-------------||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+[from '24 Klangbilder - Imagens sonoras' - Carlo Domeniconi (Berlin 1989)]
+"A principal caracteristica a destacar deste Klangbild sera a diferenca entre
+o motivo inicial, que e escrito a uma voz apenas, e que e desenvolvido
+posteriormente em duas vozes, a partir da sugestao inicial, com os finais em
+cadencias bem marcadas atraves da articulacao. A dificuldade fumndamental reside
+em separar as voxes, preocupacao que o compositor parece ter muito em conta ao
+longo de toda esta serie, sendo que nestas pecas a simplicidade das posicoes de
+mao esquerda pode libertar mais facilmente o interprete para essa preocupacao."
+[an approximate English translation from the Portugese]
+"The main feature of this Klangbild will be the difference between the initial
+motive, which is written with one voice, and which is developed later in two
+voices, from the initial theme, ending in well-marked cadences through the
+articulation. The fundamental difficulty lies in separating the voices, a
+concern that the composer seems to take into account throughout this series,
+and in these parts the simplicity of the positions of the left hand can more
+easily free the interpreter from this concern."
+
+[from the notes accompanying the sheet music - Carlo Domeniconi]
+"Sound figures are a series of small musical pieces indicating forms which as
+well are to be found in more complex compositions. Therefore they are not to be
+understood as fragments or sketches but as 'Images' or 'Figures' preparing most
+efficiently - because of their shortness and technical facility - the later
+playing of more complex works."
+
+"...although the pieces are very easy to play, they demand a lot of control
+over dynamic and sound, so there is quite a lot to learn from this work."
+(Norbert Neunzling)
+
+The sheet music does not have a key signature or a time signature, but the
+piece is centered around Am and appears to be in 3/4 time. The tempo of the
+MIDI and the Norbert neunzling video is 180 bpm (quarter notes).
+Order of play - 1-3, 1-3, 4-19, 1-3, 1-3, 4-9, 20-21
+
+===   - duration (note held)
+>     - accented, marked, stressed
+'     - slight pause, breath mark
++     - Coda sign
+bpm   - beats per minute
+dim.  - diminuendo - diminishing, gradually getting softer
+F.    - Fermata - pause, notes held for longer than their value
+s     - staccato - detached, cut off, the note is not held for its full value
+t     - (above the tab) tenuto - stressed, slightly accented - played firmly -
+        the note is held for at least its full length
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+

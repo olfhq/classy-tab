@@ -1,0 +1,74 @@
+Op 5, Six Petites Pieces Tres Faciles - 1. Menuetto in G - Fernando Sor
+editions: Simrock 2303 (Boije 460); Stich und Druck 9105
+see Notes & Legend below - tab by weed@wussu.com - 31 January 2021
+MID http://www.classtab.org/sor_op05_6_petites_pieces_faciles_1_menuetto_in_g.mid
+vid https://www.youtube.com/watch?v=-zifOcvQNqQ - Hiromu Taguchi
+
+standard tuning: E A D G B E    key: G major    time: 3/4
+
+    C3________________
+1   | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|------3-------|---7p5-3-----|-------------|-------------|
+B|--3-------5---|-3-------7-5-|-3---1---0---|-0=======----|
+G|*-4-------5---|-4-----------|-4---2---0---|-0=======2---|
+D|*-------------|-------------|-0---4-------|-0-------4---|
+A|--------------|-------------|-------------|-----4---5---|
+E|--3=======3---|-3===--------|-------------|-------------|
+
+   C3________________          C2
+5  | . | . | .   | . | . | .   | . | . | .   | . | . | .
+e|-----3-------|---7p5-3-----|-----0-------|--------------|
+B|-3-------5---|-3-------7-5-|-4-------2---|-3------------|
+G|-4-------5---|-4-----------|-2---0---0---|-------------*|
+D|-------------|-------------|-4---2-------|-4--<5>==----*|
+A|-------------|-------------|-2-------0---|-5------------|
+E|-3=======3---|-3===--------|-------------|--------------|
+
+    c7__________                               c5__
+9   | . | . | .   | . | . | .   | . |  . | .   | . | . | .
+e|------8---7---|-7---5---3---|-----10-9-8-7-|-7-5-----3---|
+B|------7---8---|-3-----7-0---|-----7====8===|-----7---0---|
+G|*-7-----------|-5=======----|-7------------|-5=====7-----|
+D|*-0===========|-0===========|-0============|-0===========|
+A|--------------|-------------|--------------|-------------|
+E|--------------|-------------|--------------|-------------|
+
+   C3  C5________C8______
+13 | . | . | .   | . | . | .           |   .   |   .   |   .     | . | . | .
+e|-3---5---7---|-8---12==----|-9g10g12g10----7---------2-------|-3------------||
+B|-3---7---6---|-----8===----|---------0=======8-------1-------|-0------------||
+G|-4---5---7---|-9---9===----|---------0===============2-------|-0--<5>==----*||
+D|-5---5---5---|-10----------|---------0===============0-------|-------------*||
+A|-------------|-------------|---------------------------------|--------------||
+E|-------------|-----8===----|---------------------------------|-3------------||
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The piece is perhaps easy ("facile") to listen to, but is not so easy to play!
+The sheet does not give any left hand fingering - the tab follow the video.
+The tempo of the MIDI is 112 bpm (beats per minute - quarter notes).
+
+measure 12 - in the sheet the C on the 1st beat (5th fret) is a half note
+measure 15 - in the sheet the B in the 1st chord (open 2nd string) is a half note
+
+===  - note held, length of note, duration
+<5>  - natural (open) double octave harmonic on the 5th fret
+p    - (between the notes) pull-off
+c1   - part barre on the 1st fret
+C1   - barre on the 1st fret
+c2   - part barre on the 2nd fret
+C2   - barre on the 2nd fret
+etc
+
+|----  ----|   repeat the section
+|----  ----|
+|*---  ---*|
+|*---  ---*|
+|----  ----|
+|----  ----|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you come across any mistakes please let me know - weed@wussu.com
+
