@@ -1,0 +1,87 @@
+Op 23, Musik fur den Kleinen Prinzen - Carlo Domeniconi (born 1947)
+Hommage a A de Saint-Exupery (Homage to Antoine de St Exupery)
+(Music For The Little Prince, Musique pour le petit prince)
+4. Der Konig (The King, Le roi)
+edition: Guitarren-Studio GS-66, Eleonara & Michael Haas (Berlin, 1987)
+see Notes and Legend below the tab
+audio: https://youtu.be/ey_iqoF3Mv8?t=166 - Jalil Castrejon (from 2min 46sec)
+video: https://youtu.be/uZctqEBCmjw?t=182 - Joseph Ehrenpreis (from 3min 2sec)
+
+tuning: E A D G B E     key: -     time: 4/4, 3/2, 3/4, 2/2     tempo: 88 bpm
+
+1 4/4          '   '   '        '   '                   CV  CVII
+e|--------|-----0---2------|-0------------------|-----------------|
+B|--------|-3---1---3---3--|-0---2---3---0-0--0-|-7--5---7--10----|
+G|-2-2--2-|-0---0---0---4--|-0---2---0-----0----|-4--5---7--9-----|
+D|---0----|-------------4--|---------2-----4----|-6--7---9--------|
+A|---3----|-2---1---0------|-----2--------------|--------------0--|
+E|--------|-------------3--|-2------------------|------0----------|
+   2 3      14  12  12       1  234  24    3     134 3   3  34
+   f                                             piu dolce
+
+5                  3/2               3/4
+e|-7---10---12-p0--|-0-------5-------|-7--4h5-7h9--|
+B|-7---10---0------|-----12--7---6---|-5-----------|
+G|--------0--------|-12------4-------|-------------|
+D|---0-------------|-10--------------|-6-----------|
+A|-----------------|-----------------|-------------|
+E|-----------------|-----------------|-0-----------|
+  [1   34   4        13  4  124  3    124 1 2 2 4
+                                       f dolce
+
+8                              F.
+e|-0---2--------|---------0--|-2------------|---------0--|
+B|--------------|-0---3---2--|-4---4h5-7h9--|-5---3---1--|
+G|--------------|-----4---2--|-4------------|-----0---0--|
+D|-6---2h4-6h7--|-----0------|--------------|-6----------|
+A|--------------|-6----------|---------0----|-4---2---1--|
+E|-5------------|-4---3---2--|-0------------|------------|
+  12  [1 3 3 4   13  123 234  134  1 2 2 4   123 14  12
+                                                     rall.
+
+                                      CII
+12 2/2            4/4                arp.
+e|--------------|----0--2-----|-0-----2------||
+B|-3------------|-3--1--3--3--|-1--3--3------||
+G|-4-----2-2--2-|-0--0--0--4--|-0--4--2------||
+D|-4-------0----|----------4--|----4--2------||
+A|-0-------3----|-2--1--0-----|-------0------||
+E|--------------|----------3--|-1--0---------||
+  234    2 3     14 12 12      12 234 2
+           f                   rall.
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The sheet suggests a total time for the piece of 38 sec.
+
+left hand fingering (LHF)
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+CII     barre on the 2nd fret
+CV      barre on the 5th fret
+CVII    barre on the 7th fret
+[       barre with the index finger
+
+forte    f   - loud
+
+bpm    - beats per minute (quarter notes)
+piu    - more
+dolce  - gently, sweetly
+F.     - Fermata - pause, notes held for longer than their value
+rall.  - rallentando - slowing down
+arp.   - arpeggiate - ripple upwards from lowest note to highest note
+
+h  - hammer-on
+p  - pull-off
+'  - slight pause, breath mark
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (5 February 2026)
+the latest version of this tab can be found at http://www.classtab.org
+

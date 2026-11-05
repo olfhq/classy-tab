@@ -1,0 +1,94 @@
+Op 23, Musik fur den Kleinen Prinzen - Carlo Domeniconi (born 1947)
+Hommage a A de Saint-Exupery (Homage to Antoine de St Exupery)
+(Music For The Little Prince, Musique pour le petit prince)
+2. Der Laternenanzunder (The Lamplighter, L'allumeur)
+edition: Guitarren-Studio GS-66, Eleonara & Michael Haas (Berlin, 1987)
+see Notes and Legend below the tab
+audio: https://youtu.be/ey_iqoF3Mv8?t=73 - Jalil Castrejon (from 1min 13sec)
+video: https://www.youtube.com/watch?v=oIWxJptV0oU - Norbert Neunzling
+
+tuning: E A D G B E      key: -
+
+    (100 beats per minute - quarter notes)
+   p i m a m
+1          F.                F.  |-3-| F.                 F.
+e|-------------<12>---2[14]----|-------0---5[17]---7[19]----|
+B|-------0-3-------------------|-----3----------------------|
+G|-----0-----------------------|---0------------------------|
+D|---4-------------------------|-0--------------------------|
+A|-2---------------------------|----------------------------|
+E|-----------------------------|----------------------------|
+   1 3     2          [1             2      4
+   p decresc.   p                decresc.   p
+
+                     CVII
+3                    arp.    3/4   sweet and simple
+e|----------0---------7------|-7---7--8--10--12--|--------------|
+B|-------2------------10-----|-------------------|-8---10-------|
+G|----0---------------7------|-------------------|--------------|
+D|------------<19>----9------|-------------------|--------------|
+A|-3-------------------------|-------------------|--------------|
+E|---------------------------|-------------------|--------------|
+   2     1            34       1   1  2  2   4     1   4
+                      p       mp   cresc.          decresc.
+
+                       lunga
+6                        F.                F.                         F.
+e|-----------------|-------------|-------------<12>---2[14]---4[16]-----
+B|-3---0--1-/3--5--|-------------|-------0-3----------------------------
+G|-----------------|-0---2-------|-----0--------------------------------
+D|-----------------|-----0-------|---4----------------------------------
+A|-----------------|-------------|-2------------------------------------
+E|-----------------|-----1-------|--------------------------------------
+   4      1  1  4       13                            [1      4
+   cresc.                    poco mf
+
+(8) |-3-| F.
+e|--------0---5[17]-----7[19]-----||
+B|------3-------------------------||
+G|----0---------------------------||
+D|--0-----------------------------||
+A|--------------------------------||
+E|--------------------------------||
+        2     4         4
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The sheet suggests a total time for the piece of 58 sec.
+
+measure 6 - the 4 notes at the start are allowed to continue ringing, and the
+            2nd harmonic (F# on the 1st string) is played with a hinged barre.
+
+left hand fingering (LHF)     right hand fingering (RHF)
+1 - index finger              p - thumb
+2 - middle finger             i - index finger (forefinger)
+3 - ring finger               m - middle finger
+4 - little finger             a - ring finger (annular)
+
+CVII    barre on the 7th fret
+[       barre with the index finger
+
+piano          p   - soft
+mezzo-piano    mp  - medium soft
+mezzo-forte    mf  - medium loud
+
+F.       - Fermata - pause, notes held for longer than their value
+arp.     - arpeggiate
+lunga    - a prolonged pause or rest
+poco     - a little
+cresc.   - crescendo - becoming louder
+decresc. - decrescendo - becoming softer
+
+<x>   - natural (open) harmonic on the x fret
+x[y]  - artificial harmonic, play x fret, point to the y fret
+
+|-3-|  - triplet - 3 notes played in the time of 2 notes
+/      - slide the note up
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (28 January 2026)
+the latest version of this tab can be found at http://www.classtab.org
+

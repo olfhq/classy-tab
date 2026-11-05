@@ -1,0 +1,119 @@
+Op 23, Musik fur den Kleinen Prinzen - Carlo Domeniconi (born 1947)
+Hommage a A de Saint-Exupery (Homage to Antoine de St Exupery)
+(Music For The Little Prince, Musique pour le petit prince)
+9. Die Rose im Garten (The Rose in the Garden, Le rose dans le jardin)
+edition: Guitarren-Studio GS-66, Eleonara & Michael Haas (Berlin, 1987)
+see Notes and Legend below the tab
+audio: https://youtu.be/ey_iqoF3Mv8?t=450 - Jalil Castrejon (from 7min 30sec)
+video: https://youtu.be/uZctqEBCmjw?t=450 - Joseph Ehrenpreis (from 7min 30sec)
+video: https://www.youtube.com/watch?v=2fa4cfshwhk - Aniko Juhasz
+
+tuning: E A D G B E          key: -          time: -
+
+                         >       >       >       >
+1  p i m a p i m a m i p a m i p a m i p a m i p
+e|---------------0-------4-------0-------------------------
+B|-------0-----0---0-------0-------4-----0-------0-------0-
+G|-----6-----6-------6-------6-------6-----6-------6-------
+D|---6-----6-----------6-------6-------6-----6-------6-----
+A|-4-------------------------------------------0-------0---
+E|---------------------------------------------------------
+   1 3 4                 1         1
+  mf decresc.
+
+(1)                F.     a tempo
+e|----------------------|---------------0-------4-------0-
+B|-------0-------0------|-------0-----0---0-------0-------
+G|-6-------6-------6----|-----6-----6-------6-------6-----
+D|---6-------6----------|---6-----6-----------6-------6---
+A|-----0-------0--------|---------------------------------
+E|----------------------|-0-------------------------------
+           rall.         mf decresc.
+
+(2)
+e|-------------------------------------------|
+B|-4-----0-------0-------0-------0-----------|
+G|---6-----6-------6-------6-------6---------|
+D|-----6-----6-------6-------6-------6-------|
+A|-------------4-------4-------4-------4-----|
+E|-------------------------------------------|
+               1               rall.
+
+3  a tempo                              a p p i m a p i m a m i p m i p
+e|---------0------------------4-------|-----------0-------7----------------|
+B|-4---------4--------7---------7-----|-0-------0-------0---0-----0--------|
+G|---6---------6--------6---------6---|-------8-------8-------8-----8------|
+D|-----6---------6--------6---------6-|-----6-------------------6----------|
+A|-------0------------------0---------|-------------7----------------------|
+E|------------------------------------|---0---------------------------0----|
+   1 3 2              4       1             1 4               rall.
+   cresc.                               decresc.
+
+5   a tempo
+e|----------0---------------------------------------------------
+B|--4---------4-----4-------0-------0-------0-------0-------0---
+G|----6---------6-----6-------6-------6-------6-------6---------
+D|------6---------6-----6-------6-------6-------6-------6-------
+A|--------0---------------0-----------------------4-------6-----
+E|--------------------------------0-------4---------------------
+    1 4 3                     4 3         1       1       2
+    f cresc.                      p decresc.                p
+
+(5) p a m i                             rall.
+e|----0-------0-------0-----------0-------4-----------7-9--
+B|------0-------0-------0-------0-------4---4-------5------
+G|--------8-------8-------8---6-------6-------6------------
+D|------------------6-------9-------------------<7>--------
+A|--7-------9-----------------------0----------------------
+E|---------------------------------------------------------
+    2       4       1         1       3 [1       4  2 4 4
+    cresc.                         mf decresc.
+
+(5) a m i p i m a m i p a m i
+e|--0-----------0-------0--------||------------||--------------||
+B|----7-------9---9-------9------||---Repeat---||-0------------||
+G|------8---8-------8-------8----||--measures--||-6------------||
+D|--------6-----------6----------||----1-2-----||-6------------||
+A|-------------------------------||------------||-4------------||
+E|--0----------------------------||------------||--------------||
+      2 3 1   4     rall.
+   piu legato  decresc.
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The sheet suggests a total time for the piece of 1 minute 10 seconds.
+The order of play is 1-5, 1-2, 6.
+In the sheet the D# in measures 1 & 2 on the 2nd string is D, in measure 3 the
+F#s on the 2nd string are Fs, and in measure 5 the G# on the 6th string is G.
+
+left hand fingering (LHF)     right hand fingering (RHF)
+1 - index finger              p - thumb
+2 - middle finger             i - index finger (forefinger)
+3 - ring finger               m - middle finger
+4 - little finger             a - ring finger (annular)
+
+[    barre with the index finger
+
+mezzo-forte    mf  - medium loud
+forte          f   - loud
+piano          p   - soft
+
+cresc.      - crescendo - growing louder
+decresc.    - decrescendo - growing softer
+rall.       - rallentando - slowing down
+F.          - Fermata - pause, notes held for longer than their value
+a tempo     - at normal speed
+piu legato  - 'more connected'. smoother. in a flowing manner,
+              with no separation between the notes
+
+>   - accented, marked, stressed
+
+<7> - natural (open) harmonic on the 7th fret
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (15 February 2025)
+the latest version of this tab can be found at http://www.classtab.org
+

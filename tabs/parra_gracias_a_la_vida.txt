@@ -1,0 +1,285 @@
+Gracias a la Vida (Thanks to Life) - Violeta Parra (1917-1967)
+arranged by Emmanuel Sowicz (2019)
+see Notes and Legend below - tab by weed@wussu.com - 27 February 2026
+MIDI: http://www.classtab.org/parra_gracias_a_la_vida.mid
+video: https://www.youtube.com/watch?v=IG8AOTdZSpY - Emmanuel Sowicz
+video: https://www.youtube.com/watch?v=jqfmTsu0q54 - Stephanie Jones
+video: https://www.youtube.com/watch?v=bI3gQC1WfEQ - Julia Trintschuk
+
+tuning: D A D G B e    key: D minor    time: 6/8    tempo: 54-66 bpm
+
+ Andantino (at a moderate speed)
+
+1  | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|-------0-----|-------------|-------0-----|-------------|-------1---5-|
+B|-----6-----5-|-----3-2-----|-----6-----5-|-----3-2-----|---3-----3===|
+G|---2-----5---|---3-----3-2-|---2-----5---|---3-----3-2-|-----2===----|
+D|-0=====------|-0=====------|-0=====------|-0=====------|-3===--------|
+A|-------------|-------------|-------------|-------------|-------------|
+D|-------0=====|-------0=====|-------0=====|-------0=====|-------------|
+     1 4   3 4     2 3 2 3 1                               3 4 2 1 2 4
+   p                                                       > > > > > >
+
+     (Theme)     C5~~~~~~~~~~
+   F.                t                   t     t
+6  | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|---5-5---556=|=====--------|---3-3-3-----|-------------|-------------|
+B|-------------|-----5=======|---------6-10|===3=========|---6-6-6===6-|
+G|-------------|---7-----7---|-6-----------|-------------|---------2---|
+D|<5>----------|-------8-----|-------------|---3p2-0-----|-------------|
+A|-------------|-------------|-0===========|---------0---|-------------|
+D|-------------|-5=-=-=------|-------------|-0=-=-=----3-|-0=====-=-=-=|
+   3 1       2     3   4 3    \3 1     4/4    \4             4   1
+     mf cantabile (in a singing stle)          3 2     3
+
+             C3~~~~~~~~~~~~~~~~~~~~~~~~~~~~                  c3~~~~~
+11 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|-------0-----|---5-5-5-3-5=|===----------|---5-5-5-5-5=|===3=======0-|
+B|-6-------6---|-------5=====|---6===6=====|-------------|-------6-----|
+G|---3=======3=|===----3=====|-----5=-=-=3-|-------------|-----3---3---|
+D|-----0-------|-------------|-3===========|-------------|-------------|
+A|-------------|-3=====-=-=-=|-------------|-------------|-------------|
+D|-5=-=-=------|-------------|-------------|<19>===3=====|-5===-=-=-=--|
+   4 1     4 1     3   3 1 3     4 2     1     3
+   3                   2         > > > > >         1
+
+                 C1~~~~~~~~~~                C5~~~~~~
+16 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|---3-3-3-3-3=|===1=========|-------------|---------0-1-|-3======/5===|
+B|-4=====-=-=-=|-------3-----|---6-6-6-6-6=|===----------|-----------2-|
+G|-5=====-=-=-=|-------------|-------------|-------------|-------0=-=-=|
+D|-------------|-----3---2h3-|-7=====0=====|-----8===----|-----3-------|
+A|-------0=====|-1===-=-=-=--|-------------|---5---------|-------0=-=-=|
+D|-------------|-------------|-------------|-5-----------|---2---------|
+   3 2             1             2               4     1   4       4
+   4             1   3 4 2 3  /3 dolce > > >                 1 3     1
+
+   t     t
+21 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | .     . | . .
+e|-6=====5=====|-------------|---------0h1-|-5=======----|-0---1g0g--------|
+B|-----2=-=2h3-|---6-6-6-6-6=|===5=====----|---------6===|---------3=====--|
+G|---0=-=-=----|-------------|-------3===--|-------6---0=|-=---------------|
+D|-------------|-3===2-0=====|-----0-------|---7h8-------|---3-------2-0---|
+A|-------------|-------------|-------------|-0=-=-=------|---------------4-|
+D|-0=-=-=-=----|-------------|-5=-=-=------|-------------|-0=-=-=----------|
+  /4    /4         4             4       1  /1       3             4
+       1   1 2   1   1         3     1         3 4 2         3       2   2
+
+                 poco meno (a little slower)       dim.
+26 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|-------0-----|-------------|-------0-----|-------------|-------1---5-|
+B|-----6-----5-|-----3-2-----|-----6-----5-|-----3-2-----|---3-----3===|
+G|---2-----5---|---3-----3-2-|---2-----5---|---3-----3-2-|-----2===----|
+D|-0=====------|-0=====------|-0=====------|-0=====------|-3===--------|
+A|-------------|-------------|-------------|-------------|-------------|
+D|-------0=====|-------0=====|-------0=====|-------0=====|-------------|
+     1 4   3 4     2 3 2 3 1                               3 4 2 1 2 4
+                                                           < < < < < <
+
+     ' espressivo (with expression)       t                       c3
+31 |  . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|/9====10==----|---0=====----|-------------|-----5===----|-------------|
+B|-0--------8===|-------------|-------------|---------2/6-|-5-----3=====|
+G|--------------|-0-------3/7-|-6===========|-3===--------|-------------|
+D|----7-7-7-7-8=|====\2=====--|---5-5-5---7-|===0=========|---3-3-3-3-3=|
+A|-8------------|-------------|-0=======8===|-------0=====|-------------|
+D|--------------|-------5===--|-------------|-------------|-0===========|
+   4    4   3             2     3             1   4   3     3
+ f 2  1       2       1 4         1     4 3                   1
+
+                 C3~~~~~~~~~~~~~~~~~~~~~~~~  poco meno
+36 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|---------0---|-3=====------|-------------|-------------|-------------|
+B|===----3---6-|-6=====------|-------------|-------------|-------------|
+G|---5===------|-------3=====|-------------|---2-2-2-2-2=|===0=====0---|
+D|=====--------|---7-7-7-5-7=|===3=========|-------------|-------0-----|
+A|-----1=====--|-3===========|-------7=====|-5=====------|-----1-----4-|
+D|-5===--------|-------------|-3=====------|-------3=====|-2-----------|
+     4   2   3   3                             1   1
+   3   1           4     2 4         4      \4     2       2   1     4
+
+41 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|-------------|-------------|-------------|-------------|-------0=====|
+B|-------------|-------------|-------------|-------3=====|-----3-------|
+G|---0-0-0-0-0=|===----------|-------------|-----0-------|---6---------|
+D|-------------|---3=========|---3-3-3-3-3=|===2======2h3|-5=======7---|
+A|-----4===0===|-5=====4=====|-3=====2=====|-1===========|-0=========0-|
+D|-1===-=-=-=--|-------------|-------------|-------------|-------------|
+                   1             3   3         2   4       3 4 1
+   1   4         3     2      \2     1      \1        2 3          2
+                               < < < < < <
+
+   t     t       poco meno                                 t     t
+46 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|-------------|-0=====------|-------------|-------0=====|-------------|
+B|-----8===--6-|-------3=====|-------3===--|-----6-------|-----2-----3=|
+G|---6-----7---|-------------|-----3-------|---6---------|---0-----2---|
+D|-8=====7=====|---3-3-3-3-3=|===2=====2h3-|-7=======3---|-2-----0=====|
+A|-------------|-------------|-------------|-0===========|-------------|
+D|-0===========|-------------|-5=====------|-------------|-0===========|
+     1 4   3 1         3         1 2 3       3 1 2   3     1   2   1 3
+   3     2         2   2       4       1 3         dim.
+
+
+   poco rall.         TF.      rall. molto                  a tempo poco a poco
+51 | . . | . .   | . . | . .   | . . | . .   | .     . | . .   | . . | . .
+e|---1-1-1-1-1=|===0=====0---|-5=======----|-0---1g0g--------|-------0-----|
+B|===----------|-------3---6=|===------6---|---------3=====--|-----6-----5-|
+G|-------------|-----0=-=----|-------------|-----------------|---2-----5---|
+D|-------------|-------------|-------------|---3-------2-0---|-0=====------|
+A|-4=====3=====|-2=-=-=------|-3-----4=====|---------------4-|-------------|
+D|-------------|-------------|-------------|-0=-=-=-=--------|-------0=====|
+     1   1             4   4   3       4             4
+   4     3       2             1     2         3       2   2
+
+                 dim.                        rall.         F.
+56 | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|-------------|-------0-----|-------------|-------1-----|-------------||
+B|-----3-2-----|-----6-----5-|-----3-2-----|---3-----3===|-------------||
+G|---3-----3-2-|---------5---|---3-----3-2-|-----2===----|-------------||
+D|-0=====------|---2---------|-------------|-3===--------|<5>----------||
+A|-------------|-0=====------|-0=====------|----------<5>|-------------||
+E|-------0=====|-------0=====|-------0=====|-------------|-------------||
+                                             3 4 2 1 2 4 (quasi niente)
+                                             > > > > > (fading to silence)
+
+
+Notes and Legend
+~~~~~~~~~~~~~~~~
+This was written by Violeta in 1966, the year before she took her own life.
+Violeta Parra's original recording - https://youtu.be/w67-hlaUSIs
+Mercedes Sosa's classic recording - https://youtu.be/cIrGQD84F1g
+Joan Baez recording - https://www.youtube.com/watch?v=Pz_7h2Ytq1k
+Joan Baez & Mercedes Sosa recording - https://youtu.be/rMuTXcf3-6A
+Another performance by Emmanuel Sowicz - https://youtu.be/lKdQkGGSy64
+
+~~~~~~~~~~~~~~~~~~~~~
+
+The grace notes in measure 55 don't seem to be played by Emmanuel Sowicz,
+but are easily heard in the Stephanie Jones video.
+The suggested total time for the piece is 2min 20 sec.
+The volume expressions in measures 6 & 31 refer to the melody - the
+accompanying notes are played softer.
+
+left hand fingering (LHF) below tab
+1 - index finger (forefinger)
+2 - middle finger
+3 - ring finger (annular)
+4 - little finger (pinky)
+
+=====  - length of note, note held, duration
+=-=-=  - let the note ring, don't cut it short
+/      - (below the tab) slide the finger up to the next note
+\      - (below the tab) slide the finger down to the next note
+/      - (between the notes)- side the note up without replaying it
+'      - slight pause, breath mark
+< < <  - crescendo - becoming louder
+> > >  - decrescendo - becoming quieter
+bpm    - beats per minute (dotted quarter notes)
+C1     - barre on the 1st fret
+c3     - part barre on the 3rd fret
+C3     - barre on the 5th fret
+C5     - barre on the 5th fret
+dim.   - diminuendo - diminishing, becoming gradually softer
+f      - forte
+F.     - Fermata - pause, notes (or rests) held for longer than their value
+TF.    - Triangular Fermata - short pause
+g      - grace note (ornament) - extra note played just before the main note -
+         following note is usually played as a hammer-on, pull-off or slide
+h      - hammer-on
+mf     - mezzo-forte - moderately loud (the melody)
+molto  - much, greatly
+p      - (below the tab) piano - soft, quietly
+p      - (between the notes) pull-off
+poco   - little, a little (poco a poco - little by little, gradually)
+rall.  - rallentando - slowing down and becoming quieter
+t      - tenuto - note held for at least it's full length, played firmly
+tempo  - speed (a tempo - return to the earlier tempo)
+<5>    - natural open (double octave) harmonic on the 5th fret
+<19>   - natural open harmonic on the 19th fret (played with the right hand)
+
+~~~~~~~~~~~~~~~~~~~~~
+
+"Gracias a la vida, que me ha dado tanto
+Me dio dos luceros, que cuando los abro
+Perfecto distingo lo negro del blanco
+Y en el alto cielo, su fondo estrellado
+Y en las multitudes, el hombre que yo amo
+
+Gracias a la vida, que me ha dado tanto
+Me ha dado el oido, que en todo su ancho
+Graba noche y dias, grillos y canarios
+Martillos, turbinas, ladridos, chubascos
+Y la voz tan tierna de mi bien amado
+
+Gracias a la vida, que me ha dado tanto
+Me ha dado el sonido y el abecedario
+Con el, las palabras que pienso y declaro
+Madre, amigo, hermano, y luz alumbrando
+La ruta del alma del que estoy amando
+
+Gracias a la vida, que me ha dado tanto
+Me ha dado la marcha de mis pies cansados
+Con ellos, anduve ciudades y charcos
+Playas y desiertos, montanas y llanos
+Y la casa tuya, tu calle y tu patio
+
+Gracias a la vida, que me ha dado tanto
+Me dio el corazon, que agita su marco
+Cuando miro el fruto del cerebro humano
+Cuando miro el bueno tan lejos del malo
+Cuando miro el fondo de tus ojos claros
+
+Gracias a la vida, que me ha dado tanto
+Me ha dado la risa y me ha dado el llanto
+Asi yo distingo dicha de quebranto
+Los dos materiales que forman mi canto
+Y el canto de ustedes que es el mismo canto
+Y el canto de todos que es mi propio canto
+
+Gracias a la vida..."
+
+"Thank you to life, that has given me so much:
+it gave me two bright stars, and when I open them
+I can perfectly distinguish white from black
+and in the high heavens, their starry depths
+and among the multitudes, the man I love.
+
+Thank you to life, that has given me so much:
+it has given me my hearing, that in all its breadth
+records night and day, crickets and canaries,
+hammers, turbines, howls, and torrential rains,
+and the tender voice of my beloved.
+
+Thank you to life, that has given me so much:
+it has given me sound, and the letters of the alphabet,
+and with these the words that I think and declare:
+mother, friend, brother, and light illuminating
+the path of the soul that I am loving.
+
+Thank you to life, that has given me so much:
+it has given me the stride of my tired feet -
+with them I have traversed cities and puddles,
+beaches and deserts, mountains and plains,
+your street, your house, and your doorstep.
+
+Thank you to life, that has given me so much:
+it gave me my heart, that shakes in its frame
+when I look at the fruits of the human brain,
+when I look at good, so distinct from evil,
+when I look into the depths of your clear eyes.
+
+Thank you to life, that has given me so much:
+it has given me laughter and it has given me tears -
+that's how I can tell joy from agony,
+the two materials that form my song,
+and your song, which is the same song
+and everyone's song, which is my own song.
+
+Thank you to life..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+the latest version of this tab can be found at http://www.classtab.org
+if you find any mistakes or have any queries please let me know - thanks!
+

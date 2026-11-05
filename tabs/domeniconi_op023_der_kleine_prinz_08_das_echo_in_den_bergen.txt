@@ -1,0 +1,111 @@
+Op 23, Musik fur den Kleinen Prinzen - Carlo Domeniconi (born 1947)
+Hommage a A de Saint-Exupery (Homage to Antoine de St Exupery)
+(Music For The Little Prince, Musique pour le petit prince)
+8. Das Echo in den Bergen (The Echo in the Mountains, L'echo dans les montagnes)
+edition: Guitarren-Studio GS-66, Eleonara & Michael Haas (Berlin, 1987)
+see Notes and Legend below the tab
+audio: https://youtu.be/ey_iqoF3Mv8?t=389 - Jalil Castrejon (from 6min 29sec)
+video: https://youtu.be/uZctqEBCmjw?t=371 - Joseph Ehrenpreis (from 6min 11sec)
+
+tuning: E A D G B E         key: -         time: 2/2, 3/4
+
+1 2/2                              F.   |-3-|   |-3-| |-3-| |-3-| |-3-|
+e|----------------|-0--7--9------|------------|-------------------------|
+B|--------0-------|----------10--|----------0-|-----0-----0-----0-----0-|
+G|----------6-----|--------------|------------|-6-----6-----6-----6-----|
+D|---7--7------7--|--------------|------------|---7-----7-----7-----7---|
+A|----------------|--------------|------------|-------------------------|
+E|----------------|--------------|------------|-------------------------|
+   f 2      1      pp  3  3  4                  p cresc.
+
+5                                    3/4
+e|-0-----------|<12>------------------|-----------|----------|
+B|---0---------|----<12>--------------|-----------|----------|
+G|-----6-------|----------------------|-----------|----------|
+D|-------7-----|-----------<7>--------|-------2-4-|----------|
+A|---------0---|--------<9>---<12>----|-4---5-----|-0--2--5--|
+E|-------------|----------------------|-----------|----------|
+                                        3   4 1 3      1  4
+   f decresc.   pp                   mf cresc.      decresc.
+
+9                                        CIV~~~~~~~~~~~~~~~~~
+e|----------|-2--4h5-7h9-|-0--------|----4----|---------4-6--|
+B|-------3--|------------|----------|---------|-6---6/7------|
+G|----4-----|------------|----6-----|---------|---------4----|
+D|-4--------|------------|----------|---------|-6------------|
+A|----------|------------|----7--0--|---------|-4------------|
+E|----------|------------|----------|-4-------|---------4----|
+   3  4  2    1  1 2 2 4     34       1  1     34   4 4   4
+     pp         mf cresc.  decresc.   mp       mp decresc.
+
+14
+e|--------9--|--12--15--14--|--------------|---------5-4-|
+B|-2--5---10-|--13----------|-0-------<7>--|-<12>--------|
+G|-3--6------|--------------|-0--<5>-------|-------------|
+D|-----------|--------------|-0------------|-------------|
+A|----0------|--------------|--------------|-------------|
+E|-2---------|--------------|-0------------|-------------|
+  123 23  12    12  4   3                            4 3
+   decresc.                   pp  ppp             mf cresc.
+
+18                        2/2
+e|-2-----------------------|--------------|----2--4--0--|
+B|-3-5-3-2-0---------------|--------------|-0-----------|
+G|-0-----------------------|--------1-----|-------------|
+D|-0-------4-2-0-----------|----2h4----2--|-------------|
+A|---------------4-2-0-----|--------------|-------------|
+E|---------------------3-2-|-0------------|-------------|
+  12 4 2 1 4 1   4 1   2 1      2 4 1          1  4
+  decresc.                   p  f           p  pp
+
+21
+e|------14--16--12--||
+B|-<12>-------------||
+G|------------------||
+D|------------------||
+A|------------------||
+E|------------------||
+        1   3   1
+   ppp  rall. molto
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The sheet suggests a total time for the piece of 50 seconds.
+
+left hand fingering (LHF)
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+CIV   barre on the 4th fret
+
+forte           f    - loud
+pianissimo      pp   - very soft
+piano           p    - soft
+mezzo-forte     mf   - medium loud
+mezzo-piano     mp   - medium soft
+pianississimo   ppp  - very very soft
+
+F.       - Fermata - pause, notes held for longer than their value
+cresc.   - crescendo - growing louder
+decresc. - decrescendo - growing softer
+rall.    - rallentando - slowing down
+molto    - much, very
+
+h   - hammer-on
+p   - pull-off
+/   - slide up
+
+<x>   - natural (open) harmonic on the x fret
+x[y]  - artificial harmonic, play x fret, point to the y fret
+
+|-3-| - triplet - 3 notes played in the time of 2 notes
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (15 February 2026)
+the latest version of this tab can be found at http://www.classtab.org
+

@@ -3,285 +3,419 @@
 <head>
 <meta charset="UTF-8" />
 <title>Classtab UI</title>
+<!-- Web Audio Synthesizer & MIDI Parser CDNs -->
+<script src="https://cdn.jsdelivr.net/npm/tone@14.8.49/build/Tone.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tonejs/midi@2.0.28/build/Midi.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
   :root {
-    /* Color theme */
-    --bg: #1e1e1e;
-    --title: #e0e0e0;
-    --text: #e0e0e0;
-    --accent: #7b9cbc;
-    --accent-hover: #4f6c89;
-    --table-bg: #242424;
-    --table-header-bg: #3a3a3a;
-    --table-header-text: #f1fcfc;
-    --table-td-text: #e0e0e0;
-    --border: #545353;
-    --checkmark: #bbc2ca;
-    --scrollbar: #87939e;
-    
-    /* Column widths */
-    --author-width: 120px;
-    --title-width: 200px;
-    --small-width: 20px;
-    --frame-font-size: 14px;   /* adjust as needed */
+    color-scheme: dark;
+    /* Surfaces */
+    --bg: #0f1115;
+    --bg-2: #16181d;
+    --surface: #1c2027;
+    --surface-2: #232832;
+    --surface-3: #2b313d;
+    --reader-bg: #12151a;
+    --border: #262a34;
+    --border-strong: #343a47;
+    /* Text */
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --faint: #5d6570;
+    /* Accent (warm gold) */
+    --accent: #e5a950;
+    --accent-hover: #d49a3d;
+    --accent-soft: rgba(229, 169, 80, 0.12);
+    --accent-ring: rgba(229, 169, 80, 0.35);
+    --danger: #e5734f;
+    --ok: #7fc08a;
+    --radius-sm: 6px;
+    --radius: 8px;
+    --radius-lg: 12px;
+    --shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
+    --ui-font: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    --tab-font: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Courier New', monospace;
+    --frame-font-size: 14px;
   }
 
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
   body {
-    font-family: sans-serif;
-    margin: 20px;
-    background: var(--bg);
+    margin: 0;
+    padding: 14px;
+    font-family: var(--ui-font);
+    font-size: 14px;
     color: var(--text);
+    background: radial-gradient(1200px 600px at 10% -10%, #1a1d24 0%, var(--bg) 60%) fixed, var(--bg);
+    -webkit-font-smoothing: antialiased;
   }
-  h1 {
-    font-family: 'Georgia', serif;
-    font-weight: 600;   /* optional – make it a bit bolder */
-    margin-top: 0;      /* remove the default top margin */
-    margin-bottom: 8px; /* smaller gap below the title */
-    padding: 0;         /* no extra padding */
-    color: var(--title);
-  }
-  /* Apply the same color to all links on the page */
-  a {
-    color: var(--accent);
-    text-decoration: none;
-  }
-  a:hover {  /* Hover effect – slightly darker */
-    color: var(--accent-hover);
-  }
+  a { color: var(--accent); text-decoration: none; transition: color .15s; }
+  a:hover { color: var(--accent-hover); }
+  button { font-family: inherit; }
+  :focus-visible { outline: 2px solid var(--accent-ring); outline-offset: 2px; }
 
-  /* Overall page layout */
+  /* ---------- Scrollbars ---------- */
+  * { scrollbar-width: thin; scrollbar-color: var(--surface-3) transparent; }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb {
+    background: var(--surface-3);
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+  ::-webkit-scrollbar-thumb:hover { background: var(--border-strong); background-clip: padding-box; border: 2px solid transparent; }
+  ::-webkit-scrollbar-corner { background: transparent; }
+
+  /* ---------- Layout ---------- */
   .main-container {
     display: flex;
-    gap: 10px;
-    height: calc(100vh - 40px);
+    gap: 14px;
+    height: calc(100vh - 28px);
   }
-  .left-column, .right-column {  /* Page column styles */
-    flex: 1;          /* equal width by default */
+  .left-column, .right-column {
     display: flex;
     flex-direction: column;
-    gap: 12px;        /* space between filters and table */
-  }
-  /* Give the right column a little more room */
-  .right-column {
-    flex: 1.3;          /* 1.3 × the width of the left column */
-  }
-
-  /* ---------- Filters ---------- */
-  .filters {
-    margin-bottom: 12px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: center;
-    font-size: 0.95rem;
-  }
-  /* Text input */
-  .filters input[type="text"] {
-    width: 180px;
-    padding: 6px 8px;
+    min-width: 0;
+    min-height: 0;
+    background: var(--bg-2);
     border: 1px solid var(--border);
-    border-radius: 4px;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .left-column { flex: 1; }
+  .right-column { flex: 1.4; }
+  .main-container.focus-mode .left-column { display: none; }
+  .main-container.focus-mode .right-column { flex: 1; width: 100%; }
+
+  /* ---------- Left pane header ---------- */
+  .pane-header {
+    padding: 16px 16px 12px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, var(--surface) 0%, var(--bg-2) 100%);
+  }
+  .brand { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .brand-mark {
+    width: 28px; height: 28px; border-radius: 8px;
+    display: grid; place-items: center;
+    background: var(--accent-soft);
+    border: 1px solid var(--accent-ring);
+    color: var(--accent);
+  }
+  h1 { font-size: 1.05rem; font-weight: 650; letter-spacing: -0.01em; margin: 0; color: var(--text); }
+  .result-count { margin-left: auto; font-size: .78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  .search-wrap { position: relative; margin-bottom: 10px; }
+  .search-wrap svg { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+  .search-wrap input[type="text"] {
+    width: 100%;
+    padding: 9px 12px 9px 36px;
+    font-size: .92rem;
     font-family: inherit;
-    font-size: 1rem;
-    transition: border-color 0.2s, box-shadow 0.2s;
-    background: var(--table-header-bg);
-    color: var(--table-header-text);
+    color: var(--text);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: border-color .15s, box-shadow .15s, background .15s;
   }
-  .filters input[type="text"]:focus {
+  .search-wrap input[type="text"]::placeholder { color: var(--faint); }
+  .search-wrap input[type="text"]:focus {
     outline: none;
-    border-color: #4a90e2;
-    box-shadow: 0 0 4px rgba(74,144,226,0.4);
-    background: var(--table-header-bg);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-ring);
+    background: #0c0e12;
   }
 
-  /* Labels & checkboxes */
-  .filters label {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    cursor: pointer;
-  }
-  .filters input[type="checkbox"] {
-    appearance: none;          /* Chrome, Safari, Edge */
-    -webkit-appearance: none;  /* Safari */
-    width: 16px;
-    height: 16px;
+  .filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .pill { position: relative; cursor: pointer; user-select: none; }
+  .pill input { position: absolute; opacity: 0; pointer-events: none; }
+  .pill span {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 5px 11px;
+    font-size: .78rem; font-weight: 500;
+    color: var(--muted);
+    background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 3px;
-    background: var(--table-header-bg);
-    cursor: pointer;
-    position: relative;
+    border-radius: 999px;
+    transition: all .15s ease;
   }
-  .filters input[type="checkbox"]:checked {
-    background: var(--table-header-bg);
-    border-color: var(--border);
-  }
-  .filters input[type="checkbox"]:checked::after {
-    content: '';
-    position: absolute;
-    left: 4px;
-    top: 0px;
-    width: 5px;
-    height: 10px;
-    border: solid var(--checkmark);
-    border-width: 0 2px 2px 0;
-    transform: rotate(45deg);
-  }
-
-  /* Clear button */
-  #clearBtn {
-    padding: 6px 12px;
-    background: #ff6251;
-    color: #ffffff;
-    border: none;
-    border-radius: 4px;
+  .pill:hover span { color: var(--text); border-color: var(--border-strong); background: var(--surface-2); }
+  .pill input:checked + span {
+    color: #1a1305;
+    background: var(--accent);
+    border-color: var(--accent);
     font-weight: 600;
+  }
+  .pill input:focus-visible + span { outline: 2px solid var(--accent-ring); outline-offset: 2px; }
+  #clearBtn {
+    margin-left: auto;
+    padding: 5px 11px;
+    font-size: .78rem;
+    color: var(--muted);
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 999px;
     cursor: pointer;
-    transition: background 0.2s;
+    transition: all .15s;
   }
-  #clearBtn:hover {
-    background: #d32f2f;
-  }
+  #clearBtn:hover { color: var(--danger); border-color: var(--border); background: var(--surface); }
 
-  /* ---------- Song table container & scroll bar ---------- */
-  #songTableContainer {
-    flex: 1; 
-    overflow: auto; 
-    height: 100%;
-    scrollbar-color: var(--scrollbar) var(--table-bg); /* thumb, track */
-  }
-  #songTableContainer::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
-  }
-  #songTableContainer::-webkit-scrollbar-track {
-    background: var(--table-bg);
-  }
-  #songTableContainer::-webkit-scrollbar-thumb {
-    background-color: var(--scrollbar);
-    border-radius: 4px;
-    border: 2px solid var(--table-bg);
-  }
-
-  .content-frame {
-    flex: 1; 
-    border: 1px solid var(--border); 
-    padding: 10px; 
-    overflow: auto;
-    font-family: monospace; 
-    white-space: pre-wrap; 
-    font-size: var(--frame-font-size);
-    scrollbar-color: var(--scrollbar) var(--table-bg); /* thumb, track */
-  }
-  /* Title area above the content frame */
-  .content-frame-title {
-    font-family: 'Cambria', serif;
-    font-size: 1.0rem;
-    font-weight: 200;
-    color: var(--table-td-text);
-    margin-bottom: 4px;
-  }
-  .content-frame::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
-  }
-  .content-frame::-webkit-scrollbar-track {
-    background: var(--table-bg);
-  }
-  .content-frame::-webkit-scrollbar-thumb {
-    background-color: var(--scrollbar);
-    border-radius: 4px;
-    border: 2px solid var(--table-bg);
-  }
-  
-  /* Table */
-  .song-table {
-    background: var(--table-bg);
-    border: 1px solid var(--border);
-    width: 100%; 
-    border-collapse: collapse; 
-    table-layout: fixed;
-  }
-  .song-table th, .song-table td {
-    border: 1px solid var(--border);
-    padding: 8px; 
-    text-align: left; 
-    vertical-align: top;
-  }
+  /* ---------- Song table ---------- */
+  #songTableContainer { flex: 1; min-height: 0; overflow: auto; }
+  .song-table { width: 100%; border-collapse: separate; border-spacing: 0; table-layout: fixed; }
   .song-table th {
-    font-family: 'Cambria', serif;
-    background: var(--table-header-bg);
-    color: var(--table-header-text);
-    vertical-align: middle;
+    position: sticky; top: 0; z-index: 2;
+    padding: 9px 10px;
+    text-align: left;
+    font-size: .68rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted);
+    background: rgba(22, 24, 29, 0.92);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--border);
   }
+  .song-table th:nth-child(1) { width: 140px; }
+  .song-table th:nth-child(3), .song-table th:nth-child(4) { width: 48px; text-align: center; }
+  .song-table th:nth-child(5), .song-table th:nth-child(6) { width: 58px; text-align: center; }
   .song-table td {
-    font-family: 'Cambria', serif;
-    background: var(--table-bg);
-    color: var(--table-td-text);
+    padding: 7px 10px;
+    border-bottom: 1px solid rgba(38, 42, 52, .6);
     vertical-align: middle;
+    background: transparent;
+    transition: background .15s;
   }
-  
-  /* Author column */
-  .song-table th:nth-child(1), .song-table td:nth-child(1) {
-    width: var(--author-width); 
-    word-wrap: break-word; 
-    white-space: normal;
+  .song-table td.author-cell {
     vertical-align: top;
+    padding-top: 12px;
+    font-size: .8rem; font-weight: 600; color: var(--text);
+    line-height: 1.3;
+    word-wrap: break-word;
+    background: rgba(255, 255, 255, 0.015);
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border-strong);
   }
-  /* Title column */
-  .song-table th:nth-child(2), .song-table td:nth-child(2) {
-    width: var(--title-width);
+  .song-table tr.author-row td { border-bottom: 1px solid var(--border-strong); }
+  .song-table tr:hover td:not(.author-cell) { background: var(--surface); }
+  .song-table tr.active td:not(.author-cell) { background: var(--accent-soft); }
+  .song-table tr.active .tab-link { color: var(--accent); }
+  .cell-center { text-align: center; }
+
+  .title-cell { display: flex; align-items: center; gap: 6px; }
+  .tab-link {
+    flex: 1; min-width: 0;
+    color: var(--text); font-size: .86rem; line-height: 1.35;
+    white-space: normal; word-wrap: break-word;
   }
-  /* Small columns (Easy, LHF, MIDI, Video) – center content */
-  .song-table th:nth-child(3), .song-table td:nth-child(3),
-  .song-table th:nth-child(4), .song-table td:nth-child(4),
-  .song-table th:nth-child(5), .song-table td:nth-child(5),
-  .song-table th:nth-child(6), .song-table td:nth-child(6) {
-    width: var(--small-width);
-    text-align: center;
-    vertical-align: middle;
-  }
-  /* Make the checkmarks a bit larger and center them */
-  /* Override default td alignment for checkmark cells */
-  .song-table .easy-cell, .song-table .lhf-cell {
-    font-size: 1.2em;
-    text-align: center;
-    vertical-align: middle;
-  }
-  .author-border {border-bottom: 2px solid var(--border) !important;}
-  /* Thicker bottom border for rows that contain an author cell */
-  /* Thicker bottom border for the author cell (spanning rows) */
-  .author-cell {border-bottom: 2px solid var(--border) !important;}
-  /* Thicker bottom border for the other cells in the last row of each author group */
-  .author-row td:not(.author-cell) {border-bottom: 2px solid var(--border) !important;}
-  
-  .title-cell {
-    display: flex;          /* horizontal layout */
-    align-items: center;    /* vertical centering */
-    gap: 4px;               /* space between button & link */
-  }
-  /* Larger bookmark icon, keep other text unchanged */
-  .title-cell .bookmark-btn {
-    font-size: 1.3em;      /* or whatever size you prefer */
-    line-height: 1;        /* keep vertical alignment */
-    padding: 0 4px;        /* optional spacing */
-    margin-right: 5px;
-    margin-left: 0;         /* button is already on the right */
-    flex-shrink: 0;         /* Keep the button from shrinking */
-    border: none;
-    background: none;
+  .tab-link:hover { color: var(--accent); }
+
+  .bookmark-btn {
+    flex-shrink: 0;
+    width: 26px; height: 26px;
+    display: grid; place-items: center;
+    padding: 0;
+    color: var(--faint);
+    background: transparent; border: none; border-radius: var(--radius-sm);
     cursor: pointer;
-    color: var(--checkmark);
+    transition: color .15s, background .15s, transform .15s;
   }
-  .title-cell .bookmark-btn:hover {
-    color: var(--accent-hover);
+  .bookmark-btn svg { fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; transition: fill .15s; }
+  .bookmark-btn:hover { color: var(--accent); background: var(--accent-soft); }
+  .bookmark-btn:active { transform: scale(.88); }
+  .bookmark-btn.on { color: var(--accent); }
+  .bookmark-btn.on svg { fill: currentColor; }
+
+  .flag {
+    display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    background: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft);
   }
-  /* The link takes the remaining width and can wrap */
-  .title-cell .tab-link {
-    flex: 1;                /* grow to fill space */
-    min-width: 0;           /* allow text to break */
-    word-wrap: break-word;  /* wrap long words */
-    white-space: normal;    /* normal wrapping */
+  .chip {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 2px 8px;
+    font-size: .68rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase;
+    color: var(--muted);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    transition: all .15s;
+  }
+  a.chip:hover { color: var(--accent); border-color: var(--accent-ring); background: var(--accent-soft); }
+  a.chip.yt { color: #ff6b5e; }
+  a.chip.yt:hover { color: #ff8a80; border-color: rgba(255, 107, 94, .4); background: rgba(255, 107, 94, .1); }
+  .chip svg { display: block; }
+
+  /* ---------- Right pane header ---------- */
+  .viewer-header {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, var(--surface) 0%, var(--bg-2) 100%);
+  }
+  .viewer-meta { flex: 1; min-width: 180px; }
+  .content-frame-title {
+    font-size: 1rem; font-weight: 600; letter-spacing: -0.01em;
+    color: var(--text);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .content-frame-composer { font-size: .78rem; color: var(--muted); margin-top: 2px; min-height: 1em; }
+  .viewer-actions { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .btn-group { display: inline-flex; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .btn-group .ctrl-btn { border: none; border-radius: 0; border-right: 1px solid var(--border); }
+  .btn-group .ctrl-btn:last-child { border-right: none; }
+
+  .ctrl-btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    padding: 6px 11px;
+    font-size: .78rem; font-weight: 500; line-height: 1.2;
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    cursor: pointer; user-select: none; white-space: nowrap;
+    transition: background .15s, border-color .15s, color .15s, transform .1s, opacity .15s;
+  }
+  .ctrl-btn:hover:not(:disabled):not(.is-disabled) { background: var(--surface-2); border-color: var(--border-strong); color: #fff; }
+  .ctrl-btn:active:not(:disabled):not(.is-disabled) { transform: translateY(1px); }
+  .ctrl-btn:disabled, .ctrl-btn.is-disabled { opacity: .4; cursor: not-allowed; pointer-events: none; }
+  .ctrl-btn.primary { color: #1a1305; background: var(--accent); border-color: var(--accent); font-weight: 600; }
+  .ctrl-btn.primary:hover:not(:disabled):not(.is-disabled) { background: var(--accent-hover); border-color: var(--accent-hover); color: #1a1305; }
+  .ctrl-btn.active { color: #1a1305; background: var(--accent); border-color: var(--accent); }
+  .ctrl-btn.flash { color: var(--ok); border-color: var(--ok); }
+  .ctrl-btn svg { display: block; }
+  .mini-btn { padding: 3px 8px; min-width: 26px; font-weight: 700; }
+
+  /* ---------- MIDI strip ---------- */
+  .midi-player-strip {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    padding: 8px 16px;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--border);
+    transition: opacity .2s;
+  }
+  .midi-player-strip.no-midi { opacity: .5; }
+  .midi-controls-left, .midi-controls-right { display: flex; align-items: center; gap: 6px; }
+  .midi-controls-center { flex: 1; min-width: 140px; display: flex; align-items: center; }
+  .midi-time-display { font-family: var(--tab-font); font-size: .75rem; color: var(--muted); min-width: 78px; margin-left: 4px; user-select: none; font-variant-numeric: tabular-nums; }
+  .midi-speed-label { font-size: .75rem; color: var(--muted); }
+  .midi-speed-select {
+    padding: 4px 8px; font-size: .78rem; font-family: inherit;
+    color: var(--text); background: var(--surface);
+    border: 1px solid var(--border); border-radius: var(--radius-sm); cursor: pointer;
+  }
+  .midi-speed-select:disabled { opacity: .5; cursor: not-allowed; }
+  .midi-status-badge {
+    font-size: .7rem; color: var(--accent); white-space: nowrap;
+    padding: 3px 9px; border-radius: 999px;
+    background: var(--accent-soft); border: 1px solid var(--accent-ring);
+  }
+  .midi-player-strip.no-midi .midi-status-badge { color: var(--muted); background: transparent; border-color: var(--border); }
+
+  /* Range sliders */
+  input[type="range"] {
+    -webkit-appearance: none; appearance: none;
+    height: 4px; border-radius: 4px; outline: none; cursor: pointer;
+    background: var(--surface-3);
+  }
+  .midi-player-strip input[type="range"] { width: 100%; }
+  input[type="range"]:disabled { opacity: .4; cursor: not-allowed; }
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none; appearance: none;
+    width: 14px; height: 14px; border-radius: 50%;
+    background: var(--accent); border: 2px solid var(--bg-2); box-shadow: 0 0 0 1px var(--accent);
+    transition: transform .1s;
+  }
+  input[type="range"]::-webkit-slider-thumb:hover { transform: scale(1.15); }
+  input[type="range"]::-moz-range-thumb {
+    width: 12px; height: 12px; border-radius: 50%;
+    background: var(--accent); border: 2px solid var(--bg-2);
+  }
+
+  /* ---------- Tab reader ("music stand") ---------- */
+  .content-frame-wrapper {
+    flex: 1; min-height: 0;
+    position: relative;
+    display: flex; flex-direction: column;
+    margin: 12px;
+    background: var(--reader-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: inset 0 2px 14px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+  }
+  .content-frame {
+    flex: 1; min-height: 0; min-width: 0;
+    padding: 22px 26px 80px;
+    overflow: auto;
+    font-family: var(--tab-font);
+    font-size: var(--frame-font-size);
+    line-height: 1.5;
+    color: #d9dfe7;
+    /* Strictly preserve stave alignment: never wrap */
+    white-space: pre;
+    overflow-x: auto;
+    tab-size: 8;
+    font-variant-ligatures: none;
+    font-feature-settings: "liga" 0, "calt" 0;
+  }
+  .reader-state {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px;
+    color: var(--muted); font-size: .88rem; text-align: center; padding: 24px;
+    pointer-events: none; z-index: 3;
+    transition: opacity .2s;
+  }
+  .reader-state[data-state="loading"] { background: rgba(18, 21, 26, .72); backdrop-filter: blur(2px); }
+  .reader-state[data-state="ready"] { opacity: 0; visibility: hidden; }
+  .reader-state .empty-icon { color: var(--faint); }
+  .reader-state .spinner, .reader-state .empty-icon, .reader-state .state-text { display: none; }
+  .reader-state[data-state="empty"] .empty-icon, .reader-state[data-state="empty"] .state-text { display: block; }
+  .reader-state[data-state="loading"] .spinner { display: block; }
+  .reader-state[data-state="loading"] .state-text { display: block; animation: pulse 1.4s ease-in-out infinite; }
+  .spinner {
+    width: 30px; height: 30px; border-radius: 50%;
+    border: 3px solid var(--surface-3); border-top-color: var(--accent);
+    animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes pulse { 0%, 100% { opacity: .5; } 50% { opacity: 1; } }
+
+  /* ---------- Floating auto-scroll toolbar ---------- */
+  .scroll-toolbar {
+    position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap; justify-content: center;
+    width: max-content;
+    max-width: calc(100% - 24px);
+    padding: 7px 12px;
+    background: rgba(28, 32, 39, 0.9);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    box-shadow: var(--shadow);
+    z-index: 10;
+    font-size: .78rem;
+  }
+  .speed-control-group { display: flex; align-items: center; gap: 6px; }
+  .scroll-toolbar input[type="range"] { width: 90px; }
+  .speed-display { font-family: var(--tab-font); font-size: .72rem; min-width: 56px; color: var(--muted); text-align: right; }
+  .countdown-label { display: flex; align-items: center; gap: 6px; color: var(--muted); cursor: pointer; user-select: none; }
+  .countdown-label input { accent-color: var(--accent); cursor: pointer; }
+  .scroll-countdown {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    width: 88px; height: 88px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2.4rem; font-weight: 700;
+    color: var(--accent);
+    background: rgba(15, 17, 21, 0.9);
+    border: 2px solid var(--accent);
+    box-shadow: 0 0 32px var(--accent-ring);
+    z-index: 20; pointer-events: none;
+  }
+
+  /* ---------- Responsive ---------- */
+  @media (max-width: 900px) {
+    body { padding: 8px; }
+    .main-container { flex-direction: column; height: auto; }
+    .left-column, .right-column { flex: none; height: 80vh; }
   }
 </style>
 </head>
@@ -289,14 +423,26 @@
 <div class="main-container">
   <!-- Left column -->
   <div class="left-column">
-    <h1>Classtab UI</h1>
-    <div class="filters">
-      <label>Author: <input type="text" id="authorInput" list="authorList" placeholder="Type or click" autocomplete="off" /></label>
-      <datalist id="authorList"></datalist>
-      <label><input type="checkbox" id="easyCheckbox" /> Easy</label>
-      <label><input type="checkbox" id="videoCheckbox" /> Video</label>
-      <label><input type="checkbox" id="bookmarkCheckbox" /> Bookmarks</label>
-      <button id="clearBtn">Clear</button>
+    <div class="pane-header">
+      <div class="brand">
+        <div class="brand-mark">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+        </div>
+        <h1>Classtab</h1>
+        <span class="result-count" id="resultCount"></span>
+      </div>
+      <div class="search-wrap">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input type="text" id="searchInput" placeholder="Search author, title, artist..." autocomplete="off" />
+      </div>
+      <div class="filters">
+        <label class="pill"><input type="checkbox" id="easyCheckbox" /><span>Easy</span></label>
+        <label class="pill"><input type="checkbox" id="lhfCheckbox" /><span>LHF</span></label>
+        <label class="pill"><input type="checkbox" id="midiCheckbox" /><span>Has MIDI</span></label>
+        <label class="pill"><input type="checkbox" id="videoCheckbox" /><span>Video</span></label>
+        <label class="pill"><input type="checkbox" id="bookmarkCheckbox" /><span>★ Bookmarks</span></label>
+        <button id="clearBtn" type="button">Clear</button>
+      </div>
     </div>
 
     <div id="songTableContainer">
@@ -306,22 +452,318 @@
 
   <!-- Right column -->
   <div class="right-column">
-    <!-- Title of the currently loaded song -->
-    <div id="contentFrameTitle" class="content-frame-title">Select a song to view its tablature</div>
-    <div id="contentFrame" class="content-frame"></div>
+    <div class="viewer-header">
+      <div class="viewer-meta">
+        <div id="contentFrameTitle" class="content-frame-title">Select a song to view its tablature</div>
+        <div id="contentFrameComposer" class="content-frame-composer"></div>
+      </div>
+      <div class="viewer-actions">
+        <div class="btn-group">
+          <button id="zoomOutBtn" type="button" title="Decrease font size" class="ctrl-btn">A−</button>
+          <button id="zoomResetBtn" type="button" title="Reset font size" class="ctrl-btn">Reset</button>
+          <button id="zoomInBtn" type="button" title="Increase font size" class="ctrl-btn">A+</button>
+        </div>
+        <button id="copyTabBtn" type="button" class="ctrl-btn is-disabled" title="Copy tab text">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          <span>Copy</span>
+        </button>
+        <a id="openTabLink" class="ctrl-btn is-disabled" target="_blank" rel="noopener" title="Open raw tab in new tab">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>
+          <span>Open</span>
+        </a>
+        <a id="midiDownloadLink" class="ctrl-btn is-disabled" download title="Download MIDI">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
+          <span>MIDI</span>
+        </a>
+        <button id="focusModeBtn" type="button" title="Toggle Focus Mode (Esc to exit)" class="ctrl-btn primary">Focus Mode</button>
+      </div>
+    </div>
+
+    <!-- Pinned MIDI Synthesizer Control Strip -->
+    <div id="midiPlayerStrip" class="midi-player-strip no-midi">
+      <div class="midi-controls-left">
+        <button id="midiPlayBtn" type="button" class="ctrl-btn" title="Play MIDI" disabled>▶ Play</button>
+        <button id="midiPauseBtn" type="button" class="ctrl-btn" title="Pause MIDI" disabled>⏸ Pause</button>
+        <button id="midiStopBtn" type="button" class="ctrl-btn" title="Stop MIDI" disabled>⏹ Stop</button>
+        <span class="midi-time-display">
+          <span id="midiCurrentTime">0:00</span> / <span id="midiTotalDuration">0:00</span>
+        </span>
+      </div>
+      <div class="midi-controls-center">
+        <input type="range" id="midiScrubber" min="0" max="100" value="0" step="0.1" title="Seek" disabled />
+      </div>
+      <div class="midi-controls-right">
+        <label for="midiSpeedSelect" class="midi-speed-label">Speed</label>
+        <select id="midiSpeedSelect" class="midi-speed-select" disabled>
+          <option value="0.5">0.5x</option>
+          <option value="0.75">0.75x</option>
+          <option value="1.0" selected>1.0x</option>
+          <option value="1.25">1.25x</option>
+        </select>
+        <span id="midiStatusBadge" class="midi-status-badge">No MIDI available</span>
+      </div>
+    </div>
+
+    <div class="content-frame-wrapper">
+      <div id="contentFrame" class="content-frame"></div>
+      <div id="readerState" class="reader-state" data-state="empty">
+        <svg class="empty-icon" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+        <div class="spinner"></div>
+        <div class="state-text" id="readerStateText">Select a piece from the list to open its tablature</div>
+      </div>
+      <div id="scrollCountdown" class="scroll-countdown" style="display: none;"></div>
+      <div class="scroll-toolbar" id="scrollToolbar">
+        <button id="scrollPlayBtn" type="button" class="ctrl-btn primary" title="Toggle Auto-Scroll (Space)">▶ Play</button>
+        <div class="speed-control-group">
+          <button id="speedDownBtn" type="button" class="ctrl-btn mini-btn" title="Decrease speed ([)">−</button>
+          <input type="range" id="scrollSpeedSlider" min="5" max="120" value="25" step="1" title="Scroll Speed" />
+          <button id="speedUpBtn" type="button" class="ctrl-btn mini-btn" title="Increase speed (])">+</button>
+          <span id="speedValueDisplay" class="speed-display">25 px/s</span>
+        </div>
+        <label class="countdown-label" title="3-second countdown before scrolling">
+          <input type="checkbox" id="countdownCheckbox" checked /> 3s Delay
+        </label>
+      </div>
+    </div>
   </div>
 </div>
 
 <script type="module">
   import { songsData } from './songs_data.js';
-  const authorInput = document.getElementById('authorInput');
+  const mainContainer = document.querySelector('.main-container');
+  const searchInput = document.getElementById('searchInput');
   const easyCheckbox = document.getElementById('easyCheckbox');
+  const lhfCheckbox = document.getElementById('lhfCheckbox');
+  const midiCheckbox = document.getElementById('midiCheckbox');
   const videoCheckbox = document.getElementById('videoCheckbox');
   const bookmarkCheckbox = document.getElementById('bookmarkCheckbox');
   const clearBtn = document.getElementById('clearBtn');
   const songTable = document.getElementById('songTable');
-  const authorList = document.getElementById('authorList');
   const contentFrame = document.getElementById('contentFrame');
+  const zoomOutBtn = document.getElementById('zoomOutBtn');
+  const zoomResetBtn = document.getElementById('zoomResetBtn');
+  const zoomInBtn = document.getElementById('zoomInBtn');
+  const focusModeBtn = document.getElementById('focusModeBtn');
+  const scrollPlayBtn = document.getElementById('scrollPlayBtn');
+  const speedDownBtn = document.getElementById('speedDownBtn');
+  const speedUpBtn = document.getElementById('speedUpBtn');
+  const scrollSpeedSlider = document.getElementById('scrollSpeedSlider');
+  const speedValueDisplay = document.getElementById('speedValueDisplay');
+  const countdownCheckbox = document.getElementById('countdownCheckbox');
+  const scrollCountdown = document.getElementById('scrollCountdown');
+  const resultCount = document.getElementById('resultCount');
+  const readerState = document.getElementById('readerState');
+  const readerStateText = document.getElementById('readerStateText');
+  const contentFrameTitle = document.getElementById('contentFrameTitle');
+  const contentFrameComposer = document.getElementById('contentFrameComposer');
+  const copyTabBtn = document.getElementById('copyTabBtn');
+  const openTabLink = document.getElementById('openTabLink');
+  const midiDownloadLink = document.getElementById('midiDownloadLink');
+
+  const STAR_SVG = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.6.8-4.9 4.6 1.3 6.6L12 17.3l-5.9 3.3 1.3-6.6L2.5 9.4l6.6-.8z"/></svg>';
+  const YT_SVG = '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="4" fill="currentColor"/><path d="M10 9l5 3-5 3z" fill="#16181d"/></svg>';
+  const MIDI_SVG = '<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>';
+
+  let currentTabFile = null;
+  let loadToken = 0;
+
+  // Pinned MIDI player element references
+  const midiPlayerStrip = document.getElementById('midiPlayerStrip');
+  const midiPlayBtn = document.getElementById('midiPlayBtn');
+  const midiPauseBtn = document.getElementById('midiPauseBtn');
+  const midiStopBtn = document.getElementById('midiStopBtn');
+  const midiCurrentTime = document.getElementById('midiCurrentTime');
+  const midiTotalDuration = document.getElementById('midiTotalDuration');
+  const midiScrubber = document.getElementById('midiScrubber');
+  const midiSpeedSelect = document.getElementById('midiSpeedSelect');
+  const midiStatusBadge = document.getElementById('midiStatusBadge');
+
+  // Font zoom controls and persistence
+  const DEFAULT_FONT_SIZE = 14;
+  let currentFontSize = parseInt(localStorage.getItem('classtab_fontsize'), 10) || DEFAULT_FONT_SIZE;
+
+  function applyFontSize(size) {
+    currentFontSize = Math.max(8, Math.min(36, size));
+    contentFrame.style.fontSize = `${currentFontSize}px`;
+    localStorage.setItem('classtab_fontsize', currentFontSize);
+  }
+  applyFontSize(currentFontSize);
+
+  zoomOutBtn.addEventListener('click', () => applyFontSize(currentFontSize - 1));
+  zoomInBtn.addEventListener('click', () => applyFontSize(currentFontSize + 1));
+  zoomResetBtn.addEventListener('click', () => applyFontSize(DEFAULT_FONT_SIZE));
+
+  // Focus Mode
+  function setFocusMode(enable) {
+    if (enable) {
+      mainContainer.classList.add('focus-mode');
+      focusModeBtn.textContent = 'Exit Focus (Esc)';
+      focusModeBtn.classList.add('active');
+    } else {
+      mainContainer.classList.remove('focus-mode');
+      focusModeBtn.textContent = 'Focus Mode';
+      focusModeBtn.classList.remove('active');
+    }
+  }
+
+  focusModeBtn.addEventListener('click', () => {
+    const isFocus = mainContainer.classList.contains('focus-mode');
+    setFocusMode(!isFocus);
+  });
+
+  // Auto-Scroll Engine
+  let isScrolling = false;
+  let scrollSpeed = parseInt(localStorage.getItem('classtab_scroll_speed'), 10) || 25; // px/sec
+  let lastTimestamp = null;
+  let animFrameId = null;
+  let countdownTimer = null;
+
+  function updateScrollSpeed(newSpeed) {
+    scrollSpeed = Math.max(5, Math.min(120, newSpeed));
+    scrollSpeedSlider.value = scrollSpeed;
+    speedValueDisplay.textContent = `${scrollSpeed} px/s`;
+    localStorage.setItem('classtab_scroll_speed', scrollSpeed);
+  }
+  updateScrollSpeed(scrollSpeed);
+
+  scrollSpeedSlider.addEventListener('input', () => {
+    updateScrollSpeed(parseInt(scrollSpeedSlider.value, 10));
+  });
+  speedDownBtn.addEventListener('click', () => updateScrollSpeed(scrollSpeed - 5));
+  speedUpBtn.addEventListener('click', () => updateScrollSpeed(scrollSpeed + 5));
+
+  function stepScroll(timestamp) {
+    if (!isScrolling) return;
+    if (lastTimestamp !== null) {
+      const deltaSec = (timestamp - lastTimestamp) / 1000;
+      contentFrame.scrollTop += scrollSpeed * deltaSec;
+      if (contentFrame.scrollTop + contentFrame.clientHeight >= contentFrame.scrollHeight - 1) {
+        stopAutoScroll();
+        return;
+      }
+    }
+    lastTimestamp = timestamp;
+    animFrameId = requestAnimationFrame(stepScroll);
+  }
+
+  function startScrollEngine() {
+    isScrolling = true;
+    lastTimestamp = null;
+    scrollPlayBtn.textContent = '⏸ Pause';
+    scrollPlayBtn.classList.add('active');
+    animFrameId = requestAnimationFrame(stepScroll);
+  }
+
+  function cancelCountdown() {
+    if (countdownTimer) {
+      clearInterval(countdownTimer);
+      countdownTimer = null;
+    }
+    scrollCountdown.style.display = 'none';
+  }
+
+  function stopAutoScroll() {
+    isScrolling = false;
+    cancelCountdown();
+    if (animFrameId) {
+      cancelAnimationFrame(animFrameId);
+      animFrameId = null;
+    }
+    lastTimestamp = null;
+    scrollPlayBtn.textContent = '▶ Play';
+    scrollPlayBtn.classList.remove('active');
+  }
+
+  function toggleAutoScroll() {
+    const text = contentFrame.textContent ? contentFrame.textContent.trim() : '';
+    if (!text || text.startsWith('Select a song') || text.startsWith('Error loading')) {
+      return;
+    }
+
+    if (isScrolling || countdownTimer) {
+      stopAutoScroll();
+    } else {
+      if (countdownCheckbox.checked) {
+        let count = 3;
+        scrollCountdown.textContent = count;
+        scrollCountdown.style.display = 'flex';
+        scrollPlayBtn.textContent = '⏳ Ready...';
+        countdownTimer = setInterval(() => {
+          count--;
+          if (count > 0) {
+            scrollCountdown.textContent = count;
+          } else {
+            cancelCountdown();
+            startScrollEngine();
+          }
+        }, 1000);
+      } else {
+        startScrollEngine();
+      }
+    }
+  }
+
+  scrollPlayBtn.addEventListener('click', toggleAutoScroll);
+
+  // Global Keyboard & Pedal Shortcuts
+  document.addEventListener('keydown', e => {
+    const isInputFocused = e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA');
+
+    // Escape exits Focus Mode
+    if (e.key === 'Escape') {
+      if (mainContainer.classList.contains('focus-mode')) {
+        setFocusMode(false);
+      }
+      return;
+    }
+
+    if (isInputFocused) return;
+
+    // Spacebar toggles auto-scroll
+    if (e.code === 'Space' || e.key === ' ') {
+      const text = contentFrame.textContent ? contentFrame.textContent.trim() : '';
+      if (text && !text.startsWith('Select a song') && !text.startsWith('Error loading')) {
+        e.preventDefault();
+        toggleAutoScroll();
+      }
+      return;
+    }
+
+    // [ to decrease speed
+    if (e.key === '[') {
+      e.preventDefault();
+      updateScrollSpeed(scrollSpeed - 5);
+      return;
+    }
+
+    // ] to increase speed
+    if (e.key === ']') {
+      e.preventDefault();
+      updateScrollSpeed(scrollSpeed + 5);
+      return;
+    }
+
+    // PageDown / PageUp for Bluetooth/USB foot pedals
+    if (e.key === 'PageDown') {
+      e.preventDefault();
+      contentFrame.scrollBy({ top: contentFrame.clientHeight * 0.8, behavior: 'smooth' });
+      return;
+    }
+    if (e.key === 'PageUp') {
+      e.preventDefault();
+      contentFrame.scrollBy({ top: -contentFrame.clientHeight * 0.8, behavior: 'smooth' });
+      return;
+    }
+  });
+
+  let debounceTimer = null;
+  function debouncedFilterSongs() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      filterSongs();
+    }, 150);
+  }
+
   // Helper to identify a song uniquely
   function getSongId(song) {
     return `${song.author}-${song.title}`;
@@ -351,41 +793,31 @@
     filterSongs();
   }
 
-  // Build unique author list for datalist
-  const authorsSet = new Set();
-  songsData.forEach(song => {
-    if (song.author) {
-      authorsSet.add(song.author);
-    }
-  });
-  authorsSet.forEach(a => {
-    const option = document.createElement('option');
-    option.value = a.replace(/<[^>]*>/g, '');
-    option.textContent = a;
-    authorList.appendChild(option);
-  });
-
   function filterSongs() {
-    const text = authorInput.value.trim().toLowerCase().replace(/<[^>]*>/g, '');
+    const text = searchInput.value.trim().toLowerCase().replace(/<[^>]*>/g, '');
     const showEasy = easyCheckbox.checked;
+    const showLhf = lhfCheckbox.checked;
+    const showMidi = midiCheckbox.checked;
     const showVideo = videoCheckbox.checked;
     const showBookmarks = bookmarkCheckbox.checked;
     const bookmarks = getBookmarks();
 
     const filtered = songsData.filter(song => {
       if (!song.author) return false;
-      if (!song.author) return false;
-      const authorStr = song.author || '';
-      const plainAuthor = authorStr.replace(/<[^>]*>/g, '').toLowerCase();
       const songId = getSongId(song);
       const isBookmarked = bookmarks.has(songId);
 
       let ok = true;
       if (text) {
-        ok = plainAuthor.includes(text);
+        const plainAuthor = (song.author || '').replace(/<[^>]*>/g, '').toLowerCase();
+        const plainTitle = (song.title || '').replace(/<[^>]*>/g, '').toLowerCase();
+        const plainArtist = (song.artist || '').replace(/<[^>]*>/g, '').toLowerCase();
+        ok = plainAuthor.includes(text) || plainTitle.includes(text) || plainArtist.includes(text);
       }
-      if (ok && showEasy) ok = song.easy;
-      if (ok && showVideo) ok = song.video && song.video.length > 0;
+      if (ok && showEasy) ok = song.easy === true;
+      if (ok && showLhf) ok = song.lhf === true;
+      if (ok && showMidi) ok = Boolean(song.midi && song.midi.trim().length > 0);
+      if (ok && showVideo) ok = Boolean(song.video && song.video.trim().length > 0);
       if (ok && showBookmarks) ok = isBookmarked;
       return ok;
     });
@@ -394,9 +826,10 @@
 
   function renderSongs(songs) {
     songTable.innerHTML = '';
+    resultCount.textContent = `${songs.length.toLocaleString()} piece${songs.length === 1 ? '' : 's'}`;
     // Add table header – reordered columns
     const header = document.createElement('tr');
-    ['Author', 'Title', 'Easy', 'LHF', 'MID', 'Vid'].forEach(text => {
+    ['Composer', 'Title', 'Easy', 'LHF', 'MID', 'Vid'].forEach(text => {
       const th = document.createElement('th');
       th.textContent = text;
       header.appendChild(th);
@@ -416,6 +849,7 @@
       const rowspan = list.length;
       list.forEach((song, idx) => {
         const tr = document.createElement('tr');
+        if (song.tab === currentTabFile) tr.classList.add('active');
         if (idx === 0) {
           const tdAuthor = document.createElement('td');
           tdAuthor.rowSpan = rowspan;
@@ -436,8 +870,13 @@
         const bookmarks = getBookmarks();
 
         const bookmarkBtn = document.createElement('button');
-        bookmarkBtn.classList.add('bookmark-btn'); 
-        bookmarkBtn.textContent = bookmarks.has(songId) ? '★' : '☆';
+        bookmarkBtn.classList.add('bookmark-btn');
+        bookmarkBtn.type = 'button';
+        const isBookmarked = bookmarks.has(songId);
+        bookmarkBtn.classList.toggle('on', isBookmarked);
+        bookmarkBtn.setAttribute('aria-pressed', String(isBookmarked));
+        bookmarkBtn.title = isBookmarked ? 'Remove bookmark' : 'Add bookmark';
+        bookmarkBtn.innerHTML = STAR_SVG;
         bookmarkBtn.onclick = (e) => {
           e.stopPropagation();
           toggleBookmark(song);
@@ -450,7 +889,7 @@
         link.textContent = song.title;
         link.onclick = (e) => {
           e.preventDefault();
-          loadTabContent(song.title, song.tab);
+          loadTabContent(song.title, song.tab, song.midi, song, tr);
         };
         tdTitleCellContent.appendChild(link);
         tdTitle.appendChild(tdTitleCellContent);
@@ -459,35 +898,41 @@
 
         // Easy column
         const tdEasy = document.createElement('td');
-        tdEasy.classList.add('easy-cell');
-        tdEasy.textContent = song.easy ? '✓' : '';
+        tdEasy.classList.add('easy-cell', 'cell-center');
+        if (song.easy) tdEasy.innerHTML = '<span class="flag" title="Easy"></span>';
         tr.appendChild(tdEasy);
 
         // LHF column
         const tdLhf = document.createElement('td');
-        tdLhf.classList.add('lhf-cell');
-        tdLhf.textContent = song.lhf ? '✓' : '';
+        tdLhf.classList.add('lhf-cell', 'cell-center');
+        if (song.lhf) tdLhf.innerHTML = '<span class="flag" title="Left-hand fingering"></span>';
         tr.appendChild(tdLhf);
 
         // MIDI column
         const tdMidi = document.createElement('td');
-        if (song.midi) {
+        tdMidi.classList.add('cell-center');
+        if (song.midi && song.midi.trim().length > 0) {
           const midiLink = document.createElement('a');
-          midiLink.href = song.midi;
+          midiLink.href = 'midi/' + song.midi.trim();
           midiLink.target = '_blank';
-          midiLink.textContent = 'midi';
+          midiLink.className = 'chip';
+          midiLink.title = 'Open MIDI file';
+          midiLink.innerHTML = MIDI_SVG;
           tdMidi.appendChild(midiLink);
         }
         tr.appendChild(tdMidi);
 
         // Video column
         const tdVideo = document.createElement('td');
+        tdVideo.classList.add('cell-center');
         if (song.video) {
           const vidLink = document.createElement('a');
           vidLink.href = song.video;
           vidLink.target = '_blank';
-          vidLink.textContent = 'video';
-          vidLink.title = song.artist || '';
+          vidLink.rel = 'noopener';
+          vidLink.className = 'chip yt';
+          vidLink.innerHTML = YT_SVG;
+          vidLink.title = song.artist ? `Watch: ${song.artist}` : 'Watch video';
           tdVideo.appendChild(vidLink);
         }
         tr.appendChild(tdVideo);
@@ -500,32 +945,355 @@
   // Initial render all
   renderSongs(songsData);
 
-  authorInput.addEventListener('input', filterSongs);
-  authorInput.addEventListener('keyup', e => { if (e.key === 'Enter') filterSongs(); });
-  easyCheckbox.addEventListener('change', filterSongs);
-  videoCheckbox.addEventListener('change', filterSongs);
-  bookmarkCheckbox.addEventListener('change', filterSongs);
+  searchInput.addEventListener('input', debouncedFilterSongs);
+  searchInput.addEventListener('keyup', e => {
+    if (e.key === 'Enter') {
+      clearTimeout(debounceTimer);
+      filterSongs();
+    }
+  });
+  easyCheckbox.addEventListener('change', debouncedFilterSongs);
+  lhfCheckbox.addEventListener('change', debouncedFilterSongs);
+  midiCheckbox.addEventListener('change', debouncedFilterSongs);
+  videoCheckbox.addEventListener('change', debouncedFilterSongs);
+  bookmarkCheckbox.addEventListener('change', debouncedFilterSongs);
   clearBtn.addEventListener('click', () => {
-    authorInput.value = '';
+    clearTimeout(debounceTimer);
+    searchInput.value = '';
     easyCheckbox.checked = false;
+    lhfCheckbox.checked = false;
+    midiCheckbox.checked = false;
     videoCheckbox.checked = false;
     bookmarkCheckbox.checked = false;
     renderSongs(songsData);
   });
+  // Helper for formatting time (mm:ss)
+  function formatTime(seconds) {
+    if (isNaN(seconds) || seconds < 0) return '0:00';
+    const m = Math.floor(seconds / 60);
+    const s = Math.floor(seconds % 60);
+    return `${m}:${s < 10 ? '0' : ''}${s}`;
+  }
+
+  // Web Audio Synthesizer State
+  let isSoundfontLoaded = false;
+  let guitarSampler = null;
+  let fallbackSynth = null;
+  let currentMidi = null;
+  let midiNotes = [];
+  let isMidiPlaying = false;
+  let midiSongPosition = 0;
+  let midiSongDuration = 0;
+  let midiPlaybackSpeed = 1.0;
+  let midiNoteIndex = 0;
+  let lastAudioContextTime = 0;
+  let midiSchedulerTimer = null;
+  let midiAbortController = null;
+
+  function ensureAudioInstruments() {
+    if (fallbackSynth) return;
+    try {
+      fallbackSynth = new Tone.PolySynth(Tone.Synth, {
+        oscillator: { type: 'triangle' },
+        envelope: { attack: 0.005, decay: 0.6, sustain: 0.1, release: 0.8 }
+      }).toDestination();
+      fallbackSynth.volume.value = -6;
+
+      guitarSampler = new Tone.Sampler({
+        urls: {
+          E2: "E2.mp3",
+          A2: "A2.mp3",
+          D3: "D3.mp3",
+          G3: "G3.mp3",
+          B3: "B3.mp3",
+          E4: "E4.mp3",
+          A4: "A4.mp3",
+          E5: "E5.mp3"
+        },
+        baseUrl: "https://gleitz.github.io/midi-js-soundfonts/FluidR3_GM/acoustic_guitar_nylon-mp3/",
+        onload: () => {
+          isSoundfontLoaded = true;
+          if (currentMidi && isMidiPlaying) {
+            midiStatusBadge.textContent = 'Playing (Nylon Guitar)';
+          } else if (currentMidi) {
+            midiStatusBadge.textContent = 'Nylon Guitar Ready';
+          }
+        }
+      }).toDestination();
+    } catch (e) {
+      console.warn('Audio instrument initialization error:', e);
+    }
+  }
+
+  function setMidiPlayerState(state) {
+    if (state === 'no-midi') {
+      midiPlayerStrip.classList.add('no-midi');
+      midiPlayBtn.disabled = true;
+      midiPauseBtn.disabled = true;
+      midiStopBtn.disabled = true;
+      midiScrubber.disabled = true;
+      midiSpeedSelect.disabled = true;
+      midiCurrentTime.textContent = '0:00';
+      midiTotalDuration.textContent = '0:00';
+      midiScrubber.value = 0;
+      midiStatusBadge.textContent = 'No MIDI available';
+    } else if (state === 'loading') {
+      midiPlayerStrip.classList.remove('no-midi');
+      midiPlayBtn.disabled = true;
+      midiPauseBtn.disabled = true;
+      midiStopBtn.disabled = true;
+      midiScrubber.disabled = true;
+      midiSpeedSelect.disabled = true;
+      midiStatusBadge.textContent = 'Loading MIDI...';
+    } else if (state === 'ready') {
+      midiPlayerStrip.classList.remove('no-midi');
+      midiPlayBtn.disabled = false;
+      midiPauseBtn.disabled = true;
+      midiStopBtn.disabled = false;
+      midiScrubber.disabled = false;
+      midiSpeedSelect.disabled = false;
+      midiStatusBadge.textContent = isSoundfontLoaded ? 'Nylon Guitar Ready' : 'Synthesizer Ready';
+    } else if (state === 'playing') {
+      midiPlayerStrip.classList.remove('no-midi');
+      midiPlayBtn.disabled = true;
+      midiPauseBtn.disabled = false;
+      midiStopBtn.disabled = false;
+      midiScrubber.disabled = false;
+      midiSpeedSelect.disabled = false;
+      midiStatusBadge.textContent = isSoundfontLoaded ? 'Playing (Nylon Guitar)' : 'Playing (Synthesizer)';
+    } else if (state === 'paused') {
+      midiPlayerStrip.classList.remove('no-midi');
+      midiPlayBtn.disabled = false;
+      midiPauseBtn.disabled = true;
+      midiStopBtn.disabled = false;
+      midiScrubber.disabled = false;
+      midiSpeedSelect.disabled = false;
+      midiStatusBadge.textContent = 'Paused';
+    } else if (state === 'error') {
+      midiPlayerStrip.classList.add('no-midi');
+      midiPlayBtn.disabled = true;
+      midiPauseBtn.disabled = true;
+      midiStopBtn.disabled = true;
+      midiScrubber.disabled = true;
+      midiSpeedSelect.disabled = true;
+      midiStatusBadge.textContent = 'MIDI unavailable';
+    }
+  }
+
+  function cleanupMidiPlayback() {
+    if (midiSchedulerTimer) {
+      clearInterval(midiSchedulerTimer);
+      midiSchedulerTimer = null;
+    }
+    isMidiPlaying = false;
+    if (guitarSampler) {
+      try { guitarSampler.releaseAll(); } catch (_) {}
+    }
+    if (fallbackSynth) {
+      try { fallbackSynth.releaseAll(); } catch (_) {}
+    }
+  }
+
+  function stopMidiPlayback() {
+    cleanupMidiPlayback();
+    midiSongPosition = 0;
+    midiScrubber.value = 0;
+    midiCurrentTime.textContent = '0:00';
+    if (currentMidi) {
+      setMidiPlayerState('ready');
+    } else {
+      setMidiPlayerState('no-midi');
+    }
+  }
+
+  async function loadMidiForSong(midiFile) {
+    stopMidiPlayback();
+    currentMidi = null;
+    midiNotes = [];
+    midiSongDuration = 0;
+
+    if (midiAbortController) {
+      midiAbortController.abort();
+      midiAbortController = null;
+    }
+
+    if (!midiFile || !midiFile.trim()) {
+      setMidiPlayerState('no-midi');
+      return;
+    }
+
+    const cleanMidi = midiFile.trim();
+    const midiPath = 'midi/' + cleanMidi;
+    setMidiPlayerState('loading');
+
+    try {
+      midiAbortController = new AbortController();
+      const res = await fetch(midiPath, { signal: midiAbortController.signal });
+      if (!res.ok) throw new Error('MIDI file not found');
+      const arrayBuffer = await res.arrayBuffer();
+      currentMidi = new Midi(arrayBuffer);
+
+      midiNotes = [];
+      currentMidi.tracks.forEach(track => {
+        track.notes.forEach(note => {
+          midiNotes.push({
+            name: note.name,
+            time: note.time,
+            duration: note.duration,
+            velocity: note.velocity || 0.8
+          });
+        });
+      });
+      midiNotes.sort((a, b) => a.time - b.time);
+
+      midiSongDuration = currentMidi.duration || 0;
+      midiScrubber.max = midiSongDuration;
+      midiScrubber.value = 0;
+      midiCurrentTime.textContent = '0:00';
+      midiTotalDuration.textContent = formatTime(midiSongDuration);
+      setMidiPlayerState('ready');
+    } catch (err) {
+      if (err.name === 'AbortError') return;
+      console.warn('Failed to load MIDI:', err);
+      setMidiPlayerState('error');
+    }
+  }
+
+  midiPlayBtn.addEventListener('click', async () => {
+    if (!currentMidi || midiNotes.length === 0) return;
+    try {
+      await Tone.start();
+    } catch (_) {}
+    ensureAudioInstruments();
+
+    isMidiPlaying = true;
+    lastAudioContextTime = Tone.now();
+    setMidiPlayerState('playing');
+
+    midiNoteIndex = midiNotes.findIndex(n => n.time >= midiSongPosition);
+    if (midiNoteIndex === -1) midiNoteIndex = midiNotes.length;
+
+    if (midiSchedulerTimer) clearInterval(midiSchedulerTimer);
+    midiSchedulerTimer = setInterval(() => {
+      if (!isMidiPlaying) return;
+      const now = Tone.now();
+      const delta = (now - lastAudioContextTime) * midiPlaybackSpeed;
+      lastAudioContextTime = now;
+      midiSongPosition += delta;
+
+      if (midiSongPosition >= midiSongDuration) {
+        stopMidiPlayback();
+        return;
+      }
+
+      midiScrubber.value = midiSongPosition;
+      midiCurrentTime.textContent = formatTime(midiSongPosition);
+
+      const lookahead = 0.12 * midiPlaybackSpeed;
+      while (midiNoteIndex < midiNotes.length && midiNotes[midiNoteIndex].time <= midiSongPosition + lookahead) {
+        const note = midiNotes[midiNoteIndex];
+        const delayInSong = Math.max(0, note.time - midiSongPosition);
+        const audioTime = now + (delayInSong / midiPlaybackSpeed);
+        const dur = Math.max(0.05, note.duration / midiPlaybackSpeed);
+        const inst = (isSoundfontLoaded && guitarSampler) ? guitarSampler : fallbackSynth;
+        if (inst) {
+          try {
+            inst.triggerAttackRelease(note.name, dur, audioTime, note.velocity);
+          } catch (_) {}
+        }
+        midiNoteIndex++;
+      }
+    }, 25);
+  });
+
+  midiPauseBtn.addEventListener('click', () => {
+    if (!isMidiPlaying) return;
+    cleanupMidiPlayback();
+    setMidiPlayerState('paused');
+  });
+
+  midiStopBtn.addEventListener('click', () => {
+    stopMidiPlayback();
+  });
+
+  midiScrubber.addEventListener('input', () => {
+    midiSongPosition = parseFloat(midiScrubber.value);
+    midiCurrentTime.textContent = formatTime(midiSongPosition);
+    if (guitarSampler) try { guitarSampler.releaseAll(); } catch (_) {}
+    if (fallbackSynth) try { fallbackSynth.releaseAll(); } catch (_) {}
+    midiNoteIndex = midiNotes.findIndex(n => n.time >= midiSongPosition);
+    if (midiNoteIndex === -1) midiNoteIndex = midiNotes.length;
+    lastAudioContextTime = Tone.now();
+  });
+
+  midiSpeedSelect.addEventListener('change', () => {
+    midiPlaybackSpeed = parseFloat(midiSpeedSelect.value) || 1.0;
+  });
+
+  function setReaderState(state, text) {
+    readerState.dataset.state = state;
+    if (text) readerStateText.textContent = text;
+  }
+
+  function setActionLinks(tabFile, midiFile) {
+    openTabLink.href = 'tabs/' + tabFile;
+    openTabLink.classList.remove('is-disabled');
+    copyTabBtn.classList.remove('is-disabled');
+    if (midiFile && midiFile.trim()) {
+      midiDownloadLink.href = 'midi/' + midiFile.trim();
+      midiDownloadLink.classList.remove('is-disabled');
+    } else {
+      midiDownloadLink.removeAttribute('href');
+      midiDownloadLink.classList.add('is-disabled');
+    }
+  }
+
+  copyTabBtn.addEventListener('click', async () => {
+    const text = contentFrame.textContent;
+    if (!text) return;
+    const label = copyTabBtn.querySelector('span');
+    try {
+      await navigator.clipboard.writeText(text);
+      label.textContent = 'Copied';
+    } catch (_) {
+      label.textContent = 'Failed';
+    }
+    copyTabBtn.classList.add('flash');
+    setTimeout(() => { label.textContent = 'Copy'; copyTabBtn.classList.remove('flash'); }, 1400);
+  });
+
   // Load tab content into the right‑hand frame
-  async function loadTabContent(title, tabFile) {
+  async function loadTabContent(title, tabFile, midiFile, song, rowEl) {
+    stopAutoScroll();
+    contentFrame.scrollTop = 0;
+    contentFrame.scrollLeft = 0;
+    loadMidiForSong(midiFile);
+
+    const token = ++loadToken;
+    currentTabFile = tabFile;
+    songTable.querySelectorAll('tr.active').forEach(r => r.classList.remove('active'));
+    if (rowEl) rowEl.classList.add('active');
+
+    contentFrame.textContent = '';
+    contentFrameTitle.textContent = title;
+    contentFrameTitle.title = title;
+    const who = song ? [song.author, song.author_years].filter(Boolean).join(' ') : '';
+    contentFrameComposer.textContent = who;
+    setActionLinks(tabFile, midiFile);
+    setReaderState('loading', 'Loading tablature…');
+
     try {
       const response = await fetch('tabs/' + tabFile);
+      if (token !== loadToken) return;
       if (!response.ok) throw new Error('File not found');
       const text = await response.text();
-      // Update title
-      const titleDiv = document.getElementById('contentFrameTitle');
-      titleDiv.innerHTML = `<a href="tabs/${tabFile}" target="_blank">${title}</a>`;
-      // Show content
+      if (token !== loadToken) return;
       contentFrame.textContent = text;
     } catch (e) {
+      if (token !== loadToken) return;
       contentFrame.textContent = 'Error loading tab: ' + e.message;
     }
+    setReaderState('ready');
   }
 </script>
 </body>

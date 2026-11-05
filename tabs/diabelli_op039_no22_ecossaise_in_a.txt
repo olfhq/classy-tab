@@ -1,7 +1,7 @@
 Op 39, XXX Sehr Leichte Uebungs-stucke - Anton Diabelli (1781-1858)
 (30 Very Easy  Pieces) - No 22, Ecossaise in A major
 edition: SA Steiner 2207 (Vienna, published 1814?)
-see Notes and Legend below - tabbed by weed@wussu.com - 6 September 2019
+see Notes and Legend below - tab by weed@wussu.com - updated 2 September 2026
 MIDI: http://www.classtab.org/diabelli_op039_no22_ecossaise_in_a.mid
 audio: https://www.youtube.com/watch?v=s_GI8ujAQs4 - Neal Fitzpatrick
 
@@ -41,15 +41,19 @@ e|----0--------|----0--------|----4--------|-5=====-------||
 B|-------3-----|-------2-----|-------3-----|-2=====-------||
 G|----------1--|----------2--|----------4--|-------------*||
 D|-------------|-------------|-------------|-------------*||
-A|-------------|-0===========|-------------|--------------||
-E|-0===========|-------------|-0===========|-0=====-------||
+A|-------------|-0===========|-------------|-0=====-------||
+E|-0===========|-------------|-0===========|--------------||
+
 
 Notes and Legend
-----------------
-The tempo of the MIDI is 120 bpm (quarter notes).
+~~~~~~~~~~~~~~~~
+original tab by weed@wussu.com - 6 September 2019
+thanks to Peter Henderson for the following correction (2 September 2026)
+measure 16 - bottom note of chord is A (not E, open 6th string)
+
+The tempo of the MIDI is 120 bpm (beats per minute - quarter notes).
 
 ===  - duration, length of note
-bpm  - beats per minute
 p    - (below the tab) piano - soft
 p    - (between the notes) pull-off
 f    - forte - loud
@@ -62,7 +66,8 @@ sf   - sforzando - suddenly louder
 |---  ---|
 |---  ---|
 
-------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-the latest version of this tab can be found at http://www.classtab.org ZZZ
+the latest version of this tab can be found at https://www.classtab.org
+if you come across any mistakes please let me know - thanks!
 

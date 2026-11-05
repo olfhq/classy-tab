@@ -11,7 +11,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "0",
-  "author_alternate": "<b>Zequinha de Abreu&#160; (Zequinha Abreu, Jos&eacute; Gomes de Abreu)</b>&#160; (1880-1935)"
+  "author_alternate": "Zequinha de Abreu (Zequinha Abreu, José Gomes de Abreu) (1880-1935)"
 },
 {
   "author": "Zequinha de Abreu",
@@ -25,7 +25,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "0",
-  "author_alternate": "<b>Zequinha de Abreu&#160; (Zequinha Abreu, Jos&eacute; Gomes de Abreu)</b>&#160; (1880-1935)"
+  "author_alternate": "Zequinha de Abreu (Zequinha Abreu, José Gomes de Abreu) (1880-1935)"
 },
 {
   "author": "Anton Garcia Abril",
@@ -34,12 +34,12 @@ export const songsData = [
   "tab": "abril_vadecum_01_portico.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=gTfXwd2O-HM",
-  "artist": "Marisa G&oacute;mez",
+  "artist": "Marisa Gómez",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "1",
-  "author_alternate": "<b>Anton Garcia Abril&#160; (Ant&oacute;n Garc&iacute;a Abril)</b>&#160; (1933-2021)"
+  "author_alternate": "Anton Garcia Abril (Antón García Abril) (1933-2021)"
 },
 {
   "author": "Heinrich Albert",
@@ -1938,7 +1938,7 @@ export const songsData = [
   "tab": "carlevaro_aires_de_malambo.txt",
   "midi": "",
   "video": "https://youtu.be/8k_9Cafr1gY?t=7",
-  "artist": "C&eacute;sar Amaro",
+  "artist": "César Amaro",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -2062,7 +2062,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 27, Méthode Complète - Part 3 - 24 Lessons - 1. Moderato in C",
   "tab": "carulli_op027_methode_complete_part3_24_lessons_01_moderato.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -2076,7 +2076,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 27, Méthode Complète - Part 3 - 24 Lessons - 2. Andante in G",
   "tab": "carulli_op027_methode_complete_part3_24_lessons_02_andante.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -2090,7 +2090,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 27, Méthode Complète - Part 3 - 24 Lessons - 3. Allegro in G",
   "tab": "carulli_op027_methode_complete_part3_24_lessons_03_allegro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -2104,7 +2104,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 27, Méthode Complète - Part 3 - 24 Lessons - 4. Larghetto in A",
   "tab": "carulli_op027_methode_complete_part3_24_lessons_04_larghetto.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -2174,10 +2174,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 34, Six Petits Duos - No 2 in G",
   "tab": "carulli_op034_no2_duo_largo_rondo.txt",
-  "midi": [
-    "carulli_op034_no2_duo_1_largo.mid",
-    "carulli_op034_no2_duo_2_rondo.mid"
-  ],
+  "midi": "carulli_op034_no2_duo_1_largo.mid",
   "video": "https://www.youtube.com/watch?v=T-EgewIRNPQ",
   "artist": "Denian Arcoleo, Jouni Stenroos",
   "easy": false,
@@ -2191,7 +2188,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 36, Capriccio in C",
   "tab": "carulli_op036_capriccio_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -2401,10 +2398,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 14 in Am",
   "tab": "carulli_op114_no14_prelude_in_am.txt",
-  "midi": [
-    "carulli_op114_no14_prelude_in_am_1.mid",
-    "carulli_op114_no14_prelude_in_am_2.mid"
-  ],
+  "midi": "carulli_op114_no14_prelude_in_am_1.mid",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2432,10 +2426,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 16 in A",
   "tab": "carulli_op114_no16_prelude_in_a.txt",
-  "midi": [
-    "carulli_op114_no16_prelude_in_a_01.mid",
-    "carulli_op114_no16_prelude_in_a_02.mid"
-  ],
+  "midi": "carulli_op114_no16_prelude_in_a_01.mid",
   "video": "https://www.youtube.com/watch?v=Z8WeUnlMdks",
   "artist": "Flavio Sala",
   "easy": true,
@@ -2449,10 +2440,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 17 in D",
   "tab": "carulli_op114_no17_prelude_in_d.txt",
-  "midi": [
-    "carulli_op114_no17_prelude_in_d_1.mid",
-    "carulli_op114_no17_prelude_in_d_2.mid"
-  ],
+  "midi": "carulli_op114_no17_prelude_in_d_1.mid",
   "video": "https://www.youtube.com/watch?v=1-2DOzvVNf4",
   "artist": "Flavio Sala",
   "easy": true,
@@ -2466,10 +2454,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 18 in G",
   "tab": "carulli_op114_no18_prelude_in_g.txt",
-  "midi": [
-    "carulli_op114_no18_prelude_in_g_1.mid",
-    "carulli_op114_no18_prelude_in_g_2.mid"
-  ],
+  "midi": "carulli_op114_no18_prelude_in_g_1.mid",
   "video": "https://www.youtube.com/watch?v=5PPQoXvWJOc",
   "artist": "Flavio Sala",
   "easy": true,
@@ -2483,10 +2468,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 19 in D",
   "tab": "carulli_op114_no19_prelude_in_d.txt",
-  "midi": [
-    "carulli_op114_no19_prelude_in_d_1.mid",
-    "carulli_op114_no19_prelude_in_d_2.mid"
-  ],
+  "midi": "carulli_op114_no19_prelude_in_d_1.mid",
   "video": "https://www.youtube.com/watch?v=nd4H78tevKE",
   "artist": "Norbert Neunzling",
   "easy": true,
@@ -2514,10 +2496,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 21 in Eb",
   "tab": "carulli_op114_no21_prelude_in_eb.txt",
-  "midi": [
-    "carulli_op114_no21_prelude_in_eb_1.mid",
-    "carulli_op114_no21_prelude_in_eb_2.mid"
-  ],
+  "midi": "carulli_op114_no21_prelude_in_eb_1.mid",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2531,10 +2510,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 22 in B",
   "tab": "carulli_op114_no22_prelude_in_b.txt",
-  "midi": [
-    "carulli_op114_no22_prelude_in_b_1.mid",
-    "carulli_op114_no22_prelude_in_b_2.mid"
-  ],
+  "midi": "carulli_op114_no22_prelude_in_b_1.mid",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2548,10 +2524,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 114, Ventiquattro Preludi (24 Preludes) - No 23 in Em",
   "tab": "carulli_op114_no23_prelude_in_em.txt",
-  "midi": [
-    "carulli_op114_no23_prelude_in_em_1.mid",
-    "carulli_op114_no23_prelude_in_em_2.mid"
-  ],
+  "midi": "carulli_op114_no23_prelude_in_em_1.mid",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2593,7 +2566,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 1. Waltz in C",
   "tab": "carulli_op121_24_pieces_01_waltz_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=sXSTcVcx_WI",
   "artist": "Norbert Neunzling",
   "easy": true,
@@ -2789,7 +2762,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 15. Siciliana in Am",
   "tab": "carulli_op121_24_pieces_15_siciliana_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2831,7 +2804,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 18. Andante in A",
   "tab": "carulli_op121_24_pieces_18_andante_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2845,7 +2818,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 19. Andante in E",
   "tab": "carulli_op121_24_pieces_19_andante_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2859,7 +2832,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 20. Andante in A",
   "tab": "carulli_op121_24_pieces_20_andante_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2873,7 +2846,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 21. Andante in G",
   "tab": "carulli_op121_24_pieces_21_andante_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2887,7 +2860,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 22. Mouvement de Valse in A",
   "tab": "carulli_op121_24_pieces_22_valse_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2901,7 +2874,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 23. Poco Allegretto in A",
   "tab": "carulli_op121_24_pieces_23_poco_allegretto_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2915,7 +2888,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 121, 24 Pièces pour Guitarre Seule - 24. Andante in C",
   "tab": "carulli_op121_24_pieces_24_andante_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2985,7 +2958,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 122, 24 Walses pour Guitarre Seule - No 5 in D",
   "tab": "carulli_op122_24_walses_05_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -2999,7 +2972,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 204, Douze Petits Morceaux - No 1 in C, L'Amour",
   "tab": "carulli_op204_no1_l'amour.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3013,7 +2986,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 1. Andante in C",
   "tab": "carulli_op211_18_petits_morceaux_no01_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3027,7 +3000,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 2. Andante grazioso in G",
   "tab": "carulli_op211_18_petits_morceaux_no02_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3041,7 +3014,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 3. Valse in D",
   "tab": "carulli_op211_18_petits_morceaux_no03_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3055,7 +3028,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 4. Andante in A",
   "tab": "carulli_op211_18_petits_morceaux_no04_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3069,7 +3042,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 5. Larghetto espressivo in Am",
   "tab": "carulli_op211_18_petits_morceaux_no05_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3083,7 +3056,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 6. Moderato in C",
   "tab": "carulli_op211_18_petits_morceaux_no06_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3097,7 +3070,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 7. Andante in G",
   "tab": "carulli_op211_18_petits_morceaux_no07_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3111,7 +3084,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 8. Allegretto in Em",
   "tab": "carulli_op211_18_petits_morceaux_no08_in_em.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3125,7 +3098,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 9. Andantino grazioso in D",
   "tab": "carulli_op211_18_petits_morceaux_no09_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3139,7 +3112,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 10. Poco allegretto in A",
   "tab": "carulli_op211_18_petits_morceaux_no10_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3153,7 +3126,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 11. Andante grazioso in F",
   "tab": "carulli_op211_18_petits_morceaux_no11_in_f.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3167,7 +3140,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 12. Andante agitato in F",
   "tab": "carulli_op211_18_petits_morceaux_no12_in_f.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3181,7 +3154,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 13. Andante mosso in C",
   "tab": "carulli_op211_18_petits_morceaux_no13_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3195,7 +3168,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 14. Poco allegretto in G",
   "tab": "carulli_op211_18_petits_morceaux_no14_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3209,7 +3182,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 15. Allegretto grazioso in D",
   "tab": "carulli_op211_18_petits_morceaux_no15_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3223,7 +3196,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 16. Valse in A",
   "tab": "carulli_op211_18_petits_morceaux_no16_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3237,7 +3210,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 17. Valse in E",
   "tab": "carulli_op211_18_petits_morceaux_no17_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3251,7 +3224,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 211, 18 Petits Morceaux - 18. Moderato in C",
   "tab": "carulli_op211_18_petits_morceaux_no18_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3265,7 +3238,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 1. Valse in C",
   "tab": "carulli_op241_morceaux_progressifs_no01_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3279,7 +3252,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 2. Andante in C",
   "tab": "carulli_op241_morceaux_progressifs_no02_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3293,7 +3266,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 3. Andante in C",
   "tab": "carulli_op241_morceaux_progressifs_no03_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3307,7 +3280,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 4. Walze in G",
   "tab": "carulli_op241_morceaux_progressifs_no04_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3321,7 +3294,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 5. Andantino in G",
   "tab": "carulli_op241_morceaux_progressifs_no05_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3335,7 +3308,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 6. Poco Allegretto in G",
   "tab": "carulli_op241_morceaux_progressifs_no06_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3349,7 +3322,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 7. Rondeau in D",
   "tab": "carulli_op241_morceaux_progressifs_no07_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3363,7 +3336,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 8. Walze in D",
   "tab": "carulli_op241_morceaux_progressifs_no08_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3377,7 +3350,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 9. Poco Allegretto in D",
   "tab": "carulli_op241_morceaux_progressifs_no09_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3391,7 +3364,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 10. Andante grazioso in D",
   "tab": "carulli_op241_morceaux_progressifs_no10_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3405,7 +3378,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 11. Walze in A",
   "tab": "carulli_op241_morceaux_progressifs_no11_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3419,7 +3392,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 12. Poco Allegretto in A",
   "tab": "carulli_op241_morceaux_progressifs_no12_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3433,7 +3406,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 13. in A",
   "tab": "carulli_op241_morceaux_progressifs_no13_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3447,7 +3420,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 14. Allegretto in E",
   "tab": "carulli_op241_morceaux_progressifs_no14_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3461,7 +3434,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 15. Valse in E",
   "tab": "carulli_op241_morceaux_progressifs_no15_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3475,7 +3448,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 16. Poco Allegretto in F",
   "tab": "carulli_op241_morceaux_progressifs_no16_in_f.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3489,7 +3462,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 17. Andante in F",
   "tab": "carulli_op241_morceaux_progressifs_no17_in_f.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3503,7 +3476,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 18. Andante in Am",
   "tab": "carulli_op241_morceaux_progressifs_no18_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3517,7 +3490,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 19. Andantino in Am",
   "tab": "carulli_op241_morceaux_progressifs_no19_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3531,7 +3504,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 20. Andantino in Am",
   "tab": "carulli_op241_morceaux_progressifs_no20_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3545,7 +3518,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 21. Walze in Em",
   "tab": "carulli_op241_morceaux_progressifs_no21_in_em.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3559,7 +3532,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 22. Allegretto in Dm",
   "tab": "carulli_op241_morceaux_progressifs_no22_in_dm.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3573,7 +3546,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 23. Andante grazioso in C",
   "tab": "carulli_op241_morceaux_progressifs_no23_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3587,7 +3560,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 24. in C",
   "tab": "carulli_op241_morceaux_progressifs_no24_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3601,7 +3574,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 25. Allegretto grazioso in G",
   "tab": "carulli_op241_morceaux_progressifs_no25_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3615,7 +3588,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 26. Polonaise in G",
   "tab": "carulli_op241_morceaux_progressifs_no26_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3629,7 +3602,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 27. Walze in D",
   "tab": "carulli_op241_morceaux_progressifs_no27_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3643,7 +3616,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 28. Allegro grazioso in D",
   "tab": "carulli_op241_morceaux_progressifs_no28_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3657,7 +3630,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 29. Allegro grazioso in A",
   "tab": "carulli_op241_morceaux_progressifs_no29_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3671,7 +3644,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 30. Poco Allegretto in A",
   "tab": "carulli_op241_morceaux_progressifs_no30_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3685,7 +3658,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 31. Andante in E",
   "tab": "carulli_op241_morceaux_progressifs_no31_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3699,7 +3672,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 32. Walze in F",
   "tab": "carulli_op241_morceaux_progressifs_no32_in_f.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3713,7 +3686,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 33. Poco Allegretto in C",
   "tab": "carulli_op241_morceaux_progressifs_no33_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3727,7 +3700,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 34. Poco Allegretto in G",
   "tab": "carulli_op241_morceaux_progressifs_no34_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3741,7 +3714,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 35. Poco Allegretto in A",
   "tab": "carulli_op241_morceaux_progressifs_no35_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3755,7 +3728,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 36. Larghetto in Em",
   "tab": "carulli_op241_morceaux_progressifs_no36_in_em.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3769,7 +3742,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 37. Andantino in C",
   "tab": "carulli_op241_morceaux_progressifs_no37_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3783,7 +3756,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 38. Walze in G",
   "tab": "carulli_op241_morceaux_progressifs_no38_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3797,7 +3770,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 39. Andantino Grazioso in Dm",
   "tab": "carulli_op241_morceaux_progressifs_no39_in_dm.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3811,7 +3784,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 241, Morceaux Progressifs - 40. Andantino in D",
   "tab": "carulli_op241_morceaux_progressifs_no40_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3825,7 +3798,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 333, Grand Recueil - Part 1 - 1. Moderato in C",
   "tab": "carulli_op333_1_01_moderato_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -3839,7 +3812,7 @@ export const songsData = [
   "author_years": "(1770-1841)",
   "title": "Op 333, Grand Recueil - Part 1 - 2. Petit Caprice in G",
   "tab": "carulli_op333_1_02_petit_caprice_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -4065,7 +4038,7 @@ export const songsData = [
   "tab": "castelnuovo-tedesco_op177_escarraman_1_gallarda.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=Vh1-wu487Ac",
-  "artist": "Anna Klimundov&aacute;",
+  "artist": "Anna Klimundová",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -4079,7 +4052,7 @@ export const songsData = [
   "tab": "castelnuovo-tedesco_op177_escarraman_2_el_canario.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=Vh1-wu487Ac",
-  "artist": "Anna Klimundov&aacute;",
+  "artist": "Anna Klimundová",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -4252,7 +4225,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "11",
-  "author_alternate": "<b>Johnny Alf&#160; (Alfredo Jos&eacute; da Silva)</b>"
+  "author_alternate": "Johnny Alf (Alfredo José da Silva)"
 },
 {
   "author": "Ruperto Chapi",
@@ -4343,7 +4316,7 @@ export const songsData = [
   "author_years": "",
   "title": "Menestrel Urbano",
   "tab": "chiavazzioli_montenegro_menestrelurbano.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -4364,7 +4337,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4378,7 +4351,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4392,7 +4365,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4406,7 +4379,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4420,7 +4393,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4434,7 +4407,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4448,7 +4421,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4462,7 +4435,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4476,7 +4449,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4490,7 +4463,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4504,7 +4477,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4518,7 +4491,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4532,7 +4505,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4546,7 +4519,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4560,7 +4533,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4574,7 +4547,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4588,7 +4561,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4602,7 +4575,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4616,7 +4589,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4630,7 +4603,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4644,7 +4617,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4658,7 +4631,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4672,7 +4645,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Frederic Francois Chopin",
@@ -4686,7 +4659,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "116",
-  "author_alternate": "<b>Frederic Francois Chopin &#160;(Fryderyk Franciszek Chopin, Fr&#233;d&#233;ric Fran&#231;ois Chopin)</b>&#160; (1810-1849)"
+  "author_alternate": "Frederic Francois Chopin (Fryderyk Franciszek Chopin, Frédéric François Chopin) (1810-1849)"
 },
 {
   "author": "Domenico Cimarosa",
@@ -5181,7 +5154,7 @@ export const songsData = [
 {
   "author": "Samuel Cohen",
   "author_years": "(-1882-)",
-  "title": "Hatikvah (Hope) ",
+  "title": "Hatikvah (Hope)",
   "tab": "cohen_hatikvah.txt",
   "midi": "cohen_hatikvah.mid",
   "video": "",
@@ -5274,7 +5247,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "13",
-  "author_alternate": "<b>Carlos Eleta Almar&aacute;n &#160;(Carlos Eleta Almaran)</b>&#160; (1918-2013)"
+  "author_alternate": "Carlos Eleta Almarán (Carlos Eleta Almaran) (1918-2013)"
 },
 {
   "author": "Francesco Corbetta",
@@ -5365,7 +5338,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 31, Le Départ",
   "tab": "coste_op31_le_depart.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=Fs0Sf642q3o",
   "artist": "Anna Pietrzak",
   "easy": false,
@@ -5379,7 +5352,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 34, Le Montagnard - pour Hautbois ou Violin et Guitare ou Piano",
   "tab": "coste_op34_le_montagnard.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=fPhbx1OjBS4",
   "artist": "Duo Alterity",
   "easy": false,
@@ -5435,7 +5408,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 38, 25 Etudes de Genre - 4. Andantino in D",
   "tab": "coste_op38_no04_andantino_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=I3BUHEFq9Do",
   "artist": "Edson Lopes",
   "easy": false,
@@ -5477,7 +5450,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 38, 25 Etudes de Genre - 7. Agitato in Am",
   "tab": "coste_op38_no07_agitato_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5505,7 +5478,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 38, 25 Etudes de Genre - 22. Allegro moderato in A",
   "tab": "coste_op38_no22_allegro_moderato_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5519,7 +5492,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 39, Andante et Minuet - 1. Andante",
   "tab": "coste_op39_andante_et_minuet_1_andante.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=EJqMiTZoYFo",
   "artist": "Andrew Rohwedder",
   "easy": false,
@@ -5533,7 +5506,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 41 No 4",
   "tab": "coste_op41_feulilles_dautumn _12_valses_no4.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5547,7 +5520,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 51 No 1 - Barcarolle in A",
   "tab": "coste_op51_no01_barcarolle_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -5561,7 +5534,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 51 No 6 - Rondeau in E",
   "tab": "coste_op51_no06_rondeau_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5575,7 +5548,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Op 51 No 10 - Mélancolie in Em",
   "tab": "coste_op51_no10_melancolie_in_em.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5589,7 +5562,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Méthode Complète Pour La Guitare Par Ferdinand Sor - Nos 1-15",
   "tab": "coste_method_complete_01-15.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -5603,7 +5576,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Méthode Complète Pour La Guitare Par Ferdinand Sor - No 18",
   "tab": "coste_method_complete_18.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5617,7 +5590,7 @@ export const songsData = [
   "author_years": "(1805-1883)",
   "title": "Méthode Complète Pour La Guitare Par Ferdinand Sor - No 27",
   "tab": "coste_method_complete_27.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -5722,7 +5695,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "14",
-  "author_alternate": "Gabriel Fernandez Alvez (Gabriel Fern&aacute;ndez &Aacute;lvez)"
+  "author_alternate": "Gabriel Fernandez Alvez (Gabriel Fernández Álvez)"
 },
 {
   "author": "Ernesto de Curtis",
@@ -6548,7 +6521,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "157",
-  "author_alternate": "<b>John Philip Dimick</b>&#160; (?)"
+  "author_alternate": "John Philip Dimick (?)"
 },
 {
   "author": "Juan de Dios",
@@ -6562,7 +6535,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "158",
-  "author_alternate": "Juan de Dios (Juan de Dios Garc&iacute;a Aguilera)"
+  "author_alternate": "Juan de Dios (Juan de Dios García Aguilera)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6576,7 +6549,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6590,7 +6563,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6604,7 +6577,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6618,7 +6591,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6632,7 +6605,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6646,7 +6619,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6660,7 +6633,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6674,7 +6647,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Maria Luisa Anido",
@@ -6688,14 +6661,14 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "16",
-  "author_alternate": "<b>Maria Luisa Anido (Isabel María Luisa Anido González)</b>"
+  "author_alternate": "Maria Luisa Anido (Isabel María Luisa Anido González)"
 },
 {
   "author": "Enrique Dizeo & Angel Cabral",
   "author_years": "",
   "title": "La Foule",
   "tab": "dizeo_cabral_la_foule.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -7766,7 +7739,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7780,7 +7753,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7794,7 +7767,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7808,7 +7781,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7822,7 +7795,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7836,7 +7809,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7850,7 +7823,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7864,7 +7837,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7878,7 +7851,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7892,7 +7865,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7906,7 +7879,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7920,7 +7893,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7934,7 +7907,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7948,7 +7921,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7962,7 +7935,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7976,7 +7949,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -7990,7 +7963,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -8004,7 +7977,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -8018,7 +7991,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -8032,7 +8005,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -8046,7 +8019,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "John Dowland",
@@ -8060,7 +8033,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "164",
-  "author_alternate": "<b>John Dowland</b>&#160; (1561/62/63-1626)"
+  "author_alternate": "John Dowland (1561/62/63-1626)"
 },
 {
   "author": "Robert Dowland",
@@ -8088,7 +8061,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8102,7 +8075,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8116,7 +8089,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8130,7 +8103,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8144,7 +8117,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8158,7 +8131,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8172,7 +8145,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8186,7 +8159,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8200,7 +8173,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8214,7 +8187,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8228,7 +8201,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8242,7 +8215,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8256,7 +8229,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8270,7 +8243,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8284,7 +8257,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8298,7 +8271,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8312,7 +8285,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8326,7 +8299,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8340,7 +8313,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8354,7 +8327,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8368,7 +8341,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "John Duarte",
@@ -8382,7 +8355,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "166",
-  "author_alternate": "<b>John Duarte&#160; (John William Duarte)</b>&#160; (1919-2004)<br>"
+  "author_alternate": "John Duarte (John William Duarte) (1919-2004)"
 },
 {
   "author": "Matthew Dunne",
@@ -8606,7 +8579,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "17",
-  "author_alternate": "<b>Julian Arcas (Juli&aacute;n Gavino Lacal Arcas)</b>"
+  "author_alternate": "Julian Arcas (Julián Gavino Lacal Arcas)"
 },
 {
   "author": "Antonin Dvorak",
@@ -8620,7 +8593,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "170",
-  "author_alternate": "<b>Antonin Dvorak&#160; (Anton&iacute;n Dvo&#345;&aacute;k)</b>&#160; (1841-1904)"
+  "author_alternate": "Antonin Dvorak (Antonín Dvořák) (1841-1904)"
 },
 {
   "author": "Antonin Dvorak",
@@ -8634,7 +8607,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "170",
-  "author_alternate": "<b>Antonin Dvorak&#160; (Anton&iacute;n Dvo&#345;&aacute;k)</b>&#160; (1841-1904)"
+  "author_alternate": "Antonin Dvorak (Antonín Dvořák) (1841-1904)"
 },
 {
   "author": "Antonin Dvorak",
@@ -8648,7 +8621,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "170",
-  "author_alternate": "<b>Antonin Dvorak&#160; (Anton&iacute;n Dvo&#345;&aacute;k)</b>&#160; (1841-1904)"
+  "author_alternate": "Antonin Dvorak (Antonín Dvořák) (1841-1904)"
 },
 {
   "author": "Roland Dyens",
@@ -8755,7 +8728,7 @@ export const songsData = [
   "tab": "dyens_hommage_a_villa-lobos_1_climazonie.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=MtGtfTHsiYk",
-  "artist": "Paul R&ouml;sler",
+  "artist": "Paul Rösler",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -8769,7 +8742,7 @@ export const songsData = [
   "tab": "dyens_hommage_a_villa-lobos_2_danse_caracterielle_et_bachianinha.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=MtGtfTHsiYk",
-  "artist": "Paul R&ouml;sler",
+  "artist": "Paul Rösler",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -8783,7 +8756,7 @@ export const songsData = [
   "tab": "dyens_hommage_a_villa-lobos_3_andantinostalgie.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=MtGtfTHsiYk",
-  "artist": "Paul R&ouml;sler",
+  "artist": "Paul Rösler",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -8867,7 +8840,7 @@ export const songsData = [
   "tab": "dyens_saudade_3_francis_kleynjans.txt",
   "midi": "dyens_saudade_3_francis_kleynjans.mid",
   "video": "https://www.youtube.com/watch?v=iy8W3sS8hTw",
-  "artist": "Ga&euml;lle Solal",
+  "artist": "Gaëlle Solal",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -9105,12 +9078,12 @@ export const songsData = [
   "tab": "espla_levantina_02.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=l0oe1NpryWs",
-  "artist": "Mar&iacute;a Esther Guzm&aacute;n",
+  "artist": "María Esther Guzmán",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "177",
-  "author_alternate": "<b>Oscar Espla&#160; (&Oacute;scar Espl&aacute; y Triay)</b>&#160; (1886-1976)"
+  "author_alternate": "Oscar Espla (Óscar Esplá y Triay) (1886-1976)"
 },
 {
   "author": "Oscar Espla",
@@ -9119,12 +9092,12 @@ export const songsData = [
   "tab": "espla_levantina_05.txt",
   "midi": "",
   "video": "https://youtu.be/l0oe1NpryWs?t=147",
-  "artist": "Mar&iacute;a Esther Guzm&aacute;n",
+  "artist": "María Esther Guzmán",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "177",
-  "author_alternate": "<b>Oscar Espla&#160; (&Oacute;scar Espl&aacute; y Triay)</b>&#160; (1886-1976)"
+  "author_alternate": "Oscar Espla (Óscar Esplá y Triay) (1886-1976)"
 },
 {
   "author": "Esteban de Sanlucar",
@@ -9138,7 +9111,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "178",
-  "author_alternate": "<b>Esteban de Sanlucar (Esteban Sanlúcutecar, Esteban Delgado Bernal)</b>"
+  "author_alternate": "Esteban de Sanlucar (Esteban Sanlúcutecar, Esteban Delgado Bernal)"
 },
 {
   "author": "Esteban de Sanlucar",
@@ -9152,7 +9125,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "178",
-  "author_alternate": "<b>Esteban de Sanlucar (Esteban Sanlúcutecar, Esteban Delgado Bernal)</b>"
+  "author_alternate": "Esteban de Sanlucar (Esteban Sanlúcutecar, Esteban Delgado Bernal)"
 },
 {
   "author": "Carl Eulenstein",
@@ -9166,7 +9139,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "179",
-  "author_alternate": "<b>Carl Eulenstein&#160; (Charles Eulenstein, Karl Eulenstein)</b>&#160; (1802-1890)"
+  "author_alternate": "Carl Eulenstein (Charles Eulenstein, Karl Eulenstein) (1802-1890)"
 },
 {
   "author": "Carl Eulenstein",
@@ -9180,7 +9153,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "179",
-  "author_alternate": "<b>Carl Eulenstein&#160; (Charles Eulenstein, Karl Eulenstein)</b>&#160; (1802-1890)"
+  "author_alternate": "Carl Eulenstein (Charles Eulenstein, Karl Eulenstein) (1802-1890)"
 },
 {
   "author": "Carl Eulenstein",
@@ -9194,7 +9167,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "179",
-  "author_alternate": "<b>Carl Eulenstein&#160; (Charles Eulenstein, Karl Eulenstein)</b>&#160; (1802-1890)"
+  "author_alternate": "Carl Eulenstein (Charles Eulenstein, Karl Eulenstein) (1802-1890)"
 },
 {
   "author": "Nina Aristova",
@@ -9229,10 +9202,7 @@ export const songsData = [
   "author_years": "(1697-1761)",
   "title": "Minuet in E (Minuet and Variation)",
   "tab": "falckenhagen_minuet_in_e_solo_duo.txt",
-  "midi": [
-    "falckenhagen_minuet_in_e_solo.mid",
-    "falckenhagen_minuet_in_e_duo.mid"
-  ],
+  "midi": "falckenhagen_minuet_in_e_solo.mid",
   "video": "https://youtu.be/yQ7FLDWGQPI?t=12",
   "artist": "Klemens Klum",
   "easy": true,
@@ -9374,7 +9344,7 @@ export const songsData = [
   "tab": "fampas_sousta.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=L63LjELhPpI",
-  "artist": "Volker H&ouml;h",
+  "artist": "Volker Höh",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -9421,7 +9391,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "185",
-  "author_alternate": "<b>Carmen Farre de Prat (Carmen Farré de Prat, Carmen Farré i Ors)</b>"
+  "author_alternate": "Carmen Farre de Prat (Carmen Farré de Prat, Carmen Farré i Ors)"
 },
 {
   "author": "Carmen Farre de Prat",
@@ -9435,7 +9405,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "185",
-  "author_alternate": "<b>Carmen Farre de Prat (Carmen Farré de Prat, Carmen Farré i Ors)</b>"
+  "author_alternate": "Carmen Farre de Prat (Carmen Farré de Prat, Carmen Farré i Ors)"
 },
 {
   "author": "Gabriel Faure",
@@ -9477,7 +9447,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "187",
-  "author_alternate": "<b>Fernando Ferandiere (Fernando Ferrandiere, Fernando Ferandière)</b>"
+  "author_alternate": "Fernando Ferandiere (Fernando Ferrandiere, Fernando Ferandière)"
 },
 {
   "author": "Fernando Ferandiere",
@@ -9491,7 +9461,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "187",
-  "author_alternate": "<b>Fernando Ferandiere (Fernando Ferrandiere, Fernando Ferandière)</b>"
+  "author_alternate": "Fernando Ferandiere (Fernando Ferrandiere, Fernando Ferandière)"
 },
 {
   "author": "Heraclio Fernandez",
@@ -9519,7 +9489,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "189",
-  "author_alternate": "<b>Jos&eacute; Fern&aacute;ndez&#160; (Jos&eacute; Fern&aacute;ndez D&iacute;az)</b>&#160; (1908-1979)"
+  "author_alternate": "José Fernández (José Fernández Díaz) (1908-1979)"
 },
 {
   "author": "Harold Arlen",
@@ -9575,7 +9545,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "192",
-  "author_alternate": "<b>Willem de Fesch&#160; (William Defesch)</b>&#160; (1697-1758)"
+  "author_alternate": "Willem de Fesch (William Defesch) (1697-1758)"
 },
 {
   "author": "Zdenko Fibich",
@@ -9603,7 +9573,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "194",
-  "author_alternate": "<b>Hilary Field</b>&#160; (?-)"
+  "author_alternate": "Hilary Field (?-)"
 },
 {
   "author": "Hilary Field",
@@ -9617,7 +9587,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "194",
-  "author_alternate": "<b>Hilary Field</b>&#160; (?-)"
+  "author_alternate": "Hilary Field (?-)"
 },
 {
   "author": "Ignacio \"Indio\" Figueredo",
@@ -9701,7 +9671,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "198",
-  "author_alternate": "<b>Daniel Fortea&#160; (Daniel Fortea i Guimer&agrave;)</b>&#160; (1878-1953)"
+  "author_alternate": "Daniel Fortea (Daniel Fortea i Guimerà) (1878-1953)"
 },
 {
   "author": "Daniel Fortea",
@@ -9715,7 +9685,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "198",
-  "author_alternate": "<b>Daniel Fortea&#160; (Daniel Fortea i Guimer&agrave;)</b>&#160; (1878-1953)"
+  "author_alternate": "Daniel Fortea (Daniel Fortea i Guimerà) (1878-1953)"
 },
 {
   "author": "Daniel Fortea",
@@ -9729,7 +9699,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "198",
-  "author_alternate": "<b>Daniel Fortea&#160; (Daniel Fortea i Guimer&agrave;)</b>&#160; (1878-1953)"
+  "author_alternate": "Daniel Fortea (Daniel Fortea i Guimerà) (1878-1953)"
 },
 {
   "author": "Daniel Fortea",
@@ -9743,7 +9713,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "198",
-  "author_alternate": "<b>Daniel Fortea&#160; (Daniel Fortea i Guimer&agrave;)</b>&#160; (1878-1953)"
+  "author_alternate": "Daniel Fortea (Daniel Fortea i Guimerà) (1878-1953)"
 },
 {
   "author": "Daniel Fortea",
@@ -9757,7 +9727,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "198",
-  "author_alternate": "<b>Daniel Fortea&#160; (Daniel Fortea i Guimer&agrave;)</b>&#160; (1878-1953)"
+  "author_alternate": "Daniel Fortea (Daniel Fortea i Guimerà) (1878-1953)"
 },
 {
   "author": "Daniel Fortea",
@@ -9771,7 +9741,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "198",
-  "author_alternate": "<b>Daniel Fortea&#160; (Daniel Fortea i Guimer&agrave;)</b>&#160; (1878-1953)"
+  "author_alternate": "Daniel Fortea (Daniel Fortea i Guimerà) (1878-1953)"
 },
 {
   "author": "Francois de Fossa",
@@ -9785,7 +9755,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "199",
-  "author_alternate": "<b>Fran&ccedil;ois de Fossa&#160; (Fran&ccedil;ois de Paule Jacques Raymond de Fossa)</b>"
+  "author_alternate": "François de Fossa (François de Paule Jacques Raymond de Fossa)"
 },
 {
   "author": "Francois de Fossa",
@@ -9799,7 +9769,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "199",
-  "author_alternate": "<b>Fran&ccedil;ois de Fossa&#160; (Fran&ccedil;ois de Paule Jacques Raymond de Fossa)</b>"
+  "author_alternate": "François de Fossa (François de Paule Jacques Raymond de Fossa)"
 },
 {
   "author": "Jean Absil",
@@ -9820,7 +9790,7 @@ export const songsData = [
   "author_years": "(1921-2006)",
   "title": "Op 107, Fantasy For Guitar - 1. Prelude",
   "tab": "arnold_malcolm_op107_fantasy_for_guitar_1_prelude.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=yDUb2a1jSw4",
   "artist": "Joseph Regan",
   "easy": false,
@@ -9834,7 +9804,7 @@ export const songsData = [
   "author_years": "(1921-2006)",
   "title": "Op 107, Fantasy For Guitar - 2. Scherzo",
   "tab": "arnold_malcolm_op107_fantasy_for_guitar_2_scherzo.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/wn-CQT0GNTY?t=84",
   "artist": "Florent Aillaud",
   "easy": false,
@@ -9848,7 +9818,7 @@ export const songsData = [
   "author_years": "(1921-2006)",
   "title": "Op 107, Fantasy For Guitar - 3. Arietta",
   "tab": "arnold_malcolm_op107_fantasy_for_guitar_3_arietta.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/yDUb2a1jSw4?t=262",
   "artist": "Joseph Regan",
   "easy": false,
@@ -9862,7 +9832,7 @@ export const songsData = [
   "author_years": "(1921-2006)",
   "title": "Op 107, Fantasy For Guitar - 4. Fughetta",
   "tab": "arnold_malcolm_op107_fantasy_for_guitar_4_fughetta.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/iXNWOKFt9G4?t=364",
   "artist": "Jaka Klun",
   "easy": false,
@@ -9939,7 +9909,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "203",
-  "author_alternate": "Julius Fucik (Julius Ernst Wilhelm Fu&#0269;&iacute;k)"
+  "author_alternate": "Julius Fucik (Julius Ernst Wilhelm Fučík)"
 },
 {
   "author": "Hiroaki Fujiwara",
@@ -10639,7 +10609,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "208",
-  "author_alternate": "<b>Carlos Gardel&#160; (Charles Romuald Gard&egrave;s)</b>&#160; (1890-1935)"
+  "author_alternate": "Carlos Gardel (Charles Romuald Gardès) (1890-1935)"
 },
 {
   "author": "Carlos Gardel",
@@ -10653,7 +10623,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "208",
-  "author_alternate": "<b>Carlos Gardel&#160; (Charles Romuald Gard&egrave;s)</b>&#160; (1890-1935)"
+  "author_alternate": "Carlos Gardel (Charles Romuald Gardès) (1890-1935)"
 },
 {
   "author": "Galina Nikolaevna Garnishevskaya",
@@ -10695,7 +10665,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "21",
-  "author_alternate": "Rosa Garc&iacute;a Ascot (Rosa Garcia Ascot)"
+  "author_alternate": "Rosa García Ascot (Rosa Garcia Ascot)"
 },
 {
   "author": "Garoto",
@@ -11045,7 +11015,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "214",
-  "author_alternate": "<b>Roberto Gerhart&#160; (Robert Gerhard i Ottenwaelder)</b>&#160; (1896-1970)"
+  "author_alternate": "Roberto Gerhart (Robert Gerhard i Ottenwaelder) (1896-1970)"
 },
 {
   "author": "Paul Gerrits",
@@ -11157,7 +11127,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "217",
-  "author_alternate": "<b>George &amp; Ira Gershwin</b>&#160; (1898-1937 / 1896-1983)"
+  "author_alternate": "George & Ira Gershwin (1898-1937 / 1896-1983)"
 },
 {
   "author": "Remo Giazotto",
@@ -11278,7 +11248,7 @@ export const songsData = [
   "tab": "gilardino_studi_di_virtuosita_53_les_arbres_rouges.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=DRJvVkyx85Q",
-  "artist": "Michael Metrat&oacute;n",
+  "artist": "Michael Metratón",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -11647,7 +11617,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "221",
-  "author_alternate": "<b>Alberto Ginastera&#160; (Alberto Evaristo Ginastera)</b>&#160; (1916-1983)"
+  "author_alternate": "Alberto Ginastera (Alberto Evaristo Ginastera) (1916-1983)"
 },
 {
   "author": "Alberto Ginastera",
@@ -11661,7 +11631,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "221",
-  "author_alternate": "<b>Alberto Ginastera&#160; (Alberto Evaristo Ginastera)</b>&#160; (1916-1983)"
+  "author_alternate": "Alberto Ginastera (Alberto Evaristo Ginastera) (1916-1983)"
 },
 {
   "author": "Lyse Gingras",
@@ -11703,21 +11673,21 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Allegro in D",
   "tab": "giuliani__allegro_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11731,49 +11701,49 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Andante in D (2/4 time)",
   "tab": "giuliani__andante_in_d_1.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Andante in D (6/8 time)",
   "tab": "giuliani__andante_in_d_2.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Andantino in Am",
   "tab": "giuliani__andantino_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11787,35 +11757,35 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Moderato in D",
   "tab": "giuliani__moderato_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Moderato in Em",
   "tab": "giuliani__moderato_in_em.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11829,21 +11799,21 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 1a, 120 Daily Studies For The Right Hand",
   "tab": "giuliani_op001a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11857,7 +11827,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11871,49 +11841,49 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 15, Sonata Brillant in C - 1. Allegro spirito",
   "tab": "giuliani_op015_sonata_in_c_1_allegro_spirito.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=Yi4iizP3F60",
   "artist": "Kangho Lee",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 15, Sonata Brillant in C - 2. Adagio",
   "tab": "giuliani_op015_sonata_in_c_2_adagio.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=7hgW8OSdAVQ (from 5min 52sec)",
   "artist": "Luciano Monaco",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 15, Sonata Brillant in C - 3. Allegro vivace",
   "tab": "giuliani_op015_sonata_in_c_3_allegro_vivace.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=7hgW8OSdAVQ (from 10min 50sec)",
   "artist": "Luciano Monaco",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11927,7 +11897,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11941,7 +11911,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11955,7 +11925,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11969,7 +11939,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11983,7 +11953,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -11997,7 +11967,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12011,7 +11981,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12025,7 +11995,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12039,7 +12009,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12053,7 +12023,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12067,7 +12037,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12081,7 +12051,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12095,7 +12065,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12109,7 +12079,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12123,7 +12093,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12137,7 +12107,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12151,7 +12121,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12165,7 +12135,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12179,21 +12149,21 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 45, Variazioni sulla Follia di Spagna in Dm/D (Theme, 6 Variations)",
   "tab": "giuliani_op045.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=0qF4kaJQ_ws",
   "artist": "Serena Saloni",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12207,7 +12177,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12221,7 +12191,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12235,7 +12205,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12249,7 +12219,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12263,7 +12233,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12277,7 +12247,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12291,7 +12261,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12305,7 +12275,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12319,7 +12289,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12333,7 +12303,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12347,7 +12317,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12361,7 +12331,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12375,7 +12345,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12389,7 +12359,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12403,7 +12373,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12417,7 +12387,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12431,7 +12401,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12445,7 +12415,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12459,7 +12429,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12473,7 +12443,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12487,7 +12457,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12501,7 +12471,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12515,7 +12485,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12529,7 +12499,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12543,77 +12513,77 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 1, Andantino in C",
   "tab": "giuliani_op050_01.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=KTYZzI1WQQs",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 2, Grazioso in C",
   "tab": "giuliani_op050_02.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=fuLAsDeEg3E",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 3, Allegretto in C",
   "tab": "giuliani_op050_03.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=xVHPl_6QLws",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 4, Grazioso in G",
   "tab": "giuliani_op050_04.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=OYlUBOyWpBA",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 5, Allegretto in Am",
   "tab": "giuliani_op050_05.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=fGkcO-6PbjA",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12627,63 +12597,63 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 7, Andantino in G",
   "tab": "giuliani_op050_07_andantino_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=uvBv1e9n45o",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 8, Allegretto in G",
   "tab": "giuliani_op050_08_allegretto_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=qLYVEvhKfmo",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 9, Andantino in D",
   "tab": "giuliani_op050_09_andantino_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=uwHF9mxshvg",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 10, Allegro in D",
   "tab": "giuliani_op050_10_allegro_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=ZH-Xag8H-L0",
   "artist": "Norbert Neunzling",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12697,7 +12667,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12706,26 +12676,26 @@ export const songsData = [
   "tab": "giuliani_op050_12_allegretto_in_c.txt",
   "midi": "giuliani_op050_12_allegretto_in_c.mid",
   "video": "https://www.youtube.com/watch?v=Ixq9I5UwIjI",
-  "artist": "Andr&eacute; Priedols",
+  "artist": "André Priedols",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 50, Le Papillon (The Butterfly) - No 13, Allegro in Am",
   "tab": "giuliani_op050_13.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12739,7 +12709,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12753,7 +12723,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12767,7 +12737,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12781,7 +12751,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12795,7 +12765,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12809,7 +12779,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12823,7 +12793,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12837,7 +12807,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12846,12 +12816,12 @@ export const songsData = [
   "tab": "giuliani_op050_23_agrazioso_in_am.txt",
   "midi": "giuliani_op050_23_agrazioso_in_am.mid",
   "video": "https://www.youtube.com/watch?v=w6SXQQB9RJE",
-  "artist": "Anik&oacute; Juh&aacute;sz",
+  "artist": "Anikó Juhász",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12865,7 +12835,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12879,7 +12849,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12893,7 +12863,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12907,7 +12877,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12921,7 +12891,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12935,7 +12905,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12949,7 +12919,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12963,7 +12933,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12977,7 +12947,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -12986,12 +12956,12 @@ export const songsData = [
   "tab": "giuliani_op051_01_maestoso_in_c.txt",
   "midi": "giuliani_op051_01_maestoso_in_c.mid",
   "video": "http://www.youtube.com/watch?v=TKDjZYbPzWg",
-  "artist": "Marek Cup&aacute;k",
+  "artist": "Marek Cupák",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13005,7 +12975,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13019,7 +12989,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13033,7 +13003,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13047,7 +13017,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13061,7 +13031,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13075,7 +13045,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13089,7 +13059,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13103,7 +13073,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13117,7 +13087,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13131,7 +13101,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13145,7 +13115,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13159,7 +13129,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13173,21 +13143,21 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 51, 18 Études Progressives - 15. Studio in Am - Allegro",
   "tab": "giuliani_op051_15.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=WAgDbthH7gc",
   "artist": "guiros",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13201,7 +13171,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13215,7 +13185,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13229,63 +13199,63 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 55, 12 Ländler für zwey Guitarren - No 1 in D",
   "tab": "giuliani_op055_12_landler_01.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=pKnPHaEi1hU",
   "artist": "saitenspuren",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 55, 12 Ländler für zwey Guitarren - No 2 in D",
   "tab": "giuliani_op055_12_landler_02.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=rGdLqy_NDYs",
   "artist": "saitenspuren",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 55, 12 Ländler für zwey Guitarren - No 3 in D",
   "tab": "giuliani_op055_12_landler_03.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=VvvSQtODx28",
   "artist": "saitenspuren",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
   "author_years": "(1781-1829)",
   "title": "Op 57, 12 Waltzes - No 5 in C",
   "tab": "giuliani_op057_12_waltzes_no_5_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=UqDwx-B2_94",
   "artist": "Masao Imano",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "224",
-  "author_alternate": "<b>Mauro Giuliani&#160; (Mauro Giuseppe Sergio Pantaleo Giuliani)</b>&#160; (1781-1829)"
+  "author_alternate": "Mauro Giuliani (Mauro Giuseppe Sergio Pantaleo Giuliani) (1781-1829)"
 },
 {
   "author": "Mauro Giuliani",
@@ -13686,7 +13656,7 @@ export const songsData = [
   "tab": "giuliani-guglielmi_op46_6_preludes_no2_in_am.txt",
   "midi": "giuliani-guglielmi_op46_6_preludes_no2_in_am.mid",
   "video": "https://youtu.be/QJ8EOM_C8cU?t=28",
-  "artist": "Maya Lon&ccaron;ar",
+  "artist": "Maya Lončar",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -13803,7 +13773,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "229",
-  "author_alternate": "Francois Joseph Gossec (Fran&ccedil;ois-Joseph Gossec)"
+  "author_alternate": "Francois Joseph Gossec (François-Joseph Gossec)"
 },
 {
   "author": "Francois Joseph Gossec",
@@ -13817,7 +13787,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "229",
-  "author_alternate": "Francois Joseph Gossec (Fran&ccedil;ois-Joseph Gossec)"
+  "author_alternate": "Francois Joseph Gossec (François-Joseph Gossec)"
 },
 {
   "author": "Sergio Assad",
@@ -14223,7 +14193,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "233",
-  "author_alternate": "<b>Agusti Grau (Agustí Grau i Huguet)</b>"
+  "author_alternate": "Agusti Grau (Agustí Grau i Huguet)"
 },
 {
   "author": "Agusti Grau",
@@ -14237,7 +14207,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "233",
-  "author_alternate": "<b>Agusti Grau (Agustí Grau i Huguet)</b>"
+  "author_alternate": "Agusti Grau (Agustí Grau i Huguet)"
 },
 {
   "author": "Vicente Greco",
@@ -14265,7 +14235,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Edward Hagerup Grieg",
@@ -14279,7 +14249,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Edward Hagerup Grieg",
@@ -14293,7 +14263,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Edward Hagerup Grieg",
@@ -14307,7 +14277,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Edward Hagerup Grieg",
@@ -14321,7 +14291,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Edward Hagerup Grieg",
@@ -14335,7 +14305,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Edward Hagerup Grieg",
@@ -14349,7 +14319,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "235",
-  "author_alternate": "<b>Edward Hagerup Grieg &#160;(Edvard Hagerup Grieg)</b>&#160; (1843-1907)"
+  "author_alternate": "Edward Hagerup Grieg (Edvard Hagerup Grieg) (1843-1907)"
 },
 {
   "author": "Kostas Grigoreas",
@@ -14461,7 +14431,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "239",
-  "author_alternate": "<b>Sofia Gubaidulina (Sofia Asgatovna Gubaidulina)</b>"
+  "author_alternate": "Sofia Gubaidulina (Sofia Asgatovna Gubaidulina)"
 },
 {
   "author": "Thomas Attwood",
@@ -14503,7 +14473,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "242",
-  "author_alternate": "<b>Ernesto Halffter (Ernesto Halffter Escriche)</b>"
+  "author_alternate": "Ernesto Halffter (Ernesto Halffter Escriche)"
 },
 {
   "author": "Johan Halvorsen",
@@ -14573,7 +14543,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14587,7 +14557,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14601,7 +14571,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14615,7 +14585,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14629,7 +14599,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14643,7 +14613,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14657,7 +14627,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14671,7 +14641,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14685,7 +14655,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14699,7 +14669,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14713,7 +14683,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14727,7 +14697,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14741,7 +14711,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14755,7 +14725,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14769,7 +14739,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14783,7 +14753,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14797,7 +14767,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14811,7 +14781,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14825,7 +14795,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14839,7 +14809,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14853,7 +14823,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14867,7 +14837,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "George Frideric Handel",
@@ -14881,7 +14851,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "245",
-  "author_alternate": "<b>George Frideric Handel (Georg Friederich H&auml;ndel, Georg Friedrich Haendel, Giorgio Federico Hendel)</b>"
+  "author_alternate": "George Frideric Handel (Georg Friederich Händel, Georg Friedrich Haendel, Giorgio Federico Hendel)"
 },
 {
   "author": "Albert Harris",
@@ -14988,7 +14958,7 @@ export const songsData = [
   "tab": "harrison_here_comes_the_sun.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=ZDx3kjNeUJc",
-  "artist": "G&ouml;ran S&ouml;llscher",
+  "artist": "Göran Söllscher",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -15259,7 +15229,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "252",
-  "author_alternate": "<b>Winslow L Hayden&#160; (Winslow Lewis Hayden)</b>&#160; (1839-1886)"
+  "author_alternate": "Winslow L Hayden (Winslow Lewis Hayden) (1839-1886)"
 },
 {
   "author": "Winslow L Hayden",
@@ -15273,7 +15243,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "252",
-  "author_alternate": "<b>Winslow L Hayden&#160; (Winslow Lewis Hayden)</b>&#160; (1839-1886)"
+  "author_alternate": "Winslow L Hayden (Winslow Lewis Hayden) (1839-1886)"
 },
 {
   "author": "Winslow L Hayden",
@@ -15287,7 +15257,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "252",
-  "author_alternate": "<b>Winslow L Hayden&#160; (Winslow Lewis Hayden)</b>&#160; (1839-1886)"
+  "author_alternate": "Winslow L Hayden (Winslow Lewis Hayden) (1839-1886)"
 },
 {
   "author": "Winslow L Hayden",
@@ -15301,7 +15271,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "252",
-  "author_alternate": "<b>Winslow L Hayden&#160; (Winslow Lewis Hayden)</b>&#160; (1839-1886)"
+  "author_alternate": "Winslow L Hayden (Winslow Lewis Hayden) (1839-1886)"
 },
 {
   "author": "Franz Joseph Haydn",
@@ -15357,7 +15327,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "254",
-  "author_alternate": "<b>Stephen Heller (Heller Istv&aacute;n)</b>&#160; (1813-1888)"
+  "author_alternate": "Stephen Heller (Heller István) (1813-1888)"
 },
 {
   "author": "Stephen Heller",
@@ -15371,7 +15341,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "254",
-  "author_alternate": "<b>Stephen Heller (Heller Istv&aacute;n)</b>&#160; (1813-1888)"
+  "author_alternate": "Stephen Heller (Heller István) (1813-1888)"
 },
 {
   "author": "Stephen Heller",
@@ -15385,7 +15355,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "254",
-  "author_alternate": "<b>Stephen Heller (Heller Istv&aacute;n)</b>&#160; (1813-1888)"
+  "author_alternate": "Stephen Heller (Heller István) (1813-1888)"
 },
 {
   "author": "Carl Henze",
@@ -15399,7 +15369,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "255",
-  "author_alternate": "<b>Carl Henze&#160; (Carl Adolf Otto Henze, Charles Henze, Karl Henze)</b>&#160; (1872-1946)"
+  "author_alternate": "Carl Henze (Carl Adolf Otto Henze, Charles Henze, Karl Henze) (1872-1946)"
 },
 {
   "author": "Carl Henze",
@@ -15413,7 +15383,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "255",
-  "author_alternate": "<b>Carl Henze&#160; (Carl Adolf Otto Henze, Charles Henze, Karl Henze)</b>&#160; (1872-1946)"
+  "author_alternate": "Carl Henze (Carl Adolf Otto Henze, Charles Henze, Karl Henze) (1872-1946)"
 },
 {
   "author": "Friedrich Herweg",
@@ -15455,7 +15425,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "259",
-  "author_alternate": "<b>Gustav Holst&#160; (Gustavus Theodore von Holst)</b>&#160; (1874-1934)"
+  "author_alternate": "Gustav Holst (Gustavus Theodore von Holst) (1874-1934)"
 },
 {
   "author": "Hector Ayala",
@@ -15898,7 +15868,7 @@ export const songsData = [
   "tab": "houghton_phillip_gothica_01_the_old_spanish_castle.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=zMFW6_r3clA",
-  "artist": "Oscar Gonz&aacute;lez",
+  "artist": "Oscar González",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -16001,7 +15971,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "263",
-  "author_alternate": "<b>Trinidad Huerta&#160; (Francisco Trinidad Huerta y Caturla)</b>&#160; (1800-1875)"
+  "author_alternate": "Trinidad Huerta (Francisco Trinidad Huerta y Caturla) (1800-1875)"
 },
 {
   "author": "Johann Nepomuk Hummel",
@@ -16029,7 +15999,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "265",
-  "author_alternate": "<b>Oliver Hunt&#160; (Oliver Brooks Hunt)</b>&#160; (1934-2000)"
+  "author_alternate": "Oliver Hunt (Oliver Brooks Hunt) (1934-2000)"
 },
 {
   "author": "Oliver Hunt",
@@ -16043,7 +16013,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "265",
-  "author_alternate": "<b>Oliver Hunt&#160; (Oliver Brooks Hunt)</b>&#160; (1934-2000)"
+  "author_alternate": "Oliver Hunt (Oliver Brooks Hunt) (1934-2000)"
 },
 {
   "author": "Oliver Hunt",
@@ -16057,7 +16027,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "265",
-  "author_alternate": "<b>Oliver Hunt&#160; (Oliver Brooks Hunt)</b>&#160; (1934-2000)"
+  "author_alternate": "Oliver Hunt (Oliver Brooks Hunt) (1934-2000)"
 },
 {
   "author": "Oliver Hunt",
@@ -16071,7 +16041,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "265",
-  "author_alternate": "<b>Oliver Hunt&#160; (Oliver Brooks Hunt)</b>&#160; (1934-2000)"
+  "author_alternate": "Oliver Hunt (Oliver Brooks Hunt) (1934-2000)"
 },
 {
   "author": "Simone Iannarelli",
@@ -16211,7 +16181,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "272",
-  "author_alternate": "<b>Simon Ives&#160; (Simon Yves)</b>&#160; (1600-1662)"
+  "author_alternate": "Simon Ives (Simon Yves) (1600-1662)"
 },
 {
   "author": "Karl Jenkins",
@@ -16570,12 +16540,12 @@ export const songsData = [
   "tab": "jose_sonata_1_allegro_moderato.txt",
   "midi": "jose_sonata_1_allegro_moderato.mid",
   "video": "https://www.youtube.com/watch?v=-RJn8MH_Zvw",
-  "artist": "Jos&eacute; Antonio Escobar",
+  "artist": "José Antonio Escobar",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "279",
-  "author_alternate": "<b>Antonio Jose&#160; (Antonio Jos&eacute; Mart&iacute;nez Palacios)</b>&#160; (1902-1936)"
+  "author_alternate": "Antonio Jose (Antonio José Martínez Palacios) (1902-1936)"
 },
 {
   "author": "Antonio Jose",
@@ -16589,7 +16559,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "279",
-  "author_alternate": "<b>Antonio Jose&#160; (Antonio Jos&eacute; Mart&iacute;nez Palacios)</b>&#160; (1902-1936)"
+  "author_alternate": "Antonio Jose (Antonio José Martínez Palacios) (1902-1936)"
 },
 {
   "author": "Carl Philipp Emanuel Bach",
@@ -16729,7 +16699,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "282",
-  "author_alternate": "<b>Anton Karas&#160; (Anton Karl Karas)</b>&#160; (1906-1985)"
+  "author_alternate": "Anton Karas (Anton Karl Karas) (1906-1985)"
 },
 {
   "author": "Anton Karas",
@@ -16743,7 +16713,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "282",
-  "author_alternate": "<b>Anton Karas&#160; (Anton Karl Karas)</b>&#160; (1906-1985)"
+  "author_alternate": "Anton Karas (Anton Karl Karas) (1906-1985)"
 },
 {
   "author": "Dale Kavanagh",
@@ -16799,7 +16769,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "284",
-  "author_alternate": "<b>Robert Kelley</b>&#160; (~1855)"
+  "author_alternate": "Robert Kelley (~1855)"
 },
 {
   "author": "Robert Kelley",
@@ -16813,7 +16783,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "284",
-  "author_alternate": "<b>Robert Kelley</b>&#160; (~1855)"
+  "author_alternate": "Robert Kelley (~1855)"
 },
 {
   "author": "David Kellner",
@@ -16822,7 +16792,7 @@ export const songsData = [
   "tab": "kellner_phantasia_in_am.txt",
   "midi": "kellner_phantasia_in_am.mid",
   "video": "https://www.youtube.com/watch?v=6AtnDNLfEr4",
-  "artist": "Anik&oacute; Juh&aacute;sz",
+  "artist": "Anikó Juhász",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -16967,7 +16937,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "288",
-  "author_alternate": "<b>Madame Knoop&#160; (Mar&iacute;a Dolores Nevares de Goni, Madame Delores Knoop)</b>&#160; (1813-1892)"
+  "author_alternate": "Madame Knoop (María Dolores Nevares de Goni, Madame Delores Knoop) (1813-1892)"
 },
 {
   "author": "Madame Knoop",
@@ -16981,7 +16951,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "288",
-  "author_alternate": "<b>Madame Knoop&#160; (Mar&iacute;a Dolores Nevares de Goni, Madame Delores Knoop)</b>&#160; (1813-1892)"
+  "author_alternate": "Madame Knoop (María Dolores Nevares de Goni, Madame Delores Knoop) (1813-1892)"
 },
 {
   "author": "Madame Knoop",
@@ -16995,7 +16965,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "288",
-  "author_alternate": "<b>Madame Knoop&#160; (Mar&iacute;a Dolores Nevares de Goni, Madame Delores Knoop)</b>&#160; (1813-1892)"
+  "author_alternate": "Madame Knoop (María Dolores Nevares de Goni, Madame Delores Knoop) (1813-1892)"
 },
 {
   "author": "Madame Knoop",
@@ -17009,7 +16979,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "288",
-  "author_alternate": "<b>Madame Knoop&#160; (Mar&iacute;a Dolores Nevares de Goni, Madame Delores Knoop)</b>&#160; (1813-1892)"
+  "author_alternate": "Madame Knoop (María Dolores Nevares de Goni, Madame Delores Knoop) (1813-1892)"
 },
 {
   "author": "Madame Knoop",
@@ -17023,7 +16993,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "288",
-  "author_alternate": "<b>Madame Knoop&#160; (Mar&iacute;a Dolores Nevares de Goni, Madame Delores Knoop)</b>&#160; (1813-1892)"
+  "author_alternate": "Madame Knoop (María Dolores Nevares de Goni, Madame Delores Knoop) (1813-1892)"
 },
 {
   "author": "Graeme Koehne",
@@ -17732,7 +17702,7 @@ export const songsData = [
   "tab": "koshkin_the_elves_suite_1_gavotta.txt",
   "midi": "koshkin_the_elves_suite_1_gavotta.mid",
   "video": "https://youtu.be/xIzqst6Kvm0?t=11",
-  "artist": "Marcos Ordo&ntilde;ez",
+  "artist": "Marcos Ordoñez",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -17844,7 +17814,7 @@ export const songsData = [
   "tab": "koshkin_the_porcelain_tower_1_march_the_yellow_paper_dragon.txt",
   "midi": "koshkin_the_porcelain_tower_1_march_the_yellow_paper_dragon.mid",
   "video": "http://www.youtube.com/watch?v=EsKKH0Y2iO8",
-  "artist": "Sa&uacute;l Fernando",
+  "artist": "Saúl Fernando",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -18339,7 +18309,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18353,7 +18323,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18367,7 +18337,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18381,7 +18351,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18395,7 +18365,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18409,7 +18379,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18423,7 +18393,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18437,7 +18407,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18451,7 +18421,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18465,7 +18435,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Joseph Kuffner",
@@ -18479,17 +18449,14 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "295",
-  "author_alternate": "<b>Joseph Kuffner (Joseph K&uuml;ffner)</b>"
+  "author_alternate": "Joseph Kuffner (Joseph Küffner)"
 },
 {
   "author": "Johann Kuhnau",
   "author_years": "(1667-1772)",
   "title": "Prelude in G (Praeludium in G)",
   "tab": "kuhnau_prelude_in_g.txt",
-  "midi": [
-    "MIDI 1",
-    "MIDI 2"
-  ],
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=MtKEk311PDs",
   "artist": "Alexander Meyers",
   "easy": false,
@@ -20890,7 +20857,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "300",
-  "author_alternate": "&Aacute;ngel Mar&iacute;a Landaeta (Angel Maria Landaeta)"
+  "author_alternate": "Ángel María Landaeta (Angel Maria Landaeta)"
 },
 {
   "author": "Gustav Lange",
@@ -20946,7 +20913,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "304",
-  "author_alternate": "<b>Angel E Lasala&#160; (&Aacute;ngel Eugenio Lasala)</b>&#160; (1914-2000)"
+  "author_alternate": "Angel E Lasala (Ángel Eugenio Lasala) (1914-2000)"
 },
 {
   "author": "Antonio Lauro",
@@ -20955,7 +20922,7 @@ export const songsData = [
   "tab": "lauro_ana_florencia.txt",
   "midi": "lauro_ana_florencia.mid",
   "video": "https://youtu.be/Qq_NvE4FsyY?t=11",
-  "artist": "Fernando Hern&aacute;ndez Le&oacute;n",
+  "artist": "Fernando Hernández León",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -20983,7 +20950,7 @@ export const songsData = [
   "tab": "lauro_carora.txt",
   "midi": "lauro_carora.mid",
   "video": "https://www.youtube.com/watch?v=EpYuUNvUY3o",
-  "artist": "Tony Pe&ntilde;a",
+  "artist": "Tony Peña",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -21151,7 +21118,7 @@ export const songsData = [
   "tab": "lauro_triptico_2_madrugada.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=3WiL6a7K0I8",
-  "artist": "Adri&aacute;n Bassi",
+  "artist": "Adrián Bassi",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -21263,7 +21230,7 @@ export const songsData = [
   "tab": "lauro_variaciones_sobre_una_cancion_infantil.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=uHQ7K_cjvfM",
-  "artist": "Adri&aacute;n Bassi",
+  "artist": "Adrián Bassi",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -21305,7 +21272,7 @@ export const songsData = [
   "tab": "lauro_venezuelan_suite_3_cancion.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=5CgMJcsu5UI",
-  "artist": "Adri&aacute;n Bassi",
+  "artist": "Adrián Bassi",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -21375,7 +21342,7 @@ export const songsData = [
   "tab": "lawes_suite_for_2_guitars_1_corant.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=MbxPELjlTdE",
-  "artist": "Julian Bream &amp; John Williams",
+  "artist": "Julian Bream & John Williams",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -21431,7 +21398,7 @@ export const songsData = [
   "tab": "lecuona_danza_lucumi.txt",
   "midi": "lecuona_danza_lucumi.mid",
   "video": "http://www.youtube.com/watch?v=-owZkvJ0TEQ",
-  "artist": "Hilario Ya&ntilde;ez",
+  "artist": "Hilario Yañez",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -21459,12 +21426,12 @@ export const songsData = [
   "tab": "legnani_op20_caprice_01.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=SnzdVUjYxh4",
-  "artist": "Petra Pol&aacute;&ccaron;kov&aacute;",
+  "artist": "Petra Poláčková",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21478,7 +21445,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21492,7 +21459,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21506,7 +21473,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21520,7 +21487,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21534,7 +21501,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21548,7 +21515,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21562,7 +21529,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21576,7 +21543,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21590,7 +21557,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21604,7 +21571,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21618,7 +21585,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21632,7 +21599,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21646,7 +21613,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21660,7 +21627,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21674,7 +21641,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21688,7 +21655,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21702,7 +21669,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21716,7 +21683,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21730,7 +21697,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Luigi Legnani",
@@ -21744,7 +21711,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "311",
-  "author_alternate": "<b>Luigi Legnani&#160; (Luigi Rinaldo Legnani)</b>&#160; (1790-1877)"
+  "author_alternate": "Luigi Legnani (Luigi Rinaldo Legnani) (1790-1877)"
 },
 {
   "author": "Michel Legrand",
@@ -21777,7 +21744,7 @@ export const songsData = [
 {
   "author": "Michel Legrand",
   "author_years": "(1932-2019)",
-  "title": "Summer of  '42 (Main Theme) (arr Yamandu Costa)",
+  "title": "Summer of '42 (Main Theme) (arr Yamandu Costa)",
   "tab": "legrand_summer_of_42_main_theme.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=Inx6YELHZWI",
@@ -21807,70 +21774,70 @@ export const songsData = [
   "author_years": "",
   "title": "Fool on the Hill",
   "tab": "lennon-mccartney_fool_on_the_hill.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=7FOzazDJ_jI",
   "artist": "Duo SF",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "315",
-  "author_alternate": "<b>John Lennon &amp; Paul McCartney&#160; (Lennon-McCartney)</b>"
+  "author_alternate": "John Lennon & Paul McCartney (Lennon-McCartney)"
 },
 {
   "author": "John Lennon & Paul McCartney",
   "author_years": "",
   "title": "Here, There and Everywhere",
   "tab": "lennon-mccartney_here_there_and_everywhere.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=q-OmQfknMfI",
   "artist": "Jacob Cordover",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "315",
-  "author_alternate": "<b>John Lennon &amp; Paul McCartney&#160; (Lennon-McCartney)</b>"
+  "author_alternate": "John Lennon & Paul McCartney (Lennon-McCartney)"
 },
 {
   "author": "John Lennon & Paul McCartney",
   "author_years": "",
   "title": "Hey Jude",
   "tab": "lennon-mccartney_hey_jude.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=urXanHM08M4",
   "artist": "Michael Dobkin",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "315",
-  "author_alternate": "<b>John Lennon &amp; Paul McCartney&#160; (Lennon-McCartney)</b>"
+  "author_alternate": "John Lennon & Paul McCartney (Lennon-McCartney)"
 },
 {
   "author": "John Lennon & Paul McCartney",
   "author_years": "",
   "title": "Michelle",
   "tab": "lennon-mccartney_michelle.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=3hpgh2deCb0",
   "artist": "Ashley Lucero",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "315",
-  "author_alternate": "<b>John Lennon &amp; Paul McCartney&#160; (Lennon-McCartney)</b>"
+  "author_alternate": "John Lennon & Paul McCartney (Lennon-McCartney)"
 },
 {
   "author": "John Lennon & Paul McCartney",
   "author_years": "",
   "title": "Yesterday",
   "tab": "lennon-mccartney_yesterday.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/aGEpuyII0IY?t=9",
   "artist": "Kasey Carmody",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "315",
-  "author_alternate": "<b>John Lennon &amp; Paul McCartney&#160; (Lennon-McCartney)</b>"
+  "author_alternate": "John Lennon & Paul McCartney (Lennon-McCartney)"
 },
 {
   "author": "Jean Lenoir",
@@ -22369,7 +22336,7 @@ export const songsData = [
   "tab": "linnemann_neue_folklorestucke_13_camilla.txt",
   "midi": "linnemann_neue_folklorestucke_13_camilla.mid",
   "video": "https://youtu.be/o7FV42DBcv8",
-  "artist": "G&uuml;nter Geurts",
+  "artist": "Günter Geurts",
   "easy": true,
   "lhf": true,
   "proper": true,
@@ -22397,7 +22364,7 @@ export const songsData = [
   "tab": "linnemann_quiet_waters_06_the_ring_of_kerry.txt",
   "midi": "linnemann_quiet_waters_06_the_ring_of_kerry.mid",
   "video": "https://youtu.be/eTClDWtOjOA?t=6",
-  "artist": "G&uuml;nter Geurts",
+  "artist": "Günter Geurts",
   "easy": true,
   "lhf": true,
   "proper": true,
@@ -22551,7 +22518,7 @@ export const songsData = [
   "tab": "linnemann_songs_without_words_02_where_words_cant_go.txt",
   "midi": "linnemann_songs_without_words_02_where_words_cant_go.mid",
   "video": "https://youtu.be/4ifBTwPTVc8?t=8",
-  "artist": "Etienne Andr&eacute;",
+  "artist": "Etienne André",
   "easy": true,
   "lhf": true,
   "proper": true,
@@ -22654,7 +22621,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "324",
-  "author_alternate": "<b>Franz Liszt &#160;(Ferencz Liszt, Ferenc Liszt)</b>&#160; (1811-1886)"
+  "author_alternate": "Franz Liszt (Ferencz Liszt, Ferenc Liszt) (1811-1886)"
 },
 {
   "author": "Franz Liszt",
@@ -22668,7 +22635,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "324",
-  "author_alternate": "<b>Franz Liszt &#160;(Ferencz Liszt, Ferenc Liszt)</b>&#160; (1811-1886)"
+  "author_alternate": "Franz Liszt (Ferencz Liszt, Ferenc Liszt) (1811-1886)"
 },
 {
   "author": "Franz Liszt",
@@ -22682,7 +22649,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "324",
-  "author_alternate": "<b>Franz Liszt &#160;(Ferencz Liszt, Ferenc Liszt)</b>&#160; (1811-1886)"
+  "author_alternate": "Franz Liszt (Ferencz Liszt, Ferenc Liszt) (1811-1886)"
 },
 {
   "author": "Miguel Llobet",
@@ -22920,7 +22887,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "331",
-  "author_alternate": "<b>Jan Antonin Losy &#160;(<!-- Jan Anton&iacute;n Losy, -->Johann Anton Losy von Losimthal, Comte Logy)</b>&#160; (1650-1721)"
+  "author_alternate": "Jan Antonin Losy (Johann Anton Losy von Losimthal, Comte Logy) (1650-1721)"
 },
 {
   "author": "Jan Antonin Losy",
@@ -22934,7 +22901,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "331",
-  "author_alternate": "<b>Jan Antonin Losy &#160;(<!-- Jan Anton&iacute;n Losy, -->Johann Anton Losy von Losimthal, Comte Logy)</b>&#160; (1650-1721)"
+  "author_alternate": "Jan Antonin Losy (Johann Anton Losy von Losimthal, Comte Logy) (1650-1721)"
 },
 {
   "author": "Jan Antonin Losy",
@@ -22948,7 +22915,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "331",
-  "author_alternate": "<b>Jan Antonin Losy &#160;(<!-- Jan Anton&iacute;n Losy, -->Johann Anton Losy von Losimthal, Comte Logy)</b>&#160; (1650-1721)"
+  "author_alternate": "Jan Antonin Losy (Johann Anton Losy von Losimthal, Comte Logy) (1650-1721)"
 },
 {
   "author": "Jan Antonin Losy",
@@ -22962,7 +22929,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "331",
-  "author_alternate": "<b>Jan Antonin Losy &#160;(<!-- Jan Anton&iacute;n Losy, -->Johann Anton Losy von Losimthal, Comte Logy)</b>&#160; (1650-1721)"
+  "author_alternate": "Jan Antonin Losy (Johann Anton Losy von Losimthal, Comte Logy) (1650-1721)"
 },
 {
   "author": "Kiko Loureiro",
@@ -23037,7 +23004,7 @@ export const songsData = [
 {
   "author": "Paco de Lucia",
   "author_years": "(1947-2014)",
-  "title": "Cepa Andaluza (Bulerías)<!-- Bulerias -->",
+  "title": "Cepa Andaluza (Bulerías)",
   "tab": "lucia_cepa_andaluza.txt",
   "midi": "lucia_cepa_andaluza.mid",
   "video": "",
@@ -23116,7 +23083,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "335",
-  "author_alternate": "Paco de Lucia &amp; Jose Torregrosa (Jos&eacute; Torregrosa)"
+  "author_alternate": "Paco de Lucia & Jose Torregrosa (José Torregrosa)"
 },
 {
   "author": "Jean-Baptiste Lully",
@@ -23158,7 +23125,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "338",
-  "author_alternate": "<b>Paquita Madriguera&#160; (Francisca 'Paquita' Madriguera Rodon)</b>&#160; (1900-1965)"
+  "author_alternate": "Paquita Madriguera (Francisca 'Paquita' Madriguera Rodon) (1900-1965)"
 },
 {
   "author": "Lauro Maia",
@@ -23228,7 +23195,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "341",
-  "author_alternate": "<b>Henry Mancini (Enrico Nicola Mancini)</b>"
+  "author_alternate": "Henry Mancini (Enrico Nicola Mancini)"
 },
 {
   "author": "Henry Mancini",
@@ -23242,7 +23209,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "341",
-  "author_alternate": "<b>Henry Mancini (Enrico Nicola Mancini)</b>"
+  "author_alternate": "Henry Mancini (Enrico Nicola Mancini)"
 },
 {
   "author": "Juan Manen",
@@ -23256,7 +23223,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "342",
-  "author_alternate": "Juan Man&eacute;n (Juan Manen, Joan Man&eacute;n)"
+  "author_alternate": "Juan Manén (Juan Manen, Joan Manén)"
 },
 {
   "author": "Marin Marais",
@@ -23298,7 +23265,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "344",
-  "author_alternate": "<b>Tom&aacute;s Marco&#160; (Thomas Marco)</b>"
+  "author_alternate": "Tomás Marco (Thomas Marco)"
 },
 {
   "author": "Tomas Marco",
@@ -23312,7 +23279,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "344",
-  "author_alternate": "<b>Tom&aacute;s Marco&#160; (Thomas Marco)</b>"
+  "author_alternate": "Tomás Marco (Thomas Marco)"
 },
 {
   "author": "Franco Margola",
@@ -23363,7 +23330,7 @@ export const songsData = [
   "tab": "martin_album_de_la_inocencia_01_con_el_fuego.txt",
   "midi": "martin_album_de_la_inocencia_01_con_el_fuego.mid",
   "video": "https://youtu.be/f2GMcwiNbTM?t=15",
-  "artist": "Alan Ju&aacute;rez",
+  "artist": "Alan Juárez",
   "easy": true,
   "lhf": true,
   "proper": true,
@@ -23377,7 +23344,7 @@ export const songsData = [
   "tab": "martin_album_de_la_inocencia_02_para_el_agua.txt",
   "midi": "martin_album_de_la_inocencia_02_para_el_agua.mid",
   "video": "https://youtu.be/f2GMcwiNbTM?t=52",
-  "artist": "Alan Ju&aacute;rez (from 52sec)",
+  "artist": "Alan Juárez (from 52sec)",
   "easy": true,
   "lhf": true,
   "proper": true,
@@ -23634,7 +23601,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "350",
-  "author_alternate": "<b>Jean-Racine Meissonnier&#160; (Meissonnier Jeune, J Meissonnier Jne)</b>&#160; (1794-1856)"
+  "author_alternate": "Jean-Racine Meissonnier (Meissonnier Jeune, J Meissonnier Jne) (1794-1856)"
 },
 {
   "author": "Felix Mendelssohn",
@@ -24264,7 +24231,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24278,7 +24245,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24292,7 +24259,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24306,7 +24273,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24320,7 +24287,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24334,7 +24301,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24348,7 +24315,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24362,7 +24329,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24376,7 +24343,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Luis de Milan",
@@ -24390,7 +24357,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "355",
-  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Llu&iacute;s del Mil&agrave;)"
+  "author_alternate": "Luis de Milan (Luis Milan, Luys Milan, Lluís del Milà)"
 },
 {
   "author": "Francesco Canova da Milano",
@@ -24427,7 +24394,7 @@ export const songsData = [
   "tab": "millan_cancion_y_danza.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=-ANvmHwcHiU",
-  "artist": "Mauricio D&iacute;az Alvarez",
+  "artist": "Mauricio Díaz Alvarez",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -24796,7 +24763,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "365",
-  "author_alternate": "Gentil Montana (Julio Gentil Albarrac&iacute;n Monta&ntilde;a)"
+  "author_alternate": "Gentil Montana (Julio Gentil Albarracín Montaña)"
 },
 {
   "author": "Gentil Montana",
@@ -24810,7 +24777,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "365",
-  "author_alternate": "Gentil Montana (Julio Gentil Albarrac&iacute;n Monta&ntilde;a)"
+  "author_alternate": "Gentil Montana (Julio Gentil Albarracín Montaña)"
 },
 {
   "author": "Gentil Montana",
@@ -24824,7 +24791,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "365",
-  "author_alternate": "Gentil Montana (Julio Gentil Albarrac&iacute;n Monta&ntilde;a)"
+  "author_alternate": "Gentil Montana (Julio Gentil Albarracín Montaña)"
 },
 {
   "author": "Gentil Montana",
@@ -24838,7 +24805,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "365",
-  "author_alternate": "Gentil Montana (Julio Gentil Albarrac&iacute;n Monta&ntilde;a)"
+  "author_alternate": "Gentil Montana (Julio Gentil Albarracín Montaña)"
 },
 {
   "author": "Gentil Montana",
@@ -24852,7 +24819,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "365",
-  "author_alternate": "Gentil Montana (Julio Gentil Albarrac&iacute;n Monta&ntilde;a)"
+  "author_alternate": "Gentil Montana (Julio Gentil Albarracín Montaña)"
 },
 {
   "author": "Claudia Montero",
@@ -25015,7 +24982,7 @@ export const songsData = [
   "tab": "montes_nueve_preludios_azules_9_stay.txt",
   "midi": "montes_nueve_preludios_azules_9_stay.mid",
   "video": "https://www.youtube.com/watch?v=VxzKwfiZBx0",
-  "artist": "Herv&eacute; Castre",
+  "artist": "Hervé Castre",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -25048,7 +25015,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "368",
-  "author_alternate": "Jos&eacute; Mora-Jim&eacute;nez&#160; (Jose Mora-Jimenez)"
+  "author_alternate": "José Mora-Jiménez (Jose Mora-Jimenez)"
 },
 {
   "author": "Jose Mora-Jimenez",
@@ -25062,7 +25029,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "368",
-  "author_alternate": "Jos&eacute; Mora-Jim&eacute;nez&#160; (Jose Mora-Jimenez)"
+  "author_alternate": "José Mora-Jiménez (Jose Mora-Jimenez)"
 },
 {
   "author": "Jose Mora-Jimenez",
@@ -25076,7 +25043,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "368",
-  "author_alternate": "Jos&eacute; Mora-Jim&eacute;nez&#160; (Jose Mora-Jimenez)"
+  "author_alternate": "José Mora-Jiménez (Jose Mora-Jimenez)"
 },
 {
   "author": "Joyce Barrell",
@@ -25426,7 +25393,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25440,7 +25407,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25454,7 +25421,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25468,7 +25435,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25482,7 +25449,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25496,7 +25463,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25510,7 +25477,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25524,7 +25491,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25538,7 +25505,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25552,7 +25519,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25566,7 +25533,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25580,7 +25547,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25594,7 +25561,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25608,7 +25575,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25622,7 +25589,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25636,7 +25603,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25650,7 +25617,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25664,7 +25631,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25678,7 +25645,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25692,7 +25659,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25706,7 +25673,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25720,7 +25687,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25734,7 +25701,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25748,7 +25715,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Federico Moreno-Torroba",
@@ -25762,7 +25729,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "372",
-  "author_alternate": "<b>Federico Moreno-Torroba&#160; (Federico Moreno Torroba)</b>"
+  "author_alternate": "Federico Moreno-Torroba (Federico Moreno Torroba)"
 },
 {
   "author": "Guillaume Morlaye",
@@ -25825,7 +25792,7 @@ export const songsData = [
   "author_years": "(1928-)",
   "title": "Ecstacy Of Gold",
   "tab": "morricone_ecstacy_of_gold.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -25839,7 +25806,7 @@ export const songsData = [
   "author_years": "(1928-)",
   "title": "The Good, The Bad And The Ugly",
   "tab": "morricone_the_good_the_bad_and_the_ugly.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -27739,7 +27706,7 @@ export const songsData = [
   "author_alternate": "Stanley Myers"
 },
 {
-  "author": "Luys De Narvaez  (Luis de Narvaez)",
+  "author": "Luys De Narvaez",
   "author_years": "(c1500-c1560)",
   "title": "Los Seys Libros Del Delphín Vol 2 No 2 - Fantasia del Quarto Tono",
   "tab": "narvaez_vol2_no2_fantasia_del_quarto_tono.txt",
@@ -27750,10 +27717,10 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "387",
-  "author_alternate": "<b>Luys De Narvaez&#160; (Luis de Narv&aacute;ez)</b>&#160; (c1500-c1560)"
+  "author_alternate": "Luys De Narvaez (Luis de Narváez) (c1500-c1560)"
 },
 {
-  "author": "Luys De Narvaez  (Luis de Narvaez)",
+  "author": "Luys De Narvaez",
   "author_years": "(c1500-c1560)",
   "title": "Los Seys Libros Del Delphín Vol 3 No 4 - Canción del Emperador",
   "tab": "narvaez_vol3_no4_cancion_del_emperador.txt",
@@ -27764,10 +27731,10 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "387",
-  "author_alternate": "<b>Luys De Narvaez&#160; (Luis de Narv&aacute;ez)</b>&#160; (c1500-c1560)"
+  "author_alternate": "Luys De Narvaez (Luis de Narváez) (c1500-c1560)"
 },
 {
-  "author": "Luys De Narvaez  (Luis de Narvaez)",
+  "author": "Luys De Narvaez",
   "author_years": "(c1500-c1560)",
   "title": "Los Seys Libros Del Delphín Vol 6 No 2 - Guardame Las Vacas",
   "tab": "narvaez_vol6_no2_guardame_las_vacas.txt",
@@ -27778,10 +27745,10 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "387",
-  "author_alternate": "<b>Luys De Narvaez&#160; (Luis de Narv&aacute;ez)</b>&#160; (c1500-c1560)"
+  "author_alternate": "Luys De Narvaez (Luis de Narváez) (c1500-c1560)"
 },
 {
-  "author": "Luys De Narvaez  (Luis de Narvaez)",
+  "author": "Luys De Narvaez",
   "author_years": "(c1500-c1560)",
   "title": "Los Seys Libros Del Delphín Vol 6 No 3 - Baxa de Contrapunto",
   "tab": "narvaez_vol6_no3_baxa_de_contrapunto.txt",
@@ -27792,12 +27759,12 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "387",
-  "author_alternate": "<b>Luys De Narvaez&#160; (Luis de Narv&aacute;ez)</b>&#160; (c1500-c1560)"
+  "author_alternate": "Luys De Narvaez (Luis de Narváez) (c1500-c1560)"
 },
 {
   "author": "Ernesto Nazareth",
   "author_years": "(1863-1934)",
-  "title": "Brejeiro (Tango) ",
+  "title": "Brejeiro (Tango)",
   "tab": "nazareth_brejeiro.txt",
   "midi": "nazareth_brejeiro.mid",
   "video": "",
@@ -27960,7 +27927,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "390",
-  "author_alternate": "<b>Armando Neves&#160; (Armandinho)</b>&#160; (1902-1976)"
+  "author_alternate": "Armando Neves (Armandinho) (1902-1976)"
 },
 {
   "author": "Ethelbert Nevin",
@@ -28044,7 +28011,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "396",
-  "author_alternate": "<b>F Nicolai</b>&#160; (18??-?)"
+  "author_alternate": "F Nicolai (18??-?)"
 },
 {
   "author": "Paulinho Nogueira",
@@ -29332,7 +29299,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "406",
-  "author_alternate": "<b>Michal Kleofas Oginski&#160; (Mika&#322; Kleofas Ogi&#324;ski, Mikolaj Oginski)</b>&#160; (1765-1833)"
+  "author_alternate": "Michal Kleofas Oginski (Mikał Kleofas Ogiński, Mikolaj Oginski) (1765-1833)"
 },
 {
   "author": "Michal Kleofas Oginski",
@@ -29346,7 +29313,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "406",
-  "author_alternate": "<b>Michal Kleofas Oginski&#160; (Mika&#322; Kleofas Ogi&#324;ski, Mikolaj Oginski)</b>&#160; (1765-1833)"
+  "author_alternate": "Michal Kleofas Oginski (Mikał Kleofas Ogiński, Mikolaj Oginski) (1765-1833)"
 },
 {
   "author": "Vahdah Olcott-Bickford",
@@ -29612,7 +29579,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "409",
-  "author_alternate": "<b>Julian Orbon&#160; (Juli&aacute;n Orb&oacute;n de Soto)</b>&#160; (1925-1991)"
+  "author_alternate": "Julian Orbon (Julián Orbón de Soto) (1925-1991)"
 },
 {
   "author": "Julian Orbon",
@@ -29626,7 +29593,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "409",
-  "author_alternate": "<b>Julian Orbon&#160; (Juli&aacute;n Orb&oacute;n de Soto)</b>&#160; (1925-1991)"
+  "author_alternate": "Julian Orbon (Julián Orbón de Soto) (1925-1991)"
 },
 {
   "author": "Rene Bartoli",
@@ -29647,7 +29614,7 @@ export const songsData = [
   "author_years": "(1941-)",
   "title": "Chanson",
   "tab": "bartoli_chanson.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -29759,14 +29726,14 @@ export const songsData = [
   "author_years": "(1782-1840)",
   "title": "MS 2, Op 61, Sonata Concertate in A for Guitar and Violin - 1. Allegro spiritoso",
   "tab": "paganini_ms002_op61_sonata_concertate_1_allegro_spiritoso.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/dpbLqNi-JTg?t=8m25s",
-  "artist": "Eliot Fisk &amp; Chiara Morandi",
+  "artist": "Eliot Fisk & Chiara Morandi",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29780,35 +29747,35 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 2, Op 61, Sonata Concertate in A for Guitar and Violin - 3. Rondeau",
   "tab": "paganini_ms002_op61_sonata_concertate_3_rondeau.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 3, Op 39, Grande Sonata for Violin and Guitar in A - 1. Allegro Risoluto",
   "tab": "paganini_ms003_op39_grande_sonata_in_a_1_allegro_risoluto.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=95AHDXQXUYo",
   "artist": "Laurel Harned",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29822,7 +29789,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29836,7 +29803,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29850,21 +29817,21 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 25, Op 1, 24 Caprices - 6. Lento in Gm",
   "tab": "paganini_ms025_op01_24_caprices_no06_lento_in_gm.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29878,21 +29845,21 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 25, Op 1, 24 Caprices - 11. Andante in C",
   "tab": "paganini_ms025_op01_24_caprices_no11_andante_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/gHFIy6Avtz4",
   "artist": "Jeff Kollasch",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29906,7 +29873,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29920,21 +29887,21 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 43, 43 Ghiribizzi - 1. Allegretto in A",
   "tab": "paganini_ms043_43_ghiribizzi_01_allegretto_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -29948,63 +29915,63 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 43, 43 Ghiribizzi - 26. Arietta in D",
   "tab": "paganini_ms043_43_ghiribizzi_26_arietta_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 43, 43 Ghiribizzi - 27. Andantino in D",
   "tab": "paganini_ms043_43_ghiribizzi_27_andantino_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 43, 43 Ghiribizzi - 29. Marcia in D",
   "tab": "paganini_ms043_43_ghiribizzi_29_marcia_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 43, 43 Ghiribizzi - 31. Minuetto in A",
   "tab": "paganini_ms043_43_ghiribizzi_31_minuetto_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -30018,21 +29985,21 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 43, 43 Ghiribizzi - 38. Vivace in A",
   "tab": "paganini_ms043_43_ghiribizzi_38_vivace_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -30046,7 +30013,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -30060,7 +30027,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -30074,7 +30041,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -30088,21 +30055,21 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
   "author_years": "(1782-1840)",
   "title": "MS 85, 5 Sonatinas - 5. Sonatina in C",
   "tab": "paganini_ms085_5_sonatinas_5_sonatina_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Niccolo Paganini",
@@ -30116,7 +30083,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "413",
-  "author_alternate": "<b>Niccolo Paganini (Niccol&ograve; Paganini)</b>"
+  "author_alternate": "Niccolo Paganini (Niccolò Paganini)"
 },
 {
   "author": "Pietro Domenico Paradies",
@@ -30181,7 +30148,7 @@ export const songsData = [
   "tab": "parra_violeta_anticueca_1.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=3edeM8-a8C0",
-  "artist": "Rose de La Monta&ntilde;a",
+  "artist": "Rose de La Montaña",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30195,7 +30162,7 @@ export const songsData = [
   "tab": "parra_violeta_anticueca_4.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=KyCjoVtFCjg",
-  "artist": "Rose de La Monta&ntilde;a",
+  "artist": "Rose de La Montaña",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30251,7 +30218,7 @@ export const songsData = [
   "tab": "pasieczny_krok_na_tri.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=VLnjNTWasms",
-  "artist": "Adam Pavl&iacute;&#269;ek",
+  "artist": "Adam Pavlíček",
   "easy": true,
   "lhf": true,
   "proper": true,
@@ -30270,7 +30237,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "419",
-  "author_alternate": "Carlos Payet (Carlos Rodr&iacute;guez Pay&eacute;s)"
+  "author_alternate": "Carlos Payet (Carlos Rodríguez Payés)"
 },
 {
   "author": "Cheung Bat",
@@ -30391,7 +30358,7 @@ export const songsData = [
   "tab": "pereira_sarara.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=r1Em0fy3Sfs",
-  "artist": "Frank do Viol&atilde;o",
+  "artist": "Frank do Violão",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -30410,7 +30377,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "422",
-  "author_alternate": "<b>Pernambuco (Joao Texeira Guimaraes, Jo&atilde;o Texeira Guimar&acirc;es)</b>&#160; (1883-1947)"
+  "author_alternate": "Pernambuco (Joao Texeira Guimaraes, João Texeira Guimarâes) (1883-1947)"
 },
 {
   "author": "Pernambuco",
@@ -30424,7 +30391,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "422",
-  "author_alternate": "<b>Pernambuco (Joao Texeira Guimaraes, Jo&atilde;o Texeira Guimar&acirc;es)</b>&#160; (1883-1947)"
+  "author_alternate": "Pernambuco (Joao Texeira Guimaraes, João Texeira Guimarâes) (1883-1947)"
 },
 {
   "author": "Pernambuco",
@@ -30438,7 +30405,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "422",
-  "author_alternate": "<b>Pernambuco (Joao Texeira Guimaraes, Jo&atilde;o Texeira Guimar&acirc;es)</b>&#160; (1883-1947)"
+  "author_alternate": "Pernambuco (Joao Texeira Guimaraes, João Texeira Guimarâes) (1883-1947)"
 },
 {
   "author": "Jose Perroni",
@@ -30573,7 +30540,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_0_theme.txt",
   "midi": "peyrot_theme_et_variations_0_theme.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=10",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30587,7 +30554,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_1_var1.txt",
   "midi": "peyrot_theme_et_variations_1_var1.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=67",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30601,7 +30568,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_2_var2.txt",
   "midi": "peyrot_theme_et_variations_2_var2.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=118",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30615,7 +30582,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_3_var3.txt",
   "midi": "peyrot_theme_et_variations_3_var3.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=177",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30629,7 +30596,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_4_var4.txt",
   "midi": "peyrot_theme_et_variations_4_var4.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=221",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30643,7 +30610,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_5_var5.txt",
   "midi": "peyrot_theme_et_variations_5_var5.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=333",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30657,7 +30624,7 @@ export const songsData = [
   "tab": "peyrot_theme_et_variations_6_var6.txt",
   "midi": "peyrot_theme_et_variations_6_var6.mid",
   "video": "https://youtu.be/7Pxt75N5alY?t=390",
-  "artist": "Mario Garc&iacute;a Hurtado",
+  "artist": "Mario García Hurtado",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -30685,12 +30652,12 @@ export const songsData = [
   "tab": "piazzolla_adios_nonino.txt",
   "midi": "piazzolla_adios_nonino.mid",
   "video": "https://www.youtube.com/watch?v=Pril0jGAaUM",
-  "artist": "Agust&iacute;n Luna",
+  "artist": "Agustín Luna",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30704,7 +30671,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30718,7 +30685,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30732,7 +30699,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30746,7 +30713,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30760,7 +30727,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30774,7 +30741,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30788,7 +30755,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30802,7 +30769,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30816,7 +30783,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30830,7 +30797,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30844,7 +30811,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30858,7 +30825,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Astor Piazzolla",
@@ -30872,7 +30839,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "429",
-  "author_alternate": "Astor Piazzolla (&Aacute;stor Pantale&oacute;n Piazzolla)"
+  "author_alternate": "Astor Piazzolla (Ástor Pantaleón Piazzolla)"
 },
 {
   "author": "Franz Bathioli",
@@ -31007,12 +30974,12 @@ export const songsData = [
   "tab": "pinero_bailecito.txt",
   "midi": "pinero_bailecito.mid",
   "video": "https://www.youtube.com/watch?v=doZANHpjwko",
-  "artist": "Adri&aacute;n Bassi",
+  "artist": "Adrián Bassi",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "431",
-  "author_alternate": "Bianqui Pinero (Ger&oacute;nimo Bianqui Pi&ntilde;ero)"
+  "author_alternate": "Bianqui Pinero (Gerónimo Bianqui Piñero)"
 },
 {
   "author": "Bianqui Pinero",
@@ -31026,7 +30993,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "431",
-  "author_alternate": "Bianqui Pinero (Ger&oacute;nimo Bianqui Pi&ntilde;ero)"
+  "author_alternate": "Bianqui Pinero (Gerónimo Bianqui Piñero)"
 },
 {
   "author": "Bianqui Pinero",
@@ -31035,12 +31002,12 @@ export const songsData = [
   "tab": "pinero_zamba.txt",
   "midi": "pinero_zamba.mid",
   "video": "https://www.youtube.com/watch?v=vWBKyXDnap8",
-  "artist": "Adri&aacute;n Bassi",
+  "artist": "Adrián Bassi",
   "easy": true,
   "lhf": false,
   "proper": true,
   "author_id": "431",
-  "author_alternate": "Bianqui Pinero (Ger&oacute;nimo Bianqui Pi&ntilde;ero)"
+  "author_alternate": "Bianqui Pinero (Gerónimo Bianqui Piñero)"
 },
 {
   "author": "Gustavo Pittaluga",
@@ -31054,7 +31021,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "432",
-  "author_alternate": "Gustavo Pittaluga (Gustavo Pittaluga Gonz&aacute;lez del Campillo)"
+  "author_alternate": "Gustavo Pittaluga (Gustavo Pittaluga González del Campillo)"
 },
 {
   "author": "Pixinguinha",
@@ -31068,7 +31035,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "433",
-  "author_alternate": "<b>Pixinguinha (Alfredo Da Rocha Viana Filho)</b>"
+  "author_alternate": "Pixinguinha (Alfredo Da Rocha Viana Filho)"
 },
 {
   "author": "Pixinguinha",
@@ -31082,7 +31049,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "433",
-  "author_alternate": "<b>Pixinguinha (Alfredo Da Rocha Viana Filho)</b>"
+  "author_alternate": "Pixinguinha (Alfredo Da Rocha Viana Filho)"
 },
 {
   "author": "Pixinguinha",
@@ -31096,7 +31063,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "433",
-  "author_alternate": "<b>Pixinguinha (Alfredo Da Rocha Viana Filho)</b>"
+  "author_alternate": "Pixinguinha (Alfredo Da Rocha Viana Filho)"
 },
 {
   "author": "Pixinguinha",
@@ -31110,7 +31077,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "433",
-  "author_alternate": "<b>Pixinguinha (Alfredo Da Rocha Viana Filho)</b>"
+  "author_alternate": "Pixinguinha (Alfredo Da Rocha Viana Filho)"
 },
 {
   "author": "Pixinguinha",
@@ -31124,10 +31091,10 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "433",
-  "author_alternate": "<b>Pixinguinha (Alfredo Da Rocha Viana Filho)</b>"
+  "author_alternate": "Pixinguinha (Alfredo Da Rocha Viana Filho)"
 },
 {
-  "author": "Jakub Polak  (Jacques le Polonois, Jakub Reys)",
+  "author": "Jakub Polak",
   "author_years": "(c1545-c1605)",
   "title": "Courante (in F# minor)",
   "tab": "polak_courante_in_5qm.txt",
@@ -31138,7 +31105,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "434",
-  "author_alternate": "<b>Jakub Polak&#160; (Jacques le Polonois, Jakub Reys)</b>&#160; (c1545-c1605)"
+  "author_alternate": "Jakub Polak (Jacques le Polonois, Jakub Reys) (c1545-c1605)"
 },
 {
   "author": "Manuel Ponce",
@@ -31838,7 +31805,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "44",
-  "author_alternate": "Julian Bautista (Juli&aacute;n Bautista)"
+  "author_alternate": "Julian Bautista (Julián Bautista)"
 },
 {
   "author": "Julian Bautista",
@@ -31847,12 +31814,12 @@ export const songsData = [
   "tab": "bautista_preludio_y_danza_2_danza.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=yN-TviquFaw",
-  "artist": "Sergio Rodr&iacute;guez",
+  "artist": "Sergio Rodríguez",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "44",
-  "author_alternate": "Julian Bautista (Juli&aacute;n Bautista)"
+  "author_alternate": "Julian Bautista (Julián Bautista)"
 },
 {
   "author": "Michael Praetorius",
@@ -32683,7 +32650,7 @@ export const songsData = [
 {
   "author": "Eduard Bayer",
   "author_years": "(1822-1908)",
-  "title": "Guitarreschule -  Übungsstück No 26, Rondo in D",
+  "title": "Guitarreschule - Übungsstück No 26, Rondo in D",
   "tab": "bayer_guitareschule_26_rondo.txt",
   "midi": "bayer_guitareschule_26_rondo.mid",
   "video": "https://www.youtube.com/watch?v=YKxodySPQTA",
@@ -32692,12 +32659,12 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "45",
-  "author_alternate": "<b>Eduard Bayer&#160; (Johann Gottfried Eduard Bayer, \"A. Caroli\")</b>&#160; (1822-1908)"
+  "author_alternate": "Eduard Bayer (Johann Gottfried Eduard Bayer, \"A. Caroli\") (1822-1908)"
 },
 {
   "author": "Eduard Bayer",
   "author_years": "(1822-1908)",
-  "title": "Guitarreschule -  Übungsstück No 30, Andantino in C",
+  "title": "Guitarreschule - Übungsstück No 30, Andantino in C",
   "tab": "bayer_guitareschule_30_andantino.txt",
   "midi": "bayer_guitareschule_30_andantino.mid",
   "video": "https://www.youtube.com/watch?v=UDV7axyJK9I",
@@ -32706,7 +32673,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "45",
-  "author_alternate": "<b>Eduard Bayer&#160; (Johann Gottfried Eduard Bayer, \"A. Caroli\")</b>&#160; (1822-1908)"
+  "author_alternate": "Eduard Bayer (Johann Gottfried Eduard Bayer, \"A. Caroli\") (1822-1908)"
 },
 {
   "author": "Dalit Raij",
@@ -32720,7 +32687,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "450",
-  "author_alternate": "<b>Dalit Raij</b>&#160; (?-)"
+  "author_alternate": "Dalit Raij (?-)"
 },
 {
   "author": "Dalit Raij",
@@ -32734,7 +32701,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "450",
-  "author_alternate": "<b>Dalit Raij</b>&#160; (?-)"
+  "author_alternate": "Dalit Raij (?-)"
 },
 {
   "author": "Stepan Rak",
@@ -32748,7 +32715,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "451",
-  "author_alternate": "&Scaron;tep&aacute;n Rak (Stepan Rak)"
+  "author_alternate": "Štepán Rak (Stepan Rak)"
 },
 {
   "author": "Stepan Rak",
@@ -32762,7 +32729,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "451",
-  "author_alternate": "&Scaron;tep&aacute;n Rak (Stepan Rak)"
+  "author_alternate": "Štepán Rak (Stepan Rak)"
 },
 {
   "author": "Stepan Rak",
@@ -32776,7 +32743,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "451",
-  "author_alternate": "&Scaron;tep&aacute;n Rak (Stepan Rak)"
+  "author_alternate": "Štepán Rak (Stepan Rak)"
 },
 {
   "author": "Stepan Rak",
@@ -32790,7 +32757,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "451",
-  "author_alternate": "&Scaron;tep&aacute;n Rak (Stepan Rak)"
+  "author_alternate": "Štepán Rak (Stepan Rak)"
 },
 {
   "author": "Jean-Philippe Rameau",
@@ -33532,7 +33499,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "469",
-  "author_alternate": "Gerardo Matos Rodriguez (Gerardo H Matos Rodr&iacute;guez)"
+  "author_alternate": "Gerardo Matos Rodriguez (Gerardo H Matos Rodríguez)"
 },
 {
   "author": "Ludwig van Beethoven",
@@ -33773,7 +33740,7 @@ export const songsData = [
   "author_alternate": "Ludwig van Beethoven"
 },
 {
-  "author": "Evgenii Pavlovic Rodygin (Evgeny Pavlovich Rodygin, Eveniy Rodygin)",
+  "author": "Evgenii Pavlovic Rodygin",
   "author_years": "(1925-)",
   "title": "Uralskaya Ryabinushka (Ural Rowan Tree, Mountain Ash from the Urals)",
   "tab": "rodygin_uralskaya_ryabinushka.txt",
@@ -34470,7 +34437,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "482",
-  "author_alternate": "<b>Antonio Ruiz-Pip&oacute;&#160; (Antonio Ruiz Pipo)</b>&#160; (1934-1997)"
+  "author_alternate": "Antonio Ruiz-Pipó (Antonio Ruiz Pipo) (1934-1997)"
 },
 {
   "author": "Henrik & Frederik Rung",
@@ -34638,7 +34605,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "486",
-  "author_alternate": "<b>Sabacas&#160; (Agust&iacute;n Castell&oacute;n Campos)</b>&#160; (1912-1990)"
+  "author_alternate": "Sabacas (Agustín Castellón Campos) (1912-1990)"
 },
 {
   "author": "Sabacas",
@@ -34652,7 +34619,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "486",
-  "author_alternate": "<b>Sabacas&#160; (Agust&iacute;n Castell&oacute;n Campos)</b>&#160; (1912-1990)"
+  "author_alternate": "Sabacas (Agustín Castellón Campos) (1912-1990)"
 },
 {
   "author": "Julio Salvador Sagreras",
@@ -34809,7 +34776,7 @@ export const songsData = [
   "author_alternate": "Julio Salvador Sagreras"
 },
 {
-  "author": "Jacques de Saint-Luc  (Jacques-Alexandre De Saint Luc)",
+  "author": "Jacques de Saint-Luc",
   "author_years": "(1616-c1710)",
   "title": "Bourrée in G",
   "tab": "saint-luc_bourree.txt",
@@ -34820,7 +34787,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "488",
-  "author_alternate": "<b>Jacques de Saint-Luc&#160; (Jacques-Alexandre De Saint Luc)</b>&#160; (1616-c1710)"
+  "author_alternate": "Jacques de Saint-Luc (Jacques-Alexandre De Saint Luc) (1616-c1710)"
 },
 {
   "author": "Camille Saint-Saens",
@@ -34834,7 +34801,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "489",
-  "author_alternate": "<b>Camille Saint-Saens &#160;(Charles-Camille Saint-Sa&euml;ns)</b>&#160; (1835-1921)"
+  "author_alternate": "Camille Saint-Saens (Charles-Camille Saint-Saëns) (1835-1921)"
 },
 {
   "author": "Camille Saint-Saens",
@@ -34848,7 +34815,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "489",
-  "author_alternate": "<b>Camille Saint-Saens &#160;(Charles-Camille Saint-Sa&euml;ns)</b>&#160; (1835-1921)"
+  "author_alternate": "Camille Saint-Saens (Charles-Camille Saint-Saëns) (1835-1921)"
 },
 {
   "author": "Camille Saint-Saens",
@@ -34862,7 +34829,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "489",
-  "author_alternate": "<b>Camille Saint-Saens &#160;(Charles-Camille Saint-Sa&euml;ns)</b>&#160; (1835-1921)"
+  "author_alternate": "Camille Saint-Saens (Charles-Camille Saint-Saëns) (1835-1921)"
 },
 {
   "author": "Oscar Bellomo",
@@ -34927,12 +34894,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_bolero.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=Ibw_bvKIF9I",
-  "artist": "Jos&eacute; Antonio Escobar",
+  "artist": "José Antonio Escobar",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -34946,7 +34913,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -34960,7 +34927,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -34969,12 +34936,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_e_homenaje_a_haydn.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=Bax1KqqSls0",
-  "artist": "Jos&eacute; Antonio Escobar",
+  "artist": "José Antonio Escobar",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -34988,7 +34955,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35002,7 +34969,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35016,7 +34983,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35025,12 +34992,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_e_suite_platero_y_yo_3_la_azotea.txt",
   "midi": "",
   "video": "https://youtu.be/eYKKKTz5T3E?t=422",
-  "artist": "&Agrave;lex Garrob&eacute;",
+  "artist": "Àlex Garrobé",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35039,12 +35006,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_e_suite_platero_y_yo_4_darbon.txt",
   "midi": "",
   "video": "https://youtu.be/eYKKKTz5T3E?t=575",
-  "artist": "&Agrave;lex Garrob&eacute;",
+  "artist": "Àlex Garrobé",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35058,7 +35025,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35067,12 +35034,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_e_suite_platero_y_yo_6_la_tortuga.txt",
   "midi": "",
   "video": "https://youtu.be/eYKKKTz5T3E?t=912",
-  "artist": "&Agrave;lex Garrob&eacute;",
+  "artist": "Àlex Garrobé",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35081,12 +35048,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_e_suite_platero_y_yo_7_la_muerta.txt",
   "midi": "",
   "video": "https://youtu.be/eYKKKTz5T3E?t=1028",
-  "artist": "&Agrave;lex Garrob&eacute;",
+  "artist": "Àlex Garrobé",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Eduardo Sainz de la Maza",
@@ -35095,12 +35062,12 @@ export const songsData = [
   "tab": "sainz_de_la_maza_e_suite_platero_y_yo_8_a_platero_en_su_tierra.txt",
   "midi": "",
   "video": "https://youtu.be/eYKKKTz5T3E?t=1203",
-  "artist": "&Agrave;lex Garrob&eacute;",
+  "artist": "Àlex Garrobé",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "490",
-  "author_alternate": "Eduardo Sainz de la Maza (Eduardo S&aacute;inz de la Maza)"
+  "author_alternate": "Eduardo Sainz de la Maza (Eduardo Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35114,7 +35081,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35128,7 +35095,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35142,7 +35109,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35156,7 +35123,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35170,7 +35137,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35184,7 +35151,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35198,7 +35165,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35212,7 +35179,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35226,7 +35193,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35240,7 +35207,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Regino Sainz de la Maza",
@@ -35254,7 +35221,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "491",
-  "author_alternate": "Regino Sainz de la Maza (Regino S&aacute;inz de la Maza)"
+  "author_alternate": "Regino Sainz de la Maza (Regino Sáinz de la Maza)"
 },
 {
   "author": "Ryuichi Sakamoto",
@@ -35277,7 +35244,7 @@ export const songsData = [
   "tab": "salvador_syracuse.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=ImCzzPFs5hQ",
-  "artist": "Sim&oacute;n Avenda&ntilde;o",
+  "artist": "Simón Avendaño",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -35296,7 +35263,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "494",
-  "author_alternate": "<b>Matilde Salvador</b>&#160; (Matilde Salvador i Segarra)&#160; (1918-2007)"
+  "author_alternate": "Matilde Salvador (Matilde Salvador i Segarra) (1918-2007)"
 },
 {
   "author": "Diego Salvetti",
@@ -35366,7 +35333,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "499",
-  "author_alternate": "Pedro Sanjuan (Pedro Sanju&aacute;n)"
+  "author_alternate": "Pedro Sanjuan (Pedro Sanjuán)"
 },
 {
   "author": "Julian Aguirre",
@@ -35422,7 +35389,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "500",
-  "author_alternate": "<b>Guido Santorsola (Guido Antonio Sant&oacute;rsola di Bari Bruno)</b>"
+  "author_alternate": "Guido Santorsola (Guido Antonio Santórsola di Bari Bruno)"
 },
 {
   "author": "Gaspar Sanz",
@@ -35856,7 +35823,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "504",
-  "author_alternate": "<b>Isa&iacute;as S&aacute;vio&#160; (Isaias Savio)</b>&#160; (1900-1977)"
+  "author_alternate": "Isaías Sávio (Isaias Savio) (1900-1977)"
 },
 {
   "author": "Isaias Savio",
@@ -35870,7 +35837,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "504",
-  "author_alternate": "<b>Isa&iacute;as S&aacute;vio&#160; (Isaias Savio)</b>&#160; (1900-1977)"
+  "author_alternate": "Isaías Sávio (Isaias Savio) (1900-1977)"
 },
 {
   "author": "Isaias Savio",
@@ -35884,7 +35851,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "504",
-  "author_alternate": "<b>Isa&iacute;as S&aacute;vio&#160; (Isaias Savio)</b>&#160; (1900-1977)"
+  "author_alternate": "Isaías Sávio (Isaias Savio) (1900-1977)"
 },
 {
   "author": "Isaias Savio",
@@ -35898,7 +35865,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "504",
-  "author_alternate": "<b>Isa&iacute;as S&aacute;vio&#160; (Isaias Savio)</b>&#160; (1900-1977)"
+  "author_alternate": "Isaías Sávio (Isaias Savio) (1900-1977)"
 },
 {
   "author": "Isaias Savio",
@@ -35912,7 +35879,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "504",
-  "author_alternate": "<b>Isa&iacute;as S&aacute;vio&#160; (Isaias Savio)</b>&#160; (1900-1977)"
+  "author_alternate": "Isaías Sávio (Isaias Savio) (1900-1977)"
 },
 {
   "author": "Domenico Scarlatti",
@@ -36465,10 +36432,7 @@ export const songsData = [
   "author_years": "(1871-1915)",
   "title": "Op 16, 5 Preludes - No 4 in Ebm",
   "tab": "scriabin_op16_5_preludes_no4_in_ebm.txt",
-  "midi": [
-    "scriabin_op16_5_preludes_no4_in_ebm_1.mid",
-    "scriabin_op16_5_preludes_no4_in_ebm_2.mid"
-  ],
+  "midi": "scriabin_op16_5_preludes_no4_in_ebm_1.mid",
   "video": "https://youtu.be/RxKKoaOBS7Y?t=6s",
   "artist": "Marco Tamayo",
   "easy": false,
@@ -36489,7 +36453,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "512",
-  "author_alternate": "<b>Peter Sculthorpe &#160;(Peter Joshua Sculthorpe)</b>&#160; (1929-2014)"
+  "author_alternate": "Peter Sculthorpe (Peter Joshua Sculthorpe) (1929-2014)"
 },
 {
   "author": "Peter Sculthorpe",
@@ -36503,7 +36467,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "512",
-  "author_alternate": "<b>Peter Sculthorpe &#160;(Peter Joshua Sculthorpe)</b>&#160; (1929-2014)"
+  "author_alternate": "Peter Sculthorpe (Peter Joshua Sculthorpe) (1929-2014)"
 },
 {
   "author": "Peter Sculthorpe",
@@ -36517,7 +36481,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "512",
-  "author_alternate": "<b>Peter Sculthorpe &#160;(Peter Joshua Sculthorpe)</b>&#160; (1929-2014)"
+  "author_alternate": "Peter Sculthorpe (Peter Joshua Sculthorpe) (1929-2014)"
 },
 {
   "author": "Peter Sculthorpe",
@@ -36531,7 +36495,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "512",
-  "author_alternate": "<b>Peter Sculthorpe &#160;(Peter Joshua Sculthorpe)</b>&#160; (1929-2014)"
+  "author_alternate": "Peter Sculthorpe (Peter Joshua Sculthorpe) (1929-2014)"
 },
 {
   "author": "Peter Sculthorpe",
@@ -36545,14 +36509,14 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "512",
-  "author_alternate": "<b>Peter Sculthorpe &#160;(Peter Joshua Sculthorpe)</b>&#160; (1929-2014)"
+  "author_alternate": "Peter Sculthorpe (Peter Joshua Sculthorpe) (1929-2014)"
 },
 {
   "author": "Andres Segovia",
   "author_years": "(1893-1987)",
   "title": "Canciones Populares de Distintos Países - 2. Escocesa",
   "tab": "segovia_canciones_populaires_02_escocesa_moderato_assai.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=5shxkuOrW9k",
   "artist": "Eliot Fisk",
   "easy": false,
@@ -36566,7 +36530,7 @@ export const songsData = [
   "author_years": "(1893-1987)",
   "title": "Canciones Populares de Distintos Países - 15. Eslovania",
   "tab": "segovia_canciones_populaires_15_eslovania_moderato.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=S7pbp6DwzTo",
   "artist": "Eliot Fisk",
   "easy": false,
@@ -36580,7 +36544,7 @@ export const songsData = [
   "author_years": "(1893-1987)",
   "title": "Canciones Populares de Distintos Países - 17. Bretona",
   "tab": "segovia_canciones_populaires_17_bretona_allegretto.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=cuAi1tcZxTg",
   "artist": "Eliot Fisk",
   "easy": false,
@@ -36622,7 +36586,7 @@ export const songsData = [
   "author_years": "(1893-1987)",
   "title": "Segovia Scales",
   "tab": "segovia_scales.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -36643,7 +36607,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "514",
-  "author_alternate": "<b>Carlos Seixas (Jos&eacute; Ant&oacute;nio Carlos de Seixas)</b>"
+  "author_alternate": "Carlos Seixas (José António Carlos de Seixas)"
 },
 {
   "author": "Carlos Seixas",
@@ -36657,7 +36621,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "514",
-  "author_alternate": "<b>Carlos Seixas (Jos&eacute; Ant&oacute;nio Carlos de Seixas)</b>"
+  "author_alternate": "Carlos Seixas (José António Carlos de Seixas)"
 },
 {
   "author": "Carlos Seixas",
@@ -36671,7 +36635,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "514",
-  "author_alternate": "<b>Carlos Seixas (Jos&eacute; Ant&oacute;nio Carlos de Seixas)</b>"
+  "author_alternate": "Carlos Seixas (José António Carlos de Seixas)"
 },
 {
   "author": "Carlos Seixas",
@@ -36685,7 +36649,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "514",
-  "author_alternate": "<b>Carlos Seixas (Jos&eacute; Ant&oacute;nio Carlos de Seixas)</b>"
+  "author_alternate": "Carlos Seixas (José António Carlos de Seixas)"
 },
 {
   "author": "Carlos Seixas",
@@ -36699,7 +36663,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "514",
-  "author_alternate": "<b>Carlos Seixas (Jos&eacute; Ant&oacute;nio Carlos de Seixas)</b>"
+  "author_alternate": "Carlos Seixas (José António Carlos de Seixas)"
 },
 {
   "author": "Carlos Seixas",
@@ -36713,12 +36677,12 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "514",
-  "author_alternate": "<b>Carlos Seixas (Jos&eacute; Ant&oacute;nio Carlos de Seixas)</b>"
+  "author_alternate": "Carlos Seixas (José António Carlos de Seixas)"
 },
 {
   "author": "Rezso Seress",
   "author_years": "(1899-1968)",
-  "title": "Szomorú Vasárnap (Szomoru Vasarnap) ",
+  "title": "Szomorú Vasárnap (Szomoru Vasarnap)",
   "tab": "seress_szomoru_vasarnap_gloomy_sunday.txt",
   "midi": "",
   "video": "",
@@ -36988,12 +36952,12 @@ export const songsData = [
   "tab": "smaili_quatre_bagatelles_1_le_depart.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=0G0QxvjYuV4",
-  "artist": "Marina Pay&aacute;",
+  "artist": "Marina Payá",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "527",
-  "author_alternate": "<b>Marco Smaili&#160; (Marco Smaili Miras)</b>&#160; (1967-)"
+  "author_alternate": "Marco Smaili (Marco Smaili Miras) (1967-)"
 },
 {
   "author": "Marco Smaili",
@@ -37002,12 +36966,12 @@ export const songsData = [
   "tab": "smaili_quatre_bagatelles_2_ingravite.txt",
   "midi": "",
   "video": "https://youtu.be/0G0QxvjYuV4?t=87s",
-  "artist": "Marina Pay&aacute;",
+  "artist": "Marina Payá",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "527",
-  "author_alternate": "<b>Marco Smaili&#160; (Marco Smaili Miras)</b>&#160; (1967-)"
+  "author_alternate": "Marco Smaili (Marco Smaili Miras) (1967-)"
 },
 {
   "author": "Marco Smaili",
@@ -37016,12 +36980,12 @@ export const songsData = [
   "tab": "smaili_quatre_bagatelles_3_monte_sur.txt",
   "midi": "",
   "video": "https://youtu.be/0G0QxvjYuV4?t=291",
-  "artist": "Marina Pay&aacute;",
+  "artist": "Marina Payá",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "527",
-  "author_alternate": "<b>Marco Smaili&#160; (Marco Smaili Miras)</b>&#160; (1967-)"
+  "author_alternate": "Marco Smaili (Marco Smaili Miras) (1967-)"
 },
 {
   "author": "Marco Smaili",
@@ -37030,12 +36994,12 @@ export const songsData = [
   "tab": "smaili_quatre_bagatelles_4_loin_de_le_noir.txt",
   "midi": "",
   "video": "https://youtu.be/0G0QxvjYuV4?t=458",
-  "artist": "Marina Pay&aacute;",
+  "artist": "Marina Payá",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "527",
-  "author_alternate": "<b>Marco Smaili&#160; (Marco Smaili Miras)</b>&#160; (1967-)"
+  "author_alternate": "Marco Smaili (Marco Smaili Miras) (1967-)"
 },
 {
   "author": "Marco Smaili",
@@ -37049,7 +37013,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "527",
-  "author_alternate": "<b>Marco Smaili&#160; (Marco Smaili Miras)</b>&#160; (1967-)"
+  "author_alternate": "Marco Smaili (Marco Smaili Miras) (1967-)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37063,7 +37027,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37077,7 +37041,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37091,7 +37055,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37105,7 +37069,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37119,7 +37083,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37133,7 +37097,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Yuri Smirnov",
@@ -37147,7 +37111,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "528",
-  "author_alternate": "<b>Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)</b>"
+  "author_alternate": "Yuri Smirnov (Yurij Alekseevic Smirnov, Yuri Smirnovn)"
 },
 {
   "author": "Reginald Smith Brindle",
@@ -37420,7 +37384,7 @@ export const songsData = [
   "author_years": "(1778-1839)",
   "title": "Op 2, Six Divertimentos (Six Divertissements) - No 1. Minuet in G",
   "tab": "sor_op02_six_divertimentos_1_minuet_in_g.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -37628,7 +37592,7 @@ export const songsData = [
 {
   "author": "Fernando Sor",
   "author_years": "(1778-1839)",
-  "title": "Op 5, Six Petites Pièces Très Faciles - 1. Menuetto in G ",
+  "title": "Op 5, Six Petites Pièces Très Faciles - 1. Menuetto in G",
   "tab": "sor_op05_6_petites_pieces_faciles_1_menuetto_in_g.txt",
   "midi": "sor_op05_6_petites_pieces_faciles_1_menuetto_in_g.mid",
   "video": "https://youtu.be/-zifOcvQNqQ?t=8",
@@ -37642,7 +37606,7 @@ export const songsData = [
 {
   "author": "Fernando Sor",
   "author_years": "(1778-1839)",
-  "title": "Op 5, Six Petites Pièces Très Faciles - 2. Valse in G ",
+  "title": "Op 5, Six Petites Pièces Très Faciles - 2. Valse in G",
   "tab": "sor_op05_6_petites_pieces_faciles_2_valse_in_g.txt",
   "midi": "sor_op05_6_petites_pieces_faciles_2_valse_in_g.mid",
   "video": "https://youtu.be/nyQiTK1Fs6s?t=10",
@@ -37770,7 +37734,7 @@ export const songsData = [
   "author_years": "(1778-1839)",
   "title": "Op 6, Douze Etudes - No 5 in C",
   "tab": "sor_op06_no05_etude_in_c.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/dtc1Lf1KPYA?t=17",
   "artist": "Edson Lopes",
   "easy": false,
@@ -38106,7 +38070,7 @@ export const songsData = [
   "author_years": "(1778-1839)",
   "title": "Op 9, Variations on O Cara Armonia",
   "tab": "sor_op09_variations_on_o_cara_armonia.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/rNE5fyp7Z4c?t=20",
   "artist": "Roxane Radoux",
   "easy": false,
@@ -38225,7 +38189,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "536",
-  "author_alternate": "Nikola Star&ccaron;evi&cacute; (Nikola Starcevic)"
+  "author_alternate": "Nikola Starčević (Nikola Starcevic)"
 },
 {
   "author": "Anton Stingl",
@@ -38253,7 +38217,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "538",
-  "author_alternate": "<b>Johann Strauss I (Johann Baptist Strauss I, Johan Strauss the Elder)</b>"
+  "author_alternate": "Johann Strauss I (Johann Baptist Strauss I, Johan Strauss the Elder)"
 },
 {
   "author": "Johann Strauss I",
@@ -38267,7 +38231,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "538",
-  "author_alternate": "<b>Johann Strauss I (Johann Baptist Strauss I, Johan Strauss the Elder)</b>"
+  "author_alternate": "Johann Strauss I (Johann Baptist Strauss I, Johan Strauss the Elder)"
 },
 {
   "author": "Johann Strauss II",
@@ -38290,7 +38254,7 @@ export const songsData = [
   "tab": "benzaquen_preludio_para_una_rosa.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=PCNw0kIiX2U",
-  "artist": "Said Medell&iacute;n",
+  "artist": "Said Medellín",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -38346,7 +38310,7 @@ export const songsData = [
   "tab": "tailleferre_guitare.txt",
   "midi": "tailleferre_guitare.mid",
   "video": "https://www.youtube.com/watch?v=I8vWhAVoC1c",
-  "artist": "G&ouml;ran S&ouml;llscher",
+  "artist": "Göran Söllscher",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -38491,7 +38455,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38505,7 +38469,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38519,7 +38483,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38533,7 +38497,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38547,7 +38511,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38561,7 +38525,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38575,7 +38539,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38589,7 +38553,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38598,12 +38562,12 @@ export const songsData = [
   "tab": "tarrega_35_preludes_08_in_a.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=L8sTOrsfGFw",
-  "artist": "Dami&aacute;n Ratto",
+  "artist": "Damián Ratto",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38612,12 +38576,12 @@ export const songsData = [
   "tab": "tarrega_35_preludes_09_in_a.txt",
   "midi": "tarrega_35_preludes_09_in_a.mid",
   "video": "https://youtu.be/hN5s6TxNsDQ?t=6",
-  "artist": "Jo&atilde;o Ramos",
+  "artist": "João Ramos",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38631,7 +38595,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38645,7 +38609,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38659,7 +38623,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38673,7 +38637,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38687,7 +38651,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38701,7 +38665,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38715,7 +38679,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38729,7 +38693,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38743,7 +38707,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38757,7 +38721,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38771,7 +38735,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38785,7 +38749,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38799,7 +38763,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38813,7 +38777,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38827,7 +38791,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38841,7 +38805,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38855,7 +38819,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38869,7 +38833,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38883,7 +38847,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38897,7 +38861,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38911,7 +38875,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38925,7 +38889,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38939,7 +38903,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38953,7 +38917,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38962,12 +38926,12 @@ export const songsData = [
   "tab": "tarrega_35_preludes_34_in_dm_endecha.txt",
   "midi": "tarrega_35_preludes_34_in_dm_endecha.mid",
   "video": "https://www.youtube.com/watch?v=dD6PN6yyb-k",
-  "artist": "C&eacute;sar Amaro",
+  "artist": "César Amaro",
   "easy": false,
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38981,7 +38945,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -38995,7 +38959,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39009,7 +38973,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39023,7 +38987,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39037,7 +39001,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39051,7 +39015,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39065,7 +39029,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39079,7 +39043,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39093,7 +39057,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39107,7 +39071,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39121,7 +39085,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39135,7 +39099,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39149,7 +39113,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39163,7 +39127,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39177,7 +39141,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39191,7 +39155,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39205,7 +39169,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39219,7 +39183,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39233,7 +39197,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39247,7 +39211,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39261,7 +39225,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39275,7 +39239,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39289,7 +39253,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39303,7 +39267,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39317,7 +39281,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39331,7 +39295,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39345,7 +39309,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Francisco Tarrega",
@@ -39359,7 +39323,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "548",
-  "author_alternate": "Francisco Tarrega (Francisco T&aacute;rrega)"
+  "author_alternate": "Francisco Tarrega (Francisco Tárrega)"
 },
 {
   "author": "Phyllis Tate",
@@ -39618,10 +39582,7 @@ export const songsData = [
   "author_years": "(1681-1767)",
   "title": "TWV 40:14 - 12 Fantasias for Solo Violin - No 1 - 1. Largo",
   "tab": "telemann_twv40_14_fantasia_01_1_largo.txt",
-  "midi": [
-    "telemann_twv40_14_fantasia_01_1_largo_bb.mid",
-    "telemann_twv40_14_fantasia_01_1_largo_a.mid"
-  ],
+  "midi": "telemann_twv40_14_fantasia_01_1_largo_bb.mid",
   "video": "https://youtu.be/syEHEkpTrLY?t=18",
   "artist": "Julia Lange",
   "easy": false,
@@ -39635,10 +39596,7 @@ export const songsData = [
   "author_years": "(1681-1767)",
   "title": "TWV 40:14 - 12 Fantasias for Solo Violin - No 1 - 2. Allegro",
   "tab": "telemann_twv40_14_fantasia_01_2_allegro.txt",
-  "midi": [
-    "telemann_twv40_14_fantasia_01_2_allegro_bb.mid",
-    "telemann_twv40_14_fantasia_01_2_allegro_a.mid"
-  ],
+  "midi": "telemann_twv40_14_fantasia_01_2_allegro_bb.mid",
   "video": "https://youtu.be/syEHEkpTrLY?t=186",
   "artist": "Julia Lange (from 3min 6sec)",
   "easy": false,
@@ -39652,10 +39610,7 @@ export const songsData = [
   "author_years": "(1681-1767)",
   "title": "TWV 40:14 - 12 Fantasias for Solo Violin - No 1 - 3. Grave",
   "tab": "telemann_twv40_14_fantasia_01_3_grave.txt",
-  "midi": [
-    "telemann_twv40_14_fantasia_01_3_grave_bb.mid",
-    "telemann_twv40_14_fantasia_01_3_grave_a.mid"
-  ],
+  "midi": "telemann_twv40_14_fantasia_01_3_grave_bb.mid",
   "video": "https://youtu.be/CeUrTb4t_ww?t=280",
   "artist": "Merce Font (from 4min 40sec)",
   "easy": false,
@@ -39699,12 +39654,12 @@ export const songsData = [
   "tab": "tesar_jazz_images_07_prelude_in_em.txt",
   "midi": "tesar_jazz_images_07_prelude_in_em.mid",
   "video": "https://www.youtube.com/watch?v=YWRdyqt4ies",
-  "artist": "Marek Cup&aacute;k",
+  "artist": "Marek Cupák",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "553",
-  "author_alternate": "<b>Milan Tesa&#345; &#160;(Milan Tesar)</b>&#160; (1938-2019)"
+  "author_alternate": "Milan Tesař (Milan Tesar) (1938-2019)"
 },
 {
   "author": "Milan Tesar",
@@ -39713,12 +39668,12 @@ export const songsData = [
   "tab": "tesar_jazz_images_10_ballad_in_e.txt",
   "midi": "tesar_jazz_images_10_ballad_in_e.mid",
   "video": "https://www.youtube.com/watch?v=QJwqeaZ8-QM",
-  "artist": "Marek Cup&aacute;k",
+  "artist": "Marek Cupák",
   "easy": true,
   "lhf": true,
   "proper": true,
   "author_id": "553",
-  "author_alternate": "<b>Milan Tesa&#345; &#160;(Milan Tesar)</b>&#160; (1938-2019)"
+  "author_alternate": "Milan Tesař (Milan Tesar) (1938-2019)"
 },
 {
   "author": "Mikis Theodorakis",
@@ -40250,7 +40205,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "561",
-  "author_alternate": "<b>Charles Trenet (Louis Charles Auguste Claude Trenet)</b>"
+  "author_alternate": "Charles Trenet (Louis Charles Auguste Claude Trenet)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40264,7 +40219,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40278,7 +40233,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40292,7 +40247,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40306,7 +40261,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40320,7 +40275,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40334,7 +40289,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40348,7 +40303,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40362,7 +40317,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40376,7 +40331,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40390,7 +40345,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Vincenz Franz Tuczeck",
@@ -40404,7 +40359,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "562",
-  "author_alternate": "Vincenz Franz Tuczeck (Franti&#154;ek Vincenc Tu&#269;ek)"
+  "author_alternate": "Vincenz Franz Tuczeck (František Vincenc Tuček)"
 },
 {
   "author": "Henry Tudor",
@@ -40418,7 +40373,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "563",
-  "author_alternate": "<b>Henry Tudor (King Henry VIII)</b>"
+  "author_alternate": "Henry Tudor (King Henry VIII)"
 },
 {
   "author": "Henry Tudor",
@@ -40432,7 +40387,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "563",
-  "author_alternate": "<b>Henry Tudor (King Henry VIII)</b>"
+  "author_alternate": "Henry Tudor (King Henry VIII)"
 },
 {
   "author": "Henry Tudor",
@@ -40446,7 +40401,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "563",
-  "author_alternate": "<b>Henry Tudor (King Henry VIII)</b>"
+  "author_alternate": "Henry Tudor (King Henry VIII)"
 },
 {
   "author": "Henry Tudor",
@@ -40460,7 +40415,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "563",
-  "author_alternate": "<b>Henry Tudor (King Henry VIII)</b>"
+  "author_alternate": "Henry Tudor (King Henry VIII)"
 },
 {
   "author": "Joaquin Turina",
@@ -40474,7 +40429,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Joaquin Turina",
@@ -40488,7 +40443,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Joaquin Turina",
@@ -40502,7 +40457,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Joaquin Turina",
@@ -40516,7 +40471,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Joaquin Turina",
@@ -40530,7 +40485,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Joaquin Turina",
@@ -40544,7 +40499,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Joaquin Turina",
@@ -40558,7 +40513,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "564",
-  "author_alternate": "Joaquin Turina (Joaqu&iacute;n Turina)"
+  "author_alternate": "Joaquin Turina (Joaquín Turina)"
 },
 {
   "author": "Piero Umiliani",
@@ -40796,7 +40751,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "573",
-  "author_alternate": "<b>Luis V&aacute;zquez del Fresno&#160; (Luis Vazquez)</b>"
+  "author_alternate": "Luis Vázquez del Fresno (Luis Vazquez)"
 },
 {
   "author": "Venancio Garcia Velasco",
@@ -40843,7 +40798,7 @@ export const songsData = [
 {
   "author": "Giuseppe Verdi",
   "author_years": "(1813-1901)",
-  "title": "Rigoletto - Act III - 2. La Donna e Mobile ",
+  "title": "Rigoletto - Act III - 2. La Donna e Mobile",
   "tab": "verdi_rigoletto_3_2_la_donna_e_mobile.txt",
   "midi": "",
   "video": "",
@@ -40915,7 +40870,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Bachiana Brasileiras - 5. Aria (Cantilena)",
   "tab": "villa-lobos_bachiana_brasileiras_5_aria.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -40957,7 +40912,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Douze Etudes - No 2 in A",
   "tab": "villa-lobos_douze_etudes_02_in_a.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -40971,7 +40926,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Douze Etudes - No 3 in D",
   "tab": "villa-lobos_douze_etudes_03_in_d.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41027,7 +40982,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Douze Etudes - No 7 in E",
   "tab": "villa-lobos_douze_etudes_07_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=TiHkgGkmZUk",
   "artist": "Xuefei Yang",
   "easy": false,
@@ -41097,7 +41052,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Douze Etudes - No 12 in Am",
   "tab": "villa-lobos_douze_etudes_12_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=FI_HLuZlO2k",
   "artist": "Jack Davisson",
   "easy": false,
@@ -41111,7 +41066,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Guitar Concerto (Fantasia Concertante) - 1. Allegro preciso",
   "tab": "villa-lobos_guitar_concerto_1_allegro_preciso.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41125,7 +41080,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Guitar Concerto (Fantasia Concertante) - 2. Andantino e andante",
   "tab": "villa-lobos_guitar_concerto_2_andantino_e_andante.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41139,7 +41094,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Guitar Concerto (Fantasia Concertante) - 2a. Cadenza",
   "tab": "villa-lobos_guitar_concerto_2a_cadenza.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=6NJEfolIF98",
   "artist": "Alexander Hart",
   "easy": false,
@@ -41153,7 +41108,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Guitar Concerto (Fantasia Concertante) - 3. Allegretto non troppo",
   "tab": "villa-lobos_guitar_concerto_3_allegretto_non_troppo.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41181,7 +41136,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Five Preludes (W419) - No 2 in E (Capadocia and capoeira melody)",
   "tab": "villa-lobos_five_preludes_02_in_e.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/gdqyjaBbwMU?t=9",
   "artist": "Goran Krivokapic",
   "easy": false,
@@ -41195,7 +41150,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Five Preludes (W419) - No 3 in Am (Homage to Bach)",
   "tab": "villa-lobos_five_preludes_03_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=winfRVCP_BE",
   "artist": "Edson Lopes",
   "easy": false,
@@ -41209,7 +41164,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Five Preludes (W419) - No 4 in Em (Homage to the Brazilian Indian)",
   "tab": "villa-lobos_five_preludes_04_in_em.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41279,7 +41234,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Suíte Popular Brasileira - 2. Schottish-Chóro (Scottish Choro)",
   "tab": "villa-lobos_suite_popular_brasileira_2_schottish-choro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41293,7 +41248,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Suíte Popular Brasileira - 3. Valsa-Chóro (Valse Choro)",
   "tab": "villa-lobos_suite_popular_brasileira_3_valsa-choro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41307,7 +41262,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Suíte Popular Brasileira - 4. Gavotta-Chóro (Gavota Choro)",
   "tab": "villa-lobos_suite_popular_brasileira_4_gavotta-choro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41321,7 +41276,7 @@ export const songsData = [
   "author_years": "(1887-1959)",
   "title": "Suíte Popular Brasileira - 5. Chórinho (Chorinho)",
   "tab": "villa-lobos_suite_popular_brasileira_5_chorinho.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41398,7 +41353,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "581",
-  "author_alternate": "<b>Jose Vinas (Jos&eacute; Vi&ntilde;as y Diaz)</b>"
+  "author_alternate": "Jose Vinas (José Viñas y Diaz)"
 },
 {
   "author": "Alexander Vinitsky",
@@ -41461,7 +41416,7 @@ export const songsData = [
   "author_years": "(1980-)",
   "title": "Romantica",
   "tab": "violla_romantica.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41867,7 +41822,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 93 - Concerto for Lute and 2 Violins in D - 1. Allegro giusto",
   "tab": "vivaldi_rv093_concerto_for_lute_and_2_violins_in_d_1_allegro_giusto.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41881,7 +41836,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 93 - Concerto for Lute and 2 Violins in D - 2. Largo",
   "tab": "vivaldi_rv093_concerto_for_lute_and_2_violins_in_d_2_largo.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41909,7 +41864,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 230 (Op 3 No 9) - L'Estro Armonica, Concerto No 9 in D for Violin and Strings - 1. Andante, 2. Largo, 3. Allegro",
   "tab": "vivaldi_rv230_op3_concerto_no9_in_d_for_violin.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41923,7 +41878,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 269 (Op 8 No 1) - Concerto No 1 in E - La Primavera (The Four Seasons - Spring)",
   "tab": "vivaldi_rv269_op8_concerto_no1_in_e_spring.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41979,7 +41934,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 425 - Mandolin Concerto in C - 1. Allegro",
   "tab": "vivaldi_rv425_mandolin_concerto_in_c_1_allegro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -41993,7 +41948,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 425 - Mandolin Concerto in C - 2. Largo",
   "tab": "vivaldi_rv425_mandolin_concerto_in_c_2_largo.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -42007,7 +41962,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 425 - Mandolin Concerto in C - 3. Allegro",
   "tab": "vivaldi_rv425_mandolin_concerto_in_c_3_allegro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -42021,7 +41976,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 522 (Op 3 No 8) - L'Estro Armonica, Concerto No 8 in Am for Two Violins and Strings - 1. Allegro",
   "tab": "vivaldi_rv522_op3_concerto_no8_in_am_for_2_violins_1_allegro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -42035,7 +41990,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 522 (Op 3 No 8) - L'Estro Armonica, Concerto No 8 in Am for Two Violins and Strings - 3. Allegro",
   "tab": "vivaldi_rv522_op3_concerto_no8_in_am_for_2_violins_3_allegro.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -42049,7 +42004,7 @@ export const songsData = [
   "author_years": "(1685-1741)",
   "title": "RV 532 - Concerto for 2 Mandolins in G major - 2. Andante",
   "tab": "vivaldi_rv532_concerto_for_2_mandolins_in_g_2_andante.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -42112,7 +42067,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "588",
-  "author_alternate": "<b>Matthaus Waissel (Matth&auml;us Waissel)</b>"
+  "author_alternate": "Matthaus Waissel (Matthäus Waissel)"
 },
 {
   "author": "Luise Walker",
@@ -42301,7 +42256,7 @@ export const songsData = [
   "author_years": "",
   "title": "Tricky's Magic Rag",
   "tab": "wardrop_trickys_magic_rag.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -43260,7 +43215,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "603",
-  "author_alternate": "<b>Sebastian Yradier (Sebasti&aacute;n Iradier Salaverri, Sebasti&aacute;n Iradier Salaberri)</b>"
+  "author_alternate": "Sebastian Yradier (Sebastián Iradier Salaverri, Sebastián Iradier Salaberri)"
 },
 {
   "author": "Giovanni Zamboni",
@@ -43946,7 +43901,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Jorge Martinez Zarate",
@@ -43960,7 +43915,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Jorge Martinez Zarate",
@@ -43974,7 +43929,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Jorge Martinez Zarate",
@@ -43988,7 +43943,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Jorge Martinez Zarate",
@@ -44002,7 +43957,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Jorge Martinez Zarate",
@@ -44016,7 +43971,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Jorge Martinez Zarate",
@@ -44025,12 +43980,12 @@ export const songsData = [
   "tab": "zarate_jorge_vidalita.txt",
   "midi": "zarate_jorge_vidalita.mid",
   "video": "https://www.youtube.com/watch?v=PjQNoi7rWmY",
-  "artist": "Adri&aacute;n Bassi",
+  "artist": "Adrián Bassi",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "605",
-  "author_alternate": "Jorge Mart&iacute;nez Z&aacute;rate (Jorge Martinez Zarate)"
+  "author_alternate": "Jorge Martínez Zárate (Jorge Martinez Zarate)"
 },
 {
   "author": "Luis Zea",
@@ -44044,7 +43999,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "606",
-  "author_alternate": "<b>Luis Zea</b>&#160; (?-)"
+  "author_alternate": "Luis Zea (?-)"
 },
 {
   "author": "Milan Zelenka & Jana Obrovska",
@@ -44319,7 +44274,7 @@ export const songsData = [
   "tab": "zocatello_five_pieces_per_chitarra_1_comodo.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=Wxy8UFi42qE",
-  "artist": "Agust&iacute;n Maruri",
+  "artist": "Agustín Maruri",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -44333,7 +44288,7 @@ export const songsData = [
   "tab": "zocatello_five_pieces_per_chitarra_2_danzante.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=wW4-scziZ6Q",
-  "artist": "Agust&iacute;n Maruri",
+  "artist": "Agustín Maruri",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -45493,7 +45448,7 @@ export const songsData = [
   "author_years": "",
   "title": "Final Fantasy III - The Opera Song",
   "tab": "uematsu_ff03_the_opera_song.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45507,7 +45462,7 @@ export const songsData = [
   "author_years": "",
   "title": "Final Fantasy V - Dear Friends",
   "tab": "uematsu_ff05_dear_friends.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45521,7 +45476,7 @@ export const songsData = [
   "author_years": "",
   "title": "Final Fantasy VI - Dark World",
   "tab": "uematsu_ff06_dark_world.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45577,7 +45532,7 @@ export const songsData = [
   "author_years": "",
   "title": "Final Fantasy IX - Jesters Of The Moon",
   "tab": "uematsu_ff09_jesters_of_the_moon.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45605,7 +45560,7 @@ export const songsData = [
   "author_years": "",
   "title": "Lords of Magic - 8. Order",
   "tab": "zizza_lords_of_magic_08_order.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=wTG3m9M1lYo",
   "artist": "Keith Zizza",
   "easy": false,
@@ -45619,7 +45574,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - 1. Title Theme",
   "tab": "the_legend_of_zelda_01_kondo_title_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45633,7 +45588,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - 2. Main Theme (Overworld)",
   "tab": "the_legend_of_zelda_02_kondo_main_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45647,7 +45602,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - 3. Tri-force Fanfare (Triforce Catch)",
   "tab": "the_legend_of_zelda_03_minegishi_tri-force_fanfare.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45661,7 +45616,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - 4. Correct Solution (Puzzled Solved)",
   "tab": "the_legend_of_zelda_04_minegishi_correct_solution.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45675,7 +45630,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - 5. Whistle of Warp (Warp Flute)",
   "tab": "the_legend_of_zelda_05_minegishi_whistle_of_warp.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45689,7 +45644,7 @@ export const songsData = [
   "author_years": "",
   "title": "Zelda II: The Adventure of Link - 6. Title Theme",
   "tab": "the_legend_of_zelda_06_nakatsuka_title_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45703,7 +45658,7 @@ export const songsData = [
   "author_years": "",
   "title": "Zelda II: The Adventure of Link - 7. Palace Music",
   "tab": "the_legend_of_zelda_07_nakatsuka_palace_music.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45717,7 +45672,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - A Link to the Past - 8. Title Screen",
   "tab": "the_legend_of_zelda_08_kondo_title_screen.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45731,7 +45686,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - A Link to the Past - 9. Hyrule Castle Music",
   "tab": "the_legend_of_zelda_09_kondo_hyrule.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45745,7 +45700,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - A Link to the Past - 10. Main Theme",
   "tab": "the_legend_of_zelda_10_kondo_main_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45759,7 +45714,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - A Link to the Past - 11. The Dark World",
   "tab": "the_legend_of_zelda_11_kondo_the_dark_world.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45773,7 +45728,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Link's Awakening - 12. Main Theme",
   "tab": "the_legend_of_zelda_12_kondo_link_s_awakening.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45787,7 +45742,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Ocarina of Time - 13. Title Theme",
   "tab": "the_legend_of_zelda_13_kondo_title_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45801,7 +45756,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Ocarina of Time - 14. Lost Woods (Saria's Song)",
   "tab": "the_legend_of_zelda_14_kondo_lost_woods.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45815,7 +45770,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Ocarina of Time - 15. Hyrule Field",
   "tab": "the_legend_of_zelda_15_kondo_hyrule_field.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45829,7 +45784,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Ocarina of Time - 16. Song of Storms (Windmill Hut)",
   "tab": "the_legend_of_zelda_16_kondo_song_of_storms.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45843,7 +45798,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Ocarina of Time - 17. Gerudo Valley",
   "tab": "the_legend_of_zelda_17_kondo_gerudo_valley.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45857,7 +45812,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Ocarina of Time - 18. Princess Zelda's Theme (Zelda's Lullaby)",
   "tab": "the_legend_of_zelda_18_kondo_princess_zelda_s_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45871,7 +45826,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Marjora's Mask - 19. Prelude of Marjora's Mask (Theme)",
   "tab": "the_legend_of_zelda_19_kondo_majora_s_mask_prelude.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45885,7 +45840,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Marjora's Mask - 20. Termina Field",
   "tab": "the_legend_of_zelda_20_kondo_majora_s_mask_termina_field.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45899,7 +45854,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - The Wind Walker - 21. Main Theme",
   "tab": "the_legend_of_zelda_21_nagata_wind_walker_main_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45913,7 +45868,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - The Wind Walker - 22. Dragon Roost Island",
   "tab": "the_legend_of_zelda_22_nagata_wind_walker_dragon_roost_island.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45927,7 +45882,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - The Wind Walker - 23. Ocean Theme",
   "tab": "the_legend_of_zelda_23_nagata_wind_walker_ocean_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45941,7 +45896,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Twilight Princess - 27. Hyrule Field Main Theme",
   "tab": "the_legend_of_zelda_27_minegishi_twilight_princess_hyrule_field_main_theme.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -45955,7 +45910,7 @@ export const songsData = [
   "author_years": "",
   "title": "The Legend of Zelda - Twilight Princess - 29. Midna's Lament",
   "tab": "the_legend_of_zelda_29_minegishi_twilight_princess_midna_s_lament.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -46074,7 +46029,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "62",
-  "author_alternate": "<b>Edgar Blanc</b>&#160; (19??-)"
+  "author_alternate": "Edgar Blanc (19??-)"
 },
 {
   "author": "Michel Blavet",
@@ -46368,7 +46323,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "68",
-  "author_alternate": "<b>Luiz Bonfa&#160; (Luiz Floriano Bonf&aacute;, Luis Bonfa)</b>&#160; (1922-2001)"
+  "author_alternate": "Luiz Bonfa (Luiz Floriano Bonfá, Luis Bonfa) (1922-2001)"
 },
 {
   "author": "Luiz Bonfa",
@@ -46382,7 +46337,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "68",
-  "author_alternate": "<b>Luiz Bonfa&#160; (Luiz Floriano Bonf&aacute;, Luis Bonfa)</b>&#160; (1922-2001)"
+  "author_alternate": "Luiz Bonfa (Luiz Floriano Bonfá, Luis Bonfa) (1922-2001)"
 },
 {
   "author": "Luiz Bonfa",
@@ -46396,7 +46351,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "68",
-  "author_alternate": "<b>Luiz Bonfa&#160; (Luiz Floriano Bonf&aacute;, Luis Bonfa)</b>&#160; (1922-2001)"
+  "author_alternate": "Luiz Bonfa (Luiz Floriano Bonfá, Luis Bonfa) (1922-2001)"
 },
 {
   "author": "Luiz Bonfa",
@@ -46410,7 +46365,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "68",
-  "author_alternate": "<b>Luiz Bonfa&#160; (Luiz Floriano Bonf&aacute;, Luis Bonfa)</b>&#160; (1922-2001)"
+  "author_alternate": "Luiz Bonfa (Luiz Floriano Bonfá, Luis Bonfa) (1922-2001)"
 },
 {
   "author": "Luiz Bonfa",
@@ -46424,7 +46379,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "68",
-  "author_alternate": "<b>Luiz Bonfa&#160; (Luiz Floriano Bonf&aacute;, Luis Bonfa)</b>&#160; (1922-2001)"
+  "author_alternate": "Luiz Bonfa (Luiz Floriano Bonfá, Luis Bonfa) (1922-2001)"
 },
 {
   "author": "Luiz Bonfa",
@@ -46438,7 +46393,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "68",
-  "author_alternate": "<b>Luiz Bonfa&#160; (Luiz Floriano Bonf&aacute;, Luis Bonfa)</b>&#160; (1922-2001)"
+  "author_alternate": "Luiz Bonfa (Luiz Floriano Bonfá, Luis Bonfa) (1922-2001)"
 },
 {
   "author": "Antonio Alba",
@@ -46452,14 +46407,14 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "7",
-  "author_alternate": "<b>Antonio Alba (Juan Antonio Hava Ferr&eacute;)</b>"
+  "author_alternate": "Antonio Alba (Juan Antonio Hava Ferré)"
 },
 {
   "author": "Luiz Bonfa & Maria Helena Toledo",
   "author_years": "",
   "title": "Oba-Oba",
   "tab": "bonfa_oba-oba.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=hD9RgKQ7AOc",
   "artist": "Niromar Fernandes",
   "easy": false,
@@ -46473,7 +46428,7 @@ export const songsData = [
   "author_years": "",
   "title": "Pequeno Olhar (chords only)",
   "tab": "bonfa_pequeno_olhar.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -46494,7 +46449,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "71",
-  "author_alternate": "<b>Carlos Bonilla&#160; (Carlos Galo Ra&uacute;l Bonilla Ch&aacute;vez)</b>&#160; (1923-2010)"
+  "author_alternate": "Carlos Bonilla (Carlos Galo Raúl Bonilla Chávez) (1923-2010)"
 },
 {
   "author": "Carlos Bonilla",
@@ -46508,7 +46463,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "71",
-  "author_alternate": "<b>Carlos Bonilla&#160; (Carlos Galo Ra&uacute;l Bonilla Ch&aacute;vez)</b>&#160; (1923-2010)"
+  "author_alternate": "Carlos Bonilla (Carlos Galo Raúl Bonilla Chávez) (1923-2010)"
 },
 {
   "author": "Carlos Bonilla",
@@ -46522,7 +46477,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "71",
-  "author_alternate": "<b>Carlos Bonilla&#160; (Carlos Galo Ra&uacute;l Bonilla Ch&aacute;vez)</b>&#160; (1923-2010)"
+  "author_alternate": "Carlos Bonilla (Carlos Galo Raúl Bonilla Chávez) (1923-2010)"
 },
 {
   "author": "Nadia Borislova",
@@ -46741,7 +46696,7 @@ export const songsData = [
   "tab": "brescianello_18_partitas_no16_in_em_1_entree.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=dqs2LRLWoi0",
-  "artist": "C&#233;sar Amaro",
+  "artist": "César Amaro",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -46755,7 +46710,7 @@ export const songsData = [
   "tab": "brescianello_18_partitas_no16_in_em_2_menuet.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=mSIxHoIghts",
-  "artist": "C&#233;sar Amaro",
+  "artist": "César Amaro",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -46769,7 +46724,7 @@ export const songsData = [
   "tab": "brescianello_18_partitas_no16_in_em_3_siciliana.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=23w_BWTfga4",
-  "artist": "C&#233;sar Amaro",
+  "artist": "César Amaro",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -46783,7 +46738,7 @@ export const songsData = [
   "tab": "brescianello_18_partitas_no16_in_em_4_gigue.txt",
   "midi": "",
   "video": "http://www.youtube.com/watch?v=8dzu6NFkqT4",
-  "artist": "C&#233;sar Amaro",
+  "artist": "César Amaro",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -46802,7 +46757,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46816,7 +46771,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46830,7 +46785,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46844,7 +46799,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46858,7 +46813,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46872,7 +46827,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46886,7 +46841,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46900,7 +46855,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46914,7 +46869,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46928,7 +46883,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46942,7 +46897,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46956,7 +46911,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46970,7 +46925,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46984,7 +46939,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -46998,7 +46953,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -47012,7 +46967,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -47026,7 +46981,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -47040,7 +46995,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Isaac Albeniz",
@@ -47054,7 +47009,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "8",
-  "author_alternate": "<b>Isaac Alb&eacute;niz &#160;(Isaak Albeniz, Isaac Manuel Francisco Alb&eacute;niz y Pascual)</b>"
+  "author_alternate": "Isaac Albéniz (Isaak Albeniz, Isaac Manuel Francisco Albéniz y Pascual)"
 },
 {
   "author": "Benjamin Britten",
@@ -47271,7 +47226,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "An Idea (Passacaglia for Eli)",
   "tab": "brouwer_an_idea_passacaglia_for_eli.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=iQr6g5FUiHE",
   "artist": "Yair Avidor",
   "easy": false,
@@ -47285,7 +47240,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Danza Characteristica",
   "tab": "brouwer_danza_characteristica.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=OOGfR0bqKnU",
   "artist": "Andrea Bolinelli",
   "easy": false,
@@ -47299,7 +47254,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Danza Del Altiplano",
   "tab": "brouwer_danza_del_altiplano.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=_LAd9dRArPQ",
   "artist": "Laura Mazon Franqui",
   "easy": false,
@@ -47313,7 +47268,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Dos Aires Populares Cubanos - 1. Guajira Criolla (Sur un theme d'Anckerman)",
   "tab": "brouwer_dos_aires_populares_cubanos_1_guajira_criolla.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -47327,7 +47282,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Dos Aires Populares Cubanos - 2. Zapateo Cubano (Zapateado)",
   "tab": "brouwer_dos_aires_populares_cubanos_2_zapateado.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -47355,9 +47310,9 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Dos Temas Populares Cubanos - 2. Ojos Brujos (Les Yeux Sorciers)",
   "tab": "brouwer_dos_temas_populares_cubanos_2_ojos_brujos.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=RYJVLXVD7n0",
-  "artist": "Al&iacute; Jorge Arango",
+  "artist": "Alí Jorge Arango",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -47369,7 +47324,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "El Decameron Negro - 1. El Arpa Del Guerrero",
   "tab": "brouwer_el_decameron_negro_1_el_arpa_del_guerrero.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/qYQXBirryrY?t=12",
   "artist": "Adam Kossler",
   "easy": false,
@@ -47383,7 +47338,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "El Decameron Negro - 2. La Huida De Los Amantes Por El Valle De Los Ecos",
   "tab": "brouwer_el_decameron_negro_2_la_huida_de_los_amantes.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -47397,7 +47352,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "El Decameron Negro - 3. In Balada De La Doncella Enamorada",
   "tab": "brouwer_el_decameron_negro_3_in_balada_de_la_donna_enamorada.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -47411,7 +47366,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Elogio de la Danza",
   "tab": "brouwer_elogio_de_la_danza.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -47479,7 +47434,7 @@ export const songsData = [
 {
   "author": "Leo Brouwer",
   "author_years": "(1939-)",
-  "title": "Estudios Sencillos (Études Simples) - Study No 5, Allegretto (montune) ",
+  "title": "Estudios Sencillos (Études Simples) - Study No 5, Allegretto (montune)",
   "tab": "brouwer_estudios_sencillos_05_allegretto_montune.txt",
   "midi": "brouwer_estudios_sencillos_05_allegretto_montune.mid",
   "video": "",
@@ -47565,7 +47520,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Estudios Sencillos (Études Simples) - Study No 11, Allegretto",
   "tab": "brouwer_estudios_sencillos_11_allegretto.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -47579,7 +47534,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Estudios Sencillos (Études Simples) - Study No 12, Tranquiloo, Moderato",
   "tab": "brouwer_estudios_sencillos_12_tranquillo_moderato.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": true,
@@ -47593,7 +47548,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Estudios Sencillos (Études Simples) - Study No 19, Movido (Allegretto)",
   "tab": "brouwer_estudios_sencillos_19_movido_allegretto.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=_RJDNsO8BDI",
   "artist": "Kevin Loh",
   "easy": false,
@@ -47607,7 +47562,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Fuga No 1 (Fugue 1)",
   "tab": "brouwer_fuga_1.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=vGa6vv_gyS4",
   "artist": "Cristiano Morales",
   "easy": false,
@@ -47621,7 +47576,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "La Espiral Eterna",
   "tab": "brouwer_la_espiral_eterna.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=kJC0bPOkUNw",
   "artist": "Sergio Sorrentino",
   "easy": false,
@@ -47649,7 +47604,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 2 - Omaggio a Mangoré",
   "tab": "brouwer_nuevos_sencillos_02_omaggio_a_mangore.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=XQ5DIN_ka7o",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47677,7 +47632,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 4 - Omaggio a Prokofiev",
   "tab": "brouwer_nuevos_sencillos_04_omaggio_a_prokofiev.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/aUMc1-xKKH8?t=203",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47691,7 +47646,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 5 - Omaggio a Tárrega",
   "tab": "brouwer_nuevos_sencillos_05_omaggio_a_tarrega.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=Hs_tqU6Dz30",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47705,7 +47660,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 6 - Omaggio a Sor",
   "tab": "brouwer_nuevos_sencillos_06_omaggio_a_sor.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=Hs_tqU6Dz30",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47719,7 +47674,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 7 - Omaggio a Piazzolla",
   "tab": "brouwer_nuevos_sencillos_07_omaggio_a_piazzolla.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=qEM3nN9E36Q",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47733,7 +47688,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 8 - Omaggio a Villa-Lobos",
   "tab": "brouwer_nuevos_sencillos_08_omaggio_a_villa-lobos.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/aUMc1-xKKH8?t=546",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47747,7 +47702,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 9 - Omaggio a Szymanowski",
   "tab": "brouwer_nuevos_sencillos_09_omaggio_a_szymanowski.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=IQgteIPbk5Y",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47761,7 +47716,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Nuevos Estudios Sencillos - Study No 10 - Toccata - Omaggio a Stravinsky",
   "tab": "brouwer_nuevos_sencillos_10_omaggio_a_stravinsky.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=l0MomYECCSY",
   "artist": "William Ghezzi",
   "easy": false,
@@ -47775,7 +47730,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Piezas sin Titulo - No 1 - Allegro",
   "tab": "brouwer_piezas_sin_titulo_1_allegro.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=vcUuqR_p5S8",
   "artist": "Jon Tario",
   "easy": false,
@@ -47789,7 +47744,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Piezas sin Titulo - No 2 - Adagio largo",
   "tab": "brouwer_piezas_sin_titulo_2_adagio_largo.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=nvM6A3VFpxQ",
   "artist": "Frederico Herrmann",
   "easy": false,
@@ -47803,7 +47758,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Piezas sin Titulo - No 3",
   "tab": "brouwer_piezas_sin_titulo_3.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=nvM6A3VFpxQ",
   "artist": "Frederico Herrmann",
   "easy": false,
@@ -47817,7 +47772,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludio in Am (1956)",
   "tab": "brouwer_preludio_in_am.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=Jav-1VFVI4c",
   "artist": "Alejandro Gonzalez Ortiz",
   "easy": false,
@@ -47831,9 +47786,9 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludios Epigramaticos - No 1",
   "tab": "brouwer_preludios_epigramaticos_1.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=xvHaMa4gkTQ",
-  "artist": "Doris &Cacute;osi&cacute;",
+  "artist": "Doris Ćosić",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -47845,9 +47800,9 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludios Epigramaticos - No 2",
   "tab": "brouwer_preludios_epigramaticos_2.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/xvHaMa4gkTQ?t=96",
-  "artist": "Doris &Cacute;osi&cacute;",
+  "artist": "Doris Ćosić",
   "easy": false,
   "lhf": true,
   "proper": true,
@@ -47859,7 +47814,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludios Epigramaticos - No 3",
   "tab": "brouwer_preludios_epigramaticos_3.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/ekSem27JWcU?t=237",
   "artist": "Kevin Gallagher",
   "easy": false,
@@ -47873,7 +47828,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludios Epigramaticos - No 4",
   "tab": "brouwer_preludios_epigramaticos_4.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/ekSem27JWcU?t=350",
   "artist": "Kevin Gallagher",
   "easy": false,
@@ -47887,7 +47842,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludios Epigramaticos - No 5",
   "tab": "brouwer_preludios_epigramaticos_5.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/ekSem27JWcU?t=437",
   "artist": "Kevin Gallagher",
   "easy": false,
@@ -47901,7 +47856,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Preludios Epigramaticos - No 6",
   "tab": "brouwer_preludios_epigramaticos_6.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://youtu.be/ekSem27JWcU?t=550",
   "artist": "Kevin Gallagher",
   "easy": false,
@@ -47915,7 +47870,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Rito de los Orishas - 1. Exordium-conjuro",
   "tab": "brouwer_rito_de_los_orishas_1_exordium-conjuro.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=z-4QvoAgye8",
   "artist": "Thomas Viloteau",
   "easy": false,
@@ -47929,7 +47884,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Rito de los Orishas - 2. Danza de las diosas negras",
   "tab": "brouwer_rito_de_los_orishas_2_danza_de_las_negras.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=mFGJA61qfH4",
   "artist": "Thomas Viloteau",
   "easy": false,
@@ -47945,7 +47900,7 @@ export const songsData = [
   "tab": "brouwer_sonata_to_julian_bream_1_fandangos_y_boleros.txt",
   "midi": "brouwer_sonata_to_julian_bream_1_fandangos_y_boleros.mid",
   "video": "https://www.youtube.com/watch?v=Ed7r7pLy4HY",
-  "artist": "Andrea Gonz&aacute;lez Caballero",
+  "artist": "Andrea González Caballero",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -47959,7 +47914,7 @@ export const songsData = [
   "tab": "brouwer_sonata_to_julian_bream_2_sarabanda_de_scriabin.txt",
   "midi": "brouwer_sonata_to_julian_bream_2_sarabanda_de_scriabin.mid",
   "video": "https://www.youtube.com/watch?v=SpeLhHwd89w",
-  "artist": "Al&iacute; Arango",
+  "artist": "Alí Arango",
   "easy": false,
   "lhf": false,
   "proper": true,
@@ -47985,7 +47940,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Sonata del Caminante (dedicated to Odair Assad) - 1. Vision de la Amazonia",
   "tab": "brouwer_sonata_2_del_caminante_1_vision_de_la_amazonia.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=3ncqq-hDjro",
   "artist": "Santiago Becerra",
   "easy": false,
@@ -47999,7 +47954,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Suite No 1, Antigua - 1. Preludio",
   "tab": "brouwer_suite1_antigua_1_preludio.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=7Uz2pgNangU",
   "artist": "Jorge Birrueta",
   "easy": false,
@@ -48013,7 +47968,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Suite No 1, Antigua - 2. Fuga",
   "tab": "brouwer_suite1_antigua_2_fuga.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=7Uz2pgNangU",
   "artist": "Jorge Birrueta",
   "easy": false,
@@ -48027,7 +47982,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Suite No 1, Antigua - 3. Sarabanda",
   "tab": "brouwer_suite1_antigua_3_sarabanda.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=7Uz2pgNangU",
   "artist": "Jorge Birrueta",
   "easy": false,
@@ -48041,7 +47996,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Suite No 1, Antigua - 4. Giga",
   "tab": "brouwer_suite1_antigua_4_giga.txt",
-  "midi": null,
+  "midi": "",
   "video": "http://www.youtube.com/watch?v=7Uz2pgNangU",
   "artist": "Jorge Birrueta",
   "easy": false,
@@ -48069,7 +48024,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Tres Apuntes (Three Sketches) - 2. De un fragmento instrumental",
   "tab": "brouwer_tres_apuntes_2_de_un_fragmento_instrumental.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=OKUQpHfQlpY",
   "artist": "Saro Babikian",
   "easy": false,
@@ -48083,7 +48038,7 @@ export const songsData = [
   "author_years": "(1939-)",
   "title": "Tres Apuntes (Three Sketches) - 3. Sobre un Canto de Bulgaria",
   "tab": "brouwer_tres_apuntes_3_sobre_un_canto_de_bulgaria.txt",
-  "midi": null,
+  "midi": "",
   "video": "https://www.youtube.com/watch?v=NQTz6FZqPcQ",
   "artist": "Saro Babikian",
   "easy": false,
@@ -48261,7 +48216,7 @@ export const songsData = [
   "author_alternate": "Fernando Bustamante"
 },
 {
-  "author": "Dieterich Buxtehude  (Dietrich Buxtehude, Diderich Buxtehude)",
+  "author": "Dieterich Buxtehude",
   "author_years": "(c1637-1707)",
   "title": "BuxWV 75, Membra Jesu Nostri - IV. Ad latus (To the side) - 1. Sonata",
   "tab": "buxtehude_buxwv075_membra_jesu_nostri_4_ad_latus_1_sonata.txt",
@@ -48272,10 +48227,10 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "86",
-  "author_alternate": "<b>Dieterich Buxtehude&#160; (Dietrich Buxtehude, Diderich Buxtehude)</b>&#160; (c1637-1707)"
+  "author_alternate": "Dieterich Buxtehude (Dietrich Buxtehude, Diderich Buxtehude) (c1637-1707)"
 },
 {
-  "author": "Dieterich Buxtehude  (Dietrich Buxtehude, Diderich Buxtehude)",
+  "author": "Dieterich Buxtehude",
   "author_years": "(c1637-1707)",
   "title": "BuxWV 75, Membra Jesu Nostri - V. Ad pectus (To the breast) - 1. Sonata",
   "tab": "buxtehude_buxwv075_membra_jesu_nostri_5_ad_pectus_1_sonata.txt",
@@ -48286,10 +48241,10 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "86",
-  "author_alternate": "<b>Dieterich Buxtehude&#160; (Dietrich Buxtehude, Diderich Buxtehude)</b>&#160; (c1637-1707)"
+  "author_alternate": "Dieterich Buxtehude (Dietrich Buxtehude, Diderich Buxtehude) (c1637-1707)"
 },
 {
-  "author": "Dieterich Buxtehude  (Dietrich Buxtehude, Diderich Buxtehude)",
+  "author": "Dieterich Buxtehude",
   "author_years": "(c1637-1707)",
   "title": "BuxWV 236, Suite in Em - 1. Allemande",
   "tab": "buxtehude_buxwv236_suite_in_em_1_allemande.txt",
@@ -48300,10 +48255,10 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "86",
-  "author_alternate": "<b>Dieterich Buxtehude&#160; (Dietrich Buxtehude, Diderich Buxtehude)</b>&#160; (c1637-1707)"
+  "author_alternate": "Dieterich Buxtehude (Dietrich Buxtehude, Diderich Buxtehude) (c1637-1707)"
 },
 {
-  "author": "Dieterich Buxtehude  (Dietrich Buxtehude, Diderich Buxtehude)",
+  "author": "Dieterich Buxtehude",
   "author_years": "(c1637-1707)",
   "title": "BuxWV 236, Suite in Em - 2. Courante",
   "tab": "buxtehude_buxwv236_suite_in_em_2_courante.txt",
@@ -48314,10 +48269,10 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "86",
-  "author_alternate": "<b>Dieterich Buxtehude&#160; (Dietrich Buxtehude, Diderich Buxtehude)</b>&#160; (c1637-1707)"
+  "author_alternate": "Dieterich Buxtehude (Dietrich Buxtehude, Diderich Buxtehude) (c1637-1707)"
 },
 {
-  "author": "Dieterich Buxtehude  (Dietrich Buxtehude, Diderich Buxtehude)",
+  "author": "Dieterich Buxtehude",
   "author_years": "(c1637-1707)",
   "title": "BuxWV 236, Suite in Em - 3. Sarabande",
   "tab": "buxtehude_buxwv236_suite_in_em_3_sarabande.txt",
@@ -48328,10 +48283,10 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "86",
-  "author_alternate": "<b>Dieterich Buxtehude&#160; (Dietrich Buxtehude, Diderich Buxtehude)</b>&#160; (c1637-1707)"
+  "author_alternate": "Dieterich Buxtehude (Dietrich Buxtehude, Diderich Buxtehude) (c1637-1707)"
 },
 {
-  "author": "Dieterich Buxtehude  (Dietrich Buxtehude, Diderich Buxtehude)",
+  "author": "Dieterich Buxtehude",
   "author_years": "(c1637-1707)",
   "title": "BuxWV 236, Suite in Em - 4. Gigue",
   "tab": "buxtehude_buxwv236_suite_in_em_4_gigue.txt",
@@ -48342,7 +48297,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "86",
-  "author_alternate": "<b>Dieterich Buxtehude&#160; (Dietrich Buxtehude, Diderich Buxtehude)</b>&#160; (c1637-1707)"
+  "author_alternate": "Dieterich Buxtehude (Dietrich Buxtehude, Diderich Buxtehude) (c1637-1707)"
 },
 {
   "author": "William Byrd",
@@ -48370,7 +48325,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "88",
-  "author_alternate": "<b>Lee Byung-woo&#160; (Lee Byeong-Woo)</b>&#160; (1965-)"
+  "author_alternate": "Lee Byung-woo (Lee Byeong-Woo) (1965-)"
 },
 {
   "author": "Mateo Albeniz",
@@ -48398,7 +48353,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Bartolome Calatayud",
@@ -48412,7 +48367,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Bartolome Calatayud",
@@ -48426,7 +48381,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Bartolome Calatayud",
@@ -48440,7 +48395,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Bartolome Calatayud",
@@ -48454,7 +48409,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Bartolome Calatayud",
@@ -48468,7 +48423,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Bartolome Calatayud",
@@ -48482,7 +48437,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "90",
-  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá,&#160; Bartumeo Calatayud Certà)"
+  "author_alternate": "Bartolome Calatayud (Bartolomé Calatuyud Cerdá, Bartumeo Calatayud Certà)"
 },
 {
   "author": "Francisco Calleja",
@@ -48566,7 +48521,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "92",
-  "author_alternate": "<b>Carlo Calvi</b>&#160; (c1610-c1670)"
+  "author_alternate": "Carlo Calvi (c1610-c1670)"
 },
 {
   "author": "Bartolomeo Campagnoli",
@@ -48589,12 +48544,12 @@ export const songsData = [
   "tab": "campion_prelude.txt",
   "midi": "",
   "video": "https://www.youtube.com/watch?v=Z_Zglm9uzDA",
-  "artist": "Jo&euml;l Degehet",
+  "artist": "Joël Degehet",
   "easy": false,
   "lhf": false,
   "proper": true,
   "author_id": "94",
-  "author_alternate": "Fran&ccedil;ois Campion (Francois Campion)"
+  "author_alternate": "François Campion (Francois Campion)"
 },
 {
   "author": "Francois Campion",
@@ -48608,7 +48563,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "94",
-  "author_alternate": "Fran&ccedil;ois Campion (Francois Campion)"
+  "author_alternate": "François Campion (Francois Campion)"
 },
 {
   "author": "Antonio Cano",
@@ -48622,7 +48577,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "95",
-  "author_alternate": "<b>Antonio Cano (Antonio Cano-Curriella)</b>"
+  "author_alternate": "Antonio Cano (Antonio Cano-Curriella)"
 },
 {
   "author": "Antonio Cano",
@@ -48636,7 +48591,7 @@ export const songsData = [
   "lhf": false,
   "proper": true,
   "author_id": "95",
-  "author_alternate": "<b>Antonio Cano (Antonio Cano-Curriella)</b>"
+  "author_alternate": "Antonio Cano (Antonio Cano-Curriella)"
 },
 {
   "author": "Antonio Cano",
@@ -48650,7 +48605,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "95",
-  "author_alternate": "<b>Antonio Cano (Antonio Cano-Curriella)</b>"
+  "author_alternate": "Antonio Cano (Antonio Cano-Curriella)"
 },
 {
   "author": "Antonio Cano",
@@ -48664,7 +48619,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "95",
-  "author_alternate": "<b>Antonio Cano (Antonio Cano-Curriella)</b>"
+  "author_alternate": "Antonio Cano (Antonio Cano-Curriella)"
 },
 {
   "author": "Antonio Cano",
@@ -48678,7 +48633,7 @@ export const songsData = [
   "lhf": true,
   "proper": true,
   "author_id": "95",
-  "author_alternate": "<b>Antonio Cano (Antonio Cano-Curriella)</b>"
+  "author_alternate": "Antonio Cano (Antonio Cano-Curriella)"
 },
 {
   "author": "Benito Canonico",
@@ -48713,7 +48668,7 @@ export const songsData = [
   "author_years": "",
   "title": "'O Sole Mio (My Own Sun)",
   "tab": "capua-mazzucchi_o_sole_mio.txt",
-  "midi": null,
+  "midi": "",
   "video": "",
   "artist": "",
   "easy": false,
@@ -48721,5 +48676,1699 @@ export const songsData = [
   "proper": true,
   "author_id": "99",
   "author_alternate": "Eduardo di Capua / Alfredo Mazzucchi"
+},
+{
+  "author": "Andrea Morricone & Ennio Morricone",
+  "author_years": "",
+  "title": "Nuovo Cinema Paradiso - Love Theme",
+  "tab": "morricone_a_morricone_e_nuovo_cinema_paradiso_love_theme.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=6Y7V85PMhSk",
+  "artist": "Uros Baric",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Andrea Morricone & Ennio Morricone"
+},
+{
+  "author": "Federico Moreno-Torroba",
+  "author_years": "(1891-1982)",
+  "title": "Madrileñas (Suite for Guitar) - 2. Copla",
+  "tab": "moreno-torroba_madrilenas_2_copla.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=rgZQnAOd-ZU",
+  "artist": "Agustín Maruri",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Federico Moreno-Torroba"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Latinitas for Solo Guitar - 1. Bambuquito",
+  "tab": "montes_latinitas_01_bambuquito.txt",
+  "midi": "montes_latinitas_01_bambuquito.mid",
+  "video": "https://youtu.be/gWTcAc26zz4?t=5",
+  "artist": "Irina Kircher",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Feliu Gasull",
+  "author_years": "",
+  "title": "Estudi de Concert - No 12",
+  "tab": "gasull_estudi_de_concert_12_unchecked.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=a7yEozWbiqY",
+  "artist": "Feliu Gasull",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Feliu Gasull"
+},
+{
+  "author": "Feliu Gasull",
+  "author_years": "",
+  "title": "Estudi de Concert - No 8",
+  "tab": "gasull_estudi_de_concert_08_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/oP1mIeeEueQ?t=6",
+  "artist": "Isabella Selder",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Feliu Gasull"
+},
+{
+  "author": "Paulo Bellinati",
+  "author_years": "(1950-)",
+  "title": "Cordão do Ouro (Gold Chain) (Lundu de Capoeira)",
+  "tab": "bellinati_cordao_de_ouro.txt",
+  "midi": "",
+  "video": "https://youtu.be/lvDYoG9g0so?t=7",
+  "artist": "Ana Guerra",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Paulo Bellinati"
+},
+{
+  "author": "Anonymous / Traditional",
+  "author_years": "",
+  "title": "Early One Morning",
+  "tab": "anon_early_one_morning.txt",
+  "midi": "anon_early_one_morning.mid",
+  "video": "https://www.youtube.com/watch?v=WNazLQjrV8M",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Anonymous / Traditional"
+},
+{
+  "author": "Mathias Duplessy",
+  "author_years": "(1972-)",
+  "title": "Cavalcade",
+  "tab": "duplessy_cavalcade.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=TUZzUus6-s0",
+  "artist": "Rabkov Dmitriy",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mathias Duplessy"
+},
+{
+  "author": "Johann Krieger",
+  "author_years": "(1651-1735)",
+  "title": "Bourée in Am",
+  "tab": "krieger_partita_no6_in_bb_12_bouree_in_am.txt",
+  "midi": "krieger_partita_no6_in_bb_12_bouree_in_am_1.mid",
+  "video": "https://www.youtube.com/watch?v=I7ujADQ5f6s",
+  "artist": "Thelonious von Schulz",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Johann Krieger"
+},
+{
+  "author": "Baden Powell",
+  "author_years": "(1937-2000)",
+  "title": "Valsa de Eurídice (Euridice's Waltz)",
+  "tab": "powell_valsa_de_euridice.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=a9a__ZmtTZk",
+  "artist": "Karl Marino",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Baden Powell"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Latinitas for Solo Guitar - 7. Merenguito",
+  "tab": "montes_latinitas_07_merenguito.txt",
+  "midi": "montes_latinitas_07_merenguito.mid",
+  "video": "https://youtu.be/ahQLjPBAzHk?t=12",
+  "artist": "Irina Kircher",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Manuel Ponce",
+  "author_years": "(1882-1948)",
+  "title": "Suite in Am - 5. Gigue",
+  "tab": "ponce_suite_in_am_5_gigue.txt",
+  "midi": "",
+  "video": "https://youtu.be/jgv2YyC5htM?t=755",
+  "artist": "Gohar Vardanyan",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel Ponce"
+},
+{
+  "author": "Domenico Scarlatti",
+  "author_years": "(1685-1757)",
+  "title": "K12 (L489) - Sonata in Gm (transcribed to Am)",
+  "tab": "scarlatti_d_k012.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=e9z-QLWEfJg",
+  "artist": "Gabriel Guillén",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Domenico Scarlatti"
+},
+{
+  "author": "Manuel Ponce",
+  "author_years": "(1882-1948)",
+  "title": "Suite in Am - 2. Allemande",
+  "tab": "ponce_suite_in_am_2_allemande.txt",
+  "midi": "",
+  "video": "https://youtu.be/jgv2YyC5htM?t=160",
+  "artist": "Gohar Vardanyan",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel Ponce"
+},
+{
+  "author": "Manuel Ponce",
+  "author_years": "(1882-1948)",
+  "title": "Suite in Am - 1. Preludio",
+  "tab": "ponce_suite_in_am_1_preludio.txt",
+  "midi": "",
+  "video": "https://youtu.be/jgv2YyC5htM?t=5",
+  "artist": "Gohar Vardanyan",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel Ponce"
+},
+{
+  "author": "Herms Niel",
+  "author_years": "(1888-1954)",
+  "title": "Erika (Auf der Heide blüht ein kleines Blümelein)",
+  "tab": "niel_erika.txt",
+  "midi": "",
+  "video": "",
+  "artist": "",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Herms Niel"
+},
+{
+  "author": "Astor Piazzolla",
+  "author_years": "(1921-1992)",
+  "title": "Oblivion",
+  "tab": "piazzolla_oblivion.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=3RoIaaPSgAQ",
+  "artist": "Ryuji Kunimatsu",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Astor Piazzolla"
+},
+{
+  "author": "Maurizio Colonna",
+  "author_years": "(1952-)",
+  "title": "Appunti di Viaggio - 3. Kennedy Airport",
+  "tab": "colonna_appunti_di_viaggioo_3_kennedy_airport.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=4VCV2GyeTrg",
+  "artist": "Flavio Sala",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Maurizio Colonna"
+},
+{
+  "author": "Johann Sebastian Bach",
+  "author_years": "(1685-1750)",
+  "title": "BWV 933 - 6 Little Preludes, No 1 in C",
+  "tab": "bach_js_bwv0933_6_little_preludes_1.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=iG5529R2PQo&t=5s",
+  "artist": "Edson Lopes",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Johann Sebastian Bach"
+},
+{
+  "author": "Egberto Gismonti",
+  "author_years": "(1947-)",
+  "title": "Palhaço",
+  "tab": "gismonti_palhaco.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=Ljbe4hVv38k",
+  "artist": "Allen Mathews",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Egberto Gismonti"
+},
+{
+  "author": "Johann Kaspar Mertz",
+  "author_years": "(1806-1856)",
+  "title": "Op 65 No 1, Fantaisie Hongroise (Hungarian Fantasy)",
+  "tab": "mertz_op65_no1_hungarian_fantasy.txt",
+  "midi": "",
+  "video": "https://youtu.be/uluJ8RWri5M?t=6",
+  "artist": "Andrzej Otremba",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Johann Kaspar Mertz"
+},
+{
+  "author": "Joseph Kuffner",
+  "author_years": "(1776-1856)",
+  "title": "Op 168, Soixante Leçons - 5. Allegretto in C",
+  "tab": "kuffner_op168_soixante_lecons_05_allegretto.txt",
+  "midi": "kuffner_op168_soixante_lecons_05_allegretto.mid",
+  "video": "https://www.youtube.com/watch?v=2WVJeO8Y6RI",
+  "artist": "saitenspuren",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Joseph Küffner"
+},
+{
+  "author": "Anton Diabelli",
+  "author_years": "(1781-1858)",
+  "title": "Op 39, 30 Easy Pieces - No 22, Ecossaise in A",
+  "tab": "diabelli_op039_no22_ecossaise_in_a.txt",
+  "midi": "diabelli_op039_no22_ecossaise_in_a.mid",
+  "video": "",
+  "artist": "",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Anton Diabelli"
+},
+{
+  "author": "Hector Ayala",
+  "author_years": "(1914-1990)",
+  "title": "Cholita (Aire Norteño)",
+  "tab": "ayala_cholita_aire_norteno.txt",
+  "midi": "",
+  "video": "https://youtu.be/mQwzGhnKd4g?t=15",
+  "artist": "Jorge Biscardi",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Héctor Ayala"
+},
+{
+  "author": "Napoleon Coste",
+  "author_years": "(1805-1883)",
+  "title": "Op 12, Rondeau de Concert",
+  "tab": "coste_op12_rondeau_de_concert.txt",
+  "midi": "",
+  "video": "https://youtu.be/CEMeZEMLQDo?t=10",
+  "artist": "Liying Zhu",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Napoléon Coste"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Nueve Preludios Azules - 8. Azulcielo",
+  "tab": "montes_nueve_preludios_azules_8_azulcielo.txt",
+  "midi": "montes_nueve_preludios_azules_8_azulcielo.mid",
+  "video": "https://youtu.be/UDYoffcHxVM?t=23",
+  "artist": "Oscar Rodrìguez",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 1 in C",
+  "tab": "kleynjans_prelude_01_in_c.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=HDHeiALWZ4c",
+  "artist": "Danny Zahl",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Leonhard de Call",
+  "author_years": "(1768-1815)",
+  "title": "Trois Sonates - Sonata 1 - 2. Adagio",
+  "tab": "call_op22_sonata_1_2_adagio.txt",
+  "midi": "call_op22_sonata_1_2_adagio.mid",
+  "video": "https://youtu.be/pir7lnPapR0?t=8",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Leonhard de Call"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Tres pieces - 3. Cançoneta",
+  "tab": "calatayud_tres_piezas_para_guitarra_3_canconeta.txt",
+  "midi": "calatayud_tres_piezas_para_guitarra_3_canconeta.mid",
+  "video": "https://www.youtube.com/watch?v=EWtHetXo-vs",
+  "artist": "Matthew McAllister",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 24 in Dm",
+  "tab": "kleynjans_prelude_24_in_dm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=DkhU3N5J31I",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Julio Sagreras",
+  "author_years": "(1879-1942)",
+  "title": "Op 19, Tres Piezas Fáciles - 2. Maria Luisa",
+  "tab": "sagreras_j__op_019_tres_piezas_faciles_2_maria_luisa.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=JPwwnhJy3-s",
+  "artist": "Simon Powis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Julio Sagreras"
+},
+{
+  "author": "Jean Absil",
+  "author_years": "(1893-1974)",
+  "title": "Op 123, Pièces Caractéristiques - 2. Invention",
+  "tab": "absil_op123_pieces_caracteristiques_02_invention.txt",
+  "midi": "absil_op123_pieces_caracteristiques_02_invention.mid",
+  "video": "https://www.youtube.com/watch?v=muW-c2IuKQo",
+  "artist": "Bradford Werner",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Jean Absil"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Milonga al sur",
+  "tab": "montes_milonga_al_sur.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=aK6h5dArHf0",
+  "artist": "Jaime Soria Porto & Omar Maldonado",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 23 in F",
+  "tab": "kleynjans_prelude_23_in_f.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=41FHLaEjEfQ",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Antonio Cano",
+  "author_years": "(1811-1897)",
+  "title": "Método Completo - Exercise No 7 in G",
+  "tab": "cano_antonio_metodo_completo_12_exerc_plmd_07.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=CNAtQ-PvPaw&t=8s",
+  "artist": "Oka Toshihiko",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Antonio Cano"
+},
+{
+  "author": "Charles Doisy",
+  "author_years": "",
+  "title": "Rondos, petites Airs varies - 2. La Modeste",
+  "tab": "doisy_rondos_petites_airs_02_la_modeste_in_c.txt",
+  "midi": "doisy_rondos_petites_airs_02_la_modeste_in_c.mid",
+  "video": "https://www.youtube.com/watch?v=6A3dMGoIqPI",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Charles Doisy"
+},
+{
+  "author": "Charles Doisy",
+  "author_years": "",
+  "title": "Rondos, petites Airs varies - 1. Allemande",
+  "tab": "doisy_rondos_petites_airs_01_allemande_in_c.txt",
+  "midi": "doisy_rondos_petites_airs_01_allemande_in_c.mid",
+  "video": "https://www.youtube.com/watch?v=-VRJ4zjuDrY",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Charles Doisy"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 22 in Gm",
+  "tab": "kleynjans_prelude_22_in_gm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=Kt7FQ5f7gtQ",
+  "artist": "Vlastimil Müller",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Tres pieces - 2. Caramba! (Habanera) (in Am)",
+  "tab": "calatayud_tres_piezas_para_guitarra_2_caramba.txt",
+  "midi": "calatayud_tres_piezas_para_guitarra_2_caramba.mid",
+  "video": "https://www.youtube.com/watch?v=dMxeSW_7WV8",
+  "artist": "Cyril R",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 21 in Bb",
+  "tab": "kleynjans_prelude_21_in_bb.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=lxFREnH7pp4",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Cosimo Antitomaso",
+  "author_years": "",
+  "title": "La Chitarra per i Ragazza - 63. Alba sul mare",
+  "tab": "antitomaso_la_chitarra_063_alba_sul_mare.txt",
+  "midi": "antitomaso_la_chitarra_063_alba_sul_mare.mid",
+  "video": "https://www.youtube.com/watch?v=w2VRb72hwA0",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Cosimo Antitomaso"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 19 in Eb",
+  "tab": "kleynjans_prelude_19_in_eb.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=BsgJmjpOGYM",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Giacomo Merchi",
+  "author_years": "(1730-1789)",
+  "title": "Op 7, Le Guide des Ecoliers - Menuet in Am",
+  "tab": "merchi_op07_le_guide_des_ecoliers_p12_minuet.txt",
+  "midi": "merchi_op07_le_guide_des_ecoliers_p12_minuet.mid",
+  "video": "https://www.youtube.com/watch?v=QqSpwtmvbB0",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Giacomo Merchi"
+},
+{
+  "author": "Federico Moreno-Torroba",
+  "author_years": "(1891-1982)",
+  "title": "Castillos de España Vol 2 - 6. Calatrava (Festiva)",
+  "tab": "moreno_torroba_castles_of_spain_2_6_calatrava.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=uYEQUU64x-w",
+  "artist": "Thiago Abdalla",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Federico Moreno-Torroba"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Tres pieces para guitarra - 1. Mazurka (in Am)",
+  "tab": "calatayud_tres_piezas_para_guitarra_1_mazurka.txt",
+  "midi": "calatayud_tres_piezas_para_guitarra_1_mazurka.mid",
+  "video": "https://www.youtube.com/watch?v=hLlzYglTmIA",
+  "artist": "David Tutmark",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 18 in Fm",
+  "tab": "kleynjans_prelude_18_in_fm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=8JRmBGPlyvc",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Eduardo Sainz de la Maza",
+  "author_years": "(1903-1982)",
+  "title": "Evocación Criolla (Creole Evocation)",
+  "tab": "sainz_de_la_maza_e_evocacion_criolla.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=ft5bV37fWEA",
+  "artist": "María Esther Guzmán",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Eduardo Sáinz de la Maza"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Nueve Preludios Azules - 7. Tu azul",
+  "tab": "montes_nueve_preludios_azules_7_tu_azul.txt",
+  "midi": "montes_nueve_preludios_azules_7_tu_azul.mid",
+  "video": "https://www.youtube.com/watch?v=Lr9ildu0C-0",
+  "artist": "Alfonso Montes",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "David Kellner",
+  "author_years": "(1670-1748)",
+  "title": "XVI Lauten-Stucke - 12. Campanella in D",
+  "tab": "kellner_16_lauten-stucke_12_campanella_in_d.txt",
+  "midi": "kellner_16_lauten-stucke_12_campanella_in_d.mid",
+  "video": "https://www.youtube.com/watch?v=twBKmhjEB1A",
+  "artist": "Joseph Labute",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "David Kellner"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 17 in Ab",
+  "tab": "kleynjans_prelude_17_in_ab.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=Yxy2hYiOLW8",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Ferdinando Carulli",
+  "author_years": "(1770-1841)",
+  "title": "Op 122, 24 Walses pour Guitarre Seule - No 6 in G",
+  "tab": "carulli_op122_24_walses_06_in_g.txt",
+  "midi": "carulli_op122_24_walses_06_in_g.mid",
+  "video": "https://www.youtube.com/watch?v=1F3D7D4YQSk",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Ferdinando Carulli"
+},
+{
+  "author": "Jaime Zenamon",
+  "author_years": "(1953-)",
+  "title": "Epigramme - 20 leichte Stücke für Gitarre - 14. Romance",
+  "tab": "zenamon_epigramme_14_romance.txt",
+  "midi": "zenamon_epigramme_14_romance.mid",
+  "video": "https://www.youtube.com/watch?v=d7Lkf_XxkaM",
+  "artist": "Norbert Neunzling",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Jaime Zenamon"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 16 in Bbm",
+  "tab": "kleynjans_prelude_16_in_bbm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=2y7O8CzWPcs",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Anton Diabelli",
+  "author_years": "(1781-1858)",
+  "title": "Op 46, Zwei Fugen (2 Fugues) - No 1 in Am",
+  "tab": "diabelli_op046_no1_fugue_in_am.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=jkZFti3x4J8",
+  "artist": "Hong Jihyo",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Anton Diabelli"
+},
+{
+  "author": "Dionisio Aguado",
+  "author_years": "",
+  "title": "Op 14, 10 Petites Pièces - No 8, Contredanse in Em",
+  "tab": "aguado_op14_10_petites_pieces_no8_in_em.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=bQRk6RKRjcY",
+  "artist": "David Jacques",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Dionisio Aguado"
+},
+{
+  "author": "Simon Molitor",
+  "author_years": "(1766-1848)",
+  "title": "Marche Funèbre",
+  "tab": "molitor_marche_funebre.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=-vAFlJpagnk",
+  "artist": "David Jacques",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Simon Molitor"
+},
+{
+  "author": "Fernando Sor",
+  "author_years": "(1778-1839)",
+  "title": "Op 29, 24 Studies - No 18 in Em",
+  "tab": "sor_op29_no18_andante_in_em.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=zkNQAXEYvi4",
+  "artist": "Jinsae Kim",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Fernando Sor"
+},
+{
+  "author": "Alfred Cottin",
+  "author_years": "(1863-1923)",
+  "title": "Les Clochettes (Gavotte)",
+  "tab": "cottin_les_clochettes.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=LKSi0geloBc",
+  "artist": "Max Coradduzza",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfred Cottin"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Cuatre Juguetes - 4. Mazurka (in A)",
+  "tab": "calatayud_cuatre_juguetes_4_mazurka.txt",
+  "midi": "calatayud_cuatre_juguetes_4_mazurka.mid",
+  "video": "https://www.youtube.com/watch?v=Bof72QGmHP4",
+  "artist": "Matthew McAllister",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 15 in Db",
+  "tab": "kleynjans_prelude_15_in_db.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=jzpJ_5PfZoo",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Alexander Vinitsky",
+  "author_years": "(1950-)",
+  "title": "Jazz-Aria (swing)",
+  "tab": "vinitsky_jazz-aria.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=Qfze7SaTCNI",
+  "artist": "Ilya Myslitsky",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alexander Vinitsky"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 14 in D#m",
+  "tab": "kleynjans_prelude_14_in_dqm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=WLCW36ZbKjs",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Nueve Preludios Azules - 6. Azul oscuro",
+  "tab": "montes_nueve_preludios_azules_6_azul_oscuro.txt",
+  "midi": "montes_nueve_preludios_azules_6_azul_oscuro.mid",
+  "video": "https://www.youtube.com/watch?v=OIhPAiQlM0w",
+  "artist": "Alfonso Montes",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 13 in F#",
+  "tab": "kleynjans_prelude_13_in_fq.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=aRNhAC4QcHc",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo - 12. Danza del juego de amor",
+  "tab": "falla_el_amor_brujo_12_danza_del_juego_de_amor_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=1299",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Cuatre Juguetes - 3. Minueto (in D)",
+  "tab": "calatayud_cuatre_juguetes_3_minueto.txt",
+  "midi": "calatayud_cuatre_juguetes_3_minueto.mid",
+  "video": "https://www.youtube.com/watch?v=GJyAweqgRYM",
+  "artist": "Matthew McAllister",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 12 in G#m",
+  "tab": "kleynjans_prelude_12_in_gqm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=d30igMmNHmY",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Dionisio Aguado",
+  "author_years": "",
+  "title": "Nuevo Metodo - Pt2, S2, Ch1, Exercise 9 in Em",
+  "tab": "aguado_nuevo_metodo_para_guitarra_p2_s2_c1_ex09.txt",
+  "midi": "aguado_nuevo_metodo_para_guitarra_p2_s2_c1_ex09.mid",
+  "video": "https://www.youtube.com/watch?v=7NeJwtrn1SM",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Dionisio Aguado"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 11 in B",
+  "tab": "kleynjans_prelude_11_in_b.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=OfQ6YJkPFfk",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Nueve Preludios Azules - 5. Azulejo",
+  "tab": "montes_nueve_preludios_azules_5_azulejo.txt",
+  "midi": "montes_nueve_preludios_azules_5_azulejo.mid",
+  "video": "https://www.youtube.com/watch?v=WFDC_z8HtDY",
+  "artist": "Alfonso Montes",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 10 in C#m",
+  "tab": "kleynjans_prelude_10_in_dqm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=m8Ohc5IP2XY",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Mathias Duplessy",
+  "author_years": "(1972-)",
+  "title": "Valse pour Camille",
+  "tab": "duplessy_valse_pour_camille.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=nJ0N6CAl6Iw",
+  "artist": "Mathias Duplessy",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mathias Duplessy"
+},
+{
+  "author": "The Legend of Zelda",
+  "author_years": "",
+  "title": "The Wind Walker - 24. Molgera",
+  "tab": "the_legend_of_zelda_24_wakai_wind_walker_molgera.txt",
+  "midi": "",
+  "video": "",
+  "artist": "",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "The Legend of Zelda"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 9 in E",
+  "tab": "kleynjans_prelude_09_in_e.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=oP0-3jzyBJI",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Ernst Gottlieb Baron",
+  "author_years": "(1696-1760)",
+  "title": "Suite in Am - 5. Bourée",
+  "tab": "baron_suite_in_am_5_bourree.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=-DDmTiNcKiE",
+  "artist": "Corentin Mathieu",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Ernst Gottlieb Baron"
+},
+{
+  "author": "Mario Barbieri",
+  "author_years": "(1888-1968)",
+  "title": "La Serra (The Greenhouse) - 7. Mimosa pudica sensitiva",
+  "tab": "barbieri_mario_la_serra_7_mimosa_pudica_sensitiva.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=yE11N-mlARs",
+  "artist": "Patrick Lui",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mario Barbieri"
+},
+{
+  "author": "Mario Barbieri",
+  "author_years": "(1888-1968)",
+  "title": "La Serra (The Greenhouse) - 6. Rosa di Gerico",
+  "tab": "barbieri_mario_la_serra_6_rosa_di_gerico.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=Ao2bDX20oFU",
+  "artist": "Patrick Lui",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mario Barbieri"
+},
+{
+  "author": "Isaias Savio",
+  "author_years": "(1900-1977)",
+  "title": "Cenas Brasileiras (Brazilian Scenes) - 1. Serões (Evenings)",
+  "tab": "savio_censas_brasileiras_01_seroes.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=fu149mRKoO8",
+  "artist": "Andrea Scarpa",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Isaías Sávio"
+},
+{
+  "author": "Lennox Berkeley",
+  "author_years": "(1903-1989)",
+  "title": "Op 52, Sonatina For Guitar - 3. Rondo",
+  "tab": "berkeley_op052_sonatina_3_rondo.txt",
+  "midi": "",
+  "video": "https://youtu.be/6lVLzr4LbtA?t=535",
+  "artist": "Laura Snowden",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Lennox Berkeley"
+},
+{
+  "author": "Violeta Parra",
+  "author_years": "(1917-1967)",
+  "title": "Gracias a la Vida",
+  "tab": "parra_gracias_a_la_vida.txt",
+  "midi": "parra_gracias_a_la_vida.mid",
+  "video": "https://www.youtube.com/watch?v=IG8AOTdZSpY",
+  "artist": "Emmanuel Sowicz",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Violeta Parra"
+},
+{
+  "author": "JS Bach",
+  "author_years": "",
+  "title": "BWV 830 - Keyboard Partita No 6 in Em - 6. Tempo di Gavotta",
+  "tab": "bach_js_bwv0830_keyboard_partita_no6_in_em_6_tempo_di_gavotta.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=OyrEHa6w6JU",
+  "artist": "Hubert Käppel",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "JS Bach"
+},
+{
+  "author": "JS Bach",
+  "author_years": "",
+  "title": "BWV 830 - Keyboard Partita No 6 in Em - 7. Gigue",
+  "tab": "bach_js_bwv0830_keyboard_partita_no6_in_em_7_gigue.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=SlUccLR2Vpc",
+  "artist": "Hubert Käppel",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "JS Bach"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo - 11.Pantomima",
+  "tab": "falla_el_amor_brujo_11_pantomima_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=1046",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Cosimo Antitomaso",
+  "author_years": "",
+  "title": "La regina del lago",
+  "tab": "antitomaso_la_chitarra_056_la_regina_del_lago.txt",
+  "midi": "antitomaso_la_chitarra_056_la_regina_del_lago.mid",
+  "video": "https://www.youtube.com/watch?v=TfFFrQQSo1k",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Cosimo Antitomaso"
+},
+{
+  "author": "Jorge Cardoso",
+  "author_years": "(1949-)",
+  "title": "Suite de los Mita-i - Part 3 - 12. Postludio, \"Ema\"",
+  "tab": "cardoso_suite_de_los_mita-i_3_12_postludio_ema.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=hA2UDjmgEhc",
+  "artist": "Juan Laguna",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Jorge Cardoso"
+},
+{
+  "author": "Jorge Cardoso",
+  "author_years": "(1949-)",
+  "title": "Suite de los Mita-i - Part 3 - 11. Danza infantil, \"Aline\"",
+  "tab": "cardoso_suite_de_los_mita-i_3_11_danza_infantil_aline.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=ISyY2lEixhQ",
+  "artist": "Juan Laguna",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Jorge Cardoso"
+},
+{
+  "author": "Nikita Koshkin",
+  "author_years": "(1956-)",
+  "title": "The Ballads - 5. Moderato",
+  "tab": "koshkin_the_ballads_5_moderato.txt",
+  "midi": "",
+  "video": "https://youtu.be/aG0mBywcglw?t=618",
+  "artist": "Jérôme Ducharme",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Nikita Koshkin"
+},
+{
+  "author": "Domeniconi",
+  "author_years": "",
+  "title": "Op 23, den Kleinen Prinzen - 10. Die Verwandlung",
+  "tab": "domeniconi_op023_der_kleine_prinz_10_die_verwandlung.txt",
+  "midi": "",
+  "video": "https://youtu.be/uZctqEBCmjw?t=520",
+  "artist": "Joseph Ehrenpreis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Domeniconi"
+},
+{
+  "author": "Carlo Domeniconi",
+  "author_years": "(1947-)",
+  "title": "Op 23, Musik für den Kleinen Prinzen - 9. Die Rose im Garten",
+  "tab": "domeniconi_op023_der_kleine_prinz_09_die_rose_im_garten.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=2fa4cfshwhk",
+  "artist": "Anikó Juhász",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Carlo Domeniconi"
+},
+{
+  "author": "Domeniconi",
+  "author_years": "",
+  "title": "Op 23, den Kleinen Prinzen - 8. Das Echo in den Bergen",
+  "tab": "domeniconi_op023_der_kleine_prinz_08_das_echo_in_den_bergen.txt",
+  "midi": "",
+  "video": "https://youtu.be/uZctqEBCmjw?t=371",
+  "artist": "Joseph Ehrenpreis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Domeniconi"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo (Bewitching Love) - 9. Escena (Scene)",
+  "tab": "falla_el_amor_brujo_09_escena_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=883",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Cuatre Juguetes - 2. Danza (in A)",
+  "tab": "calatayud_cuatre_juguetes_2_danza.txt",
+  "midi": "calatayud_cuatre_juguetes_2_danza.mid",
+  "video": "https://www.youtube.com/watch?v=2Ipa-5h7Wtk",
+  "artist": "David van Ooijen",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Domeniconi",
+  "author_years": "",
+  "title": "Op 23, den Kleinen Prinzen - 7. Der Fuchs - Die Weisheit",
+  "tab": "domeniconi_op023_der_kleine_prinz_07_der_fuchs_die_weisheit.txt",
+  "midi": "",
+  "video": "https://youtu.be/uZctqEBCmjw?t=324",
+  "artist": "Joseph Ehrenpreis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Domeniconi"
+},
+{
+  "author": "Domeniconi",
+  "author_years": "",
+  "title": "Op 23, den Kleinen Prinzen - 6. Der Brunnen singt",
+  "tab": "domeniconi_op023_der_kleine_prinz_06_der_brunnen_singt.txt",
+  "midi": "",
+  "video": "https://youtu.be/uZctqEBCmjw?t=267",
+  "artist": "Joseph Ehrenpreis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Domeniconi"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo - 7. A media noche - los sortilegios",
+  "tab": "falla_el_amor_brujo_07_a_media_noche_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=584",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 8 in F#m",
+  "tab": "kleynjans_prelude_08_in_fqm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=aQvoiQaMqx8",
+  "artist": "Masayuki Kaneuchi",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Mario Barbieri",
+  "author_years": "(1888-1968)",
+  "title": "La Serra (The Greenhouse) - 4. Orchidea",
+  "tab": "barbieri_mario_la_serra_4_orchidea.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=A5vAqucPdOM",
+  "artist": "Patrick Lui",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mario Barbieri"
+},
+{
+  "author": "Enrico Toselli",
+  "author_years": "(1883-1926)",
+  "title": "Op 6 No 1, Serenata Rimpianto (Serenade of Regret)",
+  "tab": "toselli_op06_no1_serenata_rimpianto.txt",
+  "midi": "",
+  "video": "",
+  "artist": "",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Enrico Toselli"
+},
+{
+  "author": "Jorge Cardoso",
+  "author_years": "(1949-)",
+  "title": "Suite de los Mita-i - Part 3 - 10. Pasillo, \"Laura\"",
+  "tab": "cardoso_suite_de_los_mita-i_3_10_pasillo_laura.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=DB43Pq0-D6E",
+  "artist": "Juan Laguna",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Jorge Cardoso"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo - 5. Danza del terror",
+  "tab": "falla_el_amor_brujo_05_danza_del_terror_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=298",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Carlo Domeniconi",
+  "author_years": "(1947-)",
+  "title": "Musik für den Kleinen Prinzen - 5. Die Schlange",
+  "tab": "domeniconi_op023_der_kleine_prinz_05_die_schlange.txt",
+  "midi": "",
+  "video": "https://youtu.be/uZctqEBCmjw?t=221",
+  "artist": "Joseph Ehrenpreis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Carlo Domeniconi"
+},
+{
+  "author": "Carlo Domeniconi",
+  "author_years": "(1947-)",
+  "title": "Musik für den Kleinen Prinzen - 4. Der König",
+  "tab": "domeniconi_op023_der_kleine_prinz_04_der_konig.txt",
+  "midi": "",
+  "video": "https://youtu.be/uZctqEBCmjw?t=182",
+  "artist": "Joseph Ehrenpreis",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Carlo Domeniconi"
+},
+{
+  "author": "Guillaume Morlaye",
+  "author_years": "(1510-1558)",
+  "title": "Gaillarde in D (starting E F#)",
+  "tab": "morlaye_gaillarde_in_d_e-f.txt",
+  "midi": "morlaye_gaillarde_in_d_e-f.mid",
+  "video": "https://www.youtube.com/watch?v=6kvK2Gp6b_g",
+  "artist": "Norbert Neunzling",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Guillaume Morlaye"
+},
+{
+  "author": "Alfonso Montes",
+  "author_years": "(1955-)",
+  "title": "Nueve Preludios Azules - 4. Entre Azules",
+  "tab": "montes_nueve_preludios_azules_4_entre_azules.txt",
+  "midi": "montes_nueve_preludios_azules_4_entre_azules.mid",
+  "video": "https://www.youtube.com/watch?v=7DuB_kCvYBU",
+  "artist": "Alfonso Montes",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Alfonso Montes"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 7 in A",
+  "tab": "kleynjans_prelude_07_in_a.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=6nUnTAR6n6g",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Bartolome Calatayud",
+  "author_years": "(1882-1973)",
+  "title": "Cuatre Juguetes - 1. Gavota (in C)",
+  "tab": "calatayud_cuatre_juguetes_1_gavota.txt",
+  "midi": "calatayud_cuatre_juguetes_1_gavota.mid",
+  "video": "https://www.youtube.com/watch?v=ZAG6dYe4_eA",
+  "artist": "Matthew McAllister",
+  "easy": true,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Bartolomé Calatayud"
+},
+{
+  "author": "Nobuo Uematsu",
+  "author_years": "(1959-)",
+  "title": "Final Fantasy VII - One-winged Angel (Sephiroth's Theme)",
+  "tab": "uematsu_ff07_one-winged_angel.txt",
+  "midi": "uematsu_ff07_one-winged_angel.mid",
+  "video": "",
+  "artist": "",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Nobuo Uematsu"
+},
+{
+  "author": "Carlo Domeniconi",
+  "author_years": "(1947-)",
+  "title": "Op 23, Musik für den Kleinen Prinzen - 3. Der Säufer",
+  "tab": "domeniconi_op023_der_kleine_prinz_03_der_saufer.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=qb9GruO3qb8",
+  "artist": "Norbert Neunzling",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Carlo Domeniconi"
+},
+{
+  "author": "Carlo Domeniconi",
+  "author_years": "(1947-)",
+  "title": "Op 23, Musik für den Kleinen Prinzen - 2. Der Laternenanzünder",
+  "tab": "domeniconi_op023_der_kleine_prinz_02_der_laternenanzunder.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=oIWxJptV0oU",
+  "artist": "Norbert Neunzling",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Carlo Domeniconi"
+},
+{
+  "author": "Frederic Hand",
+  "author_years": "(1947-)",
+  "title": "Solos for Guitar - 1. Elegy for a King",
+  "tab": "hand_solos_for_guitar_01_elegy_for_a_king.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=ZcDMbeBJWWg",
+  "artist": "Brian Gaudino",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Frederic Hand"
+},
+{
+  "author": "Mario Barbieri",
+  "author_years": "(1888-1968)",
+  "title": "La Serra (The Greenhouse) - 3. Ciclamino di Persia",
+  "tab": "barbieri_mario_la_serra_3_ciclamino_di_persia.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=8w6BrZq7rN8",
+  "artist": "Patrick Lui",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mario Barbieri"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo - 4. El aparecido (The Apparition)",
+  "tab": "falla_el_amor_brujo_04_el_aparecido_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=283",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 6 in Bm",
+  "tab": "kleynjans_prelude_06_in_bm.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=QtMEl8WW9v0",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Michael Praetorius",
+  "author_years": "(1571-1621)",
+  "title": "Es ist ein Ros entsprungen",
+  "tab": "praetorius_es_ist_ein_ros_entsprungen.txt",
+  "midi": "",
+  "video": "",
+  "artist": "",
+  "easy": false,
+  "lhf": false,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Michael Praetorius"
+},
+{
+  "author": "Jorge Cardoso",
+  "author_years": "(1949-)",
+  "title": "Suite de los Mita-i - Part 3 - 9. Joropo, \"Leandro\"",
+  "tab": "cardoso_suite_de_los_mita-i_3_09_joropo_leandro.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=uJX8-EwxxY0",
+  "artist": "Juan Laguna",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Jorge Cardoso"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo - 3. Canción del amor dolido",
+  "tab": "falla_el_amor_brujo_03_cancion_del_amor_dolido_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=157",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Mario Barbieri",
+  "author_years": "(1888-1968)",
+  "title": "La Serra (The Greenhouse) - 2. Viola del pensiero gigante",
+  "tab": "barbieri_mario_la_serra_2_viola_del_pensiero_gigante.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=HQ5wBMcq40E",
+  "artist": "Patrick Lui",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Mario Barbieri"
+},
+{
+  "author": "Manuel de Falla",
+  "author_years": "(1876-1946)",
+  "title": "El amor brujo (Bewitching Love) - 2. En la cueva",
+  "tab": "falla_el_amor_brujo_02_en_la_cueva_unchecked.txt",
+  "midi": "",
+  "video": "https://youtu.be/y5yctGjGlvQ?t=46",
+  "artist": "Rafael Andia",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Manuel de Falla"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 5 in D",
+  "tab": "kleynjans_prelude_05_in_d.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=NoupIMeq1iM",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
+},
+{
+  "author": "Fernando Sor",
+  "author_years": "(1778-1839)",
+  "title": "Op 35, Exercise No 24 in Em",
+  "tab": "sor_op35_no24_allegro_moderato_in_em.txt",
+  "midi": "sor_op35_no24_allegro_moderato_in_em.mid",
+  "video": "https://www.youtube.com/watch?v=2hkc6kxN0i0",
+  "artist": "Max Coradduzza",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Fernando Sor"
+},
+{
+  "author": "Francis Kleynjans",
+  "author_years": "(1951-)",
+  "title": "24 Preludes - No 4 in Em",
+  "tab": "kleynjans_prelude_04_in_em.txt",
+  "midi": "",
+  "video": "https://www.youtube.com/watch?v=Jl0EBeEPuu8",
+  "artist": "Marcello Serafini",
+  "easy": false,
+  "lhf": true,
+  "proper": true,
+  "author_id": "",
+  "author_alternate": "Francis Kleynjans"
 }
 ];

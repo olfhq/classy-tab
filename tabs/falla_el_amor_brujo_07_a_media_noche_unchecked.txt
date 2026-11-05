@@ -1,0 +1,86 @@
+Manuel de Falla - El amor brujo (1915) (Bewitching Love)
+7. A Media Noche - Los Sortilegios (At Midnight - The Spells)
+transcribed for guitar by Rafael Andia -
+https://www.rafaelandia.com/fr/compositions.html#amorbrujocomplete
+see Notes and Legend below
+audio: https://youtu.be/xjbGO7qyRFo?t=592 - Rafael Andia (from 9min 52sec)
+video: https://youtu.be/y5yctGjGlvQ?t=584 - Rafael Andia (from 9min 44sec)
+
+tuning: D A D G B E
+
+  Lento e lontano (72 beats per minute - quarter notes)
+
+1 4/4
+e|------<12>----0--|---<12>----0--|---<12>----0--|---<12>----0--|
+B|-------9------0--|----9------0--|----9------0--|----9------0--|
+G|-----8g----------|--8g----------|--8g----------|--8g----------|
+D|------------8g---|---------8g---|---------8g---|---------8g---|
+A|-----------------|--------------|--------------|--------------|
+D|-----------------|--------------|--------------|--------------|
+   mf  1 24   p
+
+                                     A little faster
+                                 pp   >      >        >      >
+5                                    pma i
+e|----<12>----0--|---<12>----0--|-----0------0--------0------0-------
+B|-----9------0--|----9------0--|-----0------0--------0------0-------
+G|---8g----------|--8g----------|--------13-----13-------13-----13---
+D|----------8g---|---------8g---|-----13--------------13-------------
+A|---------------|--------------|------------13--------------13------
+D|---------------|--------------|------------10--------------10------
+                                  mf  3  4   12
+
+(7)  >      >        >                >      >        >      >
+e|---0------0--------0------0------|--0------0--------0------0-------
+B|---0------0--------0------0------|--0------0--------0------0-------
+G|------13-----13-------13-----13--|-----13-----13-------13-----13---
+D|---13--------------13------------|--13--------------13-------------
+A|----------13--------------13-----|---------13--------------13------
+D|----------10--------------10-----|---------10--------------10------
+
+                                           lunga
+(8)  >      >        >      >                F.
+e|---0------0--------0------0------|---------||
+B|---0------0--------0------0------|---------||
+G|------13-----13-------13-----13--|---------||
+D|---13--------------13------------|---------||
+A|----------13--------------13-----|---------||
+D|----------10--------------10-----|---------||
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+
+Note: in both references, in measures 7 and 8, Rafael Andia plays
+      C# /6th string (instead of C /6th string, as it is written in the score)
+
+           >      >        >      >
+      e|---0------0--------0------0-------
+      B|---0------0--------0------0-------
+      G|------13-----13-------13-----13---
+      D|---13--------------13-------------
+      A|----------13--------------13------
+      D|----------11--------------11------
+
+left hand fingering (LHF)     right hand fingering (RHF)
+1 - index finger              p - thumb
+2 - middle finger             i - index finger (forefinger)
+3 - ring finger               m - middle finger
+4 - little finger             a - ring finger (annular)
+
+mezzo-forte    mf  - medium loud
+piano          p   - soft
+pianissimo     pp  - very soft
+
+Lento    - at a slow tempo
+lontano  - from a distance, as from far away
+F.       - Fermata - pause, notes held for longer than their value
+lunga    - longer pause than a standard Fermata
+
+g     - grace note (ornament) - extra notes played immediately
+        before the main notes
+>     - accented, marked, stressed
+
+<12>  - natural (open) octave harmonic on the 12th fret
+

@@ -1,0 +1,71 @@
+Op 23, Musik fur den Kleinen Prinzen - Carlo Domeniconi (born 1947)
+Hommage a A de Saint-Exupery (Homage to Antoine de St Exupery)
+(Music For The Little Prince, Musique pour le petit prince)
+3. Der Saufer (The Tippler, Le buveur)
+edition: Guitarren-Studio GS-66, Eleonara & Michael Haas (Berlin, 1987)
+see Notes and Legend below the tab
+audio: https://youtu.be/ey_iqoF3Mv8?t=127 - Jalil Castrejon (from 2min 7sec)
+video: https://www.youtube.com/watch?v=qb9GruO3qb8 - Norbert Neunzling
+
+tuning: E A D G B E      key: -      time: 6/8, 9/8
+
+  (56 beats per minute - dotted quarter notes)
+1 CIII   >                 9/8   >          6/8
+e|-------4----|-0-----------|----------------|-------------|
+B|-5----------|-----3-------|-----5-----4----|-4-----0-----|
+G|-----3------|-3-----1---5-|---3---3---2----|-----3-------|
+D|----------4-|-------2-----|-4---------4----|-----------3-|
+A|-3----------|-------------|-5-----3--------|-4-----4-----|
+E|------------|-------------|----------------|-------------|
+   4     3  2   1   4 12  4  23 1 4    124    34   2 3   2
+6/8   p
+
+5                             a tempo
+e|----------1-|-------------|-----------|-----------|-----------|
+B|-0----2-----|-0---------4-|-----------|-----------|-----------|
+G|------0-----|-0-----2-----|-4----2----|-0---------|-----------|
+D|-4----------|-3-----------|-----------|------3----|-----------|
+A|-6----0-----|-------------|-----------|-----------|-6----4----|
+E|-5----------|-----3-1-----|-----------|-----------|-----------|
+  234   2   1   4   3 12  4   3    1           1      4    2
+ quasi f        rall.              decresc.
+
+10 CIII                    9/8             6/8
+e|-------4----|-0-----------|----------------|-----------||
+B|-5----------|-----3-------|-----5-----4----|-----------||
+G|-----3------|-3-----1---5-|---3---3---2----|-3---------||
+D|----------4-|-------2-----|-4---------4----|-----------||
+A|-3----------|-------------|-5-----3--------|-3---------||
+E|------------|-------------|----------------|------1----||
+            2                           4     23    1
+                                              decresc.
+
+
+~~~~~~~~~~~~~~~~
+Notes and Legend
+~~~~~~~~~~~~~~~~
+The sheet suggests a total time for the piece of 33 sec.
+
+left hand fingering (LHF)
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+CIII   barre on the 3rd fret
+
+piano   p  - soft
+forte   f  - loud
+
+quasi    - almost, as if, nearly
+rall.    - rallentando - slowing down
+a tempo  - at normal speed
+decresc. - decrescendo - becoming softer
+
+>  - accented, marked, stressed
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tabbed by Vlad - checked by weed@wussu.com (28 January 2026)
+the latest version of this tab can be found at http://www.classtab.org
+
