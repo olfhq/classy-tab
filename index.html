@@ -10,32 +10,29 @@
 <style>
   :root {
     color-scheme: dark;
-    /* Surfaces */
-    --bg: #0f1115;
-    --bg-2: #16181d;
-    --surface: #1c2027;
-    --surface-2: #232832;
-    --surface-3: #2b313d;
-    --reader-bg: #12151a;
-    --border: #262a34;
-    --border-strong: #343a47;
-    /* Text */
-    --text: #e6edf3;
-    --muted: #8b949e;
-    --faint: #5d6570;
-    /* Accent (warm gold) */
-    --accent: #e5a950;
-    --accent-hover: #d49a3d;
-    --accent-soft: rgba(229, 169, 80, 0.12);
-    --accent-ring: rgba(229, 169, 80, 0.35);
-    --danger: #e5734f;
-    --ok: #7fc08a;
-    --radius-sm: 6px;
-    --radius: 8px;
-    --radius-lg: 12px;
-    --shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
-    --ui-font: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-    --tab-font: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Courier New', monospace;
+    /* Dark Archive: tonewoods & aged paper */
+    --bg: #141312;
+    --bg-2: #181716;
+    --surface: #1e1c1a;
+    --surface-2: #24211e;
+    --reader-bg: #11100f;
+    --border: #332f2b;
+    --rule: #2b2825;
+    --ivory: #f4efe6;
+    --text: #e6dfd2;
+    --muted: #9e9589;
+    --faint: #6d665d;
+    --brass: #c99a4e;
+    --brass-hi: #d4a359;
+    --brass-wash: rgba(201, 154, 78, 0.04);
+    --brass-line: rgba(201, 154, 78, 0.45);
+    --danger: #b9654a;
+    --ok: #8fa874;
+    --radius: 2px;
+
+    --serif: 'Newsreader', 'Cormorant Garamond', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+    --ui: Inter, system-ui, -apple-system, 'Segoe UI', sans-serif;
+    --tab-font: 'JetBrains Mono', 'IBM Plex Mono', 'Cascadia Code', monospace;
     --frame-font-size: 14px;
   }
 
@@ -44,312 +41,285 @@
   body {
     margin: 0;
     padding: 14px;
-    font-family: var(--ui-font);
+    font-family: var(--ui);
     font-size: 14px;
     color: var(--text);
-    background: radial-gradient(1200px 600px at 10% -10%, #1a1d24 0%, var(--bg) 60%) fixed, var(--bg);
+    background: var(--bg);
     -webkit-font-smoothing: antialiased;
   }
-  a { color: var(--accent); text-decoration: none; transition: color .15s; }
-  a:hover { color: var(--accent-hover); }
+  a { color: var(--brass); text-decoration: none; transition: color .15s; }
+  a:hover { color: var(--brass-hi); }
   button { font-family: inherit; }
-  :focus-visible { outline: 2px solid var(--accent-ring); outline-offset: 2px; }
+  :focus-visible { outline: 1px solid var(--brass); outline-offset: 2px; }
+  ::selection { background: rgba(201, 154, 78, .3); color: var(--ivory); }
 
-  /* ---------- Scrollbars ---------- */
-  * { scrollbar-width: thin; scrollbar-color: var(--surface-3) transparent; }
-  ::-webkit-scrollbar { width: 10px; height: 10px; }
-  ::-webkit-scrollbar-track { background: transparent; }
-  ::-webkit-scrollbar-thumb {
-    background: var(--surface-3);
-    border-radius: 10px;
-    border: 2px solid transparent;
-    background-clip: padding-box;
+  /* Shared micro-label style */
+  .micro {
+    font-family: var(--ui);
+    font-size: 11px; font-weight: 500;
+    letter-spacing: .08em; text-transform: uppercase;
   }
-  ::-webkit-scrollbar-thumb:hover { background: var(--border-strong); background-clip: padding-box; border: 2px solid transparent; }
+
+  /* ---------- Scrollbars: invisible until hovered ---------- */
+  * { scrollbar-width: thin; scrollbar-color: transparent transparent; }
+  *:hover { scrollbar-color: #3d3731 transparent; }
+  ::-webkit-scrollbar { width: 9px; height: 9px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: transparent; border-radius: 0; }
+  *:hover::-webkit-scrollbar-thumb { background: #3d3731; }
+  *:hover::-webkit-scrollbar-thumb:hover { background: #554d44; }
   ::-webkit-scrollbar-corner { background: transparent; }
 
   /* ---------- Layout ---------- */
-  .main-container {
-    display: flex;
-    gap: 14px;
-    height: calc(100vh - 28px);
-  }
+  .main-container { display: flex; gap: 12px; height: calc(100vh - 28px); }
   .left-column, .right-column {
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    min-height: 0;
+    display: flex; flex-direction: column;
+    min-width: 0; min-height: 0;
     background: var(--bg-2);
     border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow);
+    border-radius: var(--radius);
     overflow: hidden;
   }
   .left-column { flex: 1; }
-  .right-column { flex: 1.4; }
+  .right-column { flex: 1.45; }
   .main-container.focus-mode .left-column { display: none; }
   .main-container.focus-mode .right-column { flex: 1; width: 100%; }
 
-  /* ---------- Left pane header ---------- */
-  .pane-header {
-    padding: 16px 16px 12px;
-    border-bottom: 1px solid var(--border);
-    background: linear-gradient(180deg, var(--surface) 0%, var(--bg-2) 100%);
+  /* ---------- Left pane: catalogue header ---------- */
+  .pane-header { padding: 22px 22px 14px; border-bottom: 1px solid var(--border); background: var(--surface); }
+  .brand { display: flex; align-items: baseline; gap: 14px; margin-bottom: 18px; }
+  h1 {
+    margin: 0;
+    font-family: var(--serif); font-weight: 500; font-size: 1.7rem; letter-spacing: -0.01em;
+    color: var(--ivory); line-height: 1;
   }
-  .brand { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
-  .brand-mark {
-    width: 28px; height: 28px; border-radius: 8px;
-    display: grid; place-items: center;
-    background: var(--accent-soft);
-    border: 1px solid var(--accent-ring);
-    color: var(--accent);
-  }
-  h1 { font-size: 1.05rem; font-weight: 650; letter-spacing: -0.01em; margin: 0; color: var(--text); }
-  .result-count { margin-left: auto; font-size: .78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .brand-sub { font-family: var(--serif); font-style: italic; font-size: .9rem; color: var(--muted); }
+  .result-count { margin-left: auto; color: var(--faint); font-variant-numeric: tabular-nums; }
 
-  .search-wrap { position: relative; margin-bottom: 10px; }
-  .search-wrap svg { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+  .search-wrap { position: relative; margin-bottom: 14px; }
   .search-wrap input[type="text"] {
     width: 100%;
-    padding: 9px 12px 9px 36px;
-    font-size: .92rem;
-    font-family: inherit;
-    color: var(--text);
-    background: var(--bg);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    transition: border-color .15s, box-shadow .15s, background .15s;
+    padding: 8px 0 8px;
+    font-family: var(--serif); font-size: 1.05rem;
+    color: var(--ivory);
+    background: transparent;
+    border: none; border-bottom: 1px solid var(--border);
+    border-radius: 0;
+    transition: border-color .2s;
   }
-  .search-wrap input[type="text"]::placeholder { color: var(--faint); }
-  .search-wrap input[type="text"]:focus {
-    outline: none;
-    border-color: var(--accent);
-    box-shadow: 0 0 0 3px var(--accent-ring);
-    background: #0c0e12;
-  }
+  .search-wrap input[type="text"]::placeholder { color: var(--faint); font-style: italic; }
+  .search-wrap input[type="text"]:focus { outline: none; border-bottom-color: var(--brass); }
 
-  .filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-  .pill { position: relative; cursor: pointer; user-select: none; }
-  .pill input { position: absolute; opacity: 0; pointer-events: none; }
-  .pill span {
-    display: inline-flex; align-items: center; gap: 6px;
-    padding: 5px 11px;
-    font-size: .78rem; font-weight: 500;
-    color: var(--muted);
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    transition: all .15s ease;
+  .filters { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
+  .tog { position: relative; cursor: pointer; user-select: none; }
+  .tog input { position: absolute; opacity: 0; pointer-events: none; }
+  .tog span {
+    display: inline-block;
+    padding: 4px 5px 3px;
+    font-family: var(--ui); font-size: 11px; font-weight: 500;
+    letter-spacing: .08em; text-transform: uppercase;
+    color: var(--faint);
+    border-bottom: 1px solid transparent;
+    transition: color .15s, border-color .15s;
   }
-  .pill:hover span { color: var(--text); border-color: var(--border-strong); background: var(--surface-2); }
-  .pill input:checked + span {
-    color: #1a1305;
-    background: var(--accent);
-    border-color: var(--accent);
-    font-weight: 600;
-  }
-  .pill input:focus-visible + span { outline: 2px solid var(--accent-ring); outline-offset: 2px; }
+  .tog span::before { content: '[\00a0'; color: var(--faint); transition: color .15s; }
+  .tog span::after  { content: '\00a0]'; color: var(--faint); transition: color .15s; }
+  .tog:hover span { color: var(--muted); }
+  .tog input:checked + span { color: var(--brass-hi); border-bottom-color: var(--brass-line); }
+  .tog input:checked + span::before, .tog input:checked + span::after { color: var(--brass); }
+  .tog input:focus-visible + span { outline: 1px solid var(--brass); outline-offset: 1px; }
   #clearBtn {
     margin-left: auto;
-    padding: 5px 11px;
-    font-size: .78rem;
-    color: var(--muted);
-    background: transparent;
-    border: 1px solid transparent;
-    border-radius: 999px;
-    cursor: pointer;
-    transition: all .15s;
+    padding: 4px 0 3px;
+    font-family: var(--ui); font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--faint); background: none; border: none; border-bottom: 1px solid transparent;
+    cursor: pointer; transition: color .15s, border-color .15s;
   }
-  #clearBtn:hover { color: var(--danger); border-color: var(--border); background: var(--surface); }
+  #clearBtn:hover { color: var(--danger); border-bottom-color: var(--danger); }
 
-  /* ---------- Song table ---------- */
+  /* ---------- Catalogue table ---------- */
   #songTableContainer { flex: 1; min-height: 0; overflow: auto; }
   .song-table { width: 100%; border-collapse: separate; border-spacing: 0; table-layout: fixed; }
   .song-table th {
     position: sticky; top: 0; z-index: 2;
-    padding: 9px 10px;
+    padding: 10px 10px 8px;
     text-align: left;
-    font-size: .68rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
-    color: var(--muted);
-    background: rgba(22, 24, 29, 0.92);
-    backdrop-filter: blur(6px);
+    font-family: var(--ui); font-size: 10px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--faint);
+    background: var(--bg-2);
     border-bottom: 1px solid var(--border);
   }
-  .song-table th:nth-child(1) { width: 140px; }
-  .song-table th:nth-child(3), .song-table th:nth-child(4) { width: 48px; text-align: center; }
-  .song-table th:nth-child(5), .song-table th:nth-child(6) { width: 58px; text-align: center; }
+  .song-table th:nth-child(1) { width: 150px; padding-left: 22px; }
+  .song-table th:nth-child(3), .song-table th:nth-child(4) { width: 46px; text-align: center; }
+  .song-table th:nth-child(5), .song-table th:nth-child(6) { width: 44px; text-align: center; }
   .song-table td {
-    padding: 7px 10px;
-    border-bottom: 1px solid rgba(38, 42, 52, .6);
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--rule);
     vertical-align: middle;
     background: transparent;
     transition: background .15s;
   }
   .song-table td.author-cell {
     vertical-align: top;
-    padding-top: 12px;
-    font-size: .8rem; font-weight: 600; color: var(--text);
-    line-height: 1.3;
+    padding: 12px 10px 12px 22px;
+    border-bottom: 1px solid var(--border);
+    line-height: 1.25;
     word-wrap: break-word;
-    background: rgba(255, 255, 255, 0.015);
-    border-right: 1px solid var(--border);
-    border-bottom: 1px solid var(--border-strong);
   }
-  .song-table tr.author-row td { border-bottom: 1px solid var(--border-strong); }
-  .song-table tr:hover td:not(.author-cell) { background: var(--surface); }
-  .song-table tr.active td:not(.author-cell) { background: var(--accent-soft); }
-  .song-table tr.active .tab-link { color: var(--accent); }
+  .author-cell .author-name { display: block; font-family: var(--serif); font-size: 1rem; font-weight: 500; color: var(--ivory); }
+  .author-cell .years { display: block; margin-top: 3px; font-family: var(--ui); font-size: 10.5px; letter-spacing: .04em; color: var(--faint); font-variant-numeric: tabular-nums; }
+  .song-table tr.author-row td { border-bottom: 1px solid var(--border); }
+  .song-table tr:hover td:not(.author-cell) { background: var(--brass-wash); }
+  .song-table tr.active td:not(.author-cell) { background: rgba(201, 154, 78, 0.08); box-shadow: inset 2px 0 0 var(--brass); }
+  .song-table tr.active td:not(.author-cell):not(:first-child) { box-shadow: none; }
+  .song-table tr.active .tab-link { color: var(--brass-hi); }
   .cell-center { text-align: center; }
 
   .title-cell { display: flex; align-items: center; gap: 6px; }
   .tab-link {
     flex: 1; min-width: 0;
-    color: var(--text); font-size: .86rem; line-height: 1.35;
-    white-space: normal; word-wrap: break-word;
+    font-family: var(--serif); font-size: .98rem; line-height: 1.3;
+    color: var(--text); white-space: normal; word-wrap: break-word;
   }
-  .tab-link:hover { color: var(--accent); }
+  .tab-link:hover { color: var(--brass-hi); }
 
   .bookmark-btn {
-    flex-shrink: 0;
-    width: 26px; height: 26px;
-    display: grid; place-items: center;
-    padding: 0;
-    color: var(--faint);
-    background: transparent; border: none; border-radius: var(--radius-sm);
-    cursor: pointer;
-    transition: color .15s, background .15s, transform .15s;
+    flex-shrink: 0; width: 22px; height: 22px;
+    display: grid; place-items: center; padding: 0;
+    color: var(--faint); background: none; border: none; cursor: pointer;
+    transition: color .15s, transform .1s;
   }
-  .bookmark-btn svg { fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; transition: fill .15s; }
-  .bookmark-btn:hover { color: var(--accent); background: var(--accent-soft); }
-  .bookmark-btn:active { transform: scale(.88); }
-  .bookmark-btn.on { color: var(--accent); }
+  .bookmark-btn svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linejoin: round; transition: fill .15s; }
+  .bookmark-btn:hover { color: var(--brass); }
+  .bookmark-btn:active { transform: scale(.9); }
+  .bookmark-btn.on { color: var(--brass); }
   .bookmark-btn.on svg { fill: currentColor; }
 
+  /* Easy / LHF markers: a small brass lozenge */
   .flag {
-    display: inline-block; width: 8px; height: 8px; border-radius: 50%;
-    background: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft);
+    display: inline-block; width: 5px; height: 5px;
+    background: var(--brass); transform: rotate(45deg);
   }
+  /* MIDI / video marks: quiet typographic glyph links */
   .chip {
-    display: inline-flex; align-items: center; gap: 4px;
-    padding: 2px 8px;
-    font-size: .68rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase;
-    color: var(--muted);
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    transition: all .15s;
+    display: inline-block;
+    font-family: var(--ui); font-size: 12px; line-height: 1;
+    color: var(--faint);
+    padding: 3px 4px;
+    border-bottom: 1px solid transparent;
+    transition: color .15s, border-color .15s;
   }
-  a.chip:hover { color: var(--accent); border-color: var(--accent-ring); background: var(--accent-soft); }
-  a.chip.yt { color: #ff6b5e; }
-  a.chip.yt:hover { color: #ff8a80; border-color: rgba(255, 107, 94, .4); background: rgba(255, 107, 94, .1); }
-  .chip svg { display: block; }
+  a.chip:hover { color: var(--brass-hi); border-bottom-color: var(--brass-line); }
 
-  /* ---------- Right pane header ---------- */
-  .viewer-header {
-    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
-    padding: 12px 16px;
-    border-bottom: 1px solid var(--border);
-    background: linear-gradient(180deg, var(--surface) 0%, var(--bg-2) 100%);
-  }
-  .viewer-meta { flex: 1; min-width: 180px; }
+  /* ---------- Viewer: the "cover page" ---------- */
+  .viewer-header { padding: 22px 28px 0; background: var(--surface); border-bottom: 1px solid var(--border); }
+  .viewer-meta { padding-bottom: 16px; }
   .content-frame-title {
-    font-size: 1rem; font-weight: 600; letter-spacing: -0.01em;
-    color: var(--text);
-    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    font-family: var(--serif); font-weight: 500; font-size: 1.85rem; line-height: 1.15; letter-spacing: -0.01em;
+    color: var(--ivory);
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
-  .content-frame-composer { font-size: .78rem; color: var(--muted); margin-top: 2px; min-height: 1em; }
-  .viewer-actions { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-  .btn-group { display: inline-flex; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
-  .btn-group .ctrl-btn { border: none; border-radius: 0; border-right: 1px solid var(--border); }
-  .btn-group .ctrl-btn:last-child { border-right: none; }
+  .content-frame-title.placeholder { color: var(--faint); font-style: italic; font-size: 1.4rem; }
+  .content-frame-composer {
+    margin-top: 8px;
+    font-family: var(--serif); font-style: italic; font-size: 1rem; color: var(--muted);
+    min-height: 1.2em;
+  }
+  .content-frame-composer .sep { color: var(--faint); margin: 0 8px; font-style: normal; }
+  .content-frame-composer .tuning { font-family: var(--ui); font-style: normal; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--brass); }
 
+  .viewer-actions {
+    display: flex; align-items: center; flex-wrap: wrap; gap: 2px 18px;
+    padding: 9px 0;
+    border-top: 1px solid var(--rule);
+  }
+  .btn-group { display: inline-flex; align-items: center; gap: 2px; }
+  .btn-group .ctrl-btn { padding: 4px 6px; }
+
+  /* Ghost text buttons */
   .ctrl-btn {
     display: inline-flex; align-items: center; justify-content: center; gap: 6px;
-    padding: 6px 11px;
-    font-size: .78rem; font-weight: 500; line-height: 1.2;
-    color: var(--text);
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
+    padding: 4px 0;
+    font-family: var(--ui); font-size: 11px; font-weight: 500; line-height: 1.2;
+    letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted);
+    background: none; border: none; border-bottom: 1px solid transparent; border-radius: 0;
     cursor: pointer; user-select: none; white-space: nowrap;
-    transition: background .15s, border-color .15s, color .15s, transform .1s, opacity .15s;
+    transition: color .15s, border-color .15s, opacity .15s;
   }
-  .ctrl-btn:hover:not(:disabled):not(.is-disabled) { background: var(--surface-2); border-color: var(--border-strong); color: #fff; }
-  .ctrl-btn:active:not(:disabled):not(.is-disabled) { transform: translateY(1px); }
-  .ctrl-btn:disabled, .ctrl-btn.is-disabled { opacity: .4; cursor: not-allowed; pointer-events: none; }
-  .ctrl-btn.primary { color: #1a1305; background: var(--accent); border-color: var(--accent); font-weight: 600; }
-  .ctrl-btn.primary:hover:not(:disabled):not(.is-disabled) { background: var(--accent-hover); border-color: var(--accent-hover); color: #1a1305; }
-  .ctrl-btn.active { color: #1a1305; background: var(--accent); border-color: var(--accent); }
-  .ctrl-btn.flash { color: var(--ok); border-color: var(--ok); }
+  .ctrl-btn:hover:not(:disabled):not(.is-disabled) { color: var(--brass-hi); border-bottom-color: var(--brass-line); }
+  .ctrl-btn:disabled, .ctrl-btn.is-disabled { opacity: .35; cursor: not-allowed; pointer-events: none; }
+  .ctrl-btn.active { color: var(--brass-hi); border-bottom-color: var(--brass); }
+  .ctrl-btn.flash { color: var(--ok); border-bottom-color: var(--ok); }
+  .ctrl-btn.primary { color: var(--brass); border: 1px solid var(--brass-line); padding: 4px 10px; }
+  .ctrl-btn.primary:hover:not(:disabled):not(.is-disabled) { background: rgba(201, 154, 78, .08); border-color: var(--brass); }
   .ctrl-btn svg { display: block; }
-  .mini-btn { padding: 3px 8px; min-width: 26px; font-weight: 700; }
+  .mini-btn { padding: 2px 7px; font-size: 14px; letter-spacing: 0; }
+  .spacer { flex: 1; }
 
   /* ---------- MIDI strip ---------- */
   .midi-player-strip {
-    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
-    padding: 8px 16px;
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+    padding: 8px 28px;
     background: var(--bg-2);
     border-bottom: 1px solid var(--border);
     transition: opacity .2s;
   }
-  .midi-player-strip.no-midi { opacity: .5; }
-  .midi-controls-left, .midi-controls-right { display: flex; align-items: center; gap: 6px; }
+  .midi-player-strip.no-midi { opacity: .45; }
+  .midi-controls-left, .midi-controls-right { display: flex; align-items: center; gap: 12px; }
   .midi-controls-center { flex: 1; min-width: 140px; display: flex; align-items: center; }
-  .midi-time-display { font-family: var(--tab-font); font-size: .75rem; color: var(--muted); min-width: 78px; margin-left: 4px; user-select: none; font-variant-numeric: tabular-nums; }
-  .midi-speed-label { font-size: .75rem; color: var(--muted); }
+  .midi-time-display { font-family: var(--tab-font); font-size: 11px; color: var(--muted); user-select: none; font-variant-numeric: tabular-nums; }
+  .midi-speed-label { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--faint); }
   .midi-speed-select {
-    padding: 4px 8px; font-size: .78rem; font-family: inherit;
-    color: var(--text); background: var(--surface);
-    border: 1px solid var(--border); border-radius: var(--radius-sm); cursor: pointer;
+    padding: 2px 4px; font-family: var(--tab-font); font-size: 11px;
+    color: var(--text); background: var(--bg-2);
+    border: none; border-bottom: 1px solid var(--border); border-radius: 0; cursor: pointer;
   }
+  .midi-speed-select:focus { outline: none; border-bottom-color: var(--brass); }
   .midi-speed-select:disabled { opacity: .5; cursor: not-allowed; }
   .midi-status-badge {
-    font-size: .7rem; color: var(--accent); white-space: nowrap;
-    padding: 3px 9px; border-radius: 999px;
-    background: var(--accent-soft); border: 1px solid var(--accent-ring);
+    font-family: var(--serif); font-style: italic; font-size: .85rem; color: var(--brass); white-space: nowrap;
   }
-  .midi-player-strip.no-midi .midi-status-badge { color: var(--muted); background: transparent; border-color: var(--border); }
+  .midi-player-strip.no-midi .midi-status-badge { color: var(--faint); }
 
-  /* Range sliders */
   input[type="range"] {
     -webkit-appearance: none; appearance: none;
-    height: 4px; border-radius: 4px; outline: none; cursor: pointer;
-    background: var(--surface-3);
+    height: 1px; background: var(--border); outline: none; cursor: pointer;
   }
   .midi-player-strip input[type="range"] { width: 100%; }
   input[type="range"]:disabled { opacity: .4; cursor: not-allowed; }
   input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none; appearance: none;
-    width: 14px; height: 14px; border-radius: 50%;
-    background: var(--accent); border: 2px solid var(--bg-2); box-shadow: 0 0 0 1px var(--accent);
-    transition: transform .1s;
+    width: 9px; height: 9px; background: var(--brass); border: none; border-radius: 0; transform: rotate(45deg);
+    margin-top: 0;
   }
-  input[type="range"]::-webkit-slider-thumb:hover { transform: scale(1.15); }
-  input[type="range"]::-moz-range-thumb {
-    width: 12px; height: 12px; border-radius: 50%;
-    background: var(--accent); border: 2px solid var(--bg-2);
-  }
+  input[type="range"]::-moz-range-thumb { width: 8px; height: 8px; background: var(--brass); border: none; border-radius: 0; }
+  input[type="range"]::-moz-range-track { background: var(--border); height: 1px; }
 
-  /* ---------- Tab reader ("music stand") ---------- */
+  /* ---------- Score viewer ---------- */
   .content-frame-wrapper {
-    flex: 1; min-height: 0;
-    position: relative;
+    flex: 1; min-height: 0; position: relative;
     display: flex; flex-direction: column;
-    margin: 12px;
     background: var(--reader-bg);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    box-shadow: inset 0 2px 14px rgba(0, 0, 0, 0.5);
+    /* gutter rule, like the left margin of a printed folio */
+    background-image: linear-gradient(to right, transparent 33px, rgba(201, 154, 78, 0.10) 33px, rgba(201, 154, 78, 0.10) 34px, transparent 34px);
     overflow: hidden;
   }
+  /* head & foot margin guidelines */
+  .content-frame-wrapper::before, .content-frame-wrapper::after {
+    content: ''; position: absolute; left: 0; right: 0; height: 1px;
+    background: rgba(201, 154, 78, 0.10); pointer-events: none; z-index: 1;
+  }
+  .content-frame-wrapper::before { top: 14px; }
+  .content-frame-wrapper::after { bottom: 14px; }
   .content-frame {
     flex: 1; min-height: 0; min-width: 0;
-    padding: 22px 26px 80px;
+    padding: 28px 28px 90px 52px;
     overflow: auto;
     font-family: var(--tab-font);
     font-size: var(--frame-font-size);
-    line-height: 1.5;
-    color: #d9dfe7;
+    line-height: 1.3;
+    color: #ddd5c6;
     /* Strictly preserve stave alignment: never wrap */
     white-space: pre;
     overflow-x: auto;
@@ -359,55 +329,52 @@
   }
   .reader-state {
     position: absolute; inset: 0;
-    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px;
-    color: var(--muted); font-size: .88rem; text-align: center; padding: 24px;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+    color: var(--faint); text-align: center; padding: 24px;
     pointer-events: none; z-index: 3;
     transition: opacity .2s;
   }
-  .reader-state[data-state="loading"] { background: rgba(18, 21, 26, .72); backdrop-filter: blur(2px); }
+  .reader-state[data-state="loading"] { background: rgba(17, 16, 15, .8); }
   .reader-state[data-state="ready"] { opacity: 0; visibility: hidden; }
-  .reader-state .empty-icon { color: var(--faint); }
+  .reader-state .empty-icon { color: var(--faint); opacity: .7; }
   .reader-state .spinner, .reader-state .empty-icon, .reader-state .state-text { display: none; }
   .reader-state[data-state="empty"] .empty-icon, .reader-state[data-state="empty"] .state-text { display: block; }
   .reader-state[data-state="loading"] .spinner { display: block; }
-  .reader-state[data-state="loading"] .state-text { display: block; animation: pulse 1.4s ease-in-out infinite; }
+  .reader-state[data-state="loading"] .state-text { display: block; animation: pulse 1.6s ease-in-out infinite; }
+  .state-text { font-family: var(--serif); font-style: italic; font-size: 1.05rem; color: var(--muted); }
   .spinner {
-    width: 30px; height: 30px; border-radius: 50%;
-    border: 3px solid var(--surface-3); border-top-color: var(--accent);
-    animation: spin .8s linear infinite;
+    width: 24px; height: 24px; border-radius: 50%;
+    border: 1px solid var(--border); border-top-color: var(--brass);
+    animation: spin 1s linear infinite;
   }
   @keyframes spin { to { transform: rotate(360deg); } }
-  @keyframes pulse { 0%, 100% { opacity: .5; } 50% { opacity: 1; } }
+  @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
 
-  /* ---------- Floating auto-scroll toolbar ---------- */
+  /* ---------- Auto-scroll controls ---------- */
   .scroll-toolbar {
-    position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
-    display: flex; align-items: center; gap: 12px; flex-wrap: wrap; justify-content: center;
-    width: max-content;
-    max-width: calc(100% - 24px);
-    padding: 7px 12px;
-    background: rgba(28, 32, 39, 0.9);
-    backdrop-filter: blur(10px);
-    border: 1px solid var(--border-strong);
-    border-radius: 999px;
-    box-shadow: var(--shadow);
+    position: absolute; bottom: 26px; left: 50%; transform: translateX(-50%);
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap; justify-content: center;
+    width: max-content; max-width: calc(100% - 24px);
+    padding: 8px 16px;
+    background: rgba(30, 28, 26, 0.96);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: 0 6px 22px rgba(0, 0, 0, .5);
     z-index: 10;
-    font-size: .78rem;
   }
-  .speed-control-group { display: flex; align-items: center; gap: 6px; }
+  .speed-control-group { display: flex; align-items: center; gap: 8px; }
   .scroll-toolbar input[type="range"] { width: 90px; }
-  .speed-display { font-family: var(--tab-font); font-size: .72rem; min-width: 56px; color: var(--muted); text-align: right; }
-  .countdown-label { display: flex; align-items: center; gap: 6px; color: var(--muted); cursor: pointer; user-select: none; }
-  .countdown-label input { accent-color: var(--accent); cursor: pointer; }
+  .speed-display { font-family: var(--tab-font); font-size: 11px; min-width: 56px; color: var(--muted); text-align: right; }
+  .countdown-label { display: flex; align-items: center; gap: 6px; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); cursor: pointer; user-select: none; }
+  .countdown-label input { accent-color: var(--brass); cursor: pointer; }
   .scroll-countdown {
     position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-    width: 88px; height: 88px; border-radius: 50%;
+    width: 96px; height: 96px; border-radius: 50%;
     display: flex; align-items: center; justify-content: center;
-    font-size: 2.4rem; font-weight: 700;
-    color: var(--accent);
-    background: rgba(15, 17, 21, 0.9);
-    border: 2px solid var(--accent);
-    box-shadow: 0 0 32px var(--accent-ring);
+    font-family: var(--serif); font-size: 3rem; font-weight: 400;
+    color: var(--brass-hi);
+    background: rgba(17, 16, 15, 0.94);
+    border: 1px solid var(--brass);
     z-index: 20; pointer-events: none;
   }
 
@@ -415,32 +382,30 @@
   @media (max-width: 900px) {
     body { padding: 8px; }
     .main-container { flex-direction: column; height: auto; }
-    .left-column, .right-column { flex: none; height: 80vh; }
+    .left-column, .right-column { flex: none; height: 85vh; }
+    .viewer-header, .midi-player-strip { padding-left: 16px; padding-right: 16px; }
   }
 </style>
 </head>
 <body>
 <div class="main-container">
-  <!-- Left column -->
+  <!-- Left column: the catalogue -->
   <div class="left-column">
     <div class="pane-header">
       <div class="brand">
-        <div class="brand-mark">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
-        </div>
         <h1>Classtab</h1>
-        <span class="result-count" id="resultCount"></span>
+        <span class="brand-sub">an archive of classical guitar tablature</span>
+        <span class="result-count micro" id="resultCount"></span>
       </div>
       <div class="search-wrap">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
-        <input type="text" id="searchInput" placeholder="Search author, title, artist..." autocomplete="off" />
+        <input type="text" id="searchInput" placeholder="Search composer, title or performer…" autocomplete="off" />
       </div>
       <div class="filters">
-        <label class="pill"><input type="checkbox" id="easyCheckbox" /><span>Easy</span></label>
-        <label class="pill"><input type="checkbox" id="lhfCheckbox" /><span>LHF</span></label>
-        <label class="pill"><input type="checkbox" id="midiCheckbox" /><span>Has MIDI</span></label>
-        <label class="pill"><input type="checkbox" id="videoCheckbox" /><span>Video</span></label>
-        <label class="pill"><input type="checkbox" id="bookmarkCheckbox" /><span>★ Bookmarks</span></label>
+        <label class="tog"><input type="checkbox" id="easyCheckbox" /><span>Easy</span></label>
+        <label class="tog"><input type="checkbox" id="lhfCheckbox" /><span>LHF</span></label>
+        <label class="tog"><input type="checkbox" id="midiCheckbox" /><span>MIDI</span></label>
+        <label class="tog"><input type="checkbox" id="videoCheckbox" /><span>Video</span></label>
+        <label class="tog"><input type="checkbox" id="bookmarkCheckbox" /><span>★ Saved</span></label>
         <button id="clearBtn" type="button">Clear</button>
       </div>
     </div>
@@ -450,36 +415,29 @@
     </div>
   </div>
 
-  <!-- Right column -->
+  <!-- Right column: the folio -->
   <div class="right-column">
     <div class="viewer-header">
       <div class="viewer-meta">
-        <div id="contentFrameTitle" class="content-frame-title">Select a song to view its tablature</div>
+        <div id="contentFrameTitle" class="content-frame-title placeholder">Select a piece from the catalogue</div>
         <div id="contentFrameComposer" class="content-frame-composer"></div>
       </div>
       <div class="viewer-actions">
-        <div class="btn-group">
-          <button id="zoomOutBtn" type="button" title="Decrease font size" class="ctrl-btn">A−</button>
-          <button id="zoomResetBtn" type="button" title="Reset font size" class="ctrl-btn">Reset</button>
-          <button id="zoomInBtn" type="button" title="Increase font size" class="ctrl-btn">A+</button>
+        <div class="btn-group" title="Score font size">
+          <button id="zoomOutBtn" type="button" title="Decrease font size" class="ctrl-btn">−</button>
+          <button id="zoomResetBtn" type="button" title="Reset font size" class="ctrl-btn">Font</button>
+          <button id="zoomInBtn" type="button" title="Increase font size" class="ctrl-btn">+</button>
         </div>
-        <button id="copyTabBtn" type="button" class="ctrl-btn is-disabled" title="Copy tab text">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
-          <span>Copy</span>
-        </button>
-        <a id="openTabLink" class="ctrl-btn is-disabled" target="_blank" rel="noopener" title="Open raw tab in new tab">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>
-          <span>Open</span>
-        </a>
-        <a id="midiDownloadLink" class="ctrl-btn is-disabled" download title="Download MIDI">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
-          <span>MIDI</span>
-        </a>
-        <button id="focusModeBtn" type="button" title="Toggle Focus Mode (Esc to exit)" class="ctrl-btn primary">Focus Mode</button>
+        <button id="headerMidiBtn" type="button" class="ctrl-btn is-disabled" title="Play / pause MIDI">♫ Play MIDI</button>
+        <a id="openTabLink" class="ctrl-btn is-disabled" target="_blank" rel="noopener" title="Open raw tab in a new window"><span>↗ Raw Tab</span></a>
+        <button id="copyTabBtn" type="button" class="ctrl-btn is-disabled" title="Copy tab text"><span>Copy</span></button>
+        <a id="midiDownloadLink" class="ctrl-btn is-disabled" download title="Download MIDI file"><span>↓ MIDI File</span></a>
+        <span class="spacer"></span>
+        <button id="focusModeBtn" type="button" title="Toggle Focus Mode (Esc to exit)" class="ctrl-btn primary">⤢ Focus</button>
       </div>
     </div>
 
-    <!-- Pinned MIDI Synthesizer Control Strip -->
+    <!-- Pinned MIDI control strip -->
     <div id="midiPlayerStrip" class="midi-player-strip no-midi">
       <div class="midi-controls-left">
         <button id="midiPlayBtn" type="button" class="ctrl-btn" title="Play MIDI" disabled>▶ Play</button>
@@ -493,7 +451,7 @@
         <input type="range" id="midiScrubber" min="0" max="100" value="0" step="0.1" title="Seek" disabled />
       </div>
       <div class="midi-controls-right">
-        <label for="midiSpeedSelect" class="midi-speed-label">Speed</label>
+        <label for="midiSpeedSelect" class="midi-speed-label">Tempo</label>
         <select id="midiSpeedSelect" class="midi-speed-select" disabled>
           <option value="0.5">0.5x</option>
           <option value="0.75">0.75x</option>
@@ -507,9 +465,9 @@
     <div class="content-frame-wrapper">
       <div id="contentFrame" class="content-frame"></div>
       <div id="readerState" class="reader-state" data-state="empty">
-        <svg class="empty-icon" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+        <svg class="empty-icon" width="38" height="38" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
         <div class="spinner"></div>
-        <div class="state-text" id="readerStateText">Select a piece from the list to open its tablature</div>
+        <div class="state-text" id="readerStateText">Select a piece to open its tablature</div>
       </div>
       <div id="scrollCountdown" class="scroll-countdown" style="display: none;"></div>
       <div class="scroll-toolbar" id="scrollToolbar">
@@ -521,7 +479,7 @@
           <span id="speedValueDisplay" class="speed-display">25 px/s</span>
         </div>
         <label class="countdown-label" title="3-second countdown before scrolling">
-          <input type="checkbox" id="countdownCheckbox" checked /> 3s Delay
+          <input type="checkbox" id="countdownCheckbox" checked /> 3s lead-in
         </label>
       </div>
     </div>
@@ -559,6 +517,44 @@
   const copyTabBtn = document.getElementById('copyTabBtn');
   const openTabLink = document.getElementById('openTabLink');
   const midiDownloadLink = document.getElementById('midiDownloadLink');
+  const headerMidiBtn = document.getElementById('headerMidiBtn');
+
+  // Header "Play MIDI" proxies to the pinned MIDI strip controls
+  headerMidiBtn.addEventListener('click', () => {
+    if (!midiPauseBtn.disabled) midiPauseBtn.click();
+    else if (!midiPlayBtn.disabled) midiPlayBtn.click();
+  });
+  function syncHeaderMidi(state) {
+    const off = state === 'no-midi' || state === 'loading' || state === 'error';
+    headerMidiBtn.classList.toggle('is-disabled', off);
+    headerMidiBtn.classList.toggle('active', state === 'playing');
+    headerMidiBtn.textContent = state === 'playing' ? '♫ Pause MIDI' : '♫ Play MIDI';
+  }
+
+  // Look for tuning notes in the head of a tab
+  function detectTuning(text) {
+    const head = text.split('\n').slice(0, 60).join('\n');
+    const m = head.match(/\b(drop(?:ped)?\s*[a-g][#b]?|dadgbe|other tuning|tuning\s*[:=]?\s*[^\n]{3,40})/i);
+    return m ? m[0].trim().replace(/\s+/g, ' ') : '';
+  }
+  function renderSubtitle(song, tuning) {
+    contentFrameComposer.textContent = '';
+    const parts = [];
+    if (song && song.author) parts.push(song.author + (song.author_years ? ' ' + song.author_years : ''));
+    parts.forEach(p => contentFrameComposer.appendChild(document.createTextNode(p)));
+    if (tuning) {
+      if (parts.length) {
+        const sep = document.createElement('span');
+        sep.className = 'sep';
+        sep.textContent = '·';
+        contentFrameComposer.appendChild(sep);
+      }
+      const t = document.createElement('span');
+      t.className = 'tuning';
+      t.textContent = tuning;
+      contentFrameComposer.appendChild(t);
+    }
+  }
 
   const STAR_SVG = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.6.8-4.9 4.6 1.3 6.6L12 17.3l-5.9 3.3 1.3-6.6L2.5 9.4l6.6-.8z"/></svg>';
   const YT_SVG = '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="4" fill="currentColor"/><path d="M10 9l5 3-5 3z" fill="#16181d"/></svg>';
@@ -597,11 +593,11 @@
   function setFocusMode(enable) {
     if (enable) {
       mainContainer.classList.add('focus-mode');
-      focusModeBtn.textContent = 'Exit Focus (Esc)';
+      focusModeBtn.textContent = '⤢ Exit (Esc)';
       focusModeBtn.classList.add('active');
     } else {
       mainContainer.classList.remove('focus-mode');
-      focusModeBtn.textContent = 'Focus Mode';
+      focusModeBtn.textContent = '⤢ Focus';
       focusModeBtn.classList.remove('active');
     }
   }
@@ -853,7 +849,17 @@
         if (idx === 0) {
           const tdAuthor = document.createElement('td');
           tdAuthor.rowSpan = rowspan;
-          tdAuthor.innerHTML = author;
+          const nameEl = document.createElement('span');
+          nameEl.className = 'author-name';
+          nameEl.innerHTML = author;
+          tdAuthor.appendChild(nameEl);
+          const yearsRaw = (list.find(s => s.author_years) || {}).author_years;
+          if (yearsRaw) {
+            const yearsEl = document.createElement('span');
+            yearsEl.className = 'years';
+            yearsEl.textContent = yearsRaw.replace(/[()]/g, '').replace(/-/g, '–');
+            tdAuthor.appendChild(yearsEl);
+          }
           tdAuthor.classList.add('author-cell');
           tr.appendChild(tdAuthor);
         }
@@ -917,7 +923,7 @@
           midiLink.target = '_blank';
           midiLink.className = 'chip';
           midiLink.title = 'Open MIDI file';
-          midiLink.innerHTML = MIDI_SVG;
+          midiLink.textContent = '♫';
           tdMidi.appendChild(midiLink);
         }
         tr.appendChild(tdMidi);
@@ -931,7 +937,7 @@
           vidLink.target = '_blank';
           vidLink.rel = 'noopener';
           vidLink.className = 'chip yt';
-          vidLink.innerHTML = YT_SVG;
+          vidLink.textContent = '▶';
           vidLink.title = song.artist ? `Watch: ${song.artist}` : 'Watch video';
           tdVideo.appendChild(vidLink);
         }
@@ -1026,6 +1032,10 @@
   }
 
   function setMidiPlayerState(state) {
+    _applyMidiState(state);
+    syncHeaderMidi(state);
+  }
+  function _applyMidiState(state) {
     if (state === 'no-midi') {
       midiPlayerStrip.classList.add('no-midi');
       midiPlayBtn.disabled = true;
@@ -1277,8 +1287,8 @@
     contentFrame.textContent = '';
     contentFrameTitle.textContent = title;
     contentFrameTitle.title = title;
-    const who = song ? [song.author, song.author_years].filter(Boolean).join(' ') : '';
-    contentFrameComposer.textContent = who;
+    contentFrameTitle.classList.remove('placeholder');
+    renderSubtitle(song, '');
     setActionLinks(tabFile, midiFile);
     setReaderState('loading', 'Loading tablature…');
 
@@ -1289,6 +1299,7 @@
       const text = await response.text();
       if (token !== loadToken) return;
       contentFrame.textContent = text;
+      renderSubtitle(song, detectTuning(text));
     } catch (e) {
       if (token !== loadToken) return;
       contentFrame.textContent = 'Error loading tab: ' + e.message;
