@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Classtab UI</title>
+<title>ClassyTab</title>
 <!-- Web Audio Synthesizer & MIDI Parser CDNs -->
 <script src="https://cdn.jsdelivr.net/npm/tone@14.8.49/build/Tone.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi@2.0.28/build/Midi.min.js"></script>
@@ -393,7 +393,7 @@
   <div class="left-column">
     <div class="pane-header">
       <div class="brand">
-        <h1>Classtab</h1>
+        <h1>ClassyTab</h1>
         <span class="brand-sub">an archive of classical guitar tablature</span>
         <span class="result-count micro" id="resultCount"></span>
       </div>
@@ -576,12 +576,12 @@
 
   // Font zoom controls and persistence
   const DEFAULT_FONT_SIZE = 14;
-  let currentFontSize = parseInt(localStorage.getItem('classtab_fontsize'), 10) || DEFAULT_FONT_SIZE;
+  let currentFontSize = parseInt(localStorage.getItem('classytab_fontsize') || localStorage.getItem('classtab_fontsize'), 10) || DEFAULT_FONT_SIZE;
 
   function applyFontSize(size) {
     currentFontSize = Math.max(8, Math.min(36, size));
     contentFrame.style.fontSize = `${currentFontSize}px`;
-    localStorage.setItem('classtab_fontsize', currentFontSize);
+    localStorage.setItem('classytab_fontsize', currentFontSize);
   }
   applyFontSize(currentFontSize);
 
@@ -609,7 +609,7 @@
 
   // Auto-Scroll Engine
   let isScrolling = false;
-  let scrollSpeed = parseInt(localStorage.getItem('classtab_scroll_speed'), 10) || 25; // px/sec
+  let scrollSpeed = parseInt(localStorage.getItem('classytab_scroll_speed') || localStorage.getItem('classtab_scroll_speed'), 10) || 25; // px/sec
   let lastTimestamp = null;
   let animFrameId = null;
   let countdownTimer = null;
@@ -618,7 +618,7 @@
     scrollSpeed = Math.max(5, Math.min(120, newSpeed));
     scrollSpeedSlider.value = scrollSpeed;
     speedValueDisplay.textContent = `${scrollSpeed} px/s`;
-    localStorage.setItem('classtab_scroll_speed', scrollSpeed);
+    localStorage.setItem('classytab_scroll_speed', scrollSpeed);
   }
   updateScrollSpeed(scrollSpeed);
 
@@ -767,13 +767,13 @@
 
   // Load bookmarks from localStorage
   function getBookmarks() {
-    const stored = localStorage.getItem('classtab_bookmarks');
+    const stored = localStorage.getItem('classytab_bookmarks') || localStorage.getItem('classtab_bookmarks');
     return stored ? new Set(JSON.parse(stored)) : new Set();
   }
 
   // Save bookmarks to localStorage
   function saveBookmarks(bookmarks) {
-    localStorage.setItem('classtab_bookmarks', JSON.stringify(Array.from(bookmarks)));
+    localStorage.setItem('classytab_bookmarks', JSON.stringify(Array.from(bookmarks)));
   }
 
   // Toggle a song's bookmark status
